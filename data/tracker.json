@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-08T00:48",
+ "generated": "2026-10-08T01:29",
  "today": "2026-10-08",
  "exam": {
   "date": "2026-12-14",
@@ -46,90 +46,100 @@
        "subtopics": [
         {
          "id": "1.1a",
-         "name": "Preferences: completeness, transitivity, monotonicity, convexity, continuity; lexicographic preferences; ordinal utility and monotonic transformations",
-         "asked": 5,
-         "recent": 5,
-         "priority": "Core",
+         "name": "Preferences: completeness, transitivity, continuity, monotonicity, convexity; existence of a utility function; ordinal utility and monotonic transformations",
+         "scope": "In scope",
+         "sources": "DU, JMI, VB; V ch3-4; OR ch1, ch4 · also K, A, JR, NS (6 of 7)",
          "status": "not_started"
         },
         {
          "id": "1.1b",
-         "name": "Cardinal utility (Marshall): diminishing marginal utility, equi-marginal principle, water-diamond paradox",
-         "asked": 1,
-         "recent": 1,
-         "priority": "Standard",
+         "name": "Cardinal utility (Marshall): diminishing marginal utility, equi-marginal principle, Marshall's derivation of demand",
+         "scope": "In scope",
+         "sources": "CUK; K ch2; V ch4 · also A (3 of 7)",
          "status": "not_started"
         },
         {
          "id": "1.1c",
-         "name": "Indifference curves, budget line, consumer equilibrium (MRS = price ratio); perfect substitutes and perfect complements; corner solutions; utility maximisation numericals",
-         "asked": 5,
-         "recent": 4,
-         "priority": "Core",
+         "name": "Budget set, indifference curves and MRS, utility maximisation (Lagrange method, corner solutions, perfect substitutes and complements, quasilinear utility)",
+         "scope": "In scope",
+         "sources": "VB, CUK, DU; V ch2, 3, 5; K ch2; OR ch5 · also A, JR, NS, G (7 of 7)",
          "status": "not_started"
         },
         {
          "id": "1.1d",
-         "name": "Income effect: income-consumption curve (ICC), Engel curve, normal / inferior / luxury goods, Engel's law",
-         "asked": 5,
-         "recent": 1,
-         "priority": "Core",
+         "name": "Demand functions and their properties (homogeneity of degree zero, budget exhaustion); income changes (income-consumption curve, Engel curves, normal / inferior / luxury goods); price changes (price-consumption curve); substitutes and complements",
+         "scope": "In scope",
+         "sources": "VB, CUK; V ch6; K ch2; OR ch5 · also A, JR, NS (6 of 7)",
          "status": "not_started"
         },
         {
          "id": "1.1e",
-         "name": "Price effect: substitution and income effects (Hicks and Slutsky versions), Giffen goods, why demand slopes down; income and substitution effects of a tax",
-         "asked": 7,
-         "recent": 3,
-         "priority": "Core",
+         "name": "Income and substitution effects: Slutsky and Hicks decompositions, the Slutsky equation, Giffen goods, the law of demand",
+         "scope": "In scope",
+         "sources": "DU, VB, CUK; V ch8; K ch2 · also OR, A, JR, NS (6 of 7)",
          "status": "not_started"
         },
         {
          "id": "1.1f",
-         "name": "Revealed preference (Samuelson): weak and strong axioms; why it cannot explain the Giffen case",
-         "asked": 2,
-         "recent": 0,
-         "priority": "Standard",
+         "name": "Duality: indirect utility function and Roy's identity; expenditure minimisation, Hicksian demand, expenditure function and Shephard's lemma",
+         "scope": "In scope",
+         "sources": "DU, VB, CUK, JMI; V ch8 (Hicksian demand) · also A, JR, NS (4 of 7)",
          "status": "not_started"
         },
         {
          "id": "1.1g",
-         "name": "Demand: inverse demand function, complements/substitutes, exceptions to the law of demand (Veblen, snob, bandwagon)",
-         "asked": 3,
-         "recent": 0,
-         "priority": "Core",
+         "name": "Revealed preference: weak and strong axioms, testable implications, deriving demand and indifference curves",
+         "scope": "In scope",
+         "sources": "DU, JMI, VB, CUK; V ch7 · also K, OR, A, JR, NS (6 of 7)",
          "status": "not_started"
         },
         {
          "id": "1.1h",
-         "name": "Elasticities: price (point, arc, on linear and parallel demand curves, constant-elasticity form), income, cross; relation of MR, AR and elasticity; sum of elasticities = 0 (homogeneity); elasticity and total revenue; supply elasticity of a line through the origin",
-         "asked": 11,
-         "recent": 2,
-         "priority": "Core",
+         "name": "Consumer surplus and welfare change: Marshallian surplus, compensating and equivalent variation, the quasilinear case",
+         "scope": "In scope",
+         "sources": "VB, CUK, JMI, DU; V ch14 · also K, A, JR, NS (5 of 7)",
          "status": "not_started"
         },
         {
          "id": "1.1i",
-         "name": "Consumer surplus (Marshall): definition, calculation from a demand function by integration",
-         "asked": 5,
-         "recent": 2,
-         "priority": "Core",
+         "name": "Elasticities of demand (price, income, cross) and their applications; elasticity and revenue",
+         "scope": "In scope",
+         "sources": "CUK; V ch15; K ch2 · also A, JR, NS (5 of 7)",
          "status": "not_started"
         },
         {
          "id": "1.1j",
-         "name": "Duality: indirect utility function, expenditure function, Marshallian vs Hicksian demand, Roy's identity, Shephard's lemma, Slutsky equation; Gorman form (aggregation)",
-         "asked": 2,
-         "recent": 2,
-         "priority": "Core",
+         "name": "Market (aggregate) demand from individual demands",
+         "scope": "In scope",
+         "sources": "JMI; V ch15 · also K, A, JR, NS (5 of 7)",
          "status": "not_started"
         },
         {
          "id": "1.1k",
-         "name": "History: chronology of consumer theories (Marshall 1890 → Hicks-Allen 1934 → Samuelson 1938 → Stone's linear expenditure system 1954); who did what",
-         "asked": 3,
-         "recent": 1,
-         "priority": "Core",
+         "name": "Later developments in demand theory: Hicks's logical-ordering (\"pragmatic\") approach; Stone's linear expenditure system",
+         "scope": "In scope",
+         "sources": "CUK; K ch2 · also A, NS (3 of 7)",
+         "status": "not_started"
+        },
+        {
+         "id": "1.1l",
+         "name": "Choice with endowments (buying and selling) and intertemporal choice",
+         "scope": "Supplementary",
+         "sources": "V ch9-10 · also K, A, JR, NS (5 of 7)",
+         "status": "not_started"
+        },
+        {
+         "id": "1.1m",
+         "name": "Bandwagon, snob and Veblen effects",
+         "scope": "Supplementary",
+         "sources": "K ch2 · also A (2 of 7)",
+         "status": "not_started"
+        },
+        {
+         "id": "1.1n",
+         "name": "Lancaster's characteristics (attribute) approach to consumer demand",
+         "scope": "Supplementary",
+         "sources": "A, NS (2 of 7)",
          "status": "not_started"
         }
        ]
@@ -143,58 +153,58 @@
        "subtopics": [
         {
          "id": "1.2a",
-         "name": "Short-run production: TP, AP, MP; law of variable proportions and its three stages",
-         "asked": 2,
-         "recent": 0,
-         "priority": "Standard",
+         "name": "Technology: production sets, input requirement sets, the production function; short run: total, average and marginal product, law of variable proportions",
+         "scope": "In scope",
+         "sources": "DU, VB, CUK; V ch18; K ch3 · also OR, A, JR, NS (6 of 7)",
          "status": "not_started"
         },
         {
          "id": "1.2b",
-         "name": "Isoquants, MRTS, ridge lines and the economic region; least-cost combination (MRTS = w/r); second-order conditions; expansion path",
-         "asked": 4,
-         "recent": 2,
-         "priority": "Core",
+         "name": "Isoquants, MRTS, elasticity of substitution; returns to scale vs returns to a factor; homogeneous and homothetic functions; Euler's theorem",
+         "scope": "In scope",
+         "sources": "VB, JMI, CUK; V ch18; K ch3 · also A, JR, NS (5 of 7)",
          "status": "not_started"
         },
         {
          "id": "1.2c",
-         "name": "Returns to scale; homogeneous and homothetic functions; Euler's theorem; properties of a function homogeneous of degree 1 (MPs homogeneous of degree 0)",
-         "asked": 5,
-         "recent": 4,
-         "priority": "Core",
+         "name": "Forms of the production function: Cobb-Douglas, CES, fixed-coefficient (Leontief), translog",
+         "scope": "In scope",
+         "sources": "JMI, CUK; K ch3 · also V, A, JR, NS, G (6 of 7)",
          "status": "not_started"
         },
         {
          "id": "1.2d",
-         "name": "Cobb-Douglas (output elasticities, MPs, RTS = α+β, σ = 1), CES (σ = 1/(1+ρ)), Leontief (σ = 0); elasticity of substitution",
-         "asked": 13,
-         "recent": 2,
-         "priority": "Core",
+         "name": "VES (variable elasticity of substitution) production function",
+         "scope": "Supplementary",
+         "sources": "CUK; — (0 of 7)",
          "status": "not_started"
         },
         {
          "id": "1.2e",
-         "name": "Short-run cost curves: TFC, TVC, AFC, AVC, AC, MC; relations (MC cuts AVC and AC at minima; AFC falls continuously); MC from TC; minimum AC from a cost function",
-         "asked": 9,
-         "recent": 2,
-         "priority": "Core",
+         "name": "Cost minimisation: least-cost combination, expansion path, conditional input demands; the cost function and its properties; Shephard's lemma; duality between cost and production",
+         "scope": "In scope",
+         "sources": "DU, VB, JMI, CUK; V ch20; K ch3-4 · also OR, A, JR, NS (6 of 7)",
          "status": "not_started"
         },
         {
          "id": "1.2f",
-         "name": "Long-run costs: LAC as envelope, economies and diseconomies of scale, learning curve, optimum firm",
-         "asked": 3,
-         "recent": 1,
-         "priority": "Core",
+         "name": "Profit maximisation: the profit function, input demands and output supply, Hotelling's lemma",
+         "scope": "In scope",
+         "sources": "DU, VB, JMI; V ch19 · also K, A, JR, NS (5 of 7)",
          "status": "not_started"
         },
         {
          "id": "1.2g",
-         "name": "Cost function and duality: properties of the cost function (homogeneous of degree 1 in input prices, concave), Shephard's lemma (conditional factor demands), cost function of perfect-substitute technology, Hotelling's lemma",
-         "asked": 3,
-         "recent": 3,
-         "priority": "Core",
+         "name": "Cost curves: short run (TFC, TVC, AFC, AVC, AC, MC); long run and the envelope; economies and diseconomies of scale",
+         "scope": "In scope",
+         "sources": "VB, CUK; V ch21; K ch4 · also A, JR, NS (5 of 7)",
+         "status": "not_started"
+        },
+        {
+         "id": "1.2h",
+         "name": "Modern cost theory: L-shaped short- and long-run cost curves; engineering cost curves",
+         "scope": "In scope",
+         "sources": "CUK; K ch4 · also A, NS (3 of 7)",
          "status": "not_started"
         }
        ]
@@ -208,26 +218,44 @@
        "subtopics": [
         {
          "id": "1.3a",
-         "name": "Expected value vs expected utility; von Neumann-Morgenstern utility; choosing with an equal expected income",
-         "asked": 2,
-         "recent": 2,
-         "priority": "Core",
+         "name": "Lotteries; von Neumann-Morgenstern axioms; the expected utility theorem; Bernoulli and the St Petersburg paradox",
+         "scope": "In scope",
+         "sources": "DU, VB, CUK, JMI; V ch12; OR ch3 · also A, JR, NS (5 of 7)",
          "status": "not_started"
         },
         {
          "id": "1.3b",
-         "name": "Risk aversion, neutrality, loving (concave/linear/convex utility; indifference-curve view); certainty equivalent; risk premium",
-         "asked": 2,
-         "recent": 0,
-         "priority": "Standard",
+         "name": "Risk aversion, neutrality and loving; certainty equivalent and risk premium; Arrow-Pratt measures",
+         "scope": "In scope",
+         "sources": "DU, VB, CUK; V ch12 · also A, JR, NS (4 of 7)",
          "status": "not_started"
         },
         {
          "id": "1.3c",
-         "name": "Reducing risk: diversification, insurance, value of information; mean-standard-deviation choice",
-         "asked": 2,
-         "recent": 1,
-         "priority": "Standard",
+         "name": "Applications: insurance, risk pooling and spreading, diversification, portfolio choice, mean-variance analysis, equilibrium in a market for risky assets",
+         "scope": "In scope",
+         "sources": "DU, VB, CUK; V ch12-13 · also K, A, JR, NS (5 of 7)",
+         "status": "not_started"
+        },
+        {
+         "id": "1.3d",
+         "name": "Friedman-Savage and Markowitz hypotheses (why people both insure and gamble)",
+         "scope": "Supplementary",
+         "sources": "CUK; A (1 of 7)",
+         "status": "not_started"
+        },
+        {
+         "id": "1.3e",
+         "name": "First- and second-order stochastic dominance",
+         "scope": "Supplementary",
+         "sources": "VB; — (0 of 7)",
+         "status": "not_started"
+        },
+        {
+         "id": "1.3f",
+         "name": "Behavioural departures from expected utility (framing, loss aversion)",
+         "scope": "Supplementary",
+         "sources": "V ch30 · also A, NS (3 of 7)",
          "status": "not_started"
         }
        ]
@@ -241,42 +269,58 @@
        "subtopics": [
         {
          "id": "1.4a",
-         "name": "Normal-form games; strictly and weakly dominant/dominated strategies; iterated elimination",
-         "asked": 3,
-         "recent": 2,
-         "priority": "Core",
+         "name": "Strategic-form games; dominant and dominated strategies; iterated elimination; rationalisability",
+         "scope": "In scope",
+         "sources": "DU, VB, JMI (elective); V ch28; OR ch15 · also A, JR, NS, G (6 of 7)",
          "status": "not_started"
         },
         {
          "id": "1.4b",
-         "name": "Nash equilibrium: pure, multiple equilibria (battle of the sexes, stag hunt), no pure equilibrium (matching pennies), mixed strategies",
-         "asked": 4,
-         "recent": 4,
-         "priority": "Core",
+         "name": "Nash equilibrium in pure and mixed strategies; coordination games; existence",
+         "scope": "In scope",
+         "sources": "DU, VB, CUK; V ch28; OR ch15 · also K, A, JR, NS, G (7 of 7)",
          "status": "not_started"
         },
         {
          "id": "1.4c",
-         "name": "Zero-sum games: saddle point, value of the game, maximin/minimax (von Neumann-Morgenstern)",
-         "asked": 2,
-         "recent": 0,
-         "priority": "Standard",
+         "name": "Two-person zero-sum games: maximin and minimax, saddle point, value of the game",
+         "scope": "In scope",
+         "sources": "CUK; K ch19 · also V, A, JR (4 of 7)",
          "status": "not_started"
         },
         {
          "id": "1.4d",
-         "name": "Prisoners' dilemma and repeated games: tit-for-tat (Axelrod), grim trigger",
-         "asked": 1,
-         "recent": 1,
-         "priority": "Standard",
+         "name": "Extensive-form games: strategies, subgame-perfect equilibrium, backward induction, the one-deviation property",
+         "scope": "In scope",
+         "sources": "DU, VB, JMI (elective); V ch28; OR ch16 · also JR, NS, G (5 of 7)",
          "status": "not_started"
         },
         {
          "id": "1.4e",
-         "name": "Sequential games: backward induction, subgame-perfect equilibrium; Cournot and Stackelberg as Nash equilibria",
-         "asked": 1,
-         "recent": 0,
-         "priority": "Standard",
+         "name": "Repeated games (finite and infinite; how cooperation is sustained); bargaining (alternating offers, finite and infinite horizon)",
+         "scope": "In scope",
+         "sources": "DU, VB; V ch28-29 · also K, OR, A, NS, G (6 of 7)",
+         "status": "not_started"
+        },
+        {
+         "id": "1.4f",
+         "name": "Static games of incomplete information: Bayesian Nash equilibrium, Harsanyi transformation; auctions",
+         "scope": "In scope",
+         "sources": "DU, VB, JMI (elective); V ch17 (auctions) · also OR, JR, NS, G (5 of 7)",
+         "status": "not_started"
+        },
+        {
+         "id": "1.4g",
+         "name": "Dynamic games of incomplete information: perfect Bayesian equilibrium, signalling games, the intuitive criterion, reputation",
+         "scope": "In scope",
+         "sources": "DU, JMI (elective); JR, NS, G (3 of 7)",
+         "status": "not_started"
+        },
+        {
+         "id": "1.4h",
+         "name": "Trembling-hand perfection",
+         "scope": "Supplementary",
+         "sources": "JMI (elective); — (0 of 7)",
          "status": "not_started"
         }
        ]
@@ -290,74 +334,107 @@
        "subtopics": [
         {
          "id": "1.5a",
-         "name": "Perfect competition: short- and long-run equilibrium, normal profit, shutdown, efficiency (P = MC = min LAC)",
-         "asked": 4,
-         "recent": 0,
-         "priority": "Core",
+         "name": "Perfect competition: short- and long-run equilibrium of firm and industry; break-even and shutdown; supply curves; constant, increasing and decreasing cost industries",
+         "scope": "In scope",
+         "sources": "VB, CUK, DU; V ch22-23; K ch5 · also A, JR, NS (5 of 7)",
          "status": "not_started"
         },
         {
          "id": "1.5b",
-         "name": "Market equilibrium and its stability: Walrasian and Marshallian stability, cobweb model (convergent, explosive, oscillating)",
-         "asked": 4,
-         "recent": 2,
-         "priority": "Core",
+         "name": "Market equilibrium: comparative statics, taxes and subsidies, stability of equilibrium, welfare in a competitive market (consumer and producer surplus, deadweight loss)",
+         "scope": "In scope",
+         "sources": "DU, VB; V ch16; K ch5 · also OR, A, JR, NS (6 of 7)",
          "status": "not_started"
         },
         {
          "id": "1.5c",
-         "name": "Welfare in a market: consumer and producer surplus, deadweight loss, price floors, monopoly vs competition comparison",
-         "asked": 6,
-         "recent": 4,
-         "priority": "Core",
+         "name": "Monopoly: equilibrium, MR and elasticity, no supply curve, deadweight loss, measures of monopoly power, tax incidence",
+         "scope": "In scope",
+         "sources": "DU, VB, CUK; V ch24; K ch6 · also OR, A, JR, NS, G (7 of 7)",
          "status": "not_started"
         },
         {
          "id": "1.5d",
-         "name": "Monopoly: MR = MC, MR-AR-elasticity relation, Lerner index, no supply curve, deadweight loss; profit-maximisation numericals; taxing a monopolist (lump-sum vs per-unit)",
-         "asked": 17,
-         "recent": 6,
-         "priority": "Core",
+         "name": "Price discrimination: first, second (two-part tariff, nonlinear pricing, monopolistic screening) and third degree; peak-load pricing",
+         "scope": "In scope",
+         "sources": "DU, VB, CUK; V ch25; K ch7 · also A, NS (4 of 7)",
          "status": "not_started"
         },
         {
          "id": "1.5e",
-         "name": "Price discrimination: degrees, conditions, the elasticity rule (higher price where demand is less elastic)",
-         "asked": 2,
-         "recent": 1,
-         "priority": "Standard",
+         "name": "Natural monopoly; control and regulation of monopoly",
+         "scope": "In scope",
+         "sources": "VB, CUK; V ch24 · also A, NS (3 of 7)",
          "status": "not_started"
         },
         {
          "id": "1.5f",
-         "name": "Natural monopoly and regulation; public utility pricing; socially optimal price (P = MC)",
-         "asked": 2,
-         "recent": 0,
-         "priority": "Standard",
+         "name": "Monopolistic competition: Chamberlin's model, product differentiation, firm and group equilibrium, excess capacity, selling costs, optimum product diversity",
+         "scope": "In scope",
+         "sources": "JMI, VB, CUK; V ch25; K ch8 · also A, JR, NS (5 of 7)",
          "status": "not_started"
         },
         {
          "id": "1.5g",
-         "name": "Monopolistic competition (Chamberlin): product differentiation, excess capacity, advertising/selling costs, Dorfman-Steiner advertising rule",
-         "asked": 3,
-         "recent": 1,
-         "priority": "Core",
+         "name": "Non-collusive oligopoly: Cournot, Bertrand, Stackelberg, kinked demand (Sweezy)",
+         "scope": "In scope",
+         "sources": "JMI, VB, CUK; V ch27; K ch9 · also OR, A, JR, NS, G (7 of 7)",
          "status": "not_started"
         },
         {
          "id": "1.5h",
-         "name": "Oligopoly: Cournot, Bertrand, Stackelberg, kinked demand (Sweezy), cartels, price leadership, limit pricing (Bain), full-cost pricing (Hall and Hitch)",
-         "asked": 13,
-         "recent": 7,
-         "priority": "Core",
+         "name": "Collusive oligopoly: cartels, mergers, price leadership, basing-point pricing",
+         "scope": "In scope",
+         "sources": "CUK; V ch27; K ch10 · also A, JR, NS (5 of 7)",
          "status": "not_started"
         },
         {
          "id": "1.5i",
-         "name": "Comparing market structures (matching features)",
-         "asked": 1,
-         "recent": 1,
-         "priority": "Standard",
+         "name": "Product differentiation in oligopoly: Hotelling's location model (horizontal), quality (vertical) differentiation",
+         "scope": "In scope",
+         "sources": "VB; V ch25 (Hotelling) · also JR, NS (3 of 7)",
+         "status": "not_started"
+        },
+        {
+         "id": "1.5j",
+         "name": "Strategic oligopoly: capacity choice and entry, strategic substitutes and complements, repeated oligopoly",
+         "scope": "In scope",
+         "sources": "VB; V, NS (2 of 7)",
+         "status": "not_started"
+        },
+        {
+         "id": "1.5k",
+         "name": "Average-cost (full-cost) pricing: critique of marginalism, Hall and Hitch, mark-up pricing",
+         "scope": "In scope",
+         "sources": "CUK; K ch11-12 · also A (2 of 7)",
+         "status": "not_started"
+        },
+        {
+         "id": "1.5l",
+         "name": "Limit pricing: Bain; Sylos-Labini; Franco Modigliani; Bhagwati; Pashigian",
+         "scope": "In scope",
+         "sources": "CUK; K ch13-14 · also A (2 of 7)",
+         "status": "not_started"
+        },
+        {
+         "id": "1.5m",
+         "name": "Objectives other than profit: Baumol's sales maximisation, Marris, Williamson, the Cyert-March behavioural theory",
+         "scope": "In scope",
+         "sources": "DU (\"non-profit motives\"); K ch15-18 · also A, NS (3 of 7)",
+         "status": "not_started"
+        },
+        {
+         "id": "1.5n",
+         "name": "Public-sector pricing; cross-subsidy-free pricing",
+         "scope": "In scope",
+         "sources": "CUK; A, NS (2 of 7)",
+         "status": "not_started"
+        },
+        {
+         "id": "1.5o",
+         "name": "Durable-goods monopoly; product selection by a monopolist",
+         "scope": "In scope",
+         "sources": "VB; A, NS (2 of 7)",
          "status": "not_started"
         }
        ]
@@ -371,50 +448,30 @@
        "subtopics": [
         {
          "id": "1.6a",
-         "name": "Marginal productivity theory: VMP, MRP, derived demand for labour; competitive vs monopoly product market (VMP > MRP); shifts in labour demand",
-         "asked": 4,
-         "recent": 1,
-         "priority": "Core",
+         "name": "Marginal productivity theory under perfect competition: value of marginal product, derived demand for a factor, firm and market demand for labour",
+         "scope": "In scope",
+         "sources": "CUK; V ch26; K ch21 · also A, NS (4 of 7)",
          "status": "not_started"
         },
         {
          "id": "1.6b",
-         "name": "Product exhaustion (Euler; Clark-Wicksteed); factor shares and the elasticity of substitution",
-         "asked": 2,
-         "recent": 1,
-         "priority": "Standard",
+         "name": "Imperfect markets: marginal revenue product under monopoly, monopsony and exploitation, bilateral monopoly",
+         "scope": "In scope",
+         "sources": "CUK; V ch26; K ch6, ch21 · also A, NS (4 of 7)",
          "status": "not_started"
         },
         {
          "id": "1.6c",
-         "name": "Wages: minimum wage effects (competitive and monopsony), labour-demand elasticity, efficiency wage",
-         "asked": 3,
-         "recent": 1,
-         "priority": "Standard",
+         "name": "Product exhaustion (Euler, Clark-Wicksteed); elasticity of factor substitution and relative shares; technical progress and income distribution",
+         "scope": "In scope",
+         "sources": "CUK; K ch21 · also A (2 of 7)",
          "status": "not_started"
         },
         {
          "id": "1.6d",
-         "name": "Rent: Ricardian rent, quasi-rent (Marshall), modern theory (Joan Robinson), transfer earnings",
-         "asked": 1,
-         "recent": 0,
-         "priority": "Standard",
-         "status": "not_started"
-        },
-        {
-         "id": "1.6e",
-         "name": "Interest: time-preference theory (Böhm-Bawerk, Fisher), loanable funds, liquidity preference",
-         "asked": 1,
-         "recent": 0,
-         "priority": "Standard",
-         "status": "not_started"
-        },
-        {
-         "id": "1.6f",
-         "name": "Profit: Knight (uncertainty), Schumpeter (innovation), Clark (dynamic), Kalecki (degree of monopoly)",
-         "asked": 1,
-         "recent": 0,
-         "priority": "Standard",
+         "name": "Rent and quasi-rent; pricing of fixed factors; non-homogeneous factors and wage differentials",
+         "scope": "In scope",
+         "sources": "CUK; K ch21 · also V, A, NS (4 of 7)",
          "status": "not_started"
         }
        ]
@@ -428,26 +485,37 @@
        "subtopics": [
         {
          "id": "1.7a",
-         "name": "Partial vs general equilibrium; Walrasian system; Walras' law; excess demand functions (homogeneous of degree zero in prices)",
-         "asked": 3,
-         "recent": 1,
-         "priority": "Core",
+         "name": "Partial vs general equilibrium; absolute and relative prices; the Walrasian system; Walras' law",
+         "scope": "In scope",
+         "sources": "DU, JMI, CUK; V ch31; K ch22 · also A, JR, NS (5 of 7)",
          "status": "not_started"
         },
         {
          "id": "1.7b",
-         "name": "Existence, uniqueness, stability; Arrow-Debreu model (goods dated and located; contingent commodities)",
-         "asked": 2,
-         "recent": 0,
-         "priority": "Standard",
+         "name": "Exchange economy: Edgeworth box, contract curve, barter, the core, competitive equilibrium as a core allocation",
+         "scope": "In scope",
+         "sources": "DU, JMI; V ch31; OR ch10 · also K, A, JR, NS (6 of 7)",
          "status": "not_started"
         },
         {
          "id": "1.7c",
-         "name": "Edgeworth box (exchange and production), contract curve, core; production possibility frontier and MRT (MCx/MCy); straight-line PPF",
-         "asked": 5,
-         "recent": 0,
-         "priority": "Core",
+         "name": "Production: Robinson Crusoe economy, the 2x2 (two-sector) production model, production possibility frontier and MRT",
+         "scope": "In scope",
+         "sources": "DU, JMI, CUK; V ch32; K ch22 · also OR, A, JR, NS (6 of 7)",
+         "status": "not_started"
+        },
+        {
+         "id": "1.7d",
+         "name": "Existence, uniqueness and stability of competitive equilibrium (conditions and intuition); comparative statics",
+         "scope": "In scope",
+         "sources": "DU, CUK; K ch22 · also V, OR, A, JR, NS, G (7 of 7)",
+         "status": "not_started"
+        },
+        {
+         "id": "1.7e",
+         "name": "Factor-price equalisation inside general equilibrium",
+         "scope": "Supplementary",
+         "sources": "DU; — (0 of 7)",
          "status": "not_started"
         }
        ]
@@ -461,18 +529,37 @@
        "subtopics": [
         {
          "id": "1.8a",
-         "name": "Pareto optimality: definition; three marginal conditions (exchange MRS, production MRTS, product-mix MRS = MRT); technical efficiency",
-         "asked": 6,
-         "recent": 1,
-         "priority": "Core",
+         "name": "Pareto optimality: definition and the marginal conditions (exchange, production, product mix); Pareto efficiency of competitive equilibrium",
+         "scope": "In scope",
+         "sources": "DU, JMI, CUK; V ch31-33; K ch23 · also A, NS (4 of 7)",
          "status": "not_started"
         },
         {
          "id": "1.8b",
-         "name": "Compensation criteria: Kaldor, Hicks, Scitovsky (double test, reversal paradox), Little",
-         "asked": 2,
-         "recent": 0,
-         "priority": "Standard",
+         "name": "Compensation criteria: Kaldor, Hicks, Scitovsky (double criterion), Little, Samuelson",
+         "scope": "In scope",
+         "sources": "DU, CUK; K ch23 · also A (2 of 7)",
+         "status": "not_started"
+        },
+        {
+         "id": "1.8c",
+         "name": "Fairness: envy-free allocations; efficiency and fairness of market outcomes",
+         "scope": "In scope",
+         "sources": "DU; V ch33 · also OR, A, JR, NS (5 of 7)",
+         "status": "not_started"
+        },
+        {
+         "id": "1.8d",
+         "name": "Cost-benefit analysis as an applied welfare criterion",
+         "scope": "Supplementary",
+         "sources": "DU; V ch14 · also A (2 of 7)",
+         "status": "not_started"
+        },
+        {
+         "id": "1.8e",
+         "name": "Wealth maximisation (Posner)",
+         "scope": "In scope",
+         "sources": "NS (1 of 7)",
          "status": "not_started"
         }
        ]
@@ -486,18 +573,37 @@
        "subtopics": [
         {
          "id": "1.9a",
-         "name": "First and second fundamental theorems and their conditions",
-         "asked": 4,
-         "recent": 2,
-         "priority": "Core",
+         "name": "First and second fundamental theorems of welfare economics and their conditions",
+         "scope": "In scope",
+         "sources": "DU, JMI, CUK; V ch31-33; K ch23 · also A, JR, NS (5 of 7)",
          "status": "not_started"
         },
         {
          "id": "1.9b",
-         "name": "Social welfare functions: Bergson-Samuelson, utilitarian (Bentham), Rawlsian (maximin); social indifference curves; utility possibility frontier",
-         "asked": 2,
-         "recent": 1,
-         "priority": "Standard",
+         "name": "Social welfare functions: Bergson-Samuelson, utilitarian, Rawlsian; measurability and comparability of utility; maximising social welfare",
+         "scope": "In scope",
+         "sources": "DU, JMI, CUK; V ch33; K ch23 · also A, JR, NS (5 of 7)",
+         "status": "not_started"
+        },
+        {
+         "id": "1.9c",
+         "name": "Social choice and Arrow's impossibility theorem, with related results",
+         "scope": "In scope",
+         "sources": "DU, JMI, CUK; V ch33; OR ch20 · also A, JR, NS (5 of 7)",
+         "status": "not_started"
+        },
+        {
+         "id": "1.9d",
+         "name": "Theory of the second best",
+         "scope": "In scope",
+         "sources": "JMI, CUK; V ch33 · also OR, A, NS (4 of 7)",
+         "status": "not_started"
+        },
+        {
+         "id": "1.9e",
+         "name": "Rawls's theory of justice",
+         "scope": "In scope",
+         "sources": "JMI, CUK; V ch33 · also A, JR, NS (4 of 7)",
          "status": "not_started"
         }
        ]
@@ -511,26 +617,30 @@
        "subtopics": [
         {
          "id": "1.10a",
-         "name": "Adverse selection: Akerlof's market for lemons (Nobel 2001), insurance and credit markets",
-         "asked": 4,
-         "recent": 0,
-         "priority": "Core",
+         "name": "Adverse selection: the market for lemons, insurance markets",
+         "scope": "In scope",
+         "sources": "DU, JMI, VB, CUK; V ch37; OR ch14 · also A, JR, NS (5 of 7)",
          "status": "not_started"
         },
         {
          "id": "1.10b",
          "name": "Signalling (Spence) and screening",
-         "asked": 1,
-         "recent": 1,
-         "priority": "Standard",
+         "scope": "In scope",
+         "sources": "DU, JMI, VB, CUK; V ch37 · also A, JR, NS, G (5 of 7)",
          "status": "not_started"
         },
         {
          "id": "1.10c",
-         "name": "Moral hazard (hidden action after the contract), principal-agent; farm-loan waivers as moral hazard",
-         "asked": 2,
-         "recent": 0,
-         "priority": "Standard",
+         "name": "Moral hazard and the principal-agent problem",
+         "scope": "In scope",
+         "sources": "DU, JMI, VB, CUK; V ch37 · also A, JR, NS (4 of 7)",
+         "status": "not_started"
+        },
+        {
+         "id": "1.10d",
+         "name": "Efficiency of market outcomes under asymmetric information",
+         "scope": "In scope",
+         "sources": "JMI; V ch37 · also OR, A, JR, NS, G (6 of 7)",
          "status": "not_started"
         }
        ]
@@ -2752,90 +2862,100 @@
   "subtopics": [
    {
     "id": "1.1a",
-    "name": "Preferences: completeness, transitivity, monotonicity, convexity, continuity; lexicographic preferences; ordinal utility and monotonic transformations",
-    "asked": 5,
-    "recent": 5,
-    "priority": "Core",
+    "name": "Preferences: completeness, transitivity, continuity, monotonicity, convexity; existence of a utility function; ordinal utility and monotonic transformations",
+    "scope": "In scope",
+    "sources": "DU, JMI, VB; V ch3-4; OR ch1, ch4 · also K, A, JR, NS (6 of 7)",
     "status": "not_started"
    },
    {
     "id": "1.1b",
-    "name": "Cardinal utility (Marshall): diminishing marginal utility, equi-marginal principle, water-diamond paradox",
-    "asked": 1,
-    "recent": 1,
-    "priority": "Standard",
+    "name": "Cardinal utility (Marshall): diminishing marginal utility, equi-marginal principle, Marshall's derivation of demand",
+    "scope": "In scope",
+    "sources": "CUK; K ch2; V ch4 · also A (3 of 7)",
     "status": "not_started"
    },
    {
     "id": "1.1c",
-    "name": "Indifference curves, budget line, consumer equilibrium (MRS = price ratio); perfect substitutes and perfect complements; corner solutions; utility maximisation numericals",
-    "asked": 5,
-    "recent": 4,
-    "priority": "Core",
+    "name": "Budget set, indifference curves and MRS, utility maximisation (Lagrange method, corner solutions, perfect substitutes and complements, quasilinear utility)",
+    "scope": "In scope",
+    "sources": "VB, CUK, DU; V ch2, 3, 5; K ch2; OR ch5 · also A, JR, NS, G (7 of 7)",
     "status": "not_started"
    },
    {
     "id": "1.1d",
-    "name": "Income effect: income-consumption curve (ICC), Engel curve, normal / inferior / luxury goods, Engel's law",
-    "asked": 5,
-    "recent": 1,
-    "priority": "Core",
+    "name": "Demand functions and their properties (homogeneity of degree zero, budget exhaustion); income changes (income-consumption curve, Engel curves, normal / inferior / luxury goods); price changes (price-consumption curve); substitutes and complements",
+    "scope": "In scope",
+    "sources": "VB, CUK; V ch6; K ch2; OR ch5 · also A, JR, NS (6 of 7)",
     "status": "not_started"
    },
    {
     "id": "1.1e",
-    "name": "Price effect: substitution and income effects (Hicks and Slutsky versions), Giffen goods, why demand slopes down; income and substitution effects of a tax",
-    "asked": 7,
-    "recent": 3,
-    "priority": "Core",
+    "name": "Income and substitution effects: Slutsky and Hicks decompositions, the Slutsky equation, Giffen goods, the law of demand",
+    "scope": "In scope",
+    "sources": "DU, VB, CUK; V ch8; K ch2 · also OR, A, JR, NS (6 of 7)",
     "status": "not_started"
    },
    {
     "id": "1.1f",
-    "name": "Revealed preference (Samuelson): weak and strong axioms; why it cannot explain the Giffen case",
-    "asked": 2,
-    "recent": 0,
-    "priority": "Standard",
+    "name": "Duality: indirect utility function and Roy's identity; expenditure minimisation, Hicksian demand, expenditure function and Shephard's lemma",
+    "scope": "In scope",
+    "sources": "DU, VB, CUK, JMI; V ch8 (Hicksian demand) · also A, JR, NS (4 of 7)",
     "status": "not_started"
    },
    {
     "id": "1.1g",
-    "name": "Demand: inverse demand function, complements/substitutes, exceptions to the law of demand (Veblen, snob, bandwagon)",
-    "asked": 3,
-    "recent": 0,
-    "priority": "Core",
+    "name": "Revealed preference: weak and strong axioms, testable implications, deriving demand and indifference curves",
+    "scope": "In scope",
+    "sources": "DU, JMI, VB, CUK; V ch7 · also K, OR, A, JR, NS (6 of 7)",
     "status": "not_started"
    },
    {
     "id": "1.1h",
-    "name": "Elasticities: price (point, arc, on linear and parallel demand curves, constant-elasticity form), income, cross; relation of MR, AR and elasticity; sum of elasticities = 0 (homogeneity); elasticity and total revenue; supply elasticity of a line through the origin",
-    "asked": 11,
-    "recent": 2,
-    "priority": "Core",
+    "name": "Consumer surplus and welfare change: Marshallian surplus, compensating and equivalent variation, the quasilinear case",
+    "scope": "In scope",
+    "sources": "VB, CUK, JMI, DU; V ch14 · also K, A, JR, NS (5 of 7)",
     "status": "not_started"
    },
    {
     "id": "1.1i",
-    "name": "Consumer surplus (Marshall): definition, calculation from a demand function by integration",
-    "asked": 5,
-    "recent": 2,
-    "priority": "Core",
+    "name": "Elasticities of demand (price, income, cross) and their applications; elasticity and revenue",
+    "scope": "In scope",
+    "sources": "CUK; V ch15; K ch2 · also A, JR, NS (5 of 7)",
     "status": "not_started"
    },
    {
     "id": "1.1j",
-    "name": "Duality: indirect utility function, expenditure function, Marshallian vs Hicksian demand, Roy's identity, Shephard's lemma, Slutsky equation; Gorman form (aggregation)",
-    "asked": 2,
-    "recent": 2,
-    "priority": "Core",
+    "name": "Market (aggregate) demand from individual demands",
+    "scope": "In scope",
+    "sources": "JMI; V ch15 · also K, A, JR, NS (5 of 7)",
     "status": "not_started"
    },
    {
     "id": "1.1k",
-    "name": "History: chronology of consumer theories (Marshall 1890 → Hicks-Allen 1934 → Samuelson 1938 → Stone's linear expenditure system 1954); who did what",
-    "asked": 3,
-    "recent": 1,
-    "priority": "Core",
+    "name": "Later developments in demand theory: Hicks's logical-ordering (\"pragmatic\") approach; Stone's linear expenditure system",
+    "scope": "In scope",
+    "sources": "CUK; K ch2 · also A, NS (3 of 7)",
+    "status": "not_started"
+   },
+   {
+    "id": "1.1l",
+    "name": "Choice with endowments (buying and selling) and intertemporal choice",
+    "scope": "Supplementary",
+    "sources": "V ch9-10 · also K, A, JR, NS (5 of 7)",
+    "status": "not_started"
+   },
+   {
+    "id": "1.1m",
+    "name": "Bandwagon, snob and Veblen effects",
+    "scope": "Supplementary",
+    "sources": "K ch2 · also A (2 of 7)",
+    "status": "not_started"
+   },
+   {
+    "id": "1.1n",
+    "name": "Lancaster's characteristics (attribute) approach to consumer demand",
+    "scope": "Supplementary",
+    "sources": "A, NS (2 of 7)",
     "status": "not_started"
    }
   ]

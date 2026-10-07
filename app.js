@@ -134,11 +134,11 @@
           (u.target ? " · plan " + fmtDate(u.target) : "") + (flag ? ' <span class="tag">' + flag.toUpperCase() + "</span>" : "") + (u.open_mistakes ? " · " + u.open_mistakes + " open mistakes" : "") + "</span></div>" +
           segBar(u.counts, u.total) + "<details><summary>Topics</summary><ul class=topics>" + u.topics.map(function (t) {
             var subs = t.subtopics && t.subtopics.length ? '<ul class="subs">' + t.subtopics.map(function (sb) {
-              return '<li><span class="small">' + esc(sb.id) + "</span><span>" + esc(sb.name) + ' <span class="small">· asked ' + sb.asked + (sb.recent ? " (" + sb.recent + " since 2021)" : "") +
-                '</span> <span class="tag pri-' + sb.priority.toLowerCase() + '">' + esc(sb.priority.toUpperCase()) + "</span></span>" + chip(sb.status) + "</li>";
+              return '<li><span class="small">' + esc(sb.id) + "</span><span>" + esc(sb.name) + (sb.scope === "Supplementary" ? ' <span class="tag">SUPPLEMENTARY</span>' : "") +
+                '<br><span class="small">Sources: ' + esc(sb.sources) + "</span></span>" + chip(sb.status) + "</li>";
             }).join("") + "</ul>" : "";
             return "<li><span class=small>" + esc(t.id) + "</span><span>" + esc(t.name) + (t.acc ? ' <span class="small">· ' + t.acc.pct + "% (n=" + t.acc.n + ")</span>" : "") +
-              (t.subtopics && t.subtopics.length ? ' <span class="small">· ' + t.subtopics.length + " subtopics, asked " + t.subtopics.reduce(function (a, b) { return a + b.asked; }, 0) + " times 2016-2025</span>" : "") + subs + "</span>" + chip(t.status) + "</li>";
+              (t.subtopics && t.subtopics.length ? ' <span class="small">· ' + t.subtopics.length + " subtopics</span>" : "") + subs + "</span>" + chip(t.status) + "</li>";
           }).join("") + "</ul></details></div>";
       }).join("") + "</div>";
       return html;
@@ -150,17 +150,16 @@
         return list.length ? '<ul class="list">' + list.slice(0, 6).map(function (x) { return "<li><span>" + esc(x.label) + "</span><span class=num>" + x.pct + "% · n=" + x.n + "</span></li>"; }).join("") + "</ul>" : '<p class="empty">None yet' + (kind ? " (" + kind + ")" : "") + ".</p>";
       }
       var html = '<div class="grid g2"><div class="card"><h2>Strong points</h2><p class="small">' + th.strong_pct + "%+ with enough answers</p><h3>Units</h3>" + sw(D.strengths.units, "needs " + th.min_n_unit + "+ answers per unit") +
-        "<h3 style='margin-top:10px'>Topics</h3>" + sw(D.strengths.topics) + "<h3 style='margin-top:10px'>Question formats</h3>" + sw(D.strengths.formats) + "</div>" +
+        "<h3 style='margin-top:10px'>Topics</h3>" + sw(D.strengths.topics) + "</div>" +
         '<div class="card"><h2>Where you are lacking</h2><p class="small">Below ' + th.weak_pct + "% with enough answers</p><h3>Units</h3>" + sw(D.weaknesses.units, "needs " + th.min_n_unit + "+ answers per unit") +
-        "<h3 style='margin-top:10px'>Topics</h3>" + sw(D.weaknesses.topics) + "<h3 style='margin-top:10px'>Question formats</h3>" + sw(D.weaknesses.formats) + "</div></div>";
+        "<h3 style='margin-top:10px'>Topics</h3>" + sw(D.weaknesses.topics) + "</div></div>";
 
       var units = [];
       D.papers.forEach(function (p) { p.units.forEach(function (u) { if (u.acc) units.push({ label: (p.key === "P1" ? "Paper I · " : "") + "U" + u.unit + " " + u.name, right: u.acc.right, n: u.acc.n, pct: u.acc.pct }); }); });
       html += '<div class="card"><h2>Accuracy by unit</h2>' + accBars(units, { minN: th.min_n_unit }) + "</div>";
       html += '<div class="card"><h2>Accuracy trend</h2><p class="small">Rolling 7-day accuracy, last 30 days</p>' + trendChart() + "</div>";
       function mapItems(obj) { return Object.keys(obj).map(function (k) { return { label: k, right: obj[k].right, n: obj[k].n, pct: obj[k].pct }; }).sort(function (a, b) { return b.n - a.n; }); }
-      html += '<div class="grid g2"><div class="card"><h2>By question format</h2>' + accBars(mapItems(D.by_format), { minN: th.min_n_format }) + "</div>" +
-        '<div class="card"><h2>By source</h2>' + accBars(mapItems(D.by_source)) + "</div></div>";
+      html += '<div class="card"><h2>By source</h2>' + accBars(mapItems(D.by_source)) + "</div>";
       var causes = Object.keys(D.causes).map(function (k) { return { label: k, n: D.causes[k] }; }).sort(function (a, b) { return b.n - a.n; });
       var tot = causes.reduce(function (s, c) { return s + c.n; }, 0);
       html += '<div class="card"><h2>Why answers go wrong</h2>' + (tot ? '<div class="bars">' + causes.map(function (c) {
