@@ -121,3 +121,6 @@ svg text { fill: var(--muted); font-size: 15px; }
 .tip { position: fixed; z-index: 20; pointer-events: none; background: var(--surface); color: var(--ink); border: 1px solid var(--axis); border-radius: 8px; padding: 6px 9px; font-size: 0.8rem; box-shadow: 0 4px 14px rgba(0,0,0,0.15); max-width: 260px; }
 .foot { color: var(--muted); font-size: 0.78rem; padding-bottom: 28px; }
 :focus-visible { outline: 2px solid var(--accent); outline-offset: 2px; }
+.subs { list-style: none; padding: 4px 0 0; margin: 4px 0 0; }
+.subs li { grid-template-columns: 3.4em 1fr auto; border-top: 1px dotted var(--grid); padding: 4px 0; font-size: 0.8rem; color: var(--ink-2); }
+.tag.pri-core { border-color: var(--accent); color: var(--ink); }

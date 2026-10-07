@@ -133,7 +133,12 @@
         return '<div class="unit"><div class="unit-head"><span class="nm">' + esc(unitLabel(p, u)) + '</span><span class="small">' + u.done + "/" + u.total + " · " + acc +
           (u.target ? " · plan " + fmtDate(u.target) : "") + (flag ? ' <span class="tag">' + flag.toUpperCase() + "</span>" : "") + (u.open_mistakes ? " · " + u.open_mistakes + " open mistakes" : "") + "</span></div>" +
           segBar(u.counts, u.total) + "<details><summary>Topics</summary><ul class=topics>" + u.topics.map(function (t) {
-            return "<li><span class=small>" + esc(t.id) + "</span><span>" + esc(t.name) + (t.acc ? ' <span class="small">· ' + t.acc.pct + "% (n=" + t.acc.n + ")</span>" : "") + "</span>" + chip(t.status) + "</li>";
+            var subs = t.subtopics && t.subtopics.length ? '<ul class="subs">' + t.subtopics.map(function (sb) {
+              return '<li><span class="small">' + esc(sb.id) + "</span><span>" + esc(sb.name) + ' <span class="small">· asked ' + sb.asked + (sb.recent ? " (" + sb.recent + " since 2021)" : "") +
+                '</span> <span class="tag pri-' + sb.priority.toLowerCase() + '">' + esc(sb.priority.toUpperCase()) + "</span></span>" + chip(sb.status) + "</li>";
+            }).join("") + "</ul>" : "";
+            return "<li><span class=small>" + esc(t.id) + "</span><span>" + esc(t.name) + (t.acc ? ' <span class="small">· ' + t.acc.pct + "% (n=" + t.acc.n + ")</span>" : "") +
+              (t.subtopics && t.subtopics.length ? ' <span class="small">· ' + t.subtopics.length + " subtopics, asked " + t.subtopics.reduce(function (a, b) { return a + b.asked; }, 0) + " times 2016-2025</span>" : "") + subs + "</span>" + chip(t.status) + "</li>";
           }).join("") + "</ul></details></div>";
       }).join("") + "</div>";
       return html;

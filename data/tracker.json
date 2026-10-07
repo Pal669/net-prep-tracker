@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-08T00:31",
+ "generated": "2026-10-08T00:48",
  "today": "2026-10-08",
  "exam": {
   "date": "2026-12-14",
@@ -42,70 +42,498 @@
        "name": "Theory of Consumer Behaviour",
        "status": "learning",
        "acc": null,
-       "note": "Fast session 2026-10-07 (quiz not graded); being re-taught in classroom mode"
+       "note": "Fast session 2026-10-07 (quiz not graded); being re-taught in classroom mode",
+       "subtopics": [
+        {
+         "id": "1.1a",
+         "name": "Preferences: completeness, transitivity, monotonicity, convexity, continuity; lexicographic preferences; ordinal utility and monotonic transformations",
+         "asked": 5,
+         "recent": 5,
+         "priority": "Core",
+         "status": "not_started"
+        },
+        {
+         "id": "1.1b",
+         "name": "Cardinal utility (Marshall): diminishing marginal utility, equi-marginal principle, water-diamond paradox",
+         "asked": 1,
+         "recent": 1,
+         "priority": "Standard",
+         "status": "not_started"
+        },
+        {
+         "id": "1.1c",
+         "name": "Indifference curves, budget line, consumer equilibrium (MRS = price ratio); perfect substitutes and perfect complements; corner solutions; utility maximisation numericals",
+         "asked": 5,
+         "recent": 4,
+         "priority": "Core",
+         "status": "not_started"
+        },
+        {
+         "id": "1.1d",
+         "name": "Income effect: income-consumption curve (ICC), Engel curve, normal / inferior / luxury goods, Engel's law",
+         "asked": 5,
+         "recent": 1,
+         "priority": "Core",
+         "status": "not_started"
+        },
+        {
+         "id": "1.1e",
+         "name": "Price effect: substitution and income effects (Hicks and Slutsky versions), Giffen goods, why demand slopes down; income and substitution effects of a tax",
+         "asked": 7,
+         "recent": 3,
+         "priority": "Core",
+         "status": "not_started"
+        },
+        {
+         "id": "1.1f",
+         "name": "Revealed preference (Samuelson): weak and strong axioms; why it cannot explain the Giffen case",
+         "asked": 2,
+         "recent": 0,
+         "priority": "Standard",
+         "status": "not_started"
+        },
+        {
+         "id": "1.1g",
+         "name": "Demand: inverse demand function, complements/substitutes, exceptions to the law of demand (Veblen, snob, bandwagon)",
+         "asked": 3,
+         "recent": 0,
+         "priority": "Core",
+         "status": "not_started"
+        },
+        {
+         "id": "1.1h",
+         "name": "Elasticities: price (point, arc, on linear and parallel demand curves, constant-elasticity form), income, cross; relation of MR, AR and elasticity; sum of elasticities = 0 (homogeneity); elasticity and total revenue; supply elasticity of a line through the origin",
+         "asked": 11,
+         "recent": 2,
+         "priority": "Core",
+         "status": "not_started"
+        },
+        {
+         "id": "1.1i",
+         "name": "Consumer surplus (Marshall): definition, calculation from a demand function by integration",
+         "asked": 5,
+         "recent": 2,
+         "priority": "Core",
+         "status": "not_started"
+        },
+        {
+         "id": "1.1j",
+         "name": "Duality: indirect utility function, expenditure function, Marshallian vs Hicksian demand, Roy's identity, Shephard's lemma, Slutsky equation; Gorman form (aggregation)",
+         "asked": 2,
+         "recent": 2,
+         "priority": "Core",
+         "status": "not_started"
+        },
+        {
+         "id": "1.1k",
+         "name": "History: chronology of consumer theories (Marshall 1890 → Hicks-Allen 1934 → Samuelson 1938 → Stone's linear expenditure system 1954); who did what",
+         "asked": 3,
+         "recent": 1,
+         "priority": "Core",
+         "status": "not_started"
+        }
+       ]
       },
       {
        "id": "1.2",
        "name": "Theory of Production and Costs",
        "status": "not_started",
        "acc": null,
-       "note": ""
+       "note": "",
+       "subtopics": [
+        {
+         "id": "1.2a",
+         "name": "Short-run production: TP, AP, MP; law of variable proportions and its three stages",
+         "asked": 2,
+         "recent": 0,
+         "priority": "Standard",
+         "status": "not_started"
+        },
+        {
+         "id": "1.2b",
+         "name": "Isoquants, MRTS, ridge lines and the economic region; least-cost combination (MRTS = w/r); second-order conditions; expansion path",
+         "asked": 4,
+         "recent": 2,
+         "priority": "Core",
+         "status": "not_started"
+        },
+        {
+         "id": "1.2c",
+         "name": "Returns to scale; homogeneous and homothetic functions; Euler's theorem; properties of a function homogeneous of degree 1 (MPs homogeneous of degree 0)",
+         "asked": 5,
+         "recent": 4,
+         "priority": "Core",
+         "status": "not_started"
+        },
+        {
+         "id": "1.2d",
+         "name": "Cobb-Douglas (output elasticities, MPs, RTS = α+β, σ = 1), CES (σ = 1/(1+ρ)), Leontief (σ = 0); elasticity of substitution",
+         "asked": 13,
+         "recent": 2,
+         "priority": "Core",
+         "status": "not_started"
+        },
+        {
+         "id": "1.2e",
+         "name": "Short-run cost curves: TFC, TVC, AFC, AVC, AC, MC; relations (MC cuts AVC and AC at minima; AFC falls continuously); MC from TC; minimum AC from a cost function",
+         "asked": 9,
+         "recent": 2,
+         "priority": "Core",
+         "status": "not_started"
+        },
+        {
+         "id": "1.2f",
+         "name": "Long-run costs: LAC as envelope, economies and diseconomies of scale, learning curve, optimum firm",
+         "asked": 3,
+         "recent": 1,
+         "priority": "Core",
+         "status": "not_started"
+        },
+        {
+         "id": "1.2g",
+         "name": "Cost function and duality: properties of the cost function (homogeneous of degree 1 in input prices, concave), Shephard's lemma (conditional factor demands), cost function of perfect-substitute technology, Hotelling's lemma",
+         "asked": 3,
+         "recent": 3,
+         "priority": "Core",
+         "status": "not_started"
+        }
+       ]
       },
       {
        "id": "1.3",
        "name": "Decision making under uncertainty; attitude towards risk",
        "status": "not_started",
        "acc": null,
-       "note": ""
+       "note": "",
+       "subtopics": [
+        {
+         "id": "1.3a",
+         "name": "Expected value vs expected utility; von Neumann-Morgenstern utility; choosing with an equal expected income",
+         "asked": 2,
+         "recent": 2,
+         "priority": "Core",
+         "status": "not_started"
+        },
+        {
+         "id": "1.3b",
+         "name": "Risk aversion, neutrality, loving (concave/linear/convex utility; indifference-curve view); certainty equivalent; risk premium",
+         "asked": 2,
+         "recent": 0,
+         "priority": "Standard",
+         "status": "not_started"
+        },
+        {
+         "id": "1.3c",
+         "name": "Reducing risk: diversification, insurance, value of information; mean-standard-deviation choice",
+         "asked": 2,
+         "recent": 1,
+         "priority": "Standard",
+         "status": "not_started"
+        }
+       ]
       },
       {
        "id": "1.4",
        "name": "Game Theory: non-cooperative games",
        "status": "not_started",
        "acc": null,
-       "note": ""
+       "note": "",
+       "subtopics": [
+        {
+         "id": "1.4a",
+         "name": "Normal-form games; strictly and weakly dominant/dominated strategies; iterated elimination",
+         "asked": 3,
+         "recent": 2,
+         "priority": "Core",
+         "status": "not_started"
+        },
+        {
+         "id": "1.4b",
+         "name": "Nash equilibrium: pure, multiple equilibria (battle of the sexes, stag hunt), no pure equilibrium (matching pennies), mixed strategies",
+         "asked": 4,
+         "recent": 4,
+         "priority": "Core",
+         "status": "not_started"
+        },
+        {
+         "id": "1.4c",
+         "name": "Zero-sum games: saddle point, value of the game, maximin/minimax (von Neumann-Morgenstern)",
+         "asked": 2,
+         "recent": 0,
+         "priority": "Standard",
+         "status": "not_started"
+        },
+        {
+         "id": "1.4d",
+         "name": "Prisoners' dilemma and repeated games: tit-for-tat (Axelrod), grim trigger",
+         "asked": 1,
+         "recent": 1,
+         "priority": "Standard",
+         "status": "not_started"
+        },
+        {
+         "id": "1.4e",
+         "name": "Sequential games: backward induction, subgame-perfect equilibrium; Cournot and Stackelberg as Nash equilibria",
+         "asked": 1,
+         "recent": 0,
+         "priority": "Standard",
+         "status": "not_started"
+        }
+       ]
       },
       {
        "id": "1.5",
        "name": "Market structures: competitive and non-competitive equilibria and their efficiency",
        "status": "not_started",
        "acc": null,
-       "note": ""
+       "note": "",
+       "subtopics": [
+        {
+         "id": "1.5a",
+         "name": "Perfect competition: short- and long-run equilibrium, normal profit, shutdown, efficiency (P = MC = min LAC)",
+         "asked": 4,
+         "recent": 0,
+         "priority": "Core",
+         "status": "not_started"
+        },
+        {
+         "id": "1.5b",
+         "name": "Market equilibrium and its stability: Walrasian and Marshallian stability, cobweb model (convergent, explosive, oscillating)",
+         "asked": 4,
+         "recent": 2,
+         "priority": "Core",
+         "status": "not_started"
+        },
+        {
+         "id": "1.5c",
+         "name": "Welfare in a market: consumer and producer surplus, deadweight loss, price floors, monopoly vs competition comparison",
+         "asked": 6,
+         "recent": 4,
+         "priority": "Core",
+         "status": "not_started"
+        },
+        {
+         "id": "1.5d",
+         "name": "Monopoly: MR = MC, MR-AR-elasticity relation, Lerner index, no supply curve, deadweight loss; profit-maximisation numericals; taxing a monopolist (lump-sum vs per-unit)",
+         "asked": 17,
+         "recent": 6,
+         "priority": "Core",
+         "status": "not_started"
+        },
+        {
+         "id": "1.5e",
+         "name": "Price discrimination: degrees, conditions, the elasticity rule (higher price where demand is less elastic)",
+         "asked": 2,
+         "recent": 1,
+         "priority": "Standard",
+         "status": "not_started"
+        },
+        {
+         "id": "1.5f",
+         "name": "Natural monopoly and regulation; public utility pricing; socially optimal price (P = MC)",
+         "asked": 2,
+         "recent": 0,
+         "priority": "Standard",
+         "status": "not_started"
+        },
+        {
+         "id": "1.5g",
+         "name": "Monopolistic competition (Chamberlin): product differentiation, excess capacity, advertising/selling costs, Dorfman-Steiner advertising rule",
+         "asked": 3,
+         "recent": 1,
+         "priority": "Core",
+         "status": "not_started"
+        },
+        {
+         "id": "1.5h",
+         "name": "Oligopoly: Cournot, Bertrand, Stackelberg, kinked demand (Sweezy), cartels, price leadership, limit pricing (Bain), full-cost pricing (Hall and Hitch)",
+         "asked": 13,
+         "recent": 7,
+         "priority": "Core",
+         "status": "not_started"
+        },
+        {
+         "id": "1.5i",
+         "name": "Comparing market structures (matching features)",
+         "asked": 1,
+         "recent": 1,
+         "priority": "Standard",
+         "status": "not_started"
+        }
+       ]
       },
       {
        "id": "1.6",
        "name": "Factor Pricing",
        "status": "not_started",
        "acc": null,
-       "note": ""
+       "note": "",
+       "subtopics": [
+        {
+         "id": "1.6a",
+         "name": "Marginal productivity theory: VMP, MRP, derived demand for labour; competitive vs monopoly product market (VMP > MRP); shifts in labour demand",
+         "asked": 4,
+         "recent": 1,
+         "priority": "Core",
+         "status": "not_started"
+        },
+        {
+         "id": "1.6b",
+         "name": "Product exhaustion (Euler; Clark-Wicksteed); factor shares and the elasticity of substitution",
+         "asked": 2,
+         "recent": 1,
+         "priority": "Standard",
+         "status": "not_started"
+        },
+        {
+         "id": "1.6c",
+         "name": "Wages: minimum wage effects (competitive and monopsony), labour-demand elasticity, efficiency wage",
+         "asked": 3,
+         "recent": 1,
+         "priority": "Standard",
+         "status": "not_started"
+        },
+        {
+         "id": "1.6d",
+         "name": "Rent: Ricardian rent, quasi-rent (Marshall), modern theory (Joan Robinson), transfer earnings",
+         "asked": 1,
+         "recent": 0,
+         "priority": "Standard",
+         "status": "not_started"
+        },
+        {
+         "id": "1.6e",
+         "name": "Interest: time-preference theory (Böhm-Bawerk, Fisher), loanable funds, liquidity preference",
+         "asked": 1,
+         "recent": 0,
+         "priority": "Standard",
+         "status": "not_started"
+        },
+        {
+         "id": "1.6f",
+         "name": "Profit: Knight (uncertainty), Schumpeter (innovation), Clark (dynamic), Kalecki (degree of monopoly)",
+         "asked": 1,
+         "recent": 0,
+         "priority": "Standard",
+         "status": "not_started"
+        }
+       ]
       },
       {
        "id": "1.7",
        "name": "General Equilibrium Analysis",
        "status": "not_started",
        "acc": null,
-       "note": ""
+       "note": "",
+       "subtopics": [
+        {
+         "id": "1.7a",
+         "name": "Partial vs general equilibrium; Walrasian system; Walras' law; excess demand functions (homogeneous of degree zero in prices)",
+         "asked": 3,
+         "recent": 1,
+         "priority": "Core",
+         "status": "not_started"
+        },
+        {
+         "id": "1.7b",
+         "name": "Existence, uniqueness, stability; Arrow-Debreu model (goods dated and located; contingent commodities)",
+         "asked": 2,
+         "recent": 0,
+         "priority": "Standard",
+         "status": "not_started"
+        },
+        {
+         "id": "1.7c",
+         "name": "Edgeworth box (exchange and production), contract curve, core; production possibility frontier and MRT (MCx/MCy); straight-line PPF",
+         "asked": 5,
+         "recent": 0,
+         "priority": "Core",
+         "status": "not_started"
+        }
+       ]
       },
       {
        "id": "1.8",
        "name": "Efficiency criteria: Pareto optimality, Kaldor-Hicks, wealth maximisation",
        "status": "not_started",
        "acc": null,
-       "note": ""
+       "note": "",
+       "subtopics": [
+        {
+         "id": "1.8a",
+         "name": "Pareto optimality: definition; three marginal conditions (exchange MRS, production MRTS, product-mix MRS = MRT); technical efficiency",
+         "asked": 6,
+         "recent": 1,
+         "priority": "Core",
+         "status": "not_started"
+        },
+        {
+         "id": "1.8b",
+         "name": "Compensation criteria: Kaldor, Hicks, Scitovsky (double test, reversal paradox), Little",
+         "asked": 2,
+         "recent": 0,
+         "priority": "Standard",
+         "status": "not_started"
+        }
+       ]
       },
       {
        "id": "1.9",
        "name": "Welfare Economics: fundamental theorems, social welfare function",
        "status": "not_started",
        "acc": null,
-       "note": ""
+       "note": "",
+       "subtopics": [
+        {
+         "id": "1.9a",
+         "name": "First and second fundamental theorems and their conditions",
+         "asked": 4,
+         "recent": 2,
+         "priority": "Core",
+         "status": "not_started"
+        },
+        {
+         "id": "1.9b",
+         "name": "Social welfare functions: Bergson-Samuelson, utilitarian (Bentham), Rawlsian (maximin); social indifference curves; utility possibility frontier",
+         "asked": 2,
+         "recent": 1,
+         "priority": "Standard",
+         "status": "not_started"
+        }
+       ]
       },
       {
        "id": "1.10",
        "name": "Asymmetric information: adverse selection and moral hazard",
        "status": "not_started",
        "acc": null,
-       "note": ""
+       "note": "",
+       "subtopics": [
+        {
+         "id": "1.10a",
+         "name": "Adverse selection: Akerlof's market for lemons (Nobel 2001), insurance and credit markets",
+         "asked": 4,
+         "recent": 0,
+         "priority": "Core",
+         "status": "not_started"
+        },
+        {
+         "id": "1.10b",
+         "name": "Signalling (Spence) and screening",
+         "asked": 1,
+         "recent": 1,
+         "priority": "Standard",
+         "status": "not_started"
+        },
+        {
+         "id": "1.10c",
+         "name": "Moral hazard (hidden action after the contract), principal-agent; farm-loan waivers as moral hazard",
+         "asked": 2,
+         "recent": 0,
+         "priority": "Standard",
+         "status": "not_started"
+        }
+       ]
       }
      ]
     },
@@ -136,7 +564,8 @@
        "name": "National Income: concepts and measurement",
        "status": "not_started",
        "acc": null,
-       "note": ""
+       "note": "",
+       "subtopics": []
       },
       {
        "id": "2.2",
@@ -148,77 +577,88 @@
         "pct": 100.0,
         "last": "2026-10-07"
        },
-       "note": ""
+       "note": "",
+       "subtopics": []
       },
       {
        "id": "2.3",
        "name": "Consumption Function",
        "status": "not_started",
        "acc": null,
-       "note": ""
+       "note": "",
+       "subtopics": []
       },
       {
        "id": "2.4",
        "name": "Investment Function",
        "status": "not_started",
        "acc": null,
-       "note": ""
+       "note": "",
+       "subtopics": []
       },
       {
        "id": "2.5",
        "name": "Multiplier and Accelerator",
        "status": "not_started",
        "acc": null,
-       "note": ""
+       "note": "",
+       "subtopics": []
       },
       {
        "id": "2.6",
        "name": "Demand for Money",
        "status": "not_started",
        "acc": null,
-       "note": ""
+       "note": "",
+       "subtopics": []
       },
       {
        "id": "2.7",
        "name": "Supply of Money",
        "status": "not_started",
        "acc": null,
-       "note": ""
+       "note": "",
+       "subtopics": []
       },
       {
        "id": "2.8",
        "name": "IS-LM Model Approach",
        "status": "not_started",
        "acc": null,
-       "note": ""
+       "note": "",
+       "subtopics": []
       },
       {
        "id": "2.9",
        "name": "Inflation and Phillips Curve Analysis",
        "status": "not_started",
        "acc": null,
-       "note": ""
+       "note": "",
+       "subtopics": []
       },
       {
        "id": "2.10",
        "name": "Business Cycles",
        "status": "not_started",
        "acc": null,
-       "note": ""
+       "note": "",
+       "subtopics": []
       },
       {
        "id": "2.11",
        "name": "Monetary and Fiscal Policy",
        "status": "not_started",
        "acc": null,
-       "note": ""
+       "note": "",
+       "subtopics": []
       },
       {
        "id": "2.12",
        "name": "Rational Expectations Hypothesis and its critique",
        "status": "not_started",
        "acc": null,
-       "note": ""
+       "note": "",
+       "subtopics": []
       }
      ]
     },
@@ -244,42 +684,48 @@
        "name": "Components of money supply",
        "status": "not_started",
        "acc": null,
-       "note": ""
+       "note": "",
+       "subtopics": []
       },
       {
        "id": "7.2",
        "name": "Central bank",
        "status": "not_started",
        "acc": null,
-       "note": ""
+       "note": "",
+       "subtopics": []
       },
       {
        "id": "7.3",
        "name": "Commercial banking",
        "status": "not_started",
        "acc": null,
-       "note": ""
+       "note": "",
+       "subtopics": []
       },
       {
        "id": "7.4",
        "name": "Instruments and working of monetary policy",
        "status": "not_started",
        "acc": null,
-       "note": ""
+       "note": "",
+       "subtopics": []
       },
       {
        "id": "7.5",
        "name": "Non-banking financial institutions",
        "status": "not_started",
        "acc": null,
-       "note": ""
+       "note": "",
+       "subtopics": []
       },
       {
        "id": "7.6",
        "name": "Capital market and its regulation",
        "status": "not_started",
        "acc": null,
-       "note": ""
+       "note": "",
+       "subtopics": []
       }
      ]
     },
@@ -305,70 +751,80 @@
        "name": "International trade: basic concepts and analytical tools",
        "status": "not_started",
        "acc": null,
-       "note": ""
+       "note": "",
+       "subtopics": []
       },
       {
        "id": "5.2",
        "name": "Theories of international trade",
        "status": "not_started",
        "acc": null,
-       "note": ""
+       "note": "",
+       "subtopics": []
       },
       {
        "id": "5.3",
        "name": "International trade under imperfect competition",
        "status": "not_started",
        "acc": null,
-       "note": ""
+       "note": "",
+       "subtopics": []
       },
       {
        "id": "5.4",
        "name": "Balance of Payments: composition, equilibrium, disequilibrium, adjustment mechanisms",
        "status": "not_started",
        "acc": null,
-       "note": ""
+       "note": "",
+       "subtopics": []
       },
       {
        "id": "5.5",
        "name": "Exchange rate: concepts and theories",
        "status": "not_started",
        "acc": null,
-       "note": ""
+       "note": "",
+       "subtopics": []
       },
       {
        "id": "5.6",
        "name": "Foreign exchange market and arbitrage",
        "status": "not_started",
        "acc": null,
-       "note": ""
+       "note": "",
+       "subtopics": []
       },
       {
        "id": "5.7",
        "name": "Gains from trade, terms of trade, trade multiplier",
        "status": "not_started",
        "acc": null,
-       "note": ""
+       "note": "",
+       "subtopics": []
       },
       {
        "id": "5.8",
        "name": "Tariff and non-tariff barriers; dumping",
        "status": "not_started",
        "acc": null,
-       "note": ""
+       "note": "",
+       "subtopics": []
       },
       {
        "id": "5.9",
        "name": "GATT, WTO and regional trade blocks; trade policy issues",
        "status": "not_started",
        "acc": null,
-       "note": ""
+       "note": "",
+       "subtopics": []
       },
       {
        "id": "5.10",
        "name": "IMF and World Bank",
        "status": "not_started",
        "acc": null,
-       "note": ""
+       "note": "",
+       "subtopics": []
       }
      ]
     },
@@ -394,49 +850,56 @@
        "name": "Market failure and remedies: asymmetric information, public goods, externality",
        "status": "not_started",
        "acc": null,
-       "note": ""
+       "note": "",
+       "subtopics": []
       },
       {
        "id": "6.2",
        "name": "Regulation of markets: collusion and consumers' welfare",
        "status": "not_started",
        "acc": null,
-       "note": ""
+       "note": "",
+       "subtopics": []
       },
       {
        "id": "6.3",
        "name": "Public revenue: tax and non-tax, direct and indirect, progressive and non-progressive, incidence and effects of taxation",
        "status": "not_started",
        "acc": null,
-       "note": ""
+       "note": "",
+       "subtopics": []
       },
       {
        "id": "6.4",
        "name": "Public expenditure",
        "status": "not_started",
        "acc": null,
-       "note": ""
+       "note": "",
+       "subtopics": []
       },
       {
        "id": "6.5",
        "name": "Public debt and its management",
        "status": "not_started",
        "acc": null,
-       "note": ""
+       "note": "",
+       "subtopics": []
       },
       {
        "id": "6.6",
        "name": "Public budget and budget multiplier",
        "status": "not_started",
        "acc": null,
-       "note": ""
+       "note": "",
+       "subtopics": []
       },
       {
        "id": "6.7",
        "name": "Fiscal policy and its implications",
        "status": "not_started",
        "acc": null,
-       "note": ""
+       "note": "",
+       "subtopics": []
       }
      ]
     },
@@ -462,70 +925,80 @@
        "name": "Environment as a public good",
        "status": "not_started",
        "acc": null,
-       "note": ""
+       "note": "",
+       "subtopics": []
       },
       {
        "id": "9.2",
        "name": "Market failure",
        "status": "not_started",
        "acc": null,
-       "note": ""
+       "note": "",
+       "subtopics": []
       },
       {
        "id": "9.3",
        "name": "Coase Theorem",
        "status": "not_started",
        "acc": null,
-       "note": ""
+       "note": "",
+       "subtopics": []
       },
       {
        "id": "9.4",
        "name": "Cost-benefit analysis and compensation criteria",
        "status": "not_started",
        "acc": null,
-       "note": ""
+       "note": "",
+       "subtopics": []
       },
       {
        "id": "9.5",
        "name": "Valuation of environmental goods",
        "status": "not_started",
        "acc": null,
-       "note": ""
+       "note": "",
+       "subtopics": []
       },
       {
        "id": "9.6",
        "name": "Theories of population",
        "status": "not_started",
        "acc": null,
-       "note": ""
+       "note": "",
+       "subtopics": []
       },
       {
        "id": "9.7",
        "name": "Concepts and measures: fertility, morbidity, mortality",
        "status": "not_started",
        "acc": null,
-       "note": ""
+       "note": "",
+       "subtopics": []
       },
       {
        "id": "9.8",
        "name": "Age structure, demographic dividend",
        "status": "not_started",
        "acc": null,
-       "note": ""
+       "note": "",
+       "subtopics": []
       },
       {
        "id": "9.9",
        "name": "Life table",
        "status": "not_started",
        "acc": null,
-       "note": ""
+       "note": "",
+       "subtopics": []
       },
       {
        "id": "9.10",
        "name": "Migration",
        "status": "not_started",
        "acc": null,
-       "note": ""
+       "note": "",
+       "subtopics": []
       }
      ]
     },
@@ -551,49 +1024,56 @@
        "name": "Economic growth and economic development",
        "status": "not_started",
        "acc": null,
-       "note": ""
+       "note": "",
+       "subtopics": []
       },
       {
        "id": "8.2",
        "name": "Theories of development: Smith, Ricardo, Marx, Schumpeter, Rostow, balanced and unbalanced growth, Big Push",
        "status": "not_started",
        "acc": null,
-       "note": ""
+       "note": "",
+       "subtopics": []
       },
       {
        "id": "8.3",
        "name": "Growth models: Harrod-Domar, Solow, Robinson, Kaldor",
        "status": "not_started",
        "acc": null,
-       "note": ""
+       "note": "",
+       "subtopics": []
       },
       {
        "id": "8.4",
        "name": "Technical progress: disembodied and embodied; endogenous growth",
        "status": "not_started",
        "acc": null,
-       "note": ""
+       "note": "",
+       "subtopics": []
       },
       {
        "id": "8.5",
        "name": "Indicators of development: PQLI, HDI, SDGs",
        "status": "not_started",
        "acc": null,
-       "note": ""
+       "note": "",
+       "subtopics": []
       },
       {
        "id": "8.6",
        "name": "Poverty and inequality: concepts and measurement",
        "status": "not_started",
        "acc": null,
-       "note": ""
+       "note": "",
+       "subtopics": []
       },
       {
        "id": "8.7",
        "name": "Social sector development: health, education, gender",
        "status": "not_started",
        "acc": null,
-       "note": ""
+       "note": "",
+       "subtopics": []
       }
      ]
     },
@@ -619,42 +1099,48 @@
        "name": "Sets, functions and continuity, sequence, series",
        "status": "not_started",
        "acc": null,
-       "note": ""
+       "note": "",
+       "subtopics": []
       },
       {
        "id": "4.2",
        "name": "Differential calculus and its applications",
        "status": "not_started",
        "acc": null,
-       "note": ""
+       "note": "",
+       "subtopics": []
       },
       {
        "id": "4.3",
        "name": "Linear algebra: matrices, vector spaces",
        "status": "not_started",
        "acc": null,
-       "note": ""
+       "note": "",
+       "subtopics": []
       },
       {
        "id": "4.4",
        "name": "Static optimisation problems and their applications",
        "status": "not_started",
        "acc": null,
-       "note": ""
+       "note": "",
+       "subtopics": []
       },
       {
        "id": "4.5",
        "name": "Input-Output model, Linear Programming",
        "status": "not_started",
        "acc": null,
-       "note": ""
+       "note": "",
+       "subtopics": []
       },
       {
        "id": "4.6",
        "name": "Difference and differential equations with applications",
        "status": "not_started",
        "acc": null,
-       "note": ""
+       "note": "",
+       "subtopics": []
       }
      ]
     },
@@ -680,63 +1166,72 @@
        "name": "Probability theory: concepts, distributions, moments, Central Limit Theorem",
        "status": "not_started",
        "acc": null,
-       "note": ""
+       "note": "",
+       "subtopics": []
       },
       {
        "id": "3.2",
        "name": "Descriptive statistics: central tendency, dispersion, correlation, index numbers",
        "status": "not_started",
        "acc": null,
-       "note": ""
+       "note": "",
+       "subtopics": []
       },
       {
        "id": "3.3",
        "name": "Sampling methods and sampling distributions",
        "status": "not_started",
        "acc": null,
-       "note": ""
+       "note": "",
+       "subtopics": []
       },
       {
        "id": "3.4",
        "name": "Statistical inference and hypothesis testing",
        "status": "not_started",
        "acc": null,
-       "note": ""
+       "note": "",
+       "subtopics": []
       },
       {
        "id": "3.5",
        "name": "Linear regression models and their properties: BLUE",
        "status": "not_started",
        "acc": null,
-       "note": ""
+       "note": "",
+       "subtopics": []
       },
       {
        "id": "3.6",
        "name": "Identification problem",
        "status": "not_started",
        "acc": null,
-       "note": ""
+       "note": "",
+       "subtopics": []
       },
       {
        "id": "3.7",
        "name": "Simultaneous equation models: recursive and non-recursive",
        "status": "not_started",
        "acc": null,
-       "note": ""
+       "note": "",
+       "subtopics": []
       },
       {
        "id": "3.8",
        "name": "Discrete choice models",
        "status": "not_started",
        "acc": null,
-       "note": ""
+       "note": "",
+       "subtopics": []
       },
       {
        "id": "3.9",
        "name": "Time series analysis",
        "status": "not_started",
        "acc": null,
-       "note": ""
+       "note": "",
+       "subtopics": []
       }
      ]
     },
@@ -762,77 +1257,88 @@
        "name": "Economic growth in India: pattern and structure",
        "status": "not_started",
        "acc": null,
-       "note": ""
+       "note": "",
+       "subtopics": []
       },
       {
        "id": "10.2",
        "name": "Agriculture: growth pattern, challenges, policy responses",
        "status": "not_started",
        "acc": null,
-       "note": ""
+       "note": "",
+       "subtopics": []
       },
       {
        "id": "10.3",
        "name": "Industry: growth pattern, challenges, policy responses",
        "status": "not_started",
        "acc": null,
-       "note": ""
+       "note": "",
+       "subtopics": []
       },
       {
        "id": "10.4",
        "name": "Services: growth pattern, challenges, policy responses",
        "status": "not_started",
        "acc": null,
-       "note": ""
+       "note": "",
+       "subtopics": []
       },
       {
        "id": "10.5",
        "name": "Rural development: issues, challenges, policy responses",
        "status": "not_started",
        "acc": null,
-       "note": ""
+       "note": "",
+       "subtopics": []
       },
       {
        "id": "10.6",
        "name": "Urban development: issues, challenges, policy responses",
        "status": "not_started",
        "acc": null,
-       "note": ""
+       "note": "",
+       "subtopics": []
       },
       {
        "id": "10.7",
        "name": "Foreign trade: structure and direction, BOP, foreign capital flows, trade policies",
        "status": "not_started",
        "acc": null,
-       "note": ""
+       "note": "",
+       "subtopics": []
       },
       {
        "id": "10.8",
        "name": "Infrastructure development: physical and social; public-private partnerships",
        "status": "not_started",
        "acc": null,
-       "note": ""
+       "note": "",
+       "subtopics": []
       },
       {
        "id": "10.9",
        "name": "Reforms in land, labour and capital markets",
        "status": "not_started",
        "acc": null,
-       "note": ""
+       "note": "",
+       "subtopics": []
       },
       {
        "id": "10.10",
        "name": "Centre-State financial relations, Finance Commissions, FRBM",
        "status": "not_started",
        "acc": null,
-       "note": ""
+       "note": "",
+       "subtopics": []
       },
       {
        "id": "10.11",
        "name": "Poverty, inequality and unemployment",
        "status": "not_started",
        "acc": null,
-       "note": ""
+       "note": "",
+       "subtopics": []
       }
      ]
     }
@@ -874,42 +1380,48 @@
        "name": "Teaching: concept, objectives, levels (memory, understanding, reflective), characteristics",
        "status": "not_started",
        "acc": null,
-       "note": ""
+       "note": "",
+       "subtopics": []
       },
       {
        "id": "I-1.2",
        "name": "Learner's characteristics (adolescent and adult learners), individual differences",
        "status": "not_started",
        "acc": null,
-       "note": ""
+       "note": "",
+       "subtopics": []
       },
       {
        "id": "I-1.3",
        "name": "Factors affecting teaching (teacher, learner, support material, facilities, environment, institution)",
        "status": "not_started",
        "acc": null,
-       "note": ""
+       "note": "",
+       "subtopics": []
       },
       {
        "id": "I-1.4",
        "name": "Methods of teaching: teacher- vs learner-centred, offline vs online (SWAYAM, SWAYAM Prabha, MOOCs)",
        "status": "not_started",
        "acc": null,
-       "note": ""
+       "note": "",
+       "subtopics": []
       },
       {
        "id": "I-1.5",
        "name": "Teaching support system: traditional, modern, ICT-based",
        "status": "not_started",
        "acc": null,
-       "note": ""
+       "note": "",
+       "subtopics": []
       },
       {
        "id": "I-1.6",
        "name": "Evaluation systems: elements, types, CBCS, computer-based testing, innovations",
        "status": "not_started",
        "acc": null,
-       "note": ""
+       "note": "",
+       "subtopics": []
       }
      ]
     },
@@ -935,42 +1447,48 @@
        "name": "Research: meaning, types, characteristics; positivism and post-positivism",
        "status": "not_started",
        "acc": null,
-       "note": ""
+       "note": "",
+       "subtopics": []
       },
       {
        "id": "I-2.2",
        "name": "Methods of research: experimental, descriptive, historical, qualitative, quantitative",
        "status": "not_started",
        "acc": null,
-       "note": ""
+       "note": "",
+       "subtopics": []
       },
       {
        "id": "I-2.3",
        "name": "Steps of research",
        "status": "not_started",
        "acc": null,
-       "note": ""
+       "note": "",
+       "subtopics": []
       },
       {
        "id": "I-2.4",
        "name": "Thesis and article writing: format and referencing styles",
        "status": "not_started",
        "acc": null,
-       "note": ""
+       "note": "",
+       "subtopics": []
       },
       {
        "id": "I-2.5",
        "name": "Application of ICT in research",
        "status": "not_started",
        "acc": null,
-       "note": ""
+       "note": "",
+       "subtopics": []
       },
       {
        "id": "I-2.6",
        "name": "Research ethics",
        "status": "not_started",
        "acc": null,
-       "note": ""
+       "note": "",
+       "subtopics": []
       }
      ]
     },
@@ -996,35 +1514,40 @@
        "name": "Sources, acquisition and classification of data",
        "status": "not_started",
        "acc": null,
-       "note": ""
+       "note": "",
+       "subtopics": []
       },
       {
        "id": "I-7.2",
        "name": "Quantitative and qualitative data",
        "status": "not_started",
        "acc": null,
-       "note": ""
+       "note": "",
+       "subtopics": []
       },
       {
        "id": "I-7.3",
        "name": "Graphical representation and mapping of data",
        "status": "not_started",
        "acc": null,
-       "note": ""
+       "note": "",
+       "subtopics": []
       },
       {
        "id": "I-7.4",
        "name": "Data interpretation",
        "status": "not_started",
        "acc": null,
-       "note": ""
+       "note": "",
+       "subtopics": []
       },
       {
        "id": "I-7.5",
        "name": "Data and governance",
        "status": "not_started",
        "acc": null,
-       "note": ""
+       "note": "",
+       "subtopics": []
       }
      ]
     },
@@ -1050,21 +1573,24 @@
        "name": "Types of reasoning",
        "status": "not_started",
        "acc": null,
-       "note": ""
+       "note": "",
+       "subtopics": []
       },
       {
        "id": "I-5.2",
        "name": "Number series, letter series, codes and relationships",
        "status": "not_started",
        "acc": null,
-       "note": ""
+       "note": "",
+       "subtopics": []
       },
       {
        "id": "I-5.3",
        "name": "Mathematical aptitude: fractions, time and distance, ratio, proportion, percentage, profit and loss, interest and discounting, averages",
        "status": "not_started",
        "acc": null,
-       "note": ""
+       "note": "",
+       "subtopics": []
       }
      ]
     },
@@ -1090,42 +1616,48 @@
        "name": "Structure of arguments: forms, categorical propositions, mood and figure, fallacies, uses of language, connotation/denotation, square of opposition",
        "status": "not_started",
        "acc": null,
-       "note": ""
+       "note": "",
+       "subtopics": []
       },
       {
        "id": "I-6.2",
        "name": "Deductive vs inductive reasoning",
        "status": "not_started",
        "acc": null,
-       "note": ""
+       "note": "",
+       "subtopics": []
       },
       {
        "id": "I-6.3",
        "name": "Analogies",
        "status": "not_started",
        "acc": null,
-       "note": ""
+       "note": "",
+       "subtopics": []
       },
       {
        "id": "I-6.4",
        "name": "Venn diagrams for validity of arguments",
        "status": "not_started",
        "acc": null,
-       "note": ""
+       "note": "",
+       "subtopics": []
       },
       {
        "id": "I-6.5",
        "name": "Indian logic: means of knowledge; Pramanas",
        "status": "not_started",
        "acc": null,
-       "note": ""
+       "note": "",
+       "subtopics": []
       },
       {
        "id": "I-6.6",
        "name": "Anumana (inference): structure and kinds, Vyapti, Hetvabhasas",
        "status": "not_started",
        "acc": null,
-       "note": ""
+       "note": "",
+       "subtopics": []
       }
      ]
     },
@@ -1151,28 +1683,32 @@
        "name": "Communication: meaning, types, characteristics",
        "status": "not_started",
        "acc": null,
-       "note": ""
+       "note": "",
+       "subtopics": []
       },
       {
        "id": "I-4.2",
        "name": "Effective communication: verbal, non-verbal, inter-cultural, group, classroom",
        "status": "not_started",
        "acc": null,
-       "note": ""
+       "note": "",
+       "subtopics": []
       },
       {
        "id": "I-4.3",
        "name": "Barriers to effective communication",
        "status": "not_started",
        "acc": null,
-       "note": ""
+       "note": "",
+       "subtopics": []
       },
       {
        "id": "I-4.4",
        "name": "Mass media and society",
        "status": "not_started",
        "acc": null,
-       "note": ""
+       "note": "",
+       "subtopics": []
       }
      ]
     },
@@ -1198,28 +1734,32 @@
        "name": "ICT abbreviations and terminology",
        "status": "not_started",
        "acc": null,
-       "note": ""
+       "note": "",
+       "subtopics": []
       },
       {
        "id": "I-8.2",
        "name": "Internet, intranet, e-mail, audio and video conferencing",
        "status": "not_started",
        "acc": null,
-       "note": ""
+       "note": "",
+       "subtopics": []
       },
       {
        "id": "I-8.3",
        "name": "Digital initiatives in higher education",
        "status": "not_started",
        "acc": null,
-       "note": ""
+       "note": "",
+       "subtopics": []
       },
       {
        "id": "I-8.4",
        "name": "ICT and governance",
        "status": "not_started",
        "acc": null,
-       "note": ""
+       "note": "",
+       "subtopics": []
       }
      ]
     },
@@ -1245,49 +1785,56 @@
        "name": "Development and environment: MDGs and SDGs",
        "status": "not_started",
        "acc": null,
-       "note": ""
+       "note": "",
+       "subtopics": []
       },
       {
        "id": "I-9.2",
        "name": "Human-environment interaction: anthropogenic activities and impacts",
        "status": "not_started",
        "acc": null,
-       "note": ""
+       "note": "",
+       "subtopics": []
       },
       {
        "id": "I-9.3",
        "name": "Environmental issues: pollution types, waste, climate change",
        "status": "not_started",
        "acc": null,
-       "note": ""
+       "note": "",
+       "subtopics": []
       },
       {
        "id": "I-9.4",
        "name": "Impacts of pollutants on human health",
        "status": "not_started",
        "acc": null,
-       "note": ""
+       "note": "",
+       "subtopics": []
       },
       {
        "id": "I-9.5",
        "name": "Natural and energy resources",
        "status": "not_started",
        "acc": null,
-       "note": ""
+       "note": "",
+       "subtopics": []
       },
       {
        "id": "I-9.6",
        "name": "Natural hazards and disasters: mitigation",
        "status": "not_started",
        "acc": null,
-       "note": ""
+       "note": "",
+       "subtopics": []
       },
       {
        "id": "I-9.7",
        "name": "EPA 1986, NAPCC, international agreements (Montreal, Rio, CBD, Kyoto, Paris, ISA)",
        "status": "not_started",
        "acc": null,
-       "note": ""
+       "note": "",
+       "subtopics": []
       }
      ]
     },
@@ -1313,42 +1860,48 @@
        "name": "Higher learning in ancient India",
        "status": "not_started",
        "acc": null,
-       "note": ""
+       "note": "",
+       "subtopics": []
       },
       {
        "id": "I-10.2",
        "name": "Evolution of higher learning and research after Independence",
        "status": "not_started",
        "acc": null,
-       "note": ""
+       "note": "",
+       "subtopics": []
       },
       {
        "id": "I-10.3",
        "name": "Oriental, conventional and non-conventional programmes",
        "status": "not_started",
        "acc": null,
-       "note": ""
+       "note": "",
+       "subtopics": []
       },
       {
        "id": "I-10.4",
        "name": "Professional, technical and skill-based education",
        "status": "not_started",
        "acc": null,
-       "note": ""
+       "note": "",
+       "subtopics": []
       },
       {
        "id": "I-10.5",
        "name": "Value education and environmental education",
        "status": "not_started",
        "acc": null,
-       "note": ""
+       "note": "",
+       "subtopics": []
       },
       {
        "id": "I-10.6",
        "name": "Policies, governance and administration",
        "status": "not_started",
        "acc": null,
-       "note": ""
+       "note": "",
+       "subtopics": []
       }
      ]
     },
@@ -1374,7 +1927,8 @@
        "name": "Reading a passage and answering questions",
        "status": "not_started",
        "acc": null,
-       "note": ""
+       "note": "",
+       "subtopics": []
       }
      ]
     }
@@ -2194,7 +2748,97 @@
   "name": "Theory of Consumer Behaviour",
   "status": "learning",
   "acc": null,
-  "note": "Fast session 2026-10-07 (quiz not graded); being re-taught in classroom mode"
+  "note": "Fast session 2026-10-07 (quiz not graded); being re-taught in classroom mode",
+  "subtopics": [
+   {
+    "id": "1.1a",
+    "name": "Preferences: completeness, transitivity, monotonicity, convexity, continuity; lexicographic preferences; ordinal utility and monotonic transformations",
+    "asked": 5,
+    "recent": 5,
+    "priority": "Core",
+    "status": "not_started"
+   },
+   {
+    "id": "1.1b",
+    "name": "Cardinal utility (Marshall): diminishing marginal utility, equi-marginal principle, water-diamond paradox",
+    "asked": 1,
+    "recent": 1,
+    "priority": "Standard",
+    "status": "not_started"
+   },
+   {
+    "id": "1.1c",
+    "name": "Indifference curves, budget line, consumer equilibrium (MRS = price ratio); perfect substitutes and perfect complements; corner solutions; utility maximisation numericals",
+    "asked": 5,
+    "recent": 4,
+    "priority": "Core",
+    "status": "not_started"
+   },
+   {
+    "id": "1.1d",
+    "name": "Income effect: income-consumption curve (ICC), Engel curve, normal / inferior / luxury goods, Engel's law",
+    "asked": 5,
+    "recent": 1,
+    "priority": "Core",
+    "status": "not_started"
+   },
+   {
+    "id": "1.1e",
+    "name": "Price effect: substitution and income effects (Hicks and Slutsky versions), Giffen goods, why demand slopes down; income and substitution effects of a tax",
+    "asked": 7,
+    "recent": 3,
+    "priority": "Core",
+    "status": "not_started"
+   },
+   {
+    "id": "1.1f",
+    "name": "Revealed preference (Samuelson): weak and strong axioms; why it cannot explain the Giffen case",
+    "asked": 2,
+    "recent": 0,
+    "priority": "Standard",
+    "status": "not_started"
+   },
+   {
+    "id": "1.1g",
+    "name": "Demand: inverse demand function, complements/substitutes, exceptions to the law of demand (Veblen, snob, bandwagon)",
+    "asked": 3,
+    "recent": 0,
+    "priority": "Core",
+    "status": "not_started"
+   },
+   {
+    "id": "1.1h",
+    "name": "Elasticities: price (point, arc, on linear and parallel demand curves, constant-elasticity form), income, cross; relation of MR, AR and elasticity; sum of elasticities = 0 (homogeneity); elasticity and total revenue; supply elasticity of a line through the origin",
+    "asked": 11,
+    "recent": 2,
+    "priority": "Core",
+    "status": "not_started"
+   },
+   {
+    "id": "1.1i",
+    "name": "Consumer surplus (Marshall): definition, calculation from a demand function by integration",
+    "asked": 5,
+    "recent": 2,
+    "priority": "Core",
+    "status": "not_started"
+   },
+   {
+    "id": "1.1j",
+    "name": "Duality: indirect utility function, expenditure function, Marshallian vs Hicksian demand, Roy's identity, Shephard's lemma, Slutsky equation; Gorman form (aggregation)",
+    "asked": 2,
+    "recent": 2,
+    "priority": "Core",
+    "status": "not_started"
+   },
+   {
+    "id": "1.1k",
+    "name": "History: chronology of consumer theories (Marshall 1890 → Hicks-Allen 1934 → Samuelson 1938 → Stone's linear expenditure system 1954); who did what",
+    "asked": 3,
+    "recent": 1,
+    "priority": "Core",
+    "status": "not_started"
+   }
+  ]
  },
  "nudges": [
   {
