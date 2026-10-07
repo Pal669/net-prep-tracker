@@ -1,0 +1,2231 @@
+{
+ "generated": "2026-10-08T00:30",
+ "today": "2026-10-08",
+ "exam": {
+  "date": "2026-12-14",
+  "label": "ESTIMATE",
+  "basis": "NTA has not notified the December 2026 dates; aggregators say 14-19 Dec 2026 or 31 Dec 2026-7 Jan 2027. Earliest date used. Update when NTA notifies.",
+  "days_left": 67
+ },
+ "status_labels": {
+  "not_started": "Not started",
+  "learning": "Learning",
+  "understood": "Understood (test pending)",
+  "practising": "Practising",
+  "mastered": "Mastered"
+ },
+ "papers": [
+  {
+   "key": "P2",
+   "name": "Paper II — Economics",
+   "marks": 200,
+   "units": [
+    {
+     "unit": 1,
+     "name": "Micro Economics",
+     "folder": "01-Micro",
+     "counts": {
+      "not_started": 9,
+      "learning": 1,
+      "understood": 0,
+      "practising": 0,
+      "mastered": 0
+     },
+     "total": 10,
+     "done": 0,
+     "acc": null,
+     "target": "2026-10-20",
+     "open_mistakes": 0,
+     "topics": [
+      {
+       "id": "1.1",
+       "name": "Theory of Consumer Behaviour",
+       "status": "learning",
+       "acc": null,
+       "note": "Fast session 2026-10-07 (quiz not graded); being re-taught in classroom mode"
+      },
+      {
+       "id": "1.2",
+       "name": "Theory of Production and Costs",
+       "status": "not_started",
+       "acc": null,
+       "note": ""
+      },
+      {
+       "id": "1.3",
+       "name": "Decision making under uncertainty; attitude towards risk",
+       "status": "not_started",
+       "acc": null,
+       "note": ""
+      },
+      {
+       "id": "1.4",
+       "name": "Game Theory: non-cooperative games",
+       "status": "not_started",
+       "acc": null,
+       "note": ""
+      },
+      {
+       "id": "1.5",
+       "name": "Market structures: competitive and non-competitive equilibria and their efficiency",
+       "status": "not_started",
+       "acc": null,
+       "note": ""
+      },
+      {
+       "id": "1.6",
+       "name": "Factor Pricing",
+       "status": "not_started",
+       "acc": null,
+       "note": ""
+      },
+      {
+       "id": "1.7",
+       "name": "General Equilibrium Analysis",
+       "status": "not_started",
+       "acc": null,
+       "note": ""
+      },
+      {
+       "id": "1.8",
+       "name": "Efficiency criteria: Pareto optimality, Kaldor-Hicks, wealth maximisation",
+       "status": "not_started",
+       "acc": null,
+       "note": ""
+      },
+      {
+       "id": "1.9",
+       "name": "Welfare Economics: fundamental theorems, social welfare function",
+       "status": "not_started",
+       "acc": null,
+       "note": ""
+      },
+      {
+       "id": "1.10",
+       "name": "Asymmetric information: adverse selection and moral hazard",
+       "status": "not_started",
+       "acc": null,
+       "note": ""
+      }
+     ]
+    },
+    {
+     "unit": 2,
+     "name": "Macro Economics",
+     "folder": "02-Macro",
+     "counts": {
+      "not_started": 12,
+      "learning": 0,
+      "understood": 0,
+      "practising": 0,
+      "mastered": 0
+     },
+     "total": 12,
+     "done": 0,
+     "acc": {
+      "right": 1,
+      "n": 1,
+      "pct": 100.0,
+      "last": "2026-10-07"
+     },
+     "target": "2026-10-27",
+     "open_mistakes": 0,
+     "topics": [
+      {
+       "id": "2.1",
+       "name": "National Income: concepts and measurement",
+       "status": "not_started",
+       "acc": null,
+       "note": ""
+      },
+      {
+       "id": "2.2",
+       "name": "Determination of output and employment: Classical and Keynesian approach",
+       "status": "not_started",
+       "acc": {
+        "right": 1,
+        "n": 1,
+        "pct": 100.0,
+        "last": "2026-10-07"
+       },
+       "note": ""
+      },
+      {
+       "id": "2.3",
+       "name": "Consumption Function",
+       "status": "not_started",
+       "acc": null,
+       "note": ""
+      },
+      {
+       "id": "2.4",
+       "name": "Investment Function",
+       "status": "not_started",
+       "acc": null,
+       "note": ""
+      },
+      {
+       "id": "2.5",
+       "name": "Multiplier and Accelerator",
+       "status": "not_started",
+       "acc": null,
+       "note": ""
+      },
+      {
+       "id": "2.6",
+       "name": "Demand for Money",
+       "status": "not_started",
+       "acc": null,
+       "note": ""
+      },
+      {
+       "id": "2.7",
+       "name": "Supply of Money",
+       "status": "not_started",
+       "acc": null,
+       "note": ""
+      },
+      {
+       "id": "2.8",
+       "name": "IS-LM Model Approach",
+       "status": "not_started",
+       "acc": null,
+       "note": ""
+      },
+      {
+       "id": "2.9",
+       "name": "Inflation and Phillips Curve Analysis",
+       "status": "not_started",
+       "acc": null,
+       "note": ""
+      },
+      {
+       "id": "2.10",
+       "name": "Business Cycles",
+       "status": "not_started",
+       "acc": null,
+       "note": ""
+      },
+      {
+       "id": "2.11",
+       "name": "Monetary and Fiscal Policy",
+       "status": "not_started",
+       "acc": null,
+       "note": ""
+      },
+      {
+       "id": "2.12",
+       "name": "Rational Expectations Hypothesis and its critique",
+       "status": "not_started",
+       "acc": null,
+       "note": ""
+      }
+     ]
+    },
+    {
+     "unit": 7,
+     "name": "Money and Banking",
+     "folder": "07-Money-Banking",
+     "counts": {
+      "not_started": 6,
+      "learning": 0,
+      "understood": 0,
+      "practising": 0,
+      "mastered": 0
+     },
+     "total": 6,
+     "done": 0,
+     "acc": null,
+     "target": "2026-10-27",
+     "open_mistakes": 0,
+     "topics": [
+      {
+       "id": "7.1",
+       "name": "Components of money supply",
+       "status": "not_started",
+       "acc": null,
+       "note": ""
+      },
+      {
+       "id": "7.2",
+       "name": "Central bank",
+       "status": "not_started",
+       "acc": null,
+       "note": ""
+      },
+      {
+       "id": "7.3",
+       "name": "Commercial banking",
+       "status": "not_started",
+       "acc": null,
+       "note": ""
+      },
+      {
+       "id": "7.4",
+       "name": "Instruments and working of monetary policy",
+       "status": "not_started",
+       "acc": null,
+       "note": ""
+      },
+      {
+       "id": "7.5",
+       "name": "Non-banking financial institutions",
+       "status": "not_started",
+       "acc": null,
+       "note": ""
+      },
+      {
+       "id": "7.6",
+       "name": "Capital market and its regulation",
+       "status": "not_started",
+       "acc": null,
+       "note": ""
+      }
+     ]
+    },
+    {
+     "unit": 5,
+     "name": "International Economics",
+     "folder": "05-International",
+     "counts": {
+      "not_started": 10,
+      "learning": 0,
+      "understood": 0,
+      "practising": 0,
+      "mastered": 0
+     },
+     "total": 10,
+     "done": 0,
+     "acc": null,
+     "target": "2026-11-10",
+     "open_mistakes": 0,
+     "topics": [
+      {
+       "id": "5.1",
+       "name": "International trade: basic concepts and analytical tools",
+       "status": "not_started",
+       "acc": null,
+       "note": ""
+      },
+      {
+       "id": "5.2",
+       "name": "Theories of international trade",
+       "status": "not_started",
+       "acc": null,
+       "note": ""
+      },
+      {
+       "id": "5.3",
+       "name": "International trade under imperfect competition",
+       "status": "not_started",
+       "acc": null,
+       "note": ""
+      },
+      {
+       "id": "5.4",
+       "name": "Balance of Payments: composition, equilibrium, disequilibrium, adjustment mechanisms",
+       "status": "not_started",
+       "acc": null,
+       "note": ""
+      },
+      {
+       "id": "5.5",
+       "name": "Exchange rate: concepts and theories",
+       "status": "not_started",
+       "acc": null,
+       "note": ""
+      },
+      {
+       "id": "5.6",
+       "name": "Foreign exchange market and arbitrage",
+       "status": "not_started",
+       "acc": null,
+       "note": ""
+      },
+      {
+       "id": "5.7",
+       "name": "Gains from trade, terms of trade, trade multiplier",
+       "status": "not_started",
+       "acc": null,
+       "note": ""
+      },
+      {
+       "id": "5.8",
+       "name": "Tariff and non-tariff barriers; dumping",
+       "status": "not_started",
+       "acc": null,
+       "note": ""
+      },
+      {
+       "id": "5.9",
+       "name": "GATT, WTO and regional trade blocks; trade policy issues",
+       "status": "not_started",
+       "acc": null,
+       "note": ""
+      },
+      {
+       "id": "5.10",
+       "name": "IMF and World Bank",
+       "status": "not_started",
+       "acc": null,
+       "note": ""
+      }
+     ]
+    },
+    {
+     "unit": 6,
+     "name": "Public Economics",
+     "folder": "06-Public",
+     "counts": {
+      "not_started": 7,
+      "learning": 0,
+      "understood": 0,
+      "practising": 0,
+      "mastered": 0
+     },
+     "total": 7,
+     "done": 0,
+     "acc": null,
+     "target": "2026-11-17",
+     "open_mistakes": 0,
+     "topics": [
+      {
+       "id": "6.1",
+       "name": "Market failure and remedies: asymmetric information, public goods, externality",
+       "status": "not_started",
+       "acc": null,
+       "note": ""
+      },
+      {
+       "id": "6.2",
+       "name": "Regulation of markets: collusion and consumers' welfare",
+       "status": "not_started",
+       "acc": null,
+       "note": ""
+      },
+      {
+       "id": "6.3",
+       "name": "Public revenue: tax and non-tax, direct and indirect, progressive and non-progressive, incidence and effects of taxation",
+       "status": "not_started",
+       "acc": null,
+       "note": ""
+      },
+      {
+       "id": "6.4",
+       "name": "Public expenditure",
+       "status": "not_started",
+       "acc": null,
+       "note": ""
+      },
+      {
+       "id": "6.5",
+       "name": "Public debt and its management",
+       "status": "not_started",
+       "acc": null,
+       "note": ""
+      },
+      {
+       "id": "6.6",
+       "name": "Public budget and budget multiplier",
+       "status": "not_started",
+       "acc": null,
+       "note": ""
+      },
+      {
+       "id": "6.7",
+       "name": "Fiscal policy and its implications",
+       "status": "not_started",
+       "acc": null,
+       "note": ""
+      }
+     ]
+    },
+    {
+     "unit": 9,
+     "name": "Environmental Economics and Demography",
+     "folder": "09-Environment-Demography",
+     "counts": {
+      "not_started": 10,
+      "learning": 0,
+      "understood": 0,
+      "practising": 0,
+      "mastered": 0
+     },
+     "total": 10,
+     "done": 0,
+     "acc": null,
+     "target": "2026-11-24",
+     "open_mistakes": 0,
+     "topics": [
+      {
+       "id": "9.1",
+       "name": "Environment as a public good",
+       "status": "not_started",
+       "acc": null,
+       "note": ""
+      },
+      {
+       "id": "9.2",
+       "name": "Market failure",
+       "status": "not_started",
+       "acc": null,
+       "note": ""
+      },
+      {
+       "id": "9.3",
+       "name": "Coase Theorem",
+       "status": "not_started",
+       "acc": null,
+       "note": ""
+      },
+      {
+       "id": "9.4",
+       "name": "Cost-benefit analysis and compensation criteria",
+       "status": "not_started",
+       "acc": null,
+       "note": ""
+      },
+      {
+       "id": "9.5",
+       "name": "Valuation of environmental goods",
+       "status": "not_started",
+       "acc": null,
+       "note": ""
+      },
+      {
+       "id": "9.6",
+       "name": "Theories of population",
+       "status": "not_started",
+       "acc": null,
+       "note": ""
+      },
+      {
+       "id": "9.7",
+       "name": "Concepts and measures: fertility, morbidity, mortality",
+       "status": "not_started",
+       "acc": null,
+       "note": ""
+      },
+      {
+       "id": "9.8",
+       "name": "Age structure, demographic dividend",
+       "status": "not_started",
+       "acc": null,
+       "note": ""
+      },
+      {
+       "id": "9.9",
+       "name": "Life table",
+       "status": "not_started",
+       "acc": null,
+       "note": ""
+      },
+      {
+       "id": "9.10",
+       "name": "Migration",
+       "status": "not_started",
+       "acc": null,
+       "note": ""
+      }
+     ]
+    },
+    {
+     "unit": 8,
+     "name": "Growth and Development Economics",
+     "folder": "08-Growth-Development",
+     "counts": {
+      "not_started": 7,
+      "learning": 0,
+      "understood": 0,
+      "practising": 0,
+      "mastered": 0
+     },
+     "total": 7,
+     "done": 0,
+     "acc": null,
+     "target": "2026-11-17",
+     "open_mistakes": 0,
+     "topics": [
+      {
+       "id": "8.1",
+       "name": "Economic growth and economic development",
+       "status": "not_started",
+       "acc": null,
+       "note": ""
+      },
+      {
+       "id": "8.2",
+       "name": "Theories of development: Smith, Ricardo, Marx, Schumpeter, Rostow, balanced and unbalanced growth, Big Push",
+       "status": "not_started",
+       "acc": null,
+       "note": ""
+      },
+      {
+       "id": "8.3",
+       "name": "Growth models: Harrod-Domar, Solow, Robinson, Kaldor",
+       "status": "not_started",
+       "acc": null,
+       "note": ""
+      },
+      {
+       "id": "8.4",
+       "name": "Technical progress: disembodied and embodied; endogenous growth",
+       "status": "not_started",
+       "acc": null,
+       "note": ""
+      },
+      {
+       "id": "8.5",
+       "name": "Indicators of development: PQLI, HDI, SDGs",
+       "status": "not_started",
+       "acc": null,
+       "note": ""
+      },
+      {
+       "id": "8.6",
+       "name": "Poverty and inequality: concepts and measurement",
+       "status": "not_started",
+       "acc": null,
+       "note": ""
+      },
+      {
+       "id": "8.7",
+       "name": "Social sector development: health, education, gender",
+       "status": "not_started",
+       "acc": null,
+       "note": ""
+      }
+     ]
+    },
+    {
+     "unit": 4,
+     "name": "Mathematical Economics",
+     "folder": "04-Math-Econ",
+     "counts": {
+      "not_started": 6,
+      "learning": 0,
+      "understood": 0,
+      "practising": 0,
+      "mastered": 0
+     },
+     "total": 6,
+     "done": 0,
+     "acc": null,
+     "target": "2026-11-10",
+     "open_mistakes": 0,
+     "topics": [
+      {
+       "id": "4.1",
+       "name": "Sets, functions and continuity, sequence, series",
+       "status": "not_started",
+       "acc": null,
+       "note": ""
+      },
+      {
+       "id": "4.2",
+       "name": "Differential calculus and its applications",
+       "status": "not_started",
+       "acc": null,
+       "note": ""
+      },
+      {
+       "id": "4.3",
+       "name": "Linear algebra: matrices, vector spaces",
+       "status": "not_started",
+       "acc": null,
+       "note": ""
+      },
+      {
+       "id": "4.4",
+       "name": "Static optimisation problems and their applications",
+       "status": "not_started",
+       "acc": null,
+       "note": ""
+      },
+      {
+       "id": "4.5",
+       "name": "Input-Output model, Linear Programming",
+       "status": "not_started",
+       "acc": null,
+       "note": ""
+      },
+      {
+       "id": "4.6",
+       "name": "Difference and differential equations with applications",
+       "status": "not_started",
+       "acc": null,
+       "note": ""
+      }
+     ]
+    },
+    {
+     "unit": 3,
+     "name": "Statistics and Econometrics",
+     "folder": "03-Stats-Econometrics",
+     "counts": {
+      "not_started": 9,
+      "learning": 0,
+      "understood": 0,
+      "practising": 0,
+      "mastered": 0
+     },
+     "total": 9,
+     "done": 0,
+     "acc": null,
+     "target": "2026-11-03",
+     "open_mistakes": 0,
+     "topics": [
+      {
+       "id": "3.1",
+       "name": "Probability theory: concepts, distributions, moments, Central Limit Theorem",
+       "status": "not_started",
+       "acc": null,
+       "note": ""
+      },
+      {
+       "id": "3.2",
+       "name": "Descriptive statistics: central tendency, dispersion, correlation, index numbers",
+       "status": "not_started",
+       "acc": null,
+       "note": ""
+      },
+      {
+       "id": "3.3",
+       "name": "Sampling methods and sampling distributions",
+       "status": "not_started",
+       "acc": null,
+       "note": ""
+      },
+      {
+       "id": "3.4",
+       "name": "Statistical inference and hypothesis testing",
+       "status": "not_started",
+       "acc": null,
+       "note": ""
+      },
+      {
+       "id": "3.5",
+       "name": "Linear regression models and their properties: BLUE",
+       "status": "not_started",
+       "acc": null,
+       "note": ""
+      },
+      {
+       "id": "3.6",
+       "name": "Identification problem",
+       "status": "not_started",
+       "acc": null,
+       "note": ""
+      },
+      {
+       "id": "3.7",
+       "name": "Simultaneous equation models: recursive and non-recursive",
+       "status": "not_started",
+       "acc": null,
+       "note": ""
+      },
+      {
+       "id": "3.8",
+       "name": "Discrete choice models",
+       "status": "not_started",
+       "acc": null,
+       "note": ""
+      },
+      {
+       "id": "3.9",
+       "name": "Time series analysis",
+       "status": "not_started",
+       "acc": null,
+       "note": ""
+      }
+     ]
+    },
+    {
+     "unit": 10,
+     "name": "Indian Economy",
+     "folder": "10-Indian-Economy",
+     "counts": {
+      "not_started": 11,
+      "learning": 0,
+      "understood": 0,
+      "practising": 0,
+      "mastered": 0
+     },
+     "total": 11,
+     "done": 0,
+     "acc": null,
+     "target": "2026-12-01",
+     "open_mistakes": 0,
+     "topics": [
+      {
+       "id": "10.1",
+       "name": "Economic growth in India: pattern and structure",
+       "status": "not_started",
+       "acc": null,
+       "note": ""
+      },
+      {
+       "id": "10.2",
+       "name": "Agriculture: growth pattern, challenges, policy responses",
+       "status": "not_started",
+       "acc": null,
+       "note": ""
+      },
+      {
+       "id": "10.3",
+       "name": "Industry: growth pattern, challenges, policy responses",
+       "status": "not_started",
+       "acc": null,
+       "note": ""
+      },
+      {
+       "id": "10.4",
+       "name": "Services: growth pattern, challenges, policy responses",
+       "status": "not_started",
+       "acc": null,
+       "note": ""
+      },
+      {
+       "id": "10.5",
+       "name": "Rural development: issues, challenges, policy responses",
+       "status": "not_started",
+       "acc": null,
+       "note": ""
+      },
+      {
+       "id": "10.6",
+       "name": "Urban development: issues, challenges, policy responses",
+       "status": "not_started",
+       "acc": null,
+       "note": ""
+      },
+      {
+       "id": "10.7",
+       "name": "Foreign trade: structure and direction, BOP, foreign capital flows, trade policies",
+       "status": "not_started",
+       "acc": null,
+       "note": ""
+      },
+      {
+       "id": "10.8",
+       "name": "Infrastructure development: physical and social; public-private partnerships",
+       "status": "not_started",
+       "acc": null,
+       "note": ""
+      },
+      {
+       "id": "10.9",
+       "name": "Reforms in land, labour and capital markets",
+       "status": "not_started",
+       "acc": null,
+       "note": ""
+      },
+      {
+       "id": "10.10",
+       "name": "Centre-State financial relations, Finance Commissions, FRBM",
+       "status": "not_started",
+       "acc": null,
+       "note": ""
+      },
+      {
+       "id": "10.11",
+       "name": "Poverty, inequality and unemployment",
+       "status": "not_started",
+       "acc": null,
+       "note": ""
+      }
+     ]
+    }
+   ],
+   "total": 88,
+   "counts": {
+    "not_started": 87,
+    "learning": 1,
+    "understood": 0,
+    "practising": 0,
+    "mastered": 0
+   },
+   "done": 0
+  },
+  {
+   "key": "P1",
+   "name": "Paper I — Teaching & Research Aptitude",
+   "marks": 100,
+   "units": [
+    {
+     "unit": 1,
+     "name": "Teaching Aptitude",
+     "folder": null,
+     "counts": {
+      "not_started": 6,
+      "learning": 0,
+      "understood": 0,
+      "practising": 0,
+      "mastered": 0
+     },
+     "total": 6,
+     "done": 0,
+     "acc": null,
+     "target": "2026-12-01",
+     "open_mistakes": 0,
+     "topics": [
+      {
+       "id": "I-1.1",
+       "name": "Teaching: concept, objectives, levels (memory, understanding, reflective), characteristics",
+       "status": "not_started",
+       "acc": null,
+       "note": ""
+      },
+      {
+       "id": "I-1.2",
+       "name": "Learner's characteristics (adolescent and adult learners), individual differences",
+       "status": "not_started",
+       "acc": null,
+       "note": ""
+      },
+      {
+       "id": "I-1.3",
+       "name": "Factors affecting teaching (teacher, learner, support material, facilities, environment, institution)",
+       "status": "not_started",
+       "acc": null,
+       "note": ""
+      },
+      {
+       "id": "I-1.4",
+       "name": "Methods of teaching: teacher- vs learner-centred, offline vs online (SWAYAM, SWAYAM Prabha, MOOCs)",
+       "status": "not_started",
+       "acc": null,
+       "note": ""
+      },
+      {
+       "id": "I-1.5",
+       "name": "Teaching support system: traditional, modern, ICT-based",
+       "status": "not_started",
+       "acc": null,
+       "note": ""
+      },
+      {
+       "id": "I-1.6",
+       "name": "Evaluation systems: elements, types, CBCS, computer-based testing, innovations",
+       "status": "not_started",
+       "acc": null,
+       "note": ""
+      }
+     ]
+    },
+    {
+     "unit": 2,
+     "name": "Research Aptitude",
+     "folder": null,
+     "counts": {
+      "not_started": 6,
+      "learning": 0,
+      "understood": 0,
+      "practising": 0,
+      "mastered": 0
+     },
+     "total": 6,
+     "done": 0,
+     "acc": null,
+     "target": "2026-12-01",
+     "open_mistakes": 0,
+     "topics": [
+      {
+       "id": "I-2.1",
+       "name": "Research: meaning, types, characteristics; positivism and post-positivism",
+       "status": "not_started",
+       "acc": null,
+       "note": ""
+      },
+      {
+       "id": "I-2.2",
+       "name": "Methods of research: experimental, descriptive, historical, qualitative, quantitative",
+       "status": "not_started",
+       "acc": null,
+       "note": ""
+      },
+      {
+       "id": "I-2.3",
+       "name": "Steps of research",
+       "status": "not_started",
+       "acc": null,
+       "note": ""
+      },
+      {
+       "id": "I-2.4",
+       "name": "Thesis and article writing: format and referencing styles",
+       "status": "not_started",
+       "acc": null,
+       "note": ""
+      },
+      {
+       "id": "I-2.5",
+       "name": "Application of ICT in research",
+       "status": "not_started",
+       "acc": null,
+       "note": ""
+      },
+      {
+       "id": "I-2.6",
+       "name": "Research ethics",
+       "status": "not_started",
+       "acc": null,
+       "note": ""
+      }
+     ]
+    },
+    {
+     "unit": 7,
+     "name": "Data Interpretation",
+     "folder": null,
+     "counts": {
+      "not_started": 5,
+      "learning": 0,
+      "understood": 0,
+      "practising": 0,
+      "mastered": 0
+     },
+     "total": 5,
+     "done": 0,
+     "acc": null,
+     "target": "2026-12-01",
+     "open_mistakes": 0,
+     "topics": [
+      {
+       "id": "I-7.1",
+       "name": "Sources, acquisition and classification of data",
+       "status": "not_started",
+       "acc": null,
+       "note": ""
+      },
+      {
+       "id": "I-7.2",
+       "name": "Quantitative and qualitative data",
+       "status": "not_started",
+       "acc": null,
+       "note": ""
+      },
+      {
+       "id": "I-7.3",
+       "name": "Graphical representation and mapping of data",
+       "status": "not_started",
+       "acc": null,
+       "note": ""
+      },
+      {
+       "id": "I-7.4",
+       "name": "Data interpretation",
+       "status": "not_started",
+       "acc": null,
+       "note": ""
+      },
+      {
+       "id": "I-7.5",
+       "name": "Data and governance",
+       "status": "not_started",
+       "acc": null,
+       "note": ""
+      }
+     ]
+    },
+    {
+     "unit": 5,
+     "name": "Mathematical Reasoning and Aptitude",
+     "folder": null,
+     "counts": {
+      "not_started": 3,
+      "learning": 0,
+      "understood": 0,
+      "practising": 0,
+      "mastered": 0
+     },
+     "total": 3,
+     "done": 0,
+     "acc": null,
+     "target": "2026-12-01",
+     "open_mistakes": 0,
+     "topics": [
+      {
+       "id": "I-5.1",
+       "name": "Types of reasoning",
+       "status": "not_started",
+       "acc": null,
+       "note": ""
+      },
+      {
+       "id": "I-5.2",
+       "name": "Number series, letter series, codes and relationships",
+       "status": "not_started",
+       "acc": null,
+       "note": ""
+      },
+      {
+       "id": "I-5.3",
+       "name": "Mathematical aptitude: fractions, time and distance, ratio, proportion, percentage, profit and loss, interest and discounting, averages",
+       "status": "not_started",
+       "acc": null,
+       "note": ""
+      }
+     ]
+    },
+    {
+     "unit": 6,
+     "name": "Logical Reasoning",
+     "folder": null,
+     "counts": {
+      "not_started": 6,
+      "learning": 0,
+      "understood": 0,
+      "practising": 0,
+      "mastered": 0
+     },
+     "total": 6,
+     "done": 0,
+     "acc": null,
+     "target": "2026-12-01",
+     "open_mistakes": 0,
+     "topics": [
+      {
+       "id": "I-6.1",
+       "name": "Structure of arguments: forms, categorical propositions, mood and figure, fallacies, uses of language, connotation/denotation, square of opposition",
+       "status": "not_started",
+       "acc": null,
+       "note": ""
+      },
+      {
+       "id": "I-6.2",
+       "name": "Deductive vs inductive reasoning",
+       "status": "not_started",
+       "acc": null,
+       "note": ""
+      },
+      {
+       "id": "I-6.3",
+       "name": "Analogies",
+       "status": "not_started",
+       "acc": null,
+       "note": ""
+      },
+      {
+       "id": "I-6.4",
+       "name": "Venn diagrams for validity of arguments",
+       "status": "not_started",
+       "acc": null,
+       "note": ""
+      },
+      {
+       "id": "I-6.5",
+       "name": "Indian logic: means of knowledge; Pramanas",
+       "status": "not_started",
+       "acc": null,
+       "note": ""
+      },
+      {
+       "id": "I-6.6",
+       "name": "Anumana (inference): structure and kinds, Vyapti, Hetvabhasas",
+       "status": "not_started",
+       "acc": null,
+       "note": ""
+      }
+     ]
+    },
+    {
+     "unit": 4,
+     "name": "Communication",
+     "folder": null,
+     "counts": {
+      "not_started": 4,
+      "learning": 0,
+      "understood": 0,
+      "practising": 0,
+      "mastered": 0
+     },
+     "total": 4,
+     "done": 0,
+     "acc": null,
+     "target": "2026-12-01",
+     "open_mistakes": 0,
+     "topics": [
+      {
+       "id": "I-4.1",
+       "name": "Communication: meaning, types, characteristics",
+       "status": "not_started",
+       "acc": null,
+       "note": ""
+      },
+      {
+       "id": "I-4.2",
+       "name": "Effective communication: verbal, non-verbal, inter-cultural, group, classroom",
+       "status": "not_started",
+       "acc": null,
+       "note": ""
+      },
+      {
+       "id": "I-4.3",
+       "name": "Barriers to effective communication",
+       "status": "not_started",
+       "acc": null,
+       "note": ""
+      },
+      {
+       "id": "I-4.4",
+       "name": "Mass media and society",
+       "status": "not_started",
+       "acc": null,
+       "note": ""
+      }
+     ]
+    },
+    {
+     "unit": 8,
+     "name": "Information and Communication Technology (ICT)",
+     "folder": null,
+     "counts": {
+      "not_started": 4,
+      "learning": 0,
+      "understood": 0,
+      "practising": 0,
+      "mastered": 0
+     },
+     "total": 4,
+     "done": 0,
+     "acc": null,
+     "target": "2026-12-01",
+     "open_mistakes": 0,
+     "topics": [
+      {
+       "id": "I-8.1",
+       "name": "ICT abbreviations and terminology",
+       "status": "not_started",
+       "acc": null,
+       "note": ""
+      },
+      {
+       "id": "I-8.2",
+       "name": "Internet, intranet, e-mail, audio and video conferencing",
+       "status": "not_started",
+       "acc": null,
+       "note": ""
+      },
+      {
+       "id": "I-8.3",
+       "name": "Digital initiatives in higher education",
+       "status": "not_started",
+       "acc": null,
+       "note": ""
+      },
+      {
+       "id": "I-8.4",
+       "name": "ICT and governance",
+       "status": "not_started",
+       "acc": null,
+       "note": ""
+      }
+     ]
+    },
+    {
+     "unit": 9,
+     "name": "People, Development and Environment",
+     "folder": null,
+     "counts": {
+      "not_started": 7,
+      "learning": 0,
+      "understood": 0,
+      "practising": 0,
+      "mastered": 0
+     },
+     "total": 7,
+     "done": 0,
+     "acc": null,
+     "target": "2026-12-01",
+     "open_mistakes": 0,
+     "topics": [
+      {
+       "id": "I-9.1",
+       "name": "Development and environment: MDGs and SDGs",
+       "status": "not_started",
+       "acc": null,
+       "note": ""
+      },
+      {
+       "id": "I-9.2",
+       "name": "Human-environment interaction: anthropogenic activities and impacts",
+       "status": "not_started",
+       "acc": null,
+       "note": ""
+      },
+      {
+       "id": "I-9.3",
+       "name": "Environmental issues: pollution types, waste, climate change",
+       "status": "not_started",
+       "acc": null,
+       "note": ""
+      },
+      {
+       "id": "I-9.4",
+       "name": "Impacts of pollutants on human health",
+       "status": "not_started",
+       "acc": null,
+       "note": ""
+      },
+      {
+       "id": "I-9.5",
+       "name": "Natural and energy resources",
+       "status": "not_started",
+       "acc": null,
+       "note": ""
+      },
+      {
+       "id": "I-9.6",
+       "name": "Natural hazards and disasters: mitigation",
+       "status": "not_started",
+       "acc": null,
+       "note": ""
+      },
+      {
+       "id": "I-9.7",
+       "name": "EPA 1986, NAPCC, international agreements (Montreal, Rio, CBD, Kyoto, Paris, ISA)",
+       "status": "not_started",
+       "acc": null,
+       "note": ""
+      }
+     ]
+    },
+    {
+     "unit": 10,
+     "name": "Higher Education System",
+     "folder": null,
+     "counts": {
+      "not_started": 6,
+      "learning": 0,
+      "understood": 0,
+      "practising": 0,
+      "mastered": 0
+     },
+     "total": 6,
+     "done": 0,
+     "acc": null,
+     "target": "2026-12-01",
+     "open_mistakes": 0,
+     "topics": [
+      {
+       "id": "I-10.1",
+       "name": "Higher learning in ancient India",
+       "status": "not_started",
+       "acc": null,
+       "note": ""
+      },
+      {
+       "id": "I-10.2",
+       "name": "Evolution of higher learning and research after Independence",
+       "status": "not_started",
+       "acc": null,
+       "note": ""
+      },
+      {
+       "id": "I-10.3",
+       "name": "Oriental, conventional and non-conventional programmes",
+       "status": "not_started",
+       "acc": null,
+       "note": ""
+      },
+      {
+       "id": "I-10.4",
+       "name": "Professional, technical and skill-based education",
+       "status": "not_started",
+       "acc": null,
+       "note": ""
+      },
+      {
+       "id": "I-10.5",
+       "name": "Value education and environmental education",
+       "status": "not_started",
+       "acc": null,
+       "note": ""
+      },
+      {
+       "id": "I-10.6",
+       "name": "Policies, governance and administration",
+       "status": "not_started",
+       "acc": null,
+       "note": ""
+      }
+     ]
+    },
+    {
+     "unit": 3,
+     "name": "Comprehension",
+     "folder": null,
+     "counts": {
+      "not_started": 1,
+      "learning": 0,
+      "understood": 0,
+      "practising": 0,
+      "mastered": 0
+     },
+     "total": 1,
+     "done": 0,
+     "acc": null,
+     "target": "2026-12-01",
+     "open_mistakes": 0,
+     "topics": [
+      {
+       "id": "I-3.1",
+       "name": "Reading a passage and answering questions",
+       "status": "not_started",
+       "acc": null,
+       "note": ""
+      }
+     ]
+    }
+   ],
+   "total": 48,
+   "counts": {
+    "not_started": 48,
+    "learning": 0,
+    "understood": 0,
+    "practising": 0,
+    "mastered": 0
+   },
+   "done": 0
+  }
+ ],
+ "overall": {
+  "right": 1,
+  "n": 1,
+  "pct": 100.0
+ },
+ "by_paper": {
+  "P2": {
+   "right": 1,
+   "n": 1,
+   "pct": 100.0,
+   "last": "2026-10-07"
+  }
+ },
+ "by_format": {
+  "Direct": {
+   "right": 1,
+   "n": 1,
+   "pct": 100.0,
+   "last": "2026-10-07"
+  }
+ },
+ "by_source": {
+  "Popup": {
+   "right": 1,
+   "n": 1,
+   "pct": 100.0,
+   "last": "2026-10-07"
+  }
+ },
+ "causes": {},
+ "untagged": 0,
+ "trend": [
+  {
+   "date": "2026-09-09",
+   "n": 0,
+   "pct": null,
+   "roll_n": 0,
+   "roll_pct": null
+  },
+  {
+   "date": "2026-09-10",
+   "n": 0,
+   "pct": null,
+   "roll_n": 0,
+   "roll_pct": null
+  },
+  {
+   "date": "2026-09-11",
+   "n": 0,
+   "pct": null,
+   "roll_n": 0,
+   "roll_pct": null
+  },
+  {
+   "date": "2026-09-12",
+   "n": 0,
+   "pct": null,
+   "roll_n": 0,
+   "roll_pct": null
+  },
+  {
+   "date": "2026-09-13",
+   "n": 0,
+   "pct": null,
+   "roll_n": 0,
+   "roll_pct": null
+  },
+  {
+   "date": "2026-09-14",
+   "n": 0,
+   "pct": null,
+   "roll_n": 0,
+   "roll_pct": null
+  },
+  {
+   "date": "2026-09-15",
+   "n": 0,
+   "pct": null,
+   "roll_n": 0,
+   "roll_pct": null
+  },
+  {
+   "date": "2026-09-16",
+   "n": 0,
+   "pct": null,
+   "roll_n": 0,
+   "roll_pct": null
+  },
+  {
+   "date": "2026-09-17",
+   "n": 0,
+   "pct": null,
+   "roll_n": 0,
+   "roll_pct": null
+  },
+  {
+   "date": "2026-09-18",
+   "n": 0,
+   "pct": null,
+   "roll_n": 0,
+   "roll_pct": null
+  },
+  {
+   "date": "2026-09-19",
+   "n": 0,
+   "pct": null,
+   "roll_n": 0,
+   "roll_pct": null
+  },
+  {
+   "date": "2026-09-20",
+   "n": 0,
+   "pct": null,
+   "roll_n": 0,
+   "roll_pct": null
+  },
+  {
+   "date": "2026-09-21",
+   "n": 0,
+   "pct": null,
+   "roll_n": 0,
+   "roll_pct": null
+  },
+  {
+   "date": "2026-09-22",
+   "n": 0,
+   "pct": null,
+   "roll_n": 0,
+   "roll_pct": null
+  },
+  {
+   "date": "2026-09-23",
+   "n": 0,
+   "pct": null,
+   "roll_n": 0,
+   "roll_pct": null
+  },
+  {
+   "date": "2026-09-24",
+   "n": 0,
+   "pct": null,
+   "roll_n": 0,
+   "roll_pct": null
+  },
+  {
+   "date": "2026-09-25",
+   "n": 0,
+   "pct": null,
+   "roll_n": 0,
+   "roll_pct": null
+  },
+  {
+   "date": "2026-09-26",
+   "n": 0,
+   "pct": null,
+   "roll_n": 0,
+   "roll_pct": null
+  },
+  {
+   "date": "2026-09-27",
+   "n": 0,
+   "pct": null,
+   "roll_n": 0,
+   "roll_pct": null
+  },
+  {
+   "date": "2026-09-28",
+   "n": 0,
+   "pct": null,
+   "roll_n": 0,
+   "roll_pct": null
+  },
+  {
+   "date": "2026-09-29",
+   "n": 0,
+   "pct": null,
+   "roll_n": 0,
+   "roll_pct": null
+  },
+  {
+   "date": "2026-09-30",
+   "n": 0,
+   "pct": null,
+   "roll_n": 0,
+   "roll_pct": null
+  },
+  {
+   "date": "2026-10-01",
+   "n": 0,
+   "pct": null,
+   "roll_n": 0,
+   "roll_pct": null
+  },
+  {
+   "date": "2026-10-02",
+   "n": 0,
+   "pct": null,
+   "roll_n": 0,
+   "roll_pct": null
+  },
+  {
+   "date": "2026-10-03",
+   "n": 0,
+   "pct": null,
+   "roll_n": 0,
+   "roll_pct": null
+  },
+  {
+   "date": "2026-10-04",
+   "n": 0,
+   "pct": null,
+   "roll_n": 0,
+   "roll_pct": null
+  },
+  {
+   "date": "2026-10-05",
+   "n": 0,
+   "pct": null,
+   "roll_n": 0,
+   "roll_pct": null
+  },
+  {
+   "date": "2026-10-06",
+   "n": 0,
+   "pct": null,
+   "roll_n": 0,
+   "roll_pct": null
+  },
+  {
+   "date": "2026-10-07",
+   "n": 1,
+   "pct": 100.0,
+   "roll_n": 1,
+   "roll_pct": 100.0
+  },
+  {
+   "date": "2026-10-08",
+   "n": 0,
+   "pct": null,
+   "roll_n": 1,
+   "roll_pct": 100.0
+  }
+ ],
+ "calendar": [
+  {
+   "date": "2026-07-13",
+   "q": 0,
+   "sit": 0,
+   "min": 0
+  },
+  {
+   "date": "2026-07-14",
+   "q": 0,
+   "sit": 0,
+   "min": 0
+  },
+  {
+   "date": "2026-07-15",
+   "q": 0,
+   "sit": 0,
+   "min": 0
+  },
+  {
+   "date": "2026-07-16",
+   "q": 0,
+   "sit": 0,
+   "min": 0
+  },
+  {
+   "date": "2026-07-17",
+   "q": 0,
+   "sit": 0,
+   "min": 0
+  },
+  {
+   "date": "2026-07-18",
+   "q": 0,
+   "sit": 0,
+   "min": 0
+  },
+  {
+   "date": "2026-07-19",
+   "q": 0,
+   "sit": 0,
+   "min": 0
+  },
+  {
+   "date": "2026-07-20",
+   "q": 0,
+   "sit": 0,
+   "min": 0
+  },
+  {
+   "date": "2026-07-21",
+   "q": 0,
+   "sit": 0,
+   "min": 0
+  },
+  {
+   "date": "2026-07-22",
+   "q": 0,
+   "sit": 0,
+   "min": 0
+  },
+  {
+   "date": "2026-07-23",
+   "q": 0,
+   "sit": 0,
+   "min": 0
+  },
+  {
+   "date": "2026-07-24",
+   "q": 0,
+   "sit": 0,
+   "min": 0
+  },
+  {
+   "date": "2026-07-25",
+   "q": 0,
+   "sit": 0,
+   "min": 0
+  },
+  {
+   "date": "2026-07-26",
+   "q": 0,
+   "sit": 0,
+   "min": 0
+  },
+  {
+   "date": "2026-07-27",
+   "q": 0,
+   "sit": 0,
+   "min": 0
+  },
+  {
+   "date": "2026-07-28",
+   "q": 0,
+   "sit": 0,
+   "min": 0
+  },
+  {
+   "date": "2026-07-29",
+   "q": 0,
+   "sit": 0,
+   "min": 0
+  },
+  {
+   "date": "2026-07-30",
+   "q": 0,
+   "sit": 0,
+   "min": 0
+  },
+  {
+   "date": "2026-07-31",
+   "q": 0,
+   "sit": 0,
+   "min": 0
+  },
+  {
+   "date": "2026-08-01",
+   "q": 0,
+   "sit": 0,
+   "min": 0
+  },
+  {
+   "date": "2026-08-02",
+   "q": 0,
+   "sit": 0,
+   "min": 0
+  },
+  {
+   "date": "2026-08-03",
+   "q": 0,
+   "sit": 0,
+   "min": 0
+  },
+  {
+   "date": "2026-08-04",
+   "q": 0,
+   "sit": 0,
+   "min": 0
+  },
+  {
+   "date": "2026-08-05",
+   "q": 0,
+   "sit": 0,
+   "min": 0
+  },
+  {
+   "date": "2026-08-06",
+   "q": 0,
+   "sit": 0,
+   "min": 0
+  },
+  {
+   "date": "2026-08-07",
+   "q": 0,
+   "sit": 0,
+   "min": 0
+  },
+  {
+   "date": "2026-08-08",
+   "q": 0,
+   "sit": 0,
+   "min": 0
+  },
+  {
+   "date": "2026-08-09",
+   "q": 0,
+   "sit": 0,
+   "min": 0
+  },
+  {
+   "date": "2026-08-10",
+   "q": 0,
+   "sit": 0,
+   "min": 0
+  },
+  {
+   "date": "2026-08-11",
+   "q": 0,
+   "sit": 0,
+   "min": 0
+  },
+  {
+   "date": "2026-08-12",
+   "q": 0,
+   "sit": 0,
+   "min": 0
+  },
+  {
+   "date": "2026-08-13",
+   "q": 0,
+   "sit": 0,
+   "min": 0
+  },
+  {
+   "date": "2026-08-14",
+   "q": 0,
+   "sit": 0,
+   "min": 0
+  },
+  {
+   "date": "2026-08-15",
+   "q": 0,
+   "sit": 0,
+   "min": 0
+  },
+  {
+   "date": "2026-08-16",
+   "q": 0,
+   "sit": 0,
+   "min": 0
+  },
+  {
+   "date": "2026-08-17",
+   "q": 0,
+   "sit": 0,
+   "min": 0
+  },
+  {
+   "date": "2026-08-18",
+   "q": 0,
+   "sit": 0,
+   "min": 0
+  },
+  {
+   "date": "2026-08-19",
+   "q": 0,
+   "sit": 0,
+   "min": 0
+  },
+  {
+   "date": "2026-08-20",
+   "q": 0,
+   "sit": 0,
+   "min": 0
+  },
+  {
+   "date": "2026-08-21",
+   "q": 0,
+   "sit": 0,
+   "min": 0
+  },
+  {
+   "date": "2026-08-22",
+   "q": 0,
+   "sit": 0,
+   "min": 0
+  },
+  {
+   "date": "2026-08-23",
+   "q": 0,
+   "sit": 0,
+   "min": 0
+  },
+  {
+   "date": "2026-08-24",
+   "q": 0,
+   "sit": 0,
+   "min": 0
+  },
+  {
+   "date": "2026-08-25",
+   "q": 0,
+   "sit": 0,
+   "min": 0
+  },
+  {
+   "date": "2026-08-26",
+   "q": 0,
+   "sit": 0,
+   "min": 0
+  },
+  {
+   "date": "2026-08-27",
+   "q": 0,
+   "sit": 0,
+   "min": 0
+  },
+  {
+   "date": "2026-08-28",
+   "q": 0,
+   "sit": 0,
+   "min": 0
+  },
+  {
+   "date": "2026-08-29",
+   "q": 0,
+   "sit": 0,
+   "min": 0
+  },
+  {
+   "date": "2026-08-30",
+   "q": 0,
+   "sit": 0,
+   "min": 0
+  },
+  {
+   "date": "2026-08-31",
+   "q": 0,
+   "sit": 0,
+   "min": 0
+  },
+  {
+   "date": "2026-09-01",
+   "q": 0,
+   "sit": 0,
+   "min": 0
+  },
+  {
+   "date": "2026-09-02",
+   "q": 0,
+   "sit": 0,
+   "min": 0
+  },
+  {
+   "date": "2026-09-03",
+   "q": 0,
+   "sit": 0,
+   "min": 0
+  },
+  {
+   "date": "2026-09-04",
+   "q": 0,
+   "sit": 0,
+   "min": 0
+  },
+  {
+   "date": "2026-09-05",
+   "q": 0,
+   "sit": 0,
+   "min": 0
+  },
+  {
+   "date": "2026-09-06",
+   "q": 0,
+   "sit": 0,
+   "min": 0
+  },
+  {
+   "date": "2026-09-07",
+   "q": 0,
+   "sit": 0,
+   "min": 0
+  },
+  {
+   "date": "2026-09-08",
+   "q": 0,
+   "sit": 0,
+   "min": 0
+  },
+  {
+   "date": "2026-09-09",
+   "q": 0,
+   "sit": 0,
+   "min": 0
+  },
+  {
+   "date": "2026-09-10",
+   "q": 0,
+   "sit": 0,
+   "min": 0
+  },
+  {
+   "date": "2026-09-11",
+   "q": 0,
+   "sit": 0,
+   "min": 0
+  },
+  {
+   "date": "2026-09-12",
+   "q": 0,
+   "sit": 0,
+   "min": 0
+  },
+  {
+   "date": "2026-09-13",
+   "q": 0,
+   "sit": 0,
+   "min": 0
+  },
+  {
+   "date": "2026-09-14",
+   "q": 0,
+   "sit": 0,
+   "min": 0
+  },
+  {
+   "date": "2026-09-15",
+   "q": 0,
+   "sit": 0,
+   "min": 0
+  },
+  {
+   "date": "2026-09-16",
+   "q": 0,
+   "sit": 0,
+   "min": 0
+  },
+  {
+   "date": "2026-09-17",
+   "q": 0,
+   "sit": 0,
+   "min": 0
+  },
+  {
+   "date": "2026-09-18",
+   "q": 0,
+   "sit": 0,
+   "min": 0
+  },
+  {
+   "date": "2026-09-19",
+   "q": 0,
+   "sit": 0,
+   "min": 0
+  },
+  {
+   "date": "2026-09-20",
+   "q": 0,
+   "sit": 0,
+   "min": 0
+  },
+  {
+   "date": "2026-09-21",
+   "q": 0,
+   "sit": 0,
+   "min": 0
+  },
+  {
+   "date": "2026-09-22",
+   "q": 0,
+   "sit": 0,
+   "min": 0
+  },
+  {
+   "date": "2026-09-23",
+   "q": 0,
+   "sit": 0,
+   "min": 0
+  },
+  {
+   "date": "2026-09-24",
+   "q": 0,
+   "sit": 0,
+   "min": 0
+  },
+  {
+   "date": "2026-09-25",
+   "q": 0,
+   "sit": 0,
+   "min": 0
+  },
+  {
+   "date": "2026-09-26",
+   "q": 0,
+   "sit": 0,
+   "min": 0
+  },
+  {
+   "date": "2026-09-27",
+   "q": 0,
+   "sit": 0,
+   "min": 0
+  },
+  {
+   "date": "2026-09-28",
+   "q": 0,
+   "sit": 0,
+   "min": 0
+  },
+  {
+   "date": "2026-09-29",
+   "q": 0,
+   "sit": 0,
+   "min": 0
+  },
+  {
+   "date": "2026-09-30",
+   "q": 0,
+   "sit": 0,
+   "min": 0
+  },
+  {
+   "date": "2026-10-01",
+   "q": 0,
+   "sit": 0,
+   "min": 0
+  },
+  {
+   "date": "2026-10-02",
+   "q": 0,
+   "sit": 0,
+   "min": 0
+  },
+  {
+   "date": "2026-10-03",
+   "q": 0,
+   "sit": 0,
+   "min": 0
+  },
+  {
+   "date": "2026-10-04",
+   "q": 0,
+   "sit": 0,
+   "min": 0
+  },
+  {
+   "date": "2026-10-05",
+   "q": 0,
+   "sit": 0,
+   "min": 0
+  },
+  {
+   "date": "2026-10-06",
+   "q": 0,
+   "sit": 0,
+   "min": 0
+  },
+  {
+   "date": "2026-10-07",
+   "q": 1,
+   "sit": 1,
+   "min": 0
+  },
+  {
+   "date": "2026-10-08",
+   "q": 0,
+   "sit": 0,
+   "min": 0
+  }
+ ],
+ "streak": 1,
+ "last_active": "2026-10-07",
+ "active_days_30": 1,
+ "strengths": {
+  "units": [],
+  "topics": [],
+  "formats": []
+ },
+ "weaknesses": {
+  "units": [],
+  "topics": [],
+  "formats": []
+ },
+ "revision_due": [],
+ "revision_upcoming": 0,
+ "pace": {
+  "remaining": 88,
+  "needed_per_week": 9.2,
+  "rate_per_week": 0.0,
+  "recent_done_14d": 0,
+  "projected_finish": null,
+  "unit_flags": []
+ },
+ "next_up": {
+  "paper": "P2",
+  "unit": 1,
+  "unit_name": "Micro Economics",
+  "id": "1.1",
+  "name": "Theory of Consumer Behaviour",
+  "status": "learning",
+  "acc": null,
+  "note": "Fast session 2026-10-07 (quiz not graded); being re-taught in classroom mode"
+ },
+ "nudges": [
+  {
+   "level": "medium",
+   "title": "No Paper II topic completed in the last 14 days",
+   "why": "88 of 88 topics left with 67 days to the exam (ESTIMATE). Needed: 9.2 topics/week.",
+   "action": "A topic counts as done when you tell the teacher you understood it."
+  },
+  {
+   "level": "medium",
+   "title": "Paper I has been quiet",
+   "why": "No Paper I questions or study in the last 7 days. Paper I is 100 of the 300 marks.",
+   "action": "The plan has 30 minutes a day for Paper I."
+  },
+  {
+   "level": "info",
+   "title": "Signals are still thin",
+   "why": "Only 1 graded answers so far. Strengths and weaknesses appear once a unit has 8+ answers and a topic 5+.",
+   "action": "Tests and popups add data."
+  }
+ ],
+ "tests": [],
+ "mocks": [],
+ "thresholds": {
+  "strong_pct": 80,
+  "weak_pct": 60,
+  "min_n_unit": 8,
+  "min_n_topic": 5,
+  "min_n_format": 5,
+  "cold_days": 14,
+  "inactive_days": 2,
+  "paper1_quiet_days": 7
+ }
+}

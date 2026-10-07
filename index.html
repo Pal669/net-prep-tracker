@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>NET Prep Tracker</title>
+<meta name="description" content="UGC NET Economics preparation tracker: syllabus coverage, accuracy, weak and strong areas, revision due and pace to the exam.">
+<link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 32 32'%3E%3Crect width='32' height='32' rx='6' fill='%23256abf'/%3E%3Cpath d='M8 17l5 5 11-12' stroke='%23fff' stroke-width='3.5' fill='none' stroke-linecap='round' stroke-linejoin='round'/%3E%3C/svg%3E">
+<link rel="manifest" href="manifest.webmanifest">
+<meta name="theme-color" content="#256abf">
+<meta name="apple-mobile-web-app-capable" content="yes">
+<meta name="mobile-web-app-capable" content="yes">
+<meta name="apple-mobile-web-app-title" content="NET Tracker">
+<link rel="apple-touch-icon" href="icons/apple-touch-icon.png">
+<link rel="stylesheet" href="style.css">
+</head>
+<body>
+<header class="top">
+  <div class="wrap head-row">
+    <div>
+      <h1>NET Prep Tracker</h1>
+      <p class="sub" id="asof">Loading&hellip;</p>
+    </div>
+    <button class="theme" id="theme" type="button" aria-label="Switch light or dark theme">Theme</button>
+  </div>
+  <nav class="wrap tabs" id="tabs" role="tablist" aria-label="Sections"></nav>
+</header>
+<main class="wrap" id="view" aria-live="polite"></main>
+<div class="tip" id="tip" role="tooltip" hidden></div>
+<footer class="wrap foot">
+  <p>UGC NET Economics (Paper II, code 01) and Teaching &amp; Research Aptitude (Paper I, code 00), official syllabus. Rebuilt automatically from study data; every number on this page is computed, not estimated, except where marked ESTIMATE.</p>
+</footer>
+<script src="app.js"></script>
+<script>if("serviceWorker"in navigator)addEventListener("load",()=>navigator.serviceWorker.register("sw.js").catch(()=>{}));</script>
+</body>
+</html>
