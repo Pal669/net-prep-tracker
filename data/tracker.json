@@ -1,11 +1,11 @@
 {
- "generated": "2026-10-08T15:25",
- "today": "2026-10-08",
+ "generated": "2026-10-09T21:32",
+ "today": "2026-10-09",
  "exam": {
   "date": "2026-12-14",
   "label": "ESTIMATE",
   "basis": "NTA has not notified the December 2026 dates; aggregators say 14-19 Dec 2026 or 31 Dec 2026-7 Jan 2027. Earliest date used. Update when NTA notifies.",
-  "days_left": 67
+  "days_left": 66
  },
  "status_labels": {
   "not_started": "Not started",
@@ -2087,13 +2087,6 @@
  "untagged": 0,
  "trend": [
   {
-   "date": "2026-09-09",
-   "n": 0,
-   "pct": null,
-   "roll_n": 0,
-   "roll_pct": null
-  },
-  {
    "date": "2026-09-10",
    "n": 0,
    "pct": null,
@@ -2291,6 +2284,13 @@
   },
   {
    "date": "2026-10-08",
+   "n": 0,
+   "pct": null,
+   "roll_n": 1,
+   "roll_pct": 100.0
+  },
+  {
+   "date": "2026-10-09",
    "n": 0,
    "pct": null,
    "roll_n": 1,
@@ -2825,9 +2825,15 @@
    "q": 0,
    "sit": 0,
    "min": 0
+  },
+  {
+   "date": "2026-10-09",
+   "q": 0,
+   "sit": 0,
+   "min": 0
   }
  ],
- "streak": 1,
+ "streak": 0,
  "last_active": "2026-10-07",
  "active_days_30": 1,
  "strengths": {
@@ -2844,7 +2850,7 @@
  "revision_upcoming": 0,
  "pace": {
   "remaining": 88,
-  "needed_per_week": 9.2,
+  "needed_per_week": 9.3,
   "rate_per_week": 0.0,
   "recent_done_14d": 0,
   "projected_finish": null,
@@ -2962,9 +2968,15 @@
  },
  "nudges": [
   {
+   "level": "high",
+   "title": "No study logged recently",
+   "why": "Last activity: 2026-10-07.",
+   "action": "Even one section today keeps the thread."
+  },
+  {
    "level": "medium",
    "title": "No Paper II topic completed in the last 14 days",
-   "why": "88 of 88 topics left with 67 days to the exam (ESTIMATE). Needed: 9.2 topics/week.",
+   "why": "88 of 88 topics left with 66 days to the exam (ESTIMATE). Needed: 9.3 topics/week.",
    "action": "A topic counts as done when you tell the teacher you understood it."
   },
   {
@@ -2972,6 +2984,12 @@
    "title": "Paper I has been quiet",
    "why": "No Paper I questions or study in the last 7 days. Paper I is 100 of the 300 marks.",
    "action": "The plan has 30 minutes a day for Paper I."
+  },
+  {
+   "level": "medium",
+   "title": "You skipped 90% of NET popups this week",
+   "why": "9 of 10 NET popup questions were skipped.",
+   "action": "Each answered popup sharpens this tracker's picture of your weak spots."
   },
   {
    "level": "info",
