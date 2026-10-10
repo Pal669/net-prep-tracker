@@ -1,11 +1,11 @@
 {
- "generated": "2026-10-09T21:32",
- "today": "2026-10-09",
+ "generated": "2026-10-10T15:57",
+ "today": "2026-10-10",
  "exam": {
   "date": "2026-12-14",
   "label": "ESTIMATE",
   "basis": "NTA has not notified the December 2026 dates; aggregators say 14-19 Dec 2026 or 31 Dec 2026-7 Jan 2027. Earliest date used. Update when NTA notifies.",
-  "days_left": 66
+  "days_left": 65
  },
  "status_labels": {
   "not_started": "Not started",
@@ -33,15 +33,25 @@
      },
      "total": 10,
      "done": 0,
-     "acc": null,
+     "acc": {
+      "right": 8,
+      "n": 13,
+      "pct": 61.5,
+      "last": "2026-10-10"
+     },
      "target": "2026-10-20",
-     "open_mistakes": 0,
+     "open_mistakes": 5,
      "topics": [
       {
        "id": "1.1",
        "name": "Theory of Consumer Behaviour",
        "status": "learning",
-       "acc": null,
+       "acc": {
+        "right": 8,
+        "n": 13,
+        "pct": 61.5,
+        "last": "2026-10-10"
+       },
        "note": "Fast session 2026-10-07 (quiz not graded); being re-taught in classroom mode",
        "subtopics": [
         {
@@ -2055,19 +2065,49 @@
   }
  ],
  "overall": {
-  "right": 1,
-  "n": 1,
-  "pct": 100.0
+  "right": 9,
+  "n": 14,
+  "pct": 64.3
  },
  "by_paper": {
   "P2": {
-   "right": 1,
-   "n": 1,
-   "pct": 100.0,
-   "last": "2026-10-07"
+   "right": 9,
+   "n": 14,
+   "pct": 64.3,
+   "last": "2026-10-10"
   }
  },
  "by_format": {
+  "Numerical": {
+   "right": 2,
+   "n": 3,
+   "pct": 66.7,
+   "last": "2026-10-10"
+  },
+  "Diagram": {
+   "right": 2,
+   "n": 4,
+   "pct": 50.0,
+   "last": "2026-10-10"
+  },
+  "Explain": {
+   "right": 1,
+   "n": 2,
+   "pct": 50.0,
+   "last": "2026-10-10"
+  },
+  "Derivation": {
+   "right": 1,
+   "n": 1,
+   "pct": 100.0,
+   "last": "2026-10-10"
+  },
+  "Objective": {
+   "right": 2,
+   "n": 3,
+   "pct": 66.7,
+   "last": "2026-10-10"
+  },
   "Direct": {
    "right": 1,
    "n": 1,
@@ -2076,6 +2116,18 @@
   }
  },
  "by_source": {
+  "Teacher test": {
+   "right": 6,
+   "n": 10,
+   "pct": 60.0,
+   "last": "2026-10-10"
+  },
+  "Past paper": {
+   "right": 2,
+   "n": 3,
+   "pct": 66.7,
+   "last": "2026-10-10"
+  },
   "Popup": {
    "right": 1,
    "n": 1,
@@ -2083,16 +2135,12 @@
    "last": "2026-10-07"
   }
  },
- "causes": {},
+ "causes": {
+  "Concept gap": 3,
+  "Recall": 2
+ },
  "untagged": 0,
  "trend": [
-  {
-   "date": "2026-09-10",
-   "n": 0,
-   "pct": null,
-   "roll_n": 0,
-   "roll_pct": null
-  },
   {
    "date": "2026-09-11",
    "n": 0,
@@ -2295,6 +2343,13 @@
    "pct": null,
    "roll_n": 1,
    "roll_pct": 100.0
+  },
+  {
+   "date": "2026-10-10",
+   "n": 13,
+   "pct": 61.5,
+   "roll_n": 14,
+   "roll_pct": 64.3
   }
  ],
  "calendar": [
@@ -2831,11 +2886,17 @@
    "q": 0,
    "sit": 0,
    "min": 0
+  },
+  {
+   "date": "2026-10-10",
+   "q": 13,
+   "sit": 1,
+   "min": 0
   }
  ],
- "streak": 0,
- "last_active": "2026-10-07",
- "active_days_30": 1,
+ "streak": 1,
+ "last_active": "2026-10-10",
+ "active_days_30": 2,
  "strengths": {
   "units": [],
   "topics": [],
@@ -2847,10 +2908,10 @@
   "formats": []
  },
  "revision_due": [],
- "revision_upcoming": 0,
+ "revision_upcoming": 5,
  "pace": {
   "remaining": 88,
-  "needed_per_week": 9.3,
+  "needed_per_week": 9.5,
   "rate_per_week": 0.0,
   "recent_done_14d": 0,
   "projected_finish": null,
@@ -2863,7 +2924,12 @@
   "id": "1.1",
   "name": "Theory of Consumer Behaviour",
   "status": "learning",
-  "acc": null,
+  "acc": {
+   "right": 8,
+   "n": 13,
+   "pct": 61.5,
+   "last": "2026-10-10"
+  },
   "note": "Fast session 2026-10-07 (quiz not graded); being re-taught in classroom mode",
   "subtopics": [
    {
@@ -2968,16 +3034,16 @@
  },
  "nudges": [
   {
-   "level": "high",
-   "title": "No study logged recently",
-   "why": "Last activity: 2026-10-07.",
-   "action": "Even one section today keeps the thread."
+   "level": "medium",
+   "title": "No Paper II topic completed in the last 14 days",
+   "why": "88 of 88 topics left with 65 days to the exam (ESTIMATE). Needed: 9.5 topics/week.",
+   "action": "A topic counts as done when you tell the teacher you understood it."
   },
   {
    "level": "medium",
-   "title": "No Paper II topic completed in the last 14 days",
-   "why": "88 of 88 topics left with 66 days to the exam (ESTIMATE). Needed: 9.3 topics/week.",
-   "action": "A topic counts as done when you tell the teacher you understood it."
+   "title": "Most mistakes are 'Concept gap'",
+   "why": "3 of 5 classified mistakes (60%).",
+   "action": "Understanding gaps: go back to the lesson before more questions."
   },
   {
    "level": "medium",
@@ -2987,18 +3053,39 @@
   },
   {
    "level": "medium",
-   "title": "You skipped 90% of NET popups this week",
-   "why": "9 of 10 NET popup questions were skipped.",
+   "title": "You skipped 94% of NET popups this week",
+   "why": "17 of 18 NET popup questions were skipped.",
    "action": "Each answered popup sharpens this tracker's picture of your weak spots."
   },
   {
    "level": "info",
    "title": "Signals are still thin",
-   "why": "Only 1 graded answers so far. Strengths and weaknesses appear once a unit has 8+ answers and a topic 5+.",
+   "why": "Only 14 graded answers so far. Strengths and weaknesses appear once a unit has 8+ answers and a topic 5+.",
    "action": "Tests and popups add data."
   }
  ],
- "tests": [],
+ "tests": [
+  {
+   "date": "2026-10-10",
+   "source": "Teacher test",
+   "paper": "P2",
+   "topic": "1.1",
+   "topic_name": "Theory of Consumer Behaviour",
+   "right": 6,
+   "n": 10,
+   "pct": 60.0
+  },
+  {
+   "date": "2026-10-10",
+   "source": "Past paper",
+   "paper": "P2",
+   "topic": "1.1",
+   "topic_name": "Theory of Consumer Behaviour",
+   "right": 2,
+   "n": 3,
+   "pct": 66.7
+  }
+ ],
  "mocks": [],
  "thresholds": {
   "strong_pct": 80,
