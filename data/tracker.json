@@ -1,11 +1,11 @@
 {
- "generated": "2026-10-10T19:14",
- "today": "2026-10-10",
+ "generated": "2026-10-11T06:00",
+ "today": "2026-10-11",
  "exam": {
   "date": "2026-12-14",
   "label": "ESTIMATE",
   "basis": "NTA has not notified the December 2026 dates; aggregators say 14-19 Dec 2026 or 31 Dec 2026-7 Jan 2027. Earliest date used. Update when NTA notifies.",
-  "days_left": 65
+  "days_left": 64
  },
  "status_labels": {
   "not_started": "Not started",
@@ -40,7 +40,7 @@
       "last": "2026-10-10"
      },
      "target": "2026-10-20",
-     "open_mistakes": 5,
+     "open_mistakes": 11,
      "topics": [
       {
        "id": "1.1",
@@ -2142,13 +2142,6 @@
  "untagged": 0,
  "trend": [
   {
-   "date": "2026-09-11",
-   "n": 0,
-   "pct": null,
-   "roll_n": 0,
-   "roll_pct": null
-  },
-  {
    "date": "2026-09-12",
    "n": 0,
    "pct": null,
@@ -2350,51 +2343,16 @@
    "pct": 61.5,
    "roll_n": 14,
    "roll_pct": 64.3
+  },
+  {
+   "date": "2026-10-11",
+   "n": 0,
+   "pct": null,
+   "roll_n": 14,
+   "roll_pct": 64.3
   }
  ],
  "calendar": [
-  {
-   "date": "2026-07-13",
-   "q": 0,
-   "sit": 0,
-   "min": 0
-  },
-  {
-   "date": "2026-07-14",
-   "q": 0,
-   "sit": 0,
-   "min": 0
-  },
-  {
-   "date": "2026-07-15",
-   "q": 0,
-   "sit": 0,
-   "min": 0
-  },
-  {
-   "date": "2026-07-16",
-   "q": 0,
-   "sit": 0,
-   "min": 0
-  },
-  {
-   "date": "2026-07-17",
-   "q": 0,
-   "sit": 0,
-   "min": 0
-  },
-  {
-   "date": "2026-07-18",
-   "q": 0,
-   "sit": 0,
-   "min": 0
-  },
-  {
-   "date": "2026-07-19",
-   "q": 0,
-   "sit": 0,
-   "min": 0
-  },
   {
    "date": "2026-07-20",
    "q": 0,
@@ -2892,6 +2850,12 @@
    "q": 13,
    "sit": 1,
    "min": 0
+  },
+  {
+   "date": "2026-10-11",
+   "q": 0,
+   "sit": 0,
+   "min": 0
   }
  ],
  "streak": 1,
@@ -2907,11 +2871,92 @@
   "topics": [],
   "formats": []
  },
- "revision_due": [],
- "revision_upcoming": 5,
+ "revision_due": [
+  {
+   "unit": 1,
+   "folder": "01-Micro",
+   "date": "2026-10-10",
+   "topic": "1.1 Budget line",
+   "question": "Varian 2 RQ1: p1x2, p2x8, mx4 — new line?",
+   "cause": "Concept gap",
+   "next": "2026-10-11",
+   "status": "Open"
+  },
+  {
+   "unit": 1,
+   "folder": "01-Micro",
+   "date": "2026-10-10",
+   "topic": "1.1 Numeraire",
+   "question": "Varian 2 RQ4: define numeraire good",
+   "cause": "Recall",
+   "next": "2026-10-11",
+   "status": "Open"
+  },
+  {
+   "unit": 1,
+   "folder": "01-Micro",
+   "date": "2026-10-10",
+   "topic": "1.1 Budget line slope",
+   "question": "Own Q8: electricity Rs3 up to 100 units, Rs6 after, m=1200, x2 composite",
+   "cause": "Concept gap",
+   "next": "2026-10-11",
+   "status": "Open"
+  },
+  {
+   "unit": 1,
+   "folder": "01-Micro",
+   "date": "2026-10-10",
+   "topic": "1.1 In-kind transfer",
+   "question": "Own Q9: Rs1000 cash vs 1000 units free unsellable grain, m=3000",
+   "cause": "Concept gap",
+   "next": "2026-10-11",
+   "status": "Open"
+  },
+  {
+   "unit": 1,
+   "folder": "01-Micro",
+   "date": "2026-10-10",
+   "topic": "1.1 Ad valorem tax",
+   "question": "NET 26J-93: tax as % of price is called?",
+   "cause": "Recall",
+   "next": "2026-10-11",
+   "status": "Open"
+  },
+  {
+   "unit": 1,
+   "folder": "01-Micro",
+   "date": "2026-10-10",
+   "topic": "1.1 Strict vs weak preference",
+   "question": "Varian 3 RQ1: one observed choice of X when Y available — X ≻ Y?",
+   "cause": "Concept gap",
+   "next": "2026-10-11",
+   "status": "Open"
+  },
+  {
+   "unit": 1,
+   "folder": "01-Micro",
+   "date": "2026-10-10",
+   "topic": "1.1 Reflexivity",
+   "question": "Varian 3 RQ3: is \"strictly taller than\" reflexive?",
+   "cause": "Recall",
+   "next": "2026-10-11",
+   "status": "Open"
+  },
+  {
+   "unit": 1,
+   "folder": "01-Micro",
+   "date": "2026-10-10",
+   "topic": "1.1 Completeness",
+   "question": "Varian 3 RQ4: \"bigger and faster\" rule: transitive? complete?",
+   "cause": "Concept gap",
+   "next": "2026-10-11",
+   "status": "Open"
+  }
+ ],
+ "revision_upcoming": 3,
  "pace": {
   "remaining": 88,
-  "needed_per_week": 9.5,
+  "needed_per_week": 9.6,
   "rate_per_week": 0.0,
   "recent_done_14d": 0,
   "projected_finish": null,
@@ -3034,9 +3079,15 @@
  },
  "nudges": [
   {
+   "level": "high",
+   "title": "8 revision questions due",
+   "why": "Mistakes come back after 1, 3 and 7 days; these have reached their review date.",
+   "action": "Say \"revise my mistakes\" to the economics teacher."
+  },
+  {
    "level": "medium",
    "title": "No Paper II topic completed in the last 14 days",
-   "why": "88 of 88 topics left with 65 days to the exam (ESTIMATE). Needed: 9.5 topics/week.",
+   "why": "88 of 88 topics left with 64 days to the exam (ESTIMATE). Needed: 9.6 topics/week.",
    "action": "A topic counts as done when you tell the teacher you understood it."
   },
   {
@@ -3053,8 +3104,8 @@
   },
   {
    "level": "medium",
-   "title": "You skipped 94% of NET popups this week",
-   "why": "17 of 18 NET popup questions were skipped.",
+   "title": "You skipped 95% of NET popups this week",
+   "why": "18 of 19 NET popup questions were skipped.",
    "action": "Each answered popup sharpens this tracker's picture of your weak spots."
   },
   {
