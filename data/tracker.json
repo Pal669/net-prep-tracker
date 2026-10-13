@@ -1,11 +1,11 @@
 {
- "generated": "2026-10-11T15:36",
- "today": "2026-10-11",
+ "generated": "2026-10-13T13:11",
+ "today": "2026-10-13",
  "exam": {
   "date": "2026-12-14",
   "label": "ESTIMATE",
   "basis": "NTA has not notified the December 2026 dates; aggregators say 14-19 Dec 2026 or 31 Dec 2026-7 Jan 2027. Earliest date used. Update when NTA notifies.",
-  "days_left": 64
+  "days_left": 62
  },
  "status_labels": {
   "not_started": "Not started",
@@ -34,23 +34,23 @@
      "total": 10,
      "done": 0,
      "acc": {
-      "right": 13,
-      "n": 28,
-      "pct": 46.4,
-      "last": "2026-10-11"
+      "right": 16,
+      "n": 40,
+      "pct": 40.0,
+      "last": "2026-10-13"
      },
      "target": "2026-10-20",
-     "open_mistakes": 15,
+     "open_mistakes": 25,
      "topics": [
       {
        "id": "1.1",
        "name": "Theory of Consumer Behaviour",
        "status": "learning",
        "acc": {
-        "right": 13,
-        "n": 28,
-        "pct": 46.4,
-        "last": "2026-10-11"
+        "right": 16,
+        "n": 40,
+        "pct": 40.0,
+        "last": "2026-10-13"
        },
        "note": "Fast session 2026-10-07 (quiz not graded); being re-taught in classroom mode",
        "subtopics": [
@@ -2065,16 +2065,16 @@
   }
  ],
  "overall": {
-  "right": 14,
-  "n": 29,
-  "pct": 48.3
+  "right": 17,
+  "n": 41,
+  "pct": 41.5
  },
  "by_paper": {
   "P2": {
-   "right": 14,
-   "n": 29,
-   "pct": 48.3,
-   "last": "2026-10-11"
+   "right": 17,
+   "n": 41,
+   "pct": 41.5,
+   "last": "2026-10-13"
   }
  },
  "by_format": {
@@ -2091,22 +2091,22 @@
    "last": "2026-10-11"
   },
   "Explain": {
-   "right": 3,
-   "n": 8,
-   "pct": 37.5,
-   "last": "2026-10-11"
+   "right": 5,
+   "n": 13,
+   "pct": 38.5,
+   "last": "2026-10-12"
   },
   "Derivation": {
    "right": 1,
-   "n": 1,
-   "pct": 100.0,
-   "last": "2026-10-10"
+   "n": 6,
+   "pct": 16.7,
+   "last": "2026-10-13"
   },
   "Objective": {
-   "right": 3,
-   "n": 5,
-   "pct": 60.0,
-   "last": "2026-10-11"
+   "right": 4,
+   "n": 7,
+   "pct": 57.1,
+   "last": "2026-10-13"
   },
   "Application": {
    "right": 0,
@@ -2123,16 +2123,16 @@
  },
  "by_source": {
   "Teacher test": {
-   "right": 10,
-   "n": 23,
-   "pct": 43.5,
-   "last": "2026-10-11"
+   "right": 12,
+   "n": 34,
+   "pct": 35.3,
+   "last": "2026-10-13"
   },
   "Past paper": {
-   "right": 3,
-   "n": 5,
-   "pct": 60.0,
-   "last": "2026-10-11"
+   "right": 4,
+   "n": 6,
+   "pct": 66.7,
+   "last": "2026-10-13"
   },
   "Popup": {
    "right": 1,
@@ -2142,25 +2142,11 @@
   }
  },
  "causes": {
-  "Concept gap": 9,
-  "Recall": 6
+  "Concept gap": 17,
+  "Recall": 7
  },
  "untagged": 0,
  "trend": [
-  {
-   "date": "2026-09-12",
-   "n": 0,
-   "pct": null,
-   "roll_n": 0,
-   "roll_pct": null
-  },
-  {
-   "date": "2026-09-13",
-   "n": 0,
-   "pct": null,
-   "roll_n": 0,
-   "roll_pct": null
-  },
   {
    "date": "2026-09-14",
    "n": 0,
@@ -2356,6 +2342,20 @@
    "pct": 36.4,
    "roll_n": 29,
    "roll_pct": 48.3
+  },
+  {
+   "date": "2026-10-12",
+   "n": 9,
+   "pct": 22.2,
+   "roll_n": 38,
+   "roll_pct": 42.1
+  },
+  {
+   "date": "2026-10-13",
+   "n": 3,
+   "pct": 33.3,
+   "roll_n": 41,
+   "roll_pct": 41.5
   }
  ],
  "calendar": [
@@ -2862,11 +2862,23 @@
    "q": 11,
    "sit": 1,
    "min": 0
+  },
+  {
+   "date": "2026-10-12",
+   "q": 9,
+   "sit": 1,
+   "min": 0
+  },
+  {
+   "date": "2026-10-13",
+   "q": 3,
+   "sit": 1,
+   "min": 0
   }
  ],
- "streak": 2,
- "last_active": "2026-10-11",
- "active_days_30": 3,
+ "streak": 4,
+ "last_active": "2026-10-13",
+ "active_days_30": 5,
  "strengths": {
   "units": [],
   "topics": [],
@@ -2877,30 +2889,38 @@
    {
     "key": "P2:1",
     "label": "Paper II · Unit 1 Micro Economics",
-    "right": 13,
-    "n": 28,
-    "pct": 46.4,
-    "last": "2026-10-11"
+    "right": 16,
+    "n": 40,
+    "pct": 40.0,
+    "last": "2026-10-13"
    }
   ],
   "topics": [
    {
     "key": "P2:1.1",
     "label": "1.1 Theory of Consumer Behaviour",
-    "right": 13,
-    "n": 28,
-    "pct": 46.4,
-    "last": "2026-10-11"
+    "right": 16,
+    "n": 40,
+    "pct": 40.0,
+    "last": "2026-10-13"
    }
   ],
   "formats": [
    {
+    "key": "Derivation",
+    "label": "Derivation",
+    "right": 1,
+    "n": 6,
+    "pct": 16.7,
+    "last": "2026-10-13"
+   },
+   {
     "key": "Explain",
     "label": "Explain",
-    "right": 3,
-    "n": 8,
-    "pct": 37.5,
-    "last": "2026-10-11"
+    "right": 5,
+    "n": 13,
+    "pct": 38.5,
+    "last": "2026-10-12"
    },
    {
     "key": "Numerical",
@@ -2917,6 +2937,14 @@
     "n": 8,
     "pct": 50.0,
     "last": "2026-10-11"
+   },
+   {
+    "key": "Objective",
+    "label": "Objective",
+    "right": 4,
+    "n": 7,
+    "pct": 57.1,
+    "last": "2026-10-13"
    }
   ]
  },
@@ -3000,12 +3028,152 @@
    "cause": "Concept gap",
    "next": "2026-10-11",
    "status": "Open"
+  },
+  {
+   "unit": 1,
+   "folder": "01-Micro",
+   "date": "2026-10-11",
+   "topic": "1.1 IC crossing",
+   "question": "Varian 3 RQ5: can an IC cross itself?",
+   "cause": "Concept gap",
+   "next": "2026-10-12",
+   "status": "Open"
+  },
+  {
+   "unit": 1,
+   "folder": "01-Micro",
+   "date": "2026-10-11",
+   "topic": "1.1 Convexity",
+   "question": "Varian 3 RQ8: why convex = averages preferred to extremes",
+   "cause": "Recall",
+   "next": "2026-10-12",
+   "status": "Open"
+  },
+  {
+   "unit": 1,
+   "folder": "01-Micro",
+   "date": "2026-10-11",
+   "topic": "1.1 MRS sign/axis",
+   "question": "Varian 3 RQ9: MRS of Rs 1 for Rs 5 coins",
+   "cause": "Recall",
+   "next": "2026-10-12",
+   "status": "Open"
+  },
+  {
+   "unit": 1,
+   "folder": "01-Micro",
+   "date": "2026-10-11",
+   "topic": "1.1 MRS from a table",
+   "question": "Ahuja ch. 8 Q6: Sonia IC (2,16)(3,11)(4,7)(5,4)(6,2)(7,1): MRS?",
+   "cause": "Concept gap",
+   "next": "2026-10-12",
+   "status": "Open"
+  },
+  {
+   "unit": 1,
+   "folder": "01-Micro",
+   "date": "2026-10-11",
+   "topic": "1.1 Group transitivity",
+   "question": "Own Q12: Condorcet 3 voters, 3 options: who wins each pair?",
+   "cause": "Concept gap",
+   "next": "2026-10-12",
+   "status": "Open"
+  },
+  {
+   "unit": 1,
+   "folder": "01-Micro",
+   "date": "2026-10-11",
+   "topic": "1.1 Strict convexity",
+   "question": "Own Q13: perfect substitutes x1+x2=k: convex? strictly? choice at E=1?",
+   "cause": "Concept gap",
+   "next": "2026-10-12",
+   "status": "Open"
+  },
+  {
+   "unit": 1,
+   "folder": "01-Micro",
+   "date": "2026-10-11",
+   "topic": "1.1 IC properties",
+   "question": "NET 13D3-8: which IC properties true (a slope down L→R, b down R→L, c convex, d never intersect)",
+   "cause": "Recall",
+   "next": "2026-10-12",
+   "status": "Open"
+  },
+  {
+   "unit": 1,
+   "folder": "01-Micro",
+   "date": "2026-10-12",
+   "topic": "1.1 Monotonic transformation",
+   "question": "Varian 4 RQ1: is f(u) = u² monotonic?",
+   "cause": "Recall",
+   "next": "2026-10-13",
+   "status": "Open"
+  },
+  {
+   "unit": 1,
+   "folder": "01-Micro",
+   "date": "2026-10-12",
+   "topic": "1.1 Monotonic transformation",
+   "question": "Varian 4 RQ2(8): is u = v² for v < 0 monotonic?",
+   "cause": "Concept gap",
+   "next": "2026-10-13",
+   "status": "Open"
+  },
+  {
+   "unit": 1,
+   "folder": "01-Micro",
+   "date": "2026-10-12",
+   "topic": "1.1 Monotonic transformation",
+   "question": "Varian 4 RQ2(5): is u = −e^(−v) monotonic?",
+   "cause": "Concept gap",
+   "next": "2026-10-13",
+   "status": "Open"
+  },
+  {
+   "unit": 1,
+   "folder": "01-Micro",
+   "date": "2026-10-12",
+   "topic": "1.1 Constructing utility",
+   "question": "Varian 4 RQ3: prove the diagonal cuts each IC exactly once under monotonicity",
+   "cause": "Concept gap",
+   "next": "2026-10-13",
+   "status": "Open"
+  },
+  {
+   "unit": 1,
+   "folder": "01-Micro",
+   "date": "2026-10-12",
+   "topic": "1.1 Monotonic transformation",
+   "question": "Varian 4 RQ6: is v = x1²x2 a monotonic transformation of u = √(x1x2)?",
+   "cause": "Concept gap",
+   "next": "2026-10-13",
+   "status": "Open"
+  },
+  {
+   "unit": 1,
+   "folder": "01-Micro",
+   "date": "2026-10-12",
+   "topic": "1.1 MU vs MRS",
+   "question": "Varian 4 RQ7: why doesn't a monotonic transformation change the MRS?",
+   "cause": "Concept gap",
+   "next": "2026-10-13",
+   "status": "Open"
+  },
+  {
+   "unit": 1,
+   "folder": "01-Micro",
+   "date": "2026-10-12",
+   "topic": "1.1 Constructing utility",
+   "question": "O&R ch. 1 Problem 7(a): 8 best, otherwise higher better; build u",
+   "cause": "Concept gap",
+   "next": "2026-10-13",
+   "status": "Open"
   }
  ],
- "revision_upcoming": 7,
+ "revision_upcoming": 2,
  "pace": {
   "remaining": 88,
-  "needed_per_week": 9.6,
+  "needed_per_week": 9.9,
   "rate_per_week": 0.0,
   "recent_done_14d": 0,
   "projected_finish": null,
@@ -3019,10 +3187,10 @@
   "name": "Theory of Consumer Behaviour",
   "status": "learning",
   "acc": {
-   "right": 13,
-   "n": 28,
-   "pct": 46.4,
-   "last": "2026-10-11"
+   "right": 16,
+   "n": 40,
+   "pct": 40.0,
+   "last": "2026-10-13"
   },
   "note": "Fast session 2026-10-07 (quiz not graded); being re-taught in classroom mode",
   "subtopics": [
@@ -3129,32 +3297,32 @@
  "nudges": [
   {
    "level": "high",
-   "title": "8 revision questions due",
+   "title": "22 revision questions due",
    "why": "Mistakes come back after 1, 3 and 7 days; these have reached their review date.",
    "action": "Say \"revise my mistakes\" to the economics teacher."
   },
   {
    "level": "high",
    "title": "Weak area: Paper II · Unit 1 Micro Economics",
-   "why": "46.4% correct over 28 questions (weak below 60%).",
+   "why": "40.0% correct over 40 questions (weak below 60%).",
    "action": "Revise this unit before adding new material."
   },
   {
    "level": "medium",
    "title": "No Paper II topic completed in the last 14 days",
-   "why": "88 of 88 topics left with 64 days to the exam (ESTIMATE). Needed: 9.6 topics/week.",
+   "why": "88 of 88 topics left with 62 days to the exam (ESTIMATE). Needed: 9.9 topics/week.",
    "action": "A topic counts as done when you tell the teacher you understood it."
   },
   {
    "level": "medium",
    "title": "Weak topic: 1.1 Theory of Consumer Behaviour",
-   "why": "46.4% over 28 questions.",
+   "why": "40.0% over 40 questions.",
    "action": "Ask the teacher to re-teach it."
   },
   {
    "level": "medium",
    "title": "Most mistakes are 'Concept gap'",
-   "why": "9 of 15 classified mistakes (60%).",
+   "why": "17 of 24 classified mistakes (71%).",
    "action": "Understanding gaps: go back to the lesson before more questions."
   },
   {
@@ -3168,15 +3336,39 @@
    "title": "You skipped 96% of NET popups this week",
    "why": "23 of 24 NET popup questions were skipped.",
    "action": "Each answered popup sharpens this tracker's picture of your weak spots."
-  },
-  {
-   "level": "info",
-   "title": "Signals are still thin",
-   "why": "Only 29 graded answers so far. Strengths and weaknesses appear once a unit has 8+ answers and a topic 5+.",
-   "action": "Tests and popups add data."
   }
  ],
  "tests": [
+  {
+   "date": "2026-10-13",
+   "source": "Teacher test",
+   "paper": "P2",
+   "topic": "1.1",
+   "topic_name": "Theory of Consumer Behaviour",
+   "right": 0,
+   "n": 2,
+   "pct": 0.0
+  },
+  {
+   "date": "2026-10-13",
+   "source": "Past paper",
+   "paper": "P2",
+   "topic": "1.1",
+   "topic_name": "Theory of Consumer Behaviour",
+   "right": 1,
+   "n": 1,
+   "pct": 100.0
+  },
+  {
+   "date": "2026-10-12",
+   "source": "Teacher test",
+   "paper": "P2",
+   "topic": "1.1",
+   "topic_name": "Theory of Consumer Behaviour",
+   "right": 2,
+   "n": 9,
+   "pct": 22.2
+  },
   {
    "date": "2026-10-11",
    "source": "Teacher test",
