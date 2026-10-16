@@ -1,11 +1,11 @@
 {
- "generated": "2026-10-14T15:55",
- "today": "2026-10-14",
+ "generated": "2026-10-16T12:00",
+ "today": "2026-10-16",
  "exam": {
   "date": "2026-12-14",
   "label": "ESTIMATE",
   "basis": "NTA has not notified the December 2026 dates; aggregators say 14-19 Dec 2026 or 31 Dec 2026-7 Jan 2027. Earliest date used. Update when NTA notifies.",
-  "days_left": 61
+  "days_left": 59
  },
  "status_labels": {
   "not_started": "Not started",
@@ -2148,20 +2148,6 @@
  "untagged": 0,
  "trend": [
   {
-   "date": "2026-09-15",
-   "n": 0,
-   "pct": null,
-   "roll_n": 0,
-   "roll_pct": null
-  },
-  {
-   "date": "2026-09-16",
-   "n": 0,
-   "pct": null,
-   "roll_n": 0,
-   "roll_pct": null
-  },
-  {
    "date": "2026-09-17",
    "n": 0,
    "pct": null,
@@ -2354,6 +2340,20 @@
    "date": "2026-10-14",
    "n": 5,
    "pct": 20.0,
+   "roll_n": 45,
+   "roll_pct": 37.8
+  },
+  {
+   "date": "2026-10-15",
+   "n": 0,
+   "pct": null,
+   "roll_n": 45,
+   "roll_pct": 37.8
+  },
+  {
+   "date": "2026-10-16",
+   "n": 0,
+   "pct": null,
    "roll_n": 45,
    "roll_pct": 37.8
   }
@@ -2878,11 +2878,23 @@
   {
    "date": "2026-10-14",
    "q": 5,
-   "sit": 1,
+   "sit": 2,
+   "min": 0
+  },
+  {
+   "date": "2026-10-15",
+   "q": 0,
+   "sit": 0,
+   "min": 0
+  },
+  {
+   "date": "2026-10-16",
+   "q": 0,
+   "sit": 0,
    "min": 0
   }
  ],
- "streak": 5,
+ "streak": 0,
  "last_active": "2026-10-14",
  "active_days_30": 6,
  "strengths": {
@@ -3214,12 +3226,72 @@
    "cause": "Concept gap",
    "next": "2026-10-14",
    "status": "Open"
+  },
+  {
+   "unit": 1,
+   "folder": "01-Micro",
+   "date": "2026-10-14",
+   "topic": "1.1 Convexity vs MU",
+   "question": "Own Q12: U = x² + y²: convex or concave ICs?",
+   "cause": "Concept gap",
+   "next": "2026-10-15",
+   "status": "Open"
+  },
+  {
+   "unit": 1,
+   "folder": "01-Micro",
+   "date": "2026-10-14",
+   "topic": "1.1 Interpersonal comparison",
+   "question": "Own Q13: sum of utilities, then relabel A as 3·uA",
+   "cause": "Concept gap",
+   "next": "2026-10-15",
+   "status": "Open"
+  },
+  {
+   "unit": 1,
+   "folder": "01-Micro",
+   "date": "2026-10-14",
+   "topic": "1.1 Cardinal utility: one-commodity critique",
+   "question": "Ahuja ch. 7 RQ8: Marshall's demand theorem valid only in a one-commodity model",
+   "cause": "Concept gap",
+   "next": "2026-10-15",
+   "status": "Open"
+  },
+  {
+   "unit": 1,
+   "folder": "01-Micro",
+   "date": "2026-10-14",
+   "topic": "1.1 Hicks's \"empty box\"",
+   "question": "Ahuja ch. 7 RQ9: income vs substitution effect left as an empty box",
+   "cause": "Concept gap",
+   "next": "2026-10-15",
+   "status": "Open"
+  },
+  {
+   "unit": 1,
+   "folder": "01-Micro",
+   "date": "2026-10-14",
+   "topic": "1.1 Cardinal utility: DMU → law of demand",
+   "question": "Ahuja ch. 7 RQ1: state DMU and derive the law of demand",
+   "cause": "Concept gap",
+   "next": "2026-10-15",
+   "status": "Open"
+  },
+  {
+   "unit": 1,
+   "folder": "01-Micro",
+   "date": "2026-10-14",
+   "topic": "1.1 Giffen paradox",
+   "question": "Ahuja ch. 7 RQ11: Giffen paradox; why Marshall failed",
+   "cause": "Concept gap",
+   "next": "2026-10-15",
+   "status": "Open"
   }
  ],
- "revision_upcoming": 6,
+ "revision_upcoming": 0,
  "pace": {
   "remaining": 88,
-  "needed_per_week": 10.1,
+  "needed_per_week": 10.4,
   "rate_per_week": 0.0,
   "recent_done_14d": 0,
   "projected_finish": null,
@@ -3343,9 +3415,15 @@
  "nudges": [
   {
    "level": "high",
-   "title": "26 revision questions due",
+   "title": "32 revision questions due",
    "why": "Mistakes come back after 1, 3 and 7 days; these have reached their review date.",
    "action": "Say \"revise my mistakes\" to the economics teacher."
+  },
+  {
+   "level": "high",
+   "title": "No study logged recently",
+   "why": "Last activity: 2026-10-14.",
+   "action": "Even one section today keeps the thread."
   },
   {
    "level": "high",
@@ -3356,7 +3434,7 @@
   {
    "level": "medium",
    "title": "No Paper II topic completed in the last 14 days",
-   "why": "88 of 88 topics left with 61 days to the exam (ESTIMATE). Needed: 10.1 topics/week.",
+   "why": "88 of 88 topics left with 59 days to the exam (ESTIMATE). Needed: 10.4 topics/week.",
    "action": "A topic counts as done when you tell the teacher you understood it."
   },
   {
@@ -3376,12 +3454,6 @@
    "title": "Paper I has been quiet",
    "why": "No Paper I questions or study in the last 7 days. Paper I is 100 of the 300 marks.",
    "action": "The plan has 30 minutes a day for Paper I."
-  },
-  {
-   "level": "medium",
-   "title": "You skipped 100% of NET popups this week",
-   "why": "19 of 19 NET popup questions were skipped.",
-   "action": "Each answered popup sharpens this tracker's picture of your weak spots."
   }
  ],
  "tests": [
