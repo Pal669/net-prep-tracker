@@ -1,0 +1,48 @@
+name: Refresh tracker
+
+# Runs on GitHub's servers so the tracker keeps updating whether or not any PC or Mac is on (added 2026-10-19).
+# Code + study data are read from the private EA-Demo repo (Economics/tracker, projects/learning-loop), never copied here.
+# build_tracker.py publishes only if that copy is not behind the last published build (a PC/Mac build is often fresher).
+# Times are UTC: 00:30 = 06:00 IST, 12:30 = 18:00 IST (a second daily slot, since GitHub can skip a scheduled run).
+on:
+  schedule:
+    - cron: "30 0 * * *"
+    - cron: "30 12 * * *"
+  workflow_dispatch: {}
+
+permissions:
+  contents: write
+
+concurrency:
+  group: refresh
+  cancel-in-progress: false
+
+jobs:
+  refresh:
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    env:
+      TZ: Asia/Kolkata
+      PYTHONIOENCODING: utf-8
+    steps:
+      - name: Code + study data (private EA-Demo repo, read-only)
+        uses: actions/checkout@v4
+        with:
+          repository: Pal669/EA-Demo
+          ssh-key: ${{ secrets.EA_DEMO_DEPLOY_KEY }}   # read-only deploy key on EA-Demo
+          path: ea
+          sparse-checkout: |
+            Economics
+            projects/learning-loop
+      - name: This portal
+        uses: actions/checkout@v4
+        with:
+          path: ea/net-prep-tracker
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - name: Build and publish
+        run: |
+          git -C ea/net-prep-tracker config user.name "net-tracker-bot"
+          git -C ea/net-prep-tracker config user.email "actions@users.noreply.github.com"
+          python ea/Economics/tracker/build_tracker.py --push
