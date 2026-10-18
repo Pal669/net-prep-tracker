@@ -1,11 +1,11 @@
 {
- "generated": "2026-10-18T15:30",
- "today": "2026-10-18",
+ "generated": "2026-10-19T03:35",
+ "today": "2026-10-19",
  "exam": {
   "date": "2026-12-14",
   "label": "ESTIMATE",
   "basis": "NTA has not notified the December 2026 dates; aggregators say 14-19 Dec 2026 or 31 Dec 2026-7 Jan 2027. Earliest date used. Update when NTA notifies.",
-  "days_left": 57
+  "days_left": 56
  },
  "status_labels": {
   "not_started": "Not started",
@@ -2148,13 +2148,6 @@
  "untagged": 0,
  "trend": [
   {
-   "date": "2026-09-19",
-   "n": 0,
-   "pct": null,
-   "roll_n": 0,
-   "roll_pct": null
-  },
-  {
    "date": "2026-09-20",
    "n": 0,
    "pct": null,
@@ -2356,6 +2349,13 @@
    "pct": null,
    "roll_n": 17,
    "roll_pct": 23.5
+  },
+  {
+   "date": "2026-10-19",
+   "n": 0,
+   "pct": null,
+   "roll_n": 8,
+   "roll_pct": 25.0
   }
  ],
  "calendar": [
@@ -2862,6 +2862,12 @@
    "q": 0,
    "sit": 0,
    "min": 0
+  },
+  {
+   "date": "2026-10-19",
+   "q": 0,
+   "sit": 0,
+   "min": 0
   }
  ],
  "streak": 0,
@@ -3261,7 +3267,7 @@
  "revision_upcoming": 0,
  "pace": {
   "remaining": 88,
-  "needed_per_week": 10.8,
+  "needed_per_week": 11.0,
   "rate_per_week": 0.0,
   "recent_done_14d": 0,
   "projected_finish": null,
@@ -3412,15 +3418,9 @@
    "action": "Revise this unit before adding new material."
   },
   {
-   "level": "high",
-   "title": "Accuracy is falling",
-   "why": "23.5% this week vs 48.3% the week before.",
-   "action": "Check the weak list below."
-  },
-  {
    "level": "medium",
    "title": "No Paper II topic completed in the last 14 days",
-   "why": "88 of 88 topics left with 57 days to the exam (ESTIMATE). Needed: 10.8 topics/week.",
+   "why": "88 of 88 topics left with 56 days to the exam (ESTIMATE). Needed: 11.0 topics/week.",
    "action": "A topic counts as done when you tell the teacher you understood it."
   },
   {
@@ -3440,6 +3440,12 @@
    "title": "Paper I has been quiet",
    "why": "No Paper I questions or study in the last 7 days. Paper I is 100 of the 300 marks.",
    "action": "The plan has 30 minutes a day for Paper I."
+  },
+  {
+   "level": "medium",
+   "title": "You skipped 100% of NET popups this week",
+   "why": "24 of 24 NET popup questions were skipped.",
+   "action": "Each answered popup sharpens this tracker's picture of your weak spots."
   }
  ],
  "tests": [
@@ -3534,5 +3540,11 @@
   "cold_days": 14,
   "inactive_days": 2,
   "paper1_quiet_days": 7
+ },
+ "inputs": {
+  "answers": 46,
+  "popups_seen": 68,
+  "study_rows": 7,
+  "mocks": 0
  }
 }
