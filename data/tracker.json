@@ -1,11 +1,11 @@
 {
- "generated": "2026-10-19T14:01",
- "today": "2026-10-19",
+ "generated": "2026-10-20T00:18",
+ "today": "2026-10-20",
  "exam": {
   "date": "2026-12-14",
   "label": "ESTIMATE",
   "basis": "NTA has not notified the December 2026 dates; aggregators say 14-19 Dec 2026 or 31 Dec 2026-7 Jan 2027. Earliest date used. Update when NTA notifies.",
-  "days_left": 56
+  "days_left": 55
  },
  "status_labels": {
   "not_started": "Not started",
@@ -2148,13 +2148,6 @@
  "untagged": 0,
  "trend": [
   {
-   "date": "2026-09-20",
-   "n": 0,
-   "pct": null,
-   "roll_n": 0,
-   "roll_pct": null
-  },
-  {
    "date": "2026-09-21",
    "n": 0,
    "pct": null,
@@ -2356,6 +2349,13 @@
    "pct": null,
    "roll_n": 8,
    "roll_pct": 25.0
+  },
+  {
+   "date": "2026-10-20",
+   "n": 0,
+   "pct": null,
+   "roll_n": 5,
+   "roll_pct": 20.0
   }
  ],
  "calendar": [
@@ -2868,6 +2868,12 @@
    "q": 0,
    "sit": 0,
    "min": 0
+  },
+  {
+   "date": "2026-10-20",
+   "q": 0,
+   "sit": 0,
+   "min": 0
   }
  ],
  "streak": 0,
@@ -3267,7 +3273,7 @@
  "revision_upcoming": 0,
  "pace": {
   "remaining": 88,
-  "needed_per_week": 11.0,
+  "needed_per_week": 11.2,
   "rate_per_week": 0.0,
   "recent_done_14d": 0,
   "projected_finish": null,
@@ -3420,7 +3426,7 @@
   {
    "level": "medium",
    "title": "No Paper II topic completed in the last 14 days",
-   "why": "88 of 88 topics left with 56 days to the exam (ESTIMATE). Needed: 11.0 topics/week.",
+   "why": "88 of 88 topics left with 55 days to the exam (ESTIMATE). Needed: 11.2 topics/week.",
    "action": "A topic counts as done when you tell the teacher you understood it."
   },
   {
@@ -3444,7 +3450,7 @@
   {
    "level": "medium",
    "title": "You skipped 100% of NET popups this week",
-   "why": "24 of 24 NET popup questions were skipped.",
+   "why": "16 of 16 NET popup questions were skipped.",
    "action": "Each answered popup sharpens this tracker's picture of your weak spots."
   }
  ],
