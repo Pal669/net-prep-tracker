@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-20T23:35",
+ "generated": "2026-10-20T23:46",
  "today": "2026-10-20",
  "exam": {
   "date": "2026-12-14",
@@ -52,35 +52,35 @@
         "pct": 43.7,
         "last": "2026-10-20"
        },
-       "note": "Fast session 2026-10-07 (quiz not graded); being re-taught in classroom mode",
+       "note": "A1-A5 done (Budget, Preferences, Utility, Choice, Demand) = 1.1a-1.1d; next A6 Revealed Preference; 1.1e onward pending",
        "subtopics": [
         {
          "id": "1.1a",
          "name": "Preferences: completeness, transitivity, continuity, monotonicity, convexity; existence of a utility function; ordinal utility and monotonic transformations",
          "scope": "In scope",
          "sources": "DU, JMI, VB; V ch3-4; OR ch1, ch4 · also K, A, JR, NS (6 of 7)",
-         "status": "not_started"
+         "status": "understood"
         },
         {
          "id": "1.1b",
          "name": "Cardinal utility (Marshall): diminishing marginal utility, equi-marginal principle, Marshall's derivation of demand",
          "scope": "In scope",
          "sources": "CUK; K ch2; V ch4 · also A (3 of 7)",
-         "status": "not_started"
+         "status": "understood"
         },
         {
          "id": "1.1c",
          "name": "Budget set, indifference curves and MRS, utility maximisation (Lagrange method, corner solutions, perfect substitutes and complements, quasilinear utility)",
          "scope": "In scope",
          "sources": "VB, CUK, DU; V ch2, 3, 5; K ch2; OR ch5 · also A, JR, NS, G (7 of 7)",
-         "status": "not_started"
+         "status": "understood"
         },
         {
          "id": "1.1d",
          "name": "Demand functions and their properties (homogeneity of degree zero, budget exhaustion); income changes (income-consumption curve, Engel curves, normal / inferior / luxury goods); price changes (price-consumption curve); substitutes and complements",
          "scope": "In scope",
          "sources": "VB, CUK; V ch6; K ch2; OR ch5 · also A, JR, NS (6 of 7)",
-         "status": "not_started"
+         "status": "understood"
         },
         {
          "id": "1.1e",
@@ -3267,9 +3267,9 @@
  "pace": {
   "remaining": 88,
   "needed_per_week": 11.2,
-  "rate_per_week": 0.0,
-  "recent_done_14d": 0,
-  "projected_finish": null,
+  "rate_per_week": 2.0,
+  "recent_done_14d": 4,
+  "projected_finish": "2027-08-24",
   "unit_flags": [
    {
     "paper": "P2",
@@ -3295,35 +3295,35 @@
    "pct": 43.7,
    "last": "2026-10-20"
   },
-  "note": "Fast session 2026-10-07 (quiz not graded); being re-taught in classroom mode",
+  "note": "A1-A5 done (Budget, Preferences, Utility, Choice, Demand) = 1.1a-1.1d; next A6 Revealed Preference; 1.1e onward pending",
   "subtopics": [
    {
     "id": "1.1a",
     "name": "Preferences: completeness, transitivity, continuity, monotonicity, convexity; existence of a utility function; ordinal utility and monotonic transformations",
     "scope": "In scope",
     "sources": "DU, JMI, VB; V ch3-4; OR ch1, ch4 · also K, A, JR, NS (6 of 7)",
-    "status": "not_started"
+    "status": "understood"
    },
    {
     "id": "1.1b",
     "name": "Cardinal utility (Marshall): diminishing marginal utility, equi-marginal principle, Marshall's derivation of demand",
     "scope": "In scope",
     "sources": "CUK; K ch2; V ch4 · also A (3 of 7)",
-    "status": "not_started"
+    "status": "understood"
    },
    {
     "id": "1.1c",
     "name": "Budget set, indifference curves and MRS, utility maximisation (Lagrange method, corner solutions, perfect substitutes and complements, quasilinear utility)",
     "scope": "In scope",
     "sources": "VB, CUK, DU; V ch2, 3, 5; K ch2; OR ch5 · also A, JR, NS, G (7 of 7)",
-    "status": "not_started"
+    "status": "understood"
    },
    {
     "id": "1.1d",
     "name": "Demand functions and their properties (homogeneity of degree zero, budget exhaustion); income changes (income-consumption curve, Engel curves, normal / inferior / luxury goods); price changes (price-consumption curve); substitutes and complements",
     "scope": "In scope",
     "sources": "VB, CUK; V ch6; K ch2; OR ch5 · also A, JR, NS (6 of 7)",
-    "status": "not_started"
+    "status": "understood"
    },
    {
     "id": "1.1e",
@@ -3406,15 +3406,15 @@
   },
   {
    "level": "high",
+   "title": "Paper II pace is behind the exam date",
+   "why": "4 topics understood in the last 14 days (2.0/week). 88 topics left; at this pace you finish around 2027-08-24, after the exam (2026-12-14, OFFICIAL WINDOW 14-21 Dec). Needed: 11.2 topics/week.",
+   "action": "Decide: more hours, faster passes on familiar topics, or a later exam cycle."
+  },
+  {
+   "level": "high",
    "title": "Weak area: Paper II · Unit 1 Micro Economics",
    "why": "43.7% correct over 87 questions (weak below 60%).",
    "action": "Revise this unit before adding new material."
-  },
-  {
-   "level": "medium",
-   "title": "No Paper II topic completed in the last 14 days",
-   "why": "88 of 88 topics left with 55 days to the exam (OFFICIAL WINDOW 14-21 Dec). Needed: 11.2 topics/week.",
-   "action": "A topic counts as done when you tell the teacher you understood it."
   },
   {
    "level": "medium",
