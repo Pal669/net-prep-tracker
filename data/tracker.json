@@ -1,10 +1,10 @@
 {
- "generated": "2026-10-20T22:55",
+ "generated": "2026-10-20T22:57",
  "today": "2026-10-20",
  "exam": {
   "date": "2026-12-14",
-  "label": "ESTIMATE",
-  "basis": "NTA has not notified the December 2026 dates; aggregators say 14-19 Dec 2026 or 31 Dec 2026-7 Jan 2027. Earliest date used. Update when NTA notifies.",
+  "label": "OFFICIAL WINDOW 14-21 Dec",
+  "basis": "NTA UGC-NET Dec 2026 Information Bulletin (dated 2026-10-16): exam 14-18 Dec and 21 Dec 2026. Economics (code 01) subject-wise date not yet out; earliest day used. Saved: Govt Job/Government Teacher/notifications/2026-10-16_NTA-UGC-NET-Dec-2026-Information-Bulletin.pdf",
   "days_left": 55
  },
  "status_labels": {
@@ -3426,7 +3426,7 @@
   {
    "level": "medium",
    "title": "No Paper II topic completed in the last 14 days",
-   "why": "88 of 88 topics left with 55 days to the exam (ESTIMATE). Needed: 11.2 topics/week.",
+   "why": "88 of 88 topics left with 55 days to the exam (OFFICIAL WINDOW 14-21 Dec). Needed: 11.2 topics/week.",
    "action": "A topic counts as done when you tell the teacher you understood it."
   },
   {
