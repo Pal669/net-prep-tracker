@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-20T22:57",
+ "generated": "2026-10-20T23:35",
  "today": "2026-10-20",
  "exam": {
   "date": "2026-12-14",
@@ -34,10 +34,10 @@
      "total": 10,
      "done": 0,
      "acc": {
-      "right": 17,
-      "n": 45,
-      "pct": 37.8,
-      "last": "2026-10-14"
+      "right": 38,
+      "n": 87,
+      "pct": 43.7,
+      "last": "2026-10-20"
      },
      "target": "2026-10-20",
      "open_mistakes": 33,
@@ -47,10 +47,10 @@
        "name": "Theory of Consumer Behaviour",
        "status": "learning",
        "acc": {
-        "right": 17,
-        "n": 45,
-        "pct": 37.8,
-        "last": "2026-10-14"
+        "right": 38,
+        "n": 87,
+        "pct": 43.7,
+        "last": "2026-10-20"
        },
        "note": "Fast session 2026-10-07 (quiz not graded); being re-taught in classroom mode",
        "subtopics": [
@@ -2065,36 +2065,36 @@
   }
  ],
  "overall": {
-  "right": 18,
-  "n": 46,
-  "pct": 39.1
+  "right": 39,
+  "n": 88,
+  "pct": 44.3
  },
  "by_paper": {
   "P2": {
-   "right": 18,
-   "n": 46,
-   "pct": 39.1,
-   "last": "2026-10-14"
+   "right": 39,
+   "n": 88,
+   "pct": 44.3,
+   "last": "2026-10-20"
   }
  },
  "by_format": {
   "Numerical": {
-   "right": 2,
-   "n": 5,
-   "pct": 40.0,
-   "last": "2026-10-11"
+   "right": 3,
+   "n": 14,
+   "pct": 21.4,
+   "last": "2026-10-20"
   },
   "Diagram": {
    "right": 4,
-   "n": 8,
-   "pct": 50.0,
-   "last": "2026-10-11"
+   "n": 11,
+   "pct": 36.4,
+   "last": "2026-10-20"
   },
   "Explain": {
-   "right": 6,
-   "n": 18,
-   "pct": 33.3,
-   "last": "2026-10-14"
+   "right": 13,
+   "n": 33,
+   "pct": 39.4,
+   "last": "2026-10-20"
   },
   "Derivation": {
    "right": 1,
@@ -2103,10 +2103,10 @@
    "last": "2026-10-13"
   },
   "Objective": {
-   "right": 4,
-   "n": 7,
-   "pct": 57.1,
-   "last": "2026-10-13"
+   "right": 17,
+   "n": 22,
+   "pct": 77.3,
+   "last": "2026-10-20"
   },
   "Application": {
    "right": 0,
@@ -2123,16 +2123,16 @@
  },
  "by_source": {
   "Teacher test": {
-   "right": 13,
-   "n": 39,
-   "pct": 33.3,
-   "last": "2026-10-14"
+   "right": 21,
+   "n": 66,
+   "pct": 31.8,
+   "last": "2026-10-20"
   },
   "Past paper": {
-   "right": 4,
-   "n": 6,
-   "pct": 66.7,
-   "last": "2026-10-13"
+   "right": 17,
+   "n": 21,
+   "pct": 81.0,
+   "last": "2026-10-20"
   },
   "Popup": {
    "right": 1,
@@ -2142,8 +2142,9 @@
   }
  },
  "causes": {
-  "Concept gap": 21,
-  "Recall": 7
+  "Concept gap": 41,
+  "Recall": 7,
+  "Careless": 1
  },
  "untagged": 0,
  "trend": [
@@ -2338,24 +2339,24 @@
   },
   {
    "date": "2026-10-18",
-   "n": 0,
-   "pct": null,
-   "roll_n": 17,
-   "roll_pct": 23.5
-  },
-  {
-   "date": "2026-10-19",
-   "n": 0,
-   "pct": null,
-   "roll_n": 8,
+   "n": 3,
+   "pct": 33.3,
+   "roll_n": 20,
    "roll_pct": 25.0
   },
   {
+   "date": "2026-10-19",
+   "n": 10,
+   "pct": 50.0,
+   "roll_n": 21,
+   "roll_pct": 38.1
+  },
+  {
    "date": "2026-10-20",
-   "n": 0,
-   "pct": null,
-   "roll_n": 5,
-   "roll_pct": 20.0
+   "n": 29,
+   "pct": 51.7,
+   "roll_n": 47,
+   "roll_pct": 46.8
   }
  ],
  "calendar": [
@@ -2859,26 +2860,26 @@
   },
   {
    "date": "2026-10-18",
-   "q": 0,
-   "sit": 0,
+   "q": 3,
+   "sit": 1,
    "min": 0
   },
   {
    "date": "2026-10-19",
-   "q": 0,
-   "sit": 0,
+   "q": 10,
+   "sit": 1,
    "min": 0
   },
   {
    "date": "2026-10-20",
-   "q": 0,
-   "sit": 0,
+   "q": 29,
+   "sit": 1,
    "min": 0
   }
  ],
- "streak": 0,
- "last_active": "2026-10-14",
- "active_days_30": 6,
+ "streak": 3,
+ "last_active": "2026-10-20",
+ "active_days_30": 9,
  "strengths": {
   "units": [],
   "topics": [],
@@ -2889,20 +2890,20 @@
    {
     "key": "P2:1",
     "label": "Paper II · Unit 1 Micro Economics",
-    "right": 17,
-    "n": 45,
-    "pct": 37.8,
-    "last": "2026-10-14"
+    "right": 38,
+    "n": 87,
+    "pct": 43.7,
+    "last": "2026-10-20"
    }
   ],
   "topics": [
    {
     "key": "P2:1.1",
     "label": "1.1 Theory of Consumer Behaviour",
-    "right": 17,
-    "n": 45,
-    "pct": 37.8,
-    "last": "2026-10-14"
+    "right": 38,
+    "n": 87,
+    "pct": 43.7,
+    "last": "2026-10-20"
    }
   ],
   "formats": [
@@ -2915,36 +2916,28 @@
     "last": "2026-10-13"
    },
    {
-    "key": "Explain",
-    "label": "Explain",
-    "right": 6,
-    "n": 18,
-    "pct": 33.3,
-    "last": "2026-10-14"
-   },
-   {
     "key": "Numerical",
     "label": "Numerical",
-    "right": 2,
-    "n": 5,
-    "pct": 40.0,
-    "last": "2026-10-11"
+    "right": 3,
+    "n": 14,
+    "pct": 21.4,
+    "last": "2026-10-20"
    },
    {
     "key": "Diagram",
     "label": "Diagram",
     "right": 4,
-    "n": 8,
-    "pct": 50.0,
-    "last": "2026-10-11"
+    "n": 11,
+    "pct": 36.4,
+    "last": "2026-10-20"
    },
    {
-    "key": "Objective",
-    "label": "Objective",
-    "right": 4,
-    "n": 7,
-    "pct": 57.1,
-    "last": "2026-10-13"
+    "key": "Explain",
+    "label": "Explain",
+    "right": 13,
+    "n": 33,
+    "pct": 39.4,
+    "last": "2026-10-20"
    }
   ]
  },
@@ -3297,10 +3290,10 @@
   "name": "Theory of Consumer Behaviour",
   "status": "learning",
   "acc": {
-   "right": 17,
-   "n": 45,
-   "pct": 37.8,
-   "last": "2026-10-14"
+   "right": 38,
+   "n": 87,
+   "pct": 43.7,
+   "last": "2026-10-20"
   },
   "note": "Fast session 2026-10-07 (quiz not graded); being re-taught in classroom mode",
   "subtopics": [
@@ -3413,14 +3406,8 @@
   },
   {
    "level": "high",
-   "title": "No study logged recently",
-   "why": "Last activity: 2026-10-14.",
-   "action": "Even one section today keeps the thread."
-  },
-  {
-   "level": "high",
    "title": "Weak area: Paper II · Unit 1 Micro Economics",
-   "why": "37.8% correct over 45 questions (weak below 60%).",
+   "why": "43.7% correct over 87 questions (weak below 60%).",
    "action": "Revise this unit before adding new material."
   },
   {
@@ -3432,13 +3419,13 @@
   {
    "level": "medium",
    "title": "Weak topic: 1.1 Theory of Consumer Behaviour",
-   "why": "37.8% over 45 questions.",
+   "why": "43.7% over 87 questions.",
    "action": "Ask the teacher to re-teach it."
   },
   {
    "level": "medium",
    "title": "Most mistakes are 'Concept gap'",
-   "why": "21 of 28 classified mistakes (75%).",
+   "why": "41 of 49 classified mistakes (84%).",
    "action": "Understanding gaps: go back to the lesson before more questions."
   },
   {
@@ -3455,6 +3442,66 @@
   }
  ],
  "tests": [
+  {
+   "date": "2026-10-20",
+   "source": "Teacher test",
+   "paper": "P2",
+   "topic": "1.1",
+   "topic_name": "Theory of Consumer Behaviour",
+   "right": 8,
+   "n": 21,
+   "pct": 38.1
+  },
+  {
+   "date": "2026-10-20",
+   "source": "Past paper",
+   "paper": "P2",
+   "topic": "1.1",
+   "topic_name": "Theory of Consumer Behaviour",
+   "right": 7,
+   "n": 8,
+   "pct": 87.5
+  },
+  {
+   "date": "2026-10-19",
+   "source": "Teacher test",
+   "paper": "P2",
+   "topic": "1.1",
+   "topic_name": "Theory of Consumer Behaviour",
+   "right": 0,
+   "n": 4,
+   "pct": 0.0
+  },
+  {
+   "date": "2026-10-19",
+   "source": "Past paper",
+   "paper": "P2",
+   "topic": "1.1",
+   "topic_name": "Theory of Consumer Behaviour",
+   "right": 5,
+   "n": 6,
+   "pct": 83.3
+  },
+  {
+   "date": "2026-10-18",
+   "source": "Teacher test",
+   "paper": "P2",
+   "topic": "1.1",
+   "topic_name": "Theory of Consumer Behaviour",
+   "right": 0,
+   "n": 2,
+   "pct": 0.0
+  },
+  {
+   "date": "2026-10-18",
+   "source": "Past paper",
+   "paper": "P2",
+   "topic": "1.1",
+   "topic_name": "Theory of Consumer Behaviour",
+   "right": 1,
+   "n": 1,
+   "pct": 100.0
+  },
   {
    "date": "2026-10-14",
    "source": "Teacher test",
@@ -3548,9 +3595,9 @@
   "paper1_quiet_days": 7
  },
  "inputs": {
-  "answers": 46,
+  "answers": 88,
   "popups_seen": 68,
-  "study_rows": 7,
+  "study_rows": 10,
   "mocks": 0
  }
 }
