@@ -1,11 +1,11 @@
 {
- "generated": "2026-10-20T23:46",
- "today": "2026-10-20",
+ "generated": "2026-10-21T13:26",
+ "today": "2026-10-21",
  "exam": {
   "date": "2026-12-14",
-  "label": "OFFICIAL WINDOW 14-21 Dec",
-  "basis": "NTA UGC-NET Dec 2026 Information Bulletin (dated 2026-10-16): exam 14-18 Dec and 21 Dec 2026. Economics (code 01) subject-wise date not yet out; earliest day used. Saved: Govt Job/Government Teacher/notifications/2026-10-16_NTA-UGC-NET-Dec-2026-Information-Bulletin.pdf",
-  "days_left": 55
+  "label": "ESTIMATE",
+  "basis": "NTA has not notified the December 2026 dates; aggregators say 14-19 Dec 2026 or 31 Dec 2026-7 Jan 2027. Earliest date used. Update when NTA notifies.",
+  "days_left": 54
  },
  "status_labels": {
   "not_started": "Not started",
@@ -2149,13 +2149,6 @@
  "untagged": 0,
  "trend": [
   {
-   "date": "2026-09-21",
-   "n": 0,
-   "pct": null,
-   "roll_n": 0,
-   "roll_pct": null
-  },
-  {
    "date": "2026-09-22",
    "n": 0,
    "pct": null,
@@ -2346,17 +2339,24 @@
   },
   {
    "date": "2026-10-19",
-   "n": 10,
-   "pct": 50.0,
-   "roll_n": 21,
-   "roll_pct": 38.1
+   "n": 0,
+   "pct": null,
+   "roll_n": 8,
+   "roll_pct": 25.0
   },
   {
    "date": "2026-10-20",
-   "n": 29,
-   "pct": 51.7,
-   "roll_n": 47,
-   "roll_pct": 46.8
+   "n": 0,
+   "pct": null,
+   "roll_n": 5,
+   "roll_pct": 20.0
+  },
+  {
+   "date": "2026-10-21",
+   "n": 0,
+   "pct": null,
+   "roll_n": 0,
+   "roll_pct": null
   }
  ],
  "calendar": [
@@ -2875,6 +2875,18 @@
    "q": 29,
    "sit": 1,
    "min": 0
+  },
+  {
+   "date": "2026-10-20",
+   "q": 0,
+   "sit": 0,
+   "min": 0
+  },
+  {
+   "date": "2026-10-21",
+   "q": 0,
+   "sit": 0,
+   "min": 0
   }
  ],
  "streak": 3,
@@ -3266,16 +3278,16 @@
  "revision_upcoming": 0,
  "pace": {
   "remaining": 88,
-  "needed_per_week": 11.2,
-  "rate_per_week": 2.0,
-  "recent_done_14d": 4,
-  "projected_finish": "2027-08-24",
+  "needed_per_week": 11.4,
+  "rate_per_week": 0.0,
+  "recent_done_14d": 0,
+  "projected_finish": null,
   "unit_flags": [
    {
     "paper": "P2",
     "unit": 1,
     "name": "Micro Economics",
-    "flag": "at risk",
+    "flag": "overdue",
     "target": "2026-10-20",
     "done": 0,
     "total": 10
@@ -3418,6 +3430,18 @@
   },
   {
    "level": "medium",
+   "title": "No Paper II topic completed in the last 14 days",
+   "why": "88 of 88 topics left with 54 days to the exam (ESTIMATE). Needed: 11.4 topics/week.",
+   "action": "A topic counts as done when you tell the teacher you understood it."
+  },
+  {
+   "level": "medium",
+   "title": "Unit 1 Micro Economics is past its plan date",
+   "why": "Planned to finish by 2026-10-20; 0/10 topics done.",
+   "action": "Re-plan or speed up this unit."
+  },
+  {
+   "level": "medium",
    "title": "Weak topic: 1.1 Theory of Consumer Behaviour",
    "why": "43.7% over 87 questions.",
    "action": "Ask the teacher to re-teach it."
@@ -3437,7 +3461,7 @@
   {
    "level": "medium",
    "title": "You skipped 100% of NET popups this week",
-   "why": "16 of 16 NET popup questions were skipped.",
+   "why": "10 of 10 NET popup questions were skipped.",
    "action": "Each answered popup sharpens this tracker's picture of your weak spots."
   }
  ],
@@ -3595,9 +3619,9 @@
   "paper1_quiet_days": 7
  },
  "inputs": {
-  "answers": 88,
-  "popups_seen": 68,
-  "study_rows": 10,
+  "answers": 46,
+  "popups_seen": 69,
+  "study_rows": 7,
   "mocks": 0
  }
 }
