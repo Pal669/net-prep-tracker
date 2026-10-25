@@ -1,11 +1,11 @@
 {
- "generated": "2026-10-24T23:33",
- "today": "2026-10-24",
+ "generated": "2026-10-25T20:20",
+ "today": "2026-10-25",
  "exam": {
   "date": "2026-12-14",
   "label": "ESTIMATE",
   "basis": "NTA has not notified the December 2026 dates; aggregators say 14-19 Dec 2026 or 31 Dec 2026-7 Jan 2027. Earliest date used. Update when NTA notifies.",
-  "days_left": 51
+  "days_left": 50
  },
  "status_labels": {
   "not_started": "Not started",
@@ -2148,13 +2148,6 @@
  "untagged": 0,
  "trend": [
   {
-   "date": "2026-09-25",
-   "n": 0,
-   "pct": null,
-   "roll_n": 0,
-   "roll_pct": null
-  },
-  {
    "date": "2026-09-26",
    "n": 0,
    "pct": null,
@@ -2356,51 +2349,16 @@
    "pct": null,
    "roll_n": 0,
    "roll_pct": null
+  },
+  {
+   "date": "2026-10-25",
+   "n": 0,
+   "pct": null,
+   "roll_n": 0,
+   "roll_pct": null
   }
  ],
  "calendar": [
-  {
-   "date": "2026-07-27",
-   "q": 0,
-   "sit": 0,
-   "min": 0
-  },
-  {
-   "date": "2026-07-28",
-   "q": 0,
-   "sit": 0,
-   "min": 0
-  },
-  {
-   "date": "2026-07-29",
-   "q": 0,
-   "sit": 0,
-   "min": 0
-  },
-  {
-   "date": "2026-07-30",
-   "q": 0,
-   "sit": 0,
-   "min": 0
-  },
-  {
-   "date": "2026-07-31",
-   "q": 0,
-   "sit": 0,
-   "min": 0
-  },
-  {
-   "date": "2026-08-01",
-   "q": 0,
-   "sit": 0,
-   "min": 0
-  },
-  {
-   "date": "2026-08-02",
-   "q": 0,
-   "sit": 0,
-   "min": 0
-  },
   {
    "date": "2026-08-03",
    "q": 0,
@@ -2898,6 +2856,12 @@
    "q": 0,
    "sit": 0,
    "min": 0
+  },
+  {
+   "date": "2026-10-25",
+   "q": 0,
+   "sit": 0,
+   "min": 0
   }
  ],
  "streak": 0,
@@ -3297,7 +3261,7 @@
  "revision_upcoming": 0,
  "pace": {
   "remaining": 88,
-  "needed_per_week": 12.1,
+  "needed_per_week": 12.3,
   "rate_per_week": 0.0,
   "recent_done_14d": 0,
   "projected_finish": null,
@@ -3468,7 +3432,7 @@
   {
    "level": "medium",
    "title": "No Paper II topic completed in the last 14 days",
-   "why": "88 of 88 topics left with 51 days to the exam (ESTIMATE). Needed: 12.1 topics/week.",
+   "why": "88 of 88 topics left with 50 days to the exam (ESTIMATE). Needed: 12.3 topics/week.",
    "action": "A topic counts as done when you tell the teacher you understood it."
   },
   {
