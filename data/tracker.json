@@ -1,11 +1,11 @@
 {
- "generated": "2026-10-27T15:53",
- "today": "2026-10-27",
+ "generated": "2026-10-28T16:33",
+ "today": "2026-10-28",
  "exam": {
   "date": "2026-12-14",
-  "label": "ESTIMATE",
-  "basis": "NTA has not notified the December 2026 dates; aggregators say 14-19 Dec 2026 or 31 Dec 2026-7 Jan 2027. Earliest date used. Update when NTA notifies.",
-  "days_left": 48
+  "label": "OFFICIAL WINDOW 14-21 Dec",
+  "basis": "NTA UGC-NET Dec 2026 Information Bulletin (dated 2026-10-16): exam 14-18 Dec and 21 Dec 2026. Economics (code 01) subject-wise date not yet out; earliest day used. Saved: Govt Job/Government Teacher/notifications/2026-10-16_NTA-UGC-NET-Dec-2026-Information-Bulletin.pdf",
+  "days_left": 47
  },
  "status_labels": {
   "not_started": "Not started",
@@ -34,10 +34,10 @@
      "total": 10,
      "done": 0,
      "acc": {
-      "right": 17,
-      "n": 45,
-      "pct": 37.8,
-      "last": "2026-10-14"
+      "right": 38,
+      "n": 87,
+      "pct": 43.7,
+      "last": "2026-10-20"
      },
      "target": "2026-10-20",
      "open_mistakes": 33,
@@ -47,40 +47,40 @@
        "name": "Theory of Consumer Behaviour",
        "status": "learning",
        "acc": {
-        "right": 17,
-        "n": 45,
-        "pct": 37.8,
-        "last": "2026-10-14"
+        "right": 38,
+        "n": 87,
+        "pct": 43.7,
+        "last": "2026-10-20"
        },
-       "note": "Fast session 2026-10-07 (quiz not graded); being re-taught in classroom mode",
+       "note": "A1-A5 done (Budget, Preferences, Utility, Choice, Demand) = 1.1a-1.1d; next A6 Revealed Preference; 1.1e onward pending",
        "subtopics": [
         {
          "id": "1.1a",
          "name": "Preferences: completeness, transitivity, continuity, monotonicity, convexity; existence of a utility function; ordinal utility and monotonic transformations",
          "scope": "In scope",
          "sources": "DU, JMI, VB; V ch3-4; OR ch1, ch4 · also K, A, JR, NS (6 of 7)",
-         "status": "not_started"
+         "status": "understood"
         },
         {
          "id": "1.1b",
          "name": "Cardinal utility (Marshall): diminishing marginal utility, equi-marginal principle, Marshall's derivation of demand",
          "scope": "In scope",
          "sources": "CUK; K ch2; V ch4 · also A (3 of 7)",
-         "status": "not_started"
+         "status": "understood"
         },
         {
          "id": "1.1c",
          "name": "Budget set, indifference curves and MRS, utility maximisation (Lagrange method, corner solutions, perfect substitutes and complements, quasilinear utility)",
          "scope": "In scope",
          "sources": "VB, CUK, DU; V ch2, 3, 5; K ch2; OR ch5 · also A, JR, NS, G (7 of 7)",
-         "status": "not_started"
+         "status": "understood"
         },
         {
          "id": "1.1d",
          "name": "Demand functions and their properties (homogeneity of degree zero, budget exhaustion); income changes (income-consumption curve, Engel curves, normal / inferior / luxury goods); price changes (price-consumption curve); substitutes and complements",
          "scope": "In scope",
          "sources": "VB, CUK; V ch6; K ch2; OR ch5 · also A, JR, NS (6 of 7)",
-         "status": "not_started"
+         "status": "understood"
         },
         {
          "id": "1.1e",
@@ -671,8 +671,8 @@
      "total": 12,
      "done": 0,
      "acc": {
-      "right": 1,
-      "n": 1,
+      "right": 2,
+      "n": 2,
       "pct": 100.0,
       "last": "2026-10-07"
      },
@@ -692,8 +692,8 @@
        "name": "Determination of output and employment: Classical and Keynesian approach",
        "status": "not_started",
        "acc": {
-        "right": 1,
-        "n": 1,
+        "right": 2,
+        "n": 2,
         "pct": 100.0,
         "last": "2026-10-07"
        },
@@ -2065,36 +2065,36 @@
   }
  ],
  "overall": {
-  "right": 18,
-  "n": 46,
-  "pct": 39.1
+  "right": 40,
+  "n": 89,
+  "pct": 44.9
  },
  "by_paper": {
   "P2": {
-   "right": 18,
-   "n": 46,
-   "pct": 39.1,
-   "last": "2026-10-14"
+   "right": 40,
+   "n": 89,
+   "pct": 44.9,
+   "last": "2026-10-20"
   }
  },
  "by_format": {
   "Numerical": {
-   "right": 2,
-   "n": 5,
-   "pct": 40.0,
-   "last": "2026-10-11"
+   "right": 3,
+   "n": 14,
+   "pct": 21.4,
+   "last": "2026-10-20"
   },
   "Diagram": {
    "right": 4,
-   "n": 8,
-   "pct": 50.0,
-   "last": "2026-10-11"
+   "n": 11,
+   "pct": 36.4,
+   "last": "2026-10-20"
   },
   "Explain": {
-   "right": 6,
-   "n": 18,
-   "pct": 33.3,
-   "last": "2026-10-14"
+   "right": 13,
+   "n": 33,
+   "pct": 39.4,
+   "last": "2026-10-20"
   },
   "Derivation": {
    "right": 1,
@@ -2103,10 +2103,10 @@
    "last": "2026-10-13"
   },
   "Objective": {
-   "right": 4,
-   "n": 7,
-   "pct": 57.1,
-   "last": "2026-10-13"
+   "right": 17,
+   "n": 22,
+   "pct": 77.3,
+   "last": "2026-10-20"
   },
   "Application": {
    "right": 0,
@@ -2115,45 +2115,39 @@
    "last": "2026-10-11"
   },
   "Direct": {
-   "right": 1,
-   "n": 1,
+   "right": 2,
+   "n": 2,
    "pct": 100.0,
    "last": "2026-10-07"
   }
  },
  "by_source": {
   "Teacher test": {
-   "right": 13,
-   "n": 39,
-   "pct": 33.3,
-   "last": "2026-10-14"
+   "right": 21,
+   "n": 66,
+   "pct": 31.8,
+   "last": "2026-10-20"
   },
   "Past paper": {
-   "right": 4,
-   "n": 6,
-   "pct": 66.7,
-   "last": "2026-10-13"
+   "right": 17,
+   "n": 21,
+   "pct": 81.0,
+   "last": "2026-10-20"
   },
   "Popup": {
-   "right": 1,
-   "n": 1,
+   "right": 2,
+   "n": 2,
    "pct": 100.0,
    "last": "2026-10-07"
   }
  },
  "causes": {
-  "Concept gap": 21,
-  "Recall": 7
+  "Concept gap": 41,
+  "Recall": 7,
+  "Careless": 1
  },
  "untagged": 0,
  "trend": [
-  {
-   "date": "2026-09-28",
-   "n": 0,
-   "pct": null,
-   "roll_n": 0,
-   "roll_pct": null
-  },
   {
    "date": "2026-09-29",
    "n": 0,
@@ -2212,52 +2206,52 @@
   },
   {
    "date": "2026-10-07",
-   "n": 1,
+   "n": 2,
    "pct": 100.0,
-   "roll_n": 1,
+   "roll_n": 2,
    "roll_pct": 100.0
   },
   {
    "date": "2026-10-08",
    "n": 0,
    "pct": null,
-   "roll_n": 1,
+   "roll_n": 2,
    "roll_pct": 100.0
   },
   {
    "date": "2026-10-09",
    "n": 0,
    "pct": null,
-   "roll_n": 1,
+   "roll_n": 2,
    "roll_pct": 100.0
   },
   {
    "date": "2026-10-10",
    "n": 17,
    "pct": 52.9,
-   "roll_n": 18,
-   "roll_pct": 55.6
+   "roll_n": 19,
+   "roll_pct": 57.9
   },
   {
    "date": "2026-10-11",
    "n": 11,
    "pct": 36.4,
-   "roll_n": 29,
-   "roll_pct": 48.3
+   "roll_n": 30,
+   "roll_pct": 50.0
   },
   {
    "date": "2026-10-12",
    "n": 9,
    "pct": 22.2,
-   "roll_n": 38,
-   "roll_pct": 42.1
+   "roll_n": 39,
+   "roll_pct": 43.6
   },
   {
    "date": "2026-10-13",
    "n": 3,
    "pct": 33.3,
-   "roll_n": 41,
-   "roll_pct": 41.5
+   "roll_n": 42,
+   "roll_pct": 42.9
   },
   {
    "date": "2026-10-14",
@@ -2289,69 +2283,76 @@
   },
   {
    "date": "2026-10-18",
-   "n": 0,
-   "pct": null,
-   "roll_n": 17,
-   "roll_pct": 23.5
-  },
-  {
-   "date": "2026-10-19",
-   "n": 0,
-   "pct": null,
-   "roll_n": 8,
+   "n": 3,
+   "pct": 33.3,
+   "roll_n": 20,
    "roll_pct": 25.0
   },
   {
+   "date": "2026-10-19",
+   "n": 10,
+   "pct": 50.0,
+   "roll_n": 21,
+   "roll_pct": 38.1
+  },
+  {
    "date": "2026-10-20",
-   "n": 0,
-   "pct": null,
-   "roll_n": 5,
-   "roll_pct": 20.0
+   "n": 29,
+   "pct": 51.7,
+   "roll_n": 47,
+   "roll_pct": 46.8
   },
   {
    "date": "2026-10-21",
    "n": 0,
    "pct": null,
-   "roll_n": 0,
-   "roll_pct": null
+   "roll_n": 42,
+   "roll_pct": 50.0
   },
   {
    "date": "2026-10-22",
    "n": 0,
    "pct": null,
-   "roll_n": 0,
-   "roll_pct": null
+   "roll_n": 42,
+   "roll_pct": 50.0
   },
   {
    "date": "2026-10-23",
    "n": 0,
    "pct": null,
-   "roll_n": 0,
-   "roll_pct": null
+   "roll_n": 42,
+   "roll_pct": 50.0
   },
   {
    "date": "2026-10-24",
    "n": 0,
    "pct": null,
-   "roll_n": 0,
-   "roll_pct": null
+   "roll_n": 42,
+   "roll_pct": 50.0
   },
   {
    "date": "2026-10-25",
    "n": 0,
    "pct": null,
-   "roll_n": 0,
-   "roll_pct": null
+   "roll_n": 39,
+   "roll_pct": 51.3
   },
   {
    "date": "2026-10-26",
+   "n": 0,
+   "pct": null,
+   "roll_n": 29,
+   "roll_pct": 51.7
+  },
+  {
+   "date": "2026-10-27",
    "n": 0,
    "pct": null,
    "roll_n": 0,
    "roll_pct": null
   },
   {
-   "date": "2026-10-27",
+   "date": "2026-10-28",
    "n": 0,
    "pct": null,
    "roll_n": 0,
@@ -2751,7 +2752,7 @@
   },
   {
    "date": "2026-10-07",
-   "q": 1,
+   "q": 2,
    "sit": 1,
    "min": 0
   },
@@ -2817,20 +2818,20 @@
   },
   {
    "date": "2026-10-18",
-   "q": 0,
-   "sit": 0,
+   "q": 3,
+   "sit": 1,
    "min": 0
   },
   {
    "date": "2026-10-19",
-   "q": 0,
-   "sit": 0,
+   "q": 10,
+   "sit": 1,
    "min": 0
   },
   {
    "date": "2026-10-20",
-   "q": 0,
-   "sit": 0,
+   "q": 29,
+   "sit": 1,
    "min": 0
   },
   {
@@ -2874,11 +2875,17 @@
    "q": 0,
    "sit": 0,
    "min": 0
+  },
+  {
+   "date": "2026-10-28",
+   "q": 0,
+   "sit": 0,
+   "min": 0
   }
  ],
  "streak": 0,
- "last_active": "2026-10-14",
- "active_days_30": 6,
+ "last_active": "2026-10-20",
+ "active_days_30": 9,
  "strengths": {
   "units": [],
   "topics": [],
@@ -2889,20 +2896,20 @@
    {
     "key": "P2:1",
     "label": "Paper II · Unit 1 Micro Economics",
-    "right": 17,
-    "n": 45,
-    "pct": 37.8,
-    "last": "2026-10-14"
+    "right": 38,
+    "n": 87,
+    "pct": 43.7,
+    "last": "2026-10-20"
    }
   ],
   "topics": [
    {
     "key": "P2:1.1",
     "label": "1.1 Theory of Consumer Behaviour",
-    "right": 17,
-    "n": 45,
-    "pct": 37.8,
-    "last": "2026-10-14"
+    "right": 38,
+    "n": 87,
+    "pct": 43.7,
+    "last": "2026-10-20"
    }
   ],
   "formats": [
@@ -2915,36 +2922,28 @@
     "last": "2026-10-13"
    },
    {
-    "key": "Explain",
-    "label": "Explain",
-    "right": 6,
-    "n": 18,
-    "pct": 33.3,
-    "last": "2026-10-14"
-   },
-   {
     "key": "Numerical",
     "label": "Numerical",
-    "right": 2,
-    "n": 5,
-    "pct": 40.0,
-    "last": "2026-10-11"
+    "right": 3,
+    "n": 14,
+    "pct": 21.4,
+    "last": "2026-10-20"
    },
    {
     "key": "Diagram",
     "label": "Diagram",
     "right": 4,
-    "n": 8,
-    "pct": 50.0,
-    "last": "2026-10-11"
+    "n": 11,
+    "pct": 36.4,
+    "last": "2026-10-20"
    },
    {
-    "key": "Objective",
-    "label": "Objective",
-    "right": 4,
-    "n": 7,
-    "pct": 57.1,
-    "last": "2026-10-13"
+    "key": "Explain",
+    "label": "Explain",
+    "right": 13,
+    "n": 33,
+    "pct": 39.4,
+    "last": "2026-10-20"
    }
   ]
  },
@@ -3273,10 +3272,10 @@
  "revision_upcoming": 0,
  "pace": {
   "remaining": 88,
-  "needed_per_week": 12.8,
-  "rate_per_week": 0.0,
-  "recent_done_14d": 0,
-  "projected_finish": null,
+  "needed_per_week": 13.1,
+  "rate_per_week": 1.0,
+  "recent_done_14d": 2,
+  "projected_finish": "2028-07-05",
   "unit_flags": [
    {
     "paper": "P2",
@@ -3291,7 +3290,7 @@
     "paper": "P2",
     "unit": 2,
     "name": "Macro Economics",
-    "flag": "at risk",
+    "flag": "overdue",
     "target": "2026-10-27",
     "done": 0,
     "total": 12
@@ -3300,7 +3299,7 @@
     "paper": "P2",
     "unit": 7,
     "name": "Money and Banking",
-    "flag": "at risk",
+    "flag": "overdue",
     "target": "2026-10-27",
     "done": 0,
     "total": 6
@@ -3315,40 +3314,40 @@
   "name": "Theory of Consumer Behaviour",
   "status": "learning",
   "acc": {
-   "right": 17,
-   "n": 45,
-   "pct": 37.8,
-   "last": "2026-10-14"
+   "right": 38,
+   "n": 87,
+   "pct": 43.7,
+   "last": "2026-10-20"
   },
-  "note": "Fast session 2026-10-07 (quiz not graded); being re-taught in classroom mode",
+  "note": "A1-A5 done (Budget, Preferences, Utility, Choice, Demand) = 1.1a-1.1d; next A6 Revealed Preference; 1.1e onward pending",
   "subtopics": [
    {
     "id": "1.1a",
     "name": "Preferences: completeness, transitivity, continuity, monotonicity, convexity; existence of a utility function; ordinal utility and monotonic transformations",
     "scope": "In scope",
     "sources": "DU, JMI, VB; V ch3-4; OR ch1, ch4 · also K, A, JR, NS (6 of 7)",
-    "status": "not_started"
+    "status": "understood"
    },
    {
     "id": "1.1b",
     "name": "Cardinal utility (Marshall): diminishing marginal utility, equi-marginal principle, Marshall's derivation of demand",
     "scope": "In scope",
     "sources": "CUK; K ch2; V ch4 · also A (3 of 7)",
-    "status": "not_started"
+    "status": "understood"
    },
    {
     "id": "1.1c",
     "name": "Budget set, indifference curves and MRS, utility maximisation (Lagrange method, corner solutions, perfect substitutes and complements, quasilinear utility)",
     "scope": "In scope",
     "sources": "VB, CUK, DU; V ch2, 3, 5; K ch2; OR ch5 · also A, JR, NS, G (7 of 7)",
-    "status": "not_started"
+    "status": "understood"
    },
    {
     "id": "1.1d",
     "name": "Demand functions and their properties (homogeneity of degree zero, budget exhaustion); income changes (income-consumption curve, Engel curves, normal / inferior / luxury goods); price changes (price-consumption curve); substitutes and complements",
     "scope": "In scope",
     "sources": "VB, CUK; V ch6; K ch2; OR ch5 · also A, JR, NS (6 of 7)",
-    "status": "not_started"
+    "status": "understood"
    },
    {
     "id": "1.1e",
@@ -3432,20 +3431,20 @@
   {
    "level": "high",
    "title": "No study logged recently",
-   "why": "Last activity: 2026-10-14.",
+   "why": "Last activity: 2026-10-20.",
    "action": "Even one section today keeps the thread."
   },
   {
    "level": "high",
-   "title": "Weak area: Paper II · Unit 1 Micro Economics",
-   "why": "37.8% correct over 45 questions (weak below 60%).",
-   "action": "Revise this unit before adding new material."
+   "title": "Paper II pace is behind the exam date",
+   "why": "2 topics understood in the last 14 days (1.0/week). 88 topics left; at this pace you finish around 2028-07-05, after the exam (2026-12-14, OFFICIAL WINDOW 14-21 Dec). Needed: 13.1 topics/week.",
+   "action": "Decide: more hours, faster passes on familiar topics, or a later exam cycle."
   },
   {
-   "level": "medium",
-   "title": "No Paper II topic completed in the last 14 days",
-   "why": "88 of 88 topics left with 48 days to the exam (ESTIMATE). Needed: 12.8 topics/week.",
-   "action": "A topic counts as done when you tell the teacher you understood it."
+   "level": "high",
+   "title": "Weak area: Paper II · Unit 1 Micro Economics",
+   "why": "43.7% correct over 87 questions (weak below 60%).",
+   "action": "Revise this unit before adding new material."
   },
   {
    "level": "medium",
@@ -3455,14 +3454,26 @@
   },
   {
    "level": "medium",
+   "title": "Unit 2 Macro Economics is past its plan date",
+   "why": "Planned to finish by 2026-10-27; 0/12 topics done.",
+   "action": "Re-plan or speed up this unit."
+  },
+  {
+   "level": "medium",
+   "title": "Unit 7 Money and Banking is past its plan date",
+   "why": "Planned to finish by 2026-10-27; 0/6 topics done.",
+   "action": "Re-plan or speed up this unit."
+  },
+  {
+   "level": "medium",
    "title": "Weak topic: 1.1 Theory of Consumer Behaviour",
-   "why": "37.8% over 45 questions.",
+   "why": "43.7% over 87 questions.",
    "action": "Ask the teacher to re-teach it."
   },
   {
    "level": "medium",
    "title": "Most mistakes are 'Concept gap'",
-   "why": "21 of 28 classified mistakes (75%).",
+   "why": "41 of 49 classified mistakes (84%).",
    "action": "Understanding gaps: go back to the lesson before more questions."
   },
   {
@@ -3473,6 +3484,66 @@
   }
  ],
  "tests": [
+  {
+   "date": "2026-10-20",
+   "source": "Teacher test",
+   "paper": "P2",
+   "topic": "1.1",
+   "topic_name": "Theory of Consumer Behaviour",
+   "right": 8,
+   "n": 21,
+   "pct": 38.1
+  },
+  {
+   "date": "2026-10-20",
+   "source": "Past paper",
+   "paper": "P2",
+   "topic": "1.1",
+   "topic_name": "Theory of Consumer Behaviour",
+   "right": 7,
+   "n": 8,
+   "pct": 87.5
+  },
+  {
+   "date": "2026-10-19",
+   "source": "Teacher test",
+   "paper": "P2",
+   "topic": "1.1",
+   "topic_name": "Theory of Consumer Behaviour",
+   "right": 0,
+   "n": 4,
+   "pct": 0.0
+  },
+  {
+   "date": "2026-10-19",
+   "source": "Past paper",
+   "paper": "P2",
+   "topic": "1.1",
+   "topic_name": "Theory of Consumer Behaviour",
+   "right": 5,
+   "n": 6,
+   "pct": 83.3
+  },
+  {
+   "date": "2026-10-18",
+   "source": "Teacher test",
+   "paper": "P2",
+   "topic": "1.1",
+   "topic_name": "Theory of Consumer Behaviour",
+   "right": 0,
+   "n": 2,
+   "pct": 0.0
+  },
+  {
+   "date": "2026-10-18",
+   "source": "Past paper",
+   "paper": "P2",
+   "topic": "1.1",
+   "topic_name": "Theory of Consumer Behaviour",
+   "right": 1,
+   "n": 1,
+   "pct": 100.0
+  },
   {
    "date": "2026-10-14",
    "source": "Teacher test",
@@ -3566,9 +3637,9 @@
   "paper1_quiet_days": 7
  },
  "inputs": {
-  "answers": 46,
-  "popups_seen": 75,
-  "study_rows": 7,
+  "answers": 89,
+  "popups_seen": 144,
+  "study_rows": 10,
   "mocks": 0
  }
 }

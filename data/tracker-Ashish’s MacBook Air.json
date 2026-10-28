@@ -1,0 +1,3603 @@
+{
+ "generated": "2026-10-20T23:46",
+ "today": "2026-10-20",
+ "exam": {
+  "date": "2026-12-14",
+  "label": "OFFICIAL WINDOW 14-21 Dec",
+  "basis": "NTA UGC-NET Dec 2026 Information Bulletin (dated 2026-10-16): exam 14-18 Dec and 21 Dec 2026. Economics (code 01) subject-wise date not yet out; earliest day used. Saved: Govt Job/Government Teacher/notifications/2026-10-16_NTA-UGC-NET-Dec-2026-Information-Bulletin.pdf",
+  "days_left": 55
+ },
+ "status_labels": {
+  "not_started": "Not started",
+  "learning": "Learning",
+  "understood": "Understood (test pending)",
+  "practising": "Practising",
+  "mastered": "Mastered"
+ },
+ "papers": [
+  {
+   "key": "P2",
+   "name": "Paper II — Economics",
+   "marks": 200,
+   "units": [
+    {
+     "unit": 1,
+     "name": "Micro Economics",
+     "folder": "01-Micro",
+     "counts": {
+      "not_started": 9,
+      "learning": 1,
+      "understood": 0,
+      "practising": 0,
+      "mastered": 0
+     },
+     "total": 10,
+     "done": 0,
+     "acc": {
+      "right": 38,
+      "n": 87,
+      "pct": 43.7,
+      "last": "2026-10-20"
+     },
+     "target": "2026-10-20",
+     "open_mistakes": 33,
+     "topics": [
+      {
+       "id": "1.1",
+       "name": "Theory of Consumer Behaviour",
+       "status": "learning",
+       "acc": {
+        "right": 38,
+        "n": 87,
+        "pct": 43.7,
+        "last": "2026-10-20"
+       },
+       "note": "A1-A5 done (Budget, Preferences, Utility, Choice, Demand) = 1.1a-1.1d; next A6 Revealed Preference; 1.1e onward pending",
+       "subtopics": [
+        {
+         "id": "1.1a",
+         "name": "Preferences: completeness, transitivity, continuity, monotonicity, convexity; existence of a utility function; ordinal utility and monotonic transformations",
+         "scope": "In scope",
+         "sources": "DU, JMI, VB; V ch3-4; OR ch1, ch4 · also K, A, JR, NS (6 of 7)",
+         "status": "understood"
+        },
+        {
+         "id": "1.1b",
+         "name": "Cardinal utility (Marshall): diminishing marginal utility, equi-marginal principle, Marshall's derivation of demand",
+         "scope": "In scope",
+         "sources": "CUK; K ch2; V ch4 · also A (3 of 7)",
+         "status": "understood"
+        },
+        {
+         "id": "1.1c",
+         "name": "Budget set, indifference curves and MRS, utility maximisation (Lagrange method, corner solutions, perfect substitutes and complements, quasilinear utility)",
+         "scope": "In scope",
+         "sources": "VB, CUK, DU; V ch2, 3, 5; K ch2; OR ch5 · also A, JR, NS, G (7 of 7)",
+         "status": "understood"
+        },
+        {
+         "id": "1.1d",
+         "name": "Demand functions and their properties (homogeneity of degree zero, budget exhaustion); income changes (income-consumption curve, Engel curves, normal / inferior / luxury goods); price changes (price-consumption curve); substitutes and complements",
+         "scope": "In scope",
+         "sources": "VB, CUK; V ch6; K ch2; OR ch5 · also A, JR, NS (6 of 7)",
+         "status": "understood"
+        },
+        {
+         "id": "1.1e",
+         "name": "Income and substitution effects: Slutsky and Hicks decompositions, the Slutsky equation, Giffen goods, the law of demand",
+         "scope": "In scope",
+         "sources": "DU, VB, CUK; V ch8; K ch2 · also OR, A, JR, NS (6 of 7)",
+         "status": "not_started"
+        },
+        {
+         "id": "1.1f",
+         "name": "Duality: indirect utility function and Roy's identity; expenditure minimisation, Hicksian demand, expenditure function and Shephard's lemma",
+         "scope": "In scope",
+         "sources": "DU, VB, CUK, JMI; V ch8 (Hicksian demand) · also A, JR, NS (4 of 7)",
+         "status": "not_started"
+        },
+        {
+         "id": "1.1g",
+         "name": "Revealed preference: weak and strong axioms, testable implications, deriving demand and indifference curves",
+         "scope": "In scope",
+         "sources": "DU, JMI, VB, CUK; V ch7 · also K, OR, A, JR, NS (6 of 7)",
+         "status": "not_started"
+        },
+        {
+         "id": "1.1h",
+         "name": "Consumer surplus and welfare change: Marshallian surplus, compensating and equivalent variation, the quasilinear case",
+         "scope": "In scope",
+         "sources": "VB, CUK, JMI, DU; V ch14 · also K, A, JR, NS (5 of 7)",
+         "status": "not_started"
+        },
+        {
+         "id": "1.1i",
+         "name": "Elasticities of demand (price, income, cross) and their applications; elasticity and revenue",
+         "scope": "In scope",
+         "sources": "CUK; V ch15; K ch2 · also A, JR, NS (5 of 7)",
+         "status": "not_started"
+        },
+        {
+         "id": "1.1j",
+         "name": "Market (aggregate) demand from individual demands",
+         "scope": "In scope",
+         "sources": "JMI; V ch15 · also K, A, JR, NS (5 of 7)",
+         "status": "not_started"
+        },
+        {
+         "id": "1.1k",
+         "name": "Later developments in demand theory: Hicks's logical-ordering (\"pragmatic\") approach; Stone's linear expenditure system",
+         "scope": "In scope",
+         "sources": "CUK; K ch2 · also A, NS (3 of 7)",
+         "status": "not_started"
+        },
+        {
+         "id": "1.1l",
+         "name": "Choice with endowments (buying and selling) and intertemporal choice",
+         "scope": "Supplementary",
+         "sources": "V ch9-10 · also K, A, JR, NS (5 of 7)",
+         "status": "not_started"
+        },
+        {
+         "id": "1.1m",
+         "name": "Bandwagon, snob and Veblen effects",
+         "scope": "Supplementary",
+         "sources": "K ch2 · also A (2 of 7)",
+         "status": "not_started"
+        },
+        {
+         "id": "1.1n",
+         "name": "Lancaster's characteristics (attribute) approach to consumer demand",
+         "scope": "Supplementary",
+         "sources": "A, NS (2 of 7)",
+         "status": "not_started"
+        }
+       ]
+      },
+      {
+       "id": "1.2",
+       "name": "Theory of Production and Costs",
+       "status": "not_started",
+       "acc": null,
+       "note": "",
+       "subtopics": [
+        {
+         "id": "1.2a",
+         "name": "Technology: production sets, input requirement sets, the production function; short run: total, average and marginal product, law of variable proportions",
+         "scope": "In scope",
+         "sources": "DU, VB, CUK; V ch18; K ch3 · also OR, A, JR, NS (6 of 7)",
+         "status": "not_started"
+        },
+        {
+         "id": "1.2b",
+         "name": "Isoquants, MRTS, elasticity of substitution; returns to scale vs returns to a factor; homogeneous and homothetic functions; Euler's theorem",
+         "scope": "In scope",
+         "sources": "VB, JMI, CUK; V ch18; K ch3 · also A, JR, NS (5 of 7)",
+         "status": "not_started"
+        },
+        {
+         "id": "1.2c",
+         "name": "Forms of the production function: Cobb-Douglas, CES, fixed-coefficient (Leontief), translog",
+         "scope": "In scope",
+         "sources": "JMI, CUK; K ch3 · also V, A, JR, NS, G (6 of 7)",
+         "status": "not_started"
+        },
+        {
+         "id": "1.2d",
+         "name": "VES (variable elasticity of substitution) production function",
+         "scope": "Supplementary",
+         "sources": "CUK; — (0 of 7)",
+         "status": "not_started"
+        },
+        {
+         "id": "1.2e",
+         "name": "Cost minimisation: least-cost combination, expansion path, conditional input demands; the cost function and its properties; Shephard's lemma; duality between cost and production",
+         "scope": "In scope",
+         "sources": "DU, VB, JMI, CUK; V ch20; K ch3-4 · also OR, A, JR, NS (6 of 7)",
+         "status": "not_started"
+        },
+        {
+         "id": "1.2f",
+         "name": "Profit maximisation: the profit function, input demands and output supply, Hotelling's lemma",
+         "scope": "In scope",
+         "sources": "DU, VB, JMI; V ch19 · also K, A, JR, NS (5 of 7)",
+         "status": "not_started"
+        },
+        {
+         "id": "1.2g",
+         "name": "Cost curves: short run (TFC, TVC, AFC, AVC, AC, MC); long run and the envelope; economies and diseconomies of scale",
+         "scope": "In scope",
+         "sources": "VB, CUK; V ch21; K ch4 · also A, JR, NS (5 of 7)",
+         "status": "not_started"
+        },
+        {
+         "id": "1.2h",
+         "name": "Modern cost theory: L-shaped short- and long-run cost curves; engineering cost curves",
+         "scope": "In scope",
+         "sources": "CUK; K ch4 · also A, NS (3 of 7)",
+         "status": "not_started"
+        }
+       ]
+      },
+      {
+       "id": "1.3",
+       "name": "Decision making under uncertainty; attitude towards risk",
+       "status": "not_started",
+       "acc": null,
+       "note": "",
+       "subtopics": [
+        {
+         "id": "1.3a",
+         "name": "Lotteries; von Neumann-Morgenstern axioms; the expected utility theorem; Bernoulli and the St Petersburg paradox",
+         "scope": "In scope",
+         "sources": "DU, VB, CUK, JMI; V ch12; OR ch3 · also A, JR, NS (5 of 7)",
+         "status": "not_started"
+        },
+        {
+         "id": "1.3b",
+         "name": "Risk aversion, neutrality and loving; certainty equivalent and risk premium; Arrow-Pratt measures",
+         "scope": "In scope",
+         "sources": "DU, VB, CUK; V ch12 · also A, JR, NS (4 of 7)",
+         "status": "not_started"
+        },
+        {
+         "id": "1.3c",
+         "name": "Applications: insurance, risk pooling and spreading, diversification, portfolio choice, mean-variance analysis, equilibrium in a market for risky assets",
+         "scope": "In scope",
+         "sources": "DU, VB, CUK; V ch12-13 · also K, A, JR, NS (5 of 7)",
+         "status": "not_started"
+        },
+        {
+         "id": "1.3d",
+         "name": "Friedman-Savage and Markowitz hypotheses (why people both insure and gamble)",
+         "scope": "Supplementary",
+         "sources": "CUK; A (1 of 7)",
+         "status": "not_started"
+        },
+        {
+         "id": "1.3e",
+         "name": "First- and second-order stochastic dominance",
+         "scope": "Supplementary",
+         "sources": "VB; — (0 of 7)",
+         "status": "not_started"
+        },
+        {
+         "id": "1.3f",
+         "name": "Behavioural departures from expected utility (framing, loss aversion)",
+         "scope": "Supplementary",
+         "sources": "V ch30 · also A, NS (3 of 7)",
+         "status": "not_started"
+        }
+       ]
+      },
+      {
+       "id": "1.4",
+       "name": "Game Theory: non-cooperative games",
+       "status": "not_started",
+       "acc": null,
+       "note": "",
+       "subtopics": [
+        {
+         "id": "1.4a",
+         "name": "Strategic-form games; dominant and dominated strategies; iterated elimination; rationalisability",
+         "scope": "In scope",
+         "sources": "DU, VB, JMI (elective); V ch28; OR ch15 · also A, JR, NS, G (6 of 7)",
+         "status": "not_started"
+        },
+        {
+         "id": "1.4b",
+         "name": "Nash equilibrium in pure and mixed strategies; coordination games; existence",
+         "scope": "In scope",
+         "sources": "DU, VB, CUK; V ch28; OR ch15 · also K, A, JR, NS, G (7 of 7)",
+         "status": "not_started"
+        },
+        {
+         "id": "1.4c",
+         "name": "Two-person zero-sum games: maximin and minimax, saddle point, value of the game",
+         "scope": "In scope",
+         "sources": "CUK; K ch19 · also V, A, JR (4 of 7)",
+         "status": "not_started"
+        },
+        {
+         "id": "1.4d",
+         "name": "Extensive-form games: strategies, subgame-perfect equilibrium, backward induction, the one-deviation property",
+         "scope": "In scope",
+         "sources": "DU, VB, JMI (elective); V ch28; OR ch16 · also JR, NS, G (5 of 7)",
+         "status": "not_started"
+        },
+        {
+         "id": "1.4e",
+         "name": "Repeated games (finite and infinite; how cooperation is sustained); bargaining (alternating offers, finite and infinite horizon)",
+         "scope": "In scope",
+         "sources": "DU, VB; V ch28-29 · also K, OR, A, NS, G (6 of 7)",
+         "status": "not_started"
+        },
+        {
+         "id": "1.4f",
+         "name": "Static games of incomplete information: Bayesian Nash equilibrium, Harsanyi transformation; auctions",
+         "scope": "In scope",
+         "sources": "DU, VB, JMI (elective); V ch17 (auctions) · also OR, JR, NS, G (5 of 7)",
+         "status": "not_started"
+        },
+        {
+         "id": "1.4g",
+         "name": "Dynamic games of incomplete information: perfect Bayesian equilibrium, signalling games, the intuitive criterion, reputation",
+         "scope": "In scope",
+         "sources": "DU, JMI (elective); JR, NS, G (3 of 7)",
+         "status": "not_started"
+        },
+        {
+         "id": "1.4h",
+         "name": "Trembling-hand perfection",
+         "scope": "Supplementary",
+         "sources": "JMI (elective); — (0 of 7)",
+         "status": "not_started"
+        }
+       ]
+      },
+      {
+       "id": "1.5",
+       "name": "Market structures: competitive and non-competitive equilibria and their efficiency",
+       "status": "not_started",
+       "acc": null,
+       "note": "",
+       "subtopics": [
+        {
+         "id": "1.5a",
+         "name": "Perfect competition: short- and long-run equilibrium of firm and industry; break-even and shutdown; supply curves; constant, increasing and decreasing cost industries",
+         "scope": "In scope",
+         "sources": "VB, CUK, DU; V ch22-23; K ch5 · also A, JR, NS (5 of 7)",
+         "status": "not_started"
+        },
+        {
+         "id": "1.5b",
+         "name": "Market equilibrium: comparative statics, taxes and subsidies, stability of equilibrium, welfare in a competitive market (consumer and producer surplus, deadweight loss)",
+         "scope": "In scope",
+         "sources": "DU, VB; V ch16; K ch5 · also OR, A, JR, NS (6 of 7)",
+         "status": "not_started"
+        },
+        {
+         "id": "1.5c",
+         "name": "Monopoly: equilibrium, MR and elasticity, no supply curve, deadweight loss, measures of monopoly power, tax incidence",
+         "scope": "In scope",
+         "sources": "DU, VB, CUK; V ch24; K ch6 · also OR, A, JR, NS, G (7 of 7)",
+         "status": "not_started"
+        },
+        {
+         "id": "1.5d",
+         "name": "Price discrimination: first, second (two-part tariff, nonlinear pricing, monopolistic screening) and third degree; peak-load pricing",
+         "scope": "In scope",
+         "sources": "DU, VB, CUK; V ch25; K ch7 · also A, NS (4 of 7)",
+         "status": "not_started"
+        },
+        {
+         "id": "1.5e",
+         "name": "Natural monopoly; control and regulation of monopoly",
+         "scope": "In scope",
+         "sources": "VB, CUK; V ch24 · also A, NS (3 of 7)",
+         "status": "not_started"
+        },
+        {
+         "id": "1.5f",
+         "name": "Monopolistic competition: Chamberlin's model, product differentiation, firm and group equilibrium, excess capacity, selling costs, optimum product diversity",
+         "scope": "In scope",
+         "sources": "JMI, VB, CUK; V ch25; K ch8 · also A, JR, NS (5 of 7)",
+         "status": "not_started"
+        },
+        {
+         "id": "1.5g",
+         "name": "Non-collusive oligopoly: Cournot, Bertrand, Stackelberg, kinked demand (Sweezy)",
+         "scope": "In scope",
+         "sources": "JMI, VB, CUK; V ch27; K ch9 · also OR, A, JR, NS, G (7 of 7)",
+         "status": "not_started"
+        },
+        {
+         "id": "1.5h",
+         "name": "Collusive oligopoly: cartels, mergers, price leadership, basing-point pricing",
+         "scope": "In scope",
+         "sources": "CUK; V ch27; K ch10 · also A, JR, NS (5 of 7)",
+         "status": "not_started"
+        },
+        {
+         "id": "1.5i",
+         "name": "Product differentiation in oligopoly: Hotelling's location model (horizontal), quality (vertical) differentiation",
+         "scope": "In scope",
+         "sources": "VB; V ch25 (Hotelling) · also JR, NS (3 of 7)",
+         "status": "not_started"
+        },
+        {
+         "id": "1.5j",
+         "name": "Strategic oligopoly: capacity choice and entry, strategic substitutes and complements, repeated oligopoly",
+         "scope": "In scope",
+         "sources": "VB; V, NS (2 of 7)",
+         "status": "not_started"
+        },
+        {
+         "id": "1.5k",
+         "name": "Average-cost (full-cost) pricing: critique of marginalism, Hall and Hitch, mark-up pricing",
+         "scope": "In scope",
+         "sources": "CUK; K ch11-12 · also A (2 of 7)",
+         "status": "not_started"
+        },
+        {
+         "id": "1.5l",
+         "name": "Limit pricing: Bain; Sylos-Labini; Franco Modigliani; Bhagwati; Pashigian",
+         "scope": "In scope",
+         "sources": "CUK; K ch13-14 · also A (2 of 7)",
+         "status": "not_started"
+        },
+        {
+         "id": "1.5m",
+         "name": "Objectives other than profit: Baumol's sales maximisation, Marris, Williamson, the Cyert-March behavioural theory",
+         "scope": "In scope",
+         "sources": "DU (\"non-profit motives\"); K ch15-18 · also A, NS (3 of 7)",
+         "status": "not_started"
+        },
+        {
+         "id": "1.5n",
+         "name": "Public-sector pricing; cross-subsidy-free pricing",
+         "scope": "In scope",
+         "sources": "CUK; A, NS (2 of 7)",
+         "status": "not_started"
+        },
+        {
+         "id": "1.5o",
+         "name": "Durable-goods monopoly; product selection by a monopolist",
+         "scope": "In scope",
+         "sources": "VB; A, NS (2 of 7)",
+         "status": "not_started"
+        }
+       ]
+      },
+      {
+       "id": "1.6",
+       "name": "Factor Pricing",
+       "status": "not_started",
+       "acc": null,
+       "note": "",
+       "subtopics": [
+        {
+         "id": "1.6a",
+         "name": "Marginal productivity theory under perfect competition: value of marginal product, derived demand for a factor, firm and market demand for labour",
+         "scope": "In scope",
+         "sources": "CUK; V ch26; K ch21 · also A, NS (4 of 7)",
+         "status": "not_started"
+        },
+        {
+         "id": "1.6b",
+         "name": "Imperfect markets: marginal revenue product under monopoly, monopsony and exploitation, bilateral monopoly",
+         "scope": "In scope",
+         "sources": "CUK; V ch26; K ch6, ch21 · also A, NS (4 of 7)",
+         "status": "not_started"
+        },
+        {
+         "id": "1.6c",
+         "name": "Product exhaustion (Euler, Clark-Wicksteed); elasticity of factor substitution and relative shares; technical progress and income distribution",
+         "scope": "In scope",
+         "sources": "CUK; K ch21 · also A (2 of 7)",
+         "status": "not_started"
+        },
+        {
+         "id": "1.6d",
+         "name": "Rent and quasi-rent; pricing of fixed factors; non-homogeneous factors and wage differentials",
+         "scope": "In scope",
+         "sources": "CUK; K ch21 · also V, A, NS (4 of 7)",
+         "status": "not_started"
+        }
+       ]
+      },
+      {
+       "id": "1.7",
+       "name": "General Equilibrium Analysis",
+       "status": "not_started",
+       "acc": null,
+       "note": "",
+       "subtopics": [
+        {
+         "id": "1.7a",
+         "name": "Partial vs general equilibrium; absolute and relative prices; the Walrasian system; Walras' law",
+         "scope": "In scope",
+         "sources": "DU, JMI, CUK; V ch31; K ch22 · also A, JR, NS (5 of 7)",
+         "status": "not_started"
+        },
+        {
+         "id": "1.7b",
+         "name": "Exchange economy: Edgeworth box, contract curve, barter, the core, competitive equilibrium as a core allocation",
+         "scope": "In scope",
+         "sources": "DU, JMI; V ch31; OR ch10 · also K, A, JR, NS (6 of 7)",
+         "status": "not_started"
+        },
+        {
+         "id": "1.7c",
+         "name": "Production: Robinson Crusoe economy, the 2x2 (two-sector) production model, production possibility frontier and MRT",
+         "scope": "In scope",
+         "sources": "DU, JMI, CUK; V ch32; K ch22 · also OR, A, JR, NS (6 of 7)",
+         "status": "not_started"
+        },
+        {
+         "id": "1.7d",
+         "name": "Existence, uniqueness and stability of competitive equilibrium (conditions and intuition); comparative statics",
+         "scope": "In scope",
+         "sources": "DU, CUK; K ch22 · also V, OR, A, JR, NS, G (7 of 7)",
+         "status": "not_started"
+        },
+        {
+         "id": "1.7e",
+         "name": "Factor-price equalisation inside general equilibrium",
+         "scope": "Supplementary",
+         "sources": "DU; — (0 of 7)",
+         "status": "not_started"
+        }
+       ]
+      },
+      {
+       "id": "1.8",
+       "name": "Efficiency criteria: Pareto optimality, Kaldor-Hicks, wealth maximisation",
+       "status": "not_started",
+       "acc": null,
+       "note": "",
+       "subtopics": [
+        {
+         "id": "1.8a",
+         "name": "Pareto optimality: definition and the marginal conditions (exchange, production, product mix); Pareto efficiency of competitive equilibrium",
+         "scope": "In scope",
+         "sources": "DU, JMI, CUK; V ch31-33; K ch23 · also A, NS (4 of 7)",
+         "status": "not_started"
+        },
+        {
+         "id": "1.8b",
+         "name": "Compensation criteria: Kaldor, Hicks, Scitovsky (double criterion), Little, Samuelson",
+         "scope": "In scope",
+         "sources": "DU, CUK; K ch23 · also A (2 of 7)",
+         "status": "not_started"
+        },
+        {
+         "id": "1.8c",
+         "name": "Fairness: envy-free allocations; efficiency and fairness of market outcomes",
+         "scope": "In scope",
+         "sources": "DU; V ch33 · also OR, A, JR, NS (5 of 7)",
+         "status": "not_started"
+        },
+        {
+         "id": "1.8d",
+         "name": "Cost-benefit analysis as an applied welfare criterion",
+         "scope": "Supplementary",
+         "sources": "DU; V ch14 · also A (2 of 7)",
+         "status": "not_started"
+        },
+        {
+         "id": "1.8e",
+         "name": "Wealth maximisation (Posner)",
+         "scope": "In scope",
+         "sources": "NS (1 of 7)",
+         "status": "not_started"
+        }
+       ]
+      },
+      {
+       "id": "1.9",
+       "name": "Welfare Economics: fundamental theorems, social welfare function",
+       "status": "not_started",
+       "acc": null,
+       "note": "",
+       "subtopics": [
+        {
+         "id": "1.9a",
+         "name": "First and second fundamental theorems of welfare economics and their conditions",
+         "scope": "In scope",
+         "sources": "DU, JMI, CUK; V ch31-33; K ch23 · also A, JR, NS (5 of 7)",
+         "status": "not_started"
+        },
+        {
+         "id": "1.9b",
+         "name": "Social welfare functions: Bergson-Samuelson, utilitarian, Rawlsian; measurability and comparability of utility; maximising social welfare",
+         "scope": "In scope",
+         "sources": "DU, JMI, CUK; V ch33; K ch23 · also A, JR, NS (5 of 7)",
+         "status": "not_started"
+        },
+        {
+         "id": "1.9c",
+         "name": "Social choice and Arrow's impossibility theorem, with related results",
+         "scope": "In scope",
+         "sources": "DU, JMI, CUK; V ch33; OR ch20 · also A, JR, NS (5 of 7)",
+         "status": "not_started"
+        },
+        {
+         "id": "1.9d",
+         "name": "Theory of the second best",
+         "scope": "In scope",
+         "sources": "JMI, CUK; V ch33 · also OR, A, NS (4 of 7)",
+         "status": "not_started"
+        },
+        {
+         "id": "1.9e",
+         "name": "Rawls's theory of justice",
+         "scope": "In scope",
+         "sources": "JMI, CUK; V ch33 · also A, JR, NS (4 of 7)",
+         "status": "not_started"
+        }
+       ]
+      },
+      {
+       "id": "1.10",
+       "name": "Asymmetric information: adverse selection and moral hazard",
+       "status": "not_started",
+       "acc": null,
+       "note": "",
+       "subtopics": [
+        {
+         "id": "1.10a",
+         "name": "Adverse selection: the market for lemons, insurance markets",
+         "scope": "In scope",
+         "sources": "DU, JMI, VB, CUK; V ch37; OR ch14 · also A, JR, NS (5 of 7)",
+         "status": "not_started"
+        },
+        {
+         "id": "1.10b",
+         "name": "Signalling (Spence) and screening",
+         "scope": "In scope",
+         "sources": "DU, JMI, VB, CUK; V ch37 · also A, JR, NS, G (5 of 7)",
+         "status": "not_started"
+        },
+        {
+         "id": "1.10c",
+         "name": "Moral hazard and the principal-agent problem",
+         "scope": "In scope",
+         "sources": "DU, JMI, VB, CUK; V ch37 · also A, JR, NS (4 of 7)",
+         "status": "not_started"
+        },
+        {
+         "id": "1.10d",
+         "name": "Efficiency of market outcomes under asymmetric information",
+         "scope": "In scope",
+         "sources": "JMI; V ch37 · also OR, A, JR, NS, G (6 of 7)",
+         "status": "not_started"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "unit": 2,
+     "name": "Macro Economics",
+     "folder": "02-Macro",
+     "counts": {
+      "not_started": 12,
+      "learning": 0,
+      "understood": 0,
+      "practising": 0,
+      "mastered": 0
+     },
+     "total": 12,
+     "done": 0,
+     "acc": {
+      "right": 1,
+      "n": 1,
+      "pct": 100.0,
+      "last": "2026-10-07"
+     },
+     "target": "2026-10-27",
+     "open_mistakes": 0,
+     "topics": [
+      {
+       "id": "2.1",
+       "name": "National Income: concepts and measurement",
+       "status": "not_started",
+       "acc": null,
+       "note": "",
+       "subtopics": []
+      },
+      {
+       "id": "2.2",
+       "name": "Determination of output and employment: Classical and Keynesian approach",
+       "status": "not_started",
+       "acc": {
+        "right": 1,
+        "n": 1,
+        "pct": 100.0,
+        "last": "2026-10-07"
+       },
+       "note": "",
+       "subtopics": []
+      },
+      {
+       "id": "2.3",
+       "name": "Consumption Function",
+       "status": "not_started",
+       "acc": null,
+       "note": "",
+       "subtopics": []
+      },
+      {
+       "id": "2.4",
+       "name": "Investment Function",
+       "status": "not_started",
+       "acc": null,
+       "note": "",
+       "subtopics": []
+      },
+      {
+       "id": "2.5",
+       "name": "Multiplier and Accelerator",
+       "status": "not_started",
+       "acc": null,
+       "note": "",
+       "subtopics": []
+      },
+      {
+       "id": "2.6",
+       "name": "Demand for Money",
+       "status": "not_started",
+       "acc": null,
+       "note": "",
+       "subtopics": []
+      },
+      {
+       "id": "2.7",
+       "name": "Supply of Money",
+       "status": "not_started",
+       "acc": null,
+       "note": "",
+       "subtopics": []
+      },
+      {
+       "id": "2.8",
+       "name": "IS-LM Model Approach",
+       "status": "not_started",
+       "acc": null,
+       "note": "",
+       "subtopics": []
+      },
+      {
+       "id": "2.9",
+       "name": "Inflation and Phillips Curve Analysis",
+       "status": "not_started",
+       "acc": null,
+       "note": "",
+       "subtopics": []
+      },
+      {
+       "id": "2.10",
+       "name": "Business Cycles",
+       "status": "not_started",
+       "acc": null,
+       "note": "",
+       "subtopics": []
+      },
+      {
+       "id": "2.11",
+       "name": "Monetary and Fiscal Policy",
+       "status": "not_started",
+       "acc": null,
+       "note": "",
+       "subtopics": []
+      },
+      {
+       "id": "2.12",
+       "name": "Rational Expectations Hypothesis and its critique",
+       "status": "not_started",
+       "acc": null,
+       "note": "",
+       "subtopics": []
+      }
+     ]
+    },
+    {
+     "unit": 7,
+     "name": "Money and Banking",
+     "folder": "07-Money-Banking",
+     "counts": {
+      "not_started": 6,
+      "learning": 0,
+      "understood": 0,
+      "practising": 0,
+      "mastered": 0
+     },
+     "total": 6,
+     "done": 0,
+     "acc": null,
+     "target": "2026-10-27",
+     "open_mistakes": 0,
+     "topics": [
+      {
+       "id": "7.1",
+       "name": "Components of money supply",
+       "status": "not_started",
+       "acc": null,
+       "note": "",
+       "subtopics": []
+      },
+      {
+       "id": "7.2",
+       "name": "Central bank",
+       "status": "not_started",
+       "acc": null,
+       "note": "",
+       "subtopics": []
+      },
+      {
+       "id": "7.3",
+       "name": "Commercial banking",
+       "status": "not_started",
+       "acc": null,
+       "note": "",
+       "subtopics": []
+      },
+      {
+       "id": "7.4",
+       "name": "Instruments and working of monetary policy",
+       "status": "not_started",
+       "acc": null,
+       "note": "",
+       "subtopics": []
+      },
+      {
+       "id": "7.5",
+       "name": "Non-banking financial institutions",
+       "status": "not_started",
+       "acc": null,
+       "note": "",
+       "subtopics": []
+      },
+      {
+       "id": "7.6",
+       "name": "Capital market and its regulation",
+       "status": "not_started",
+       "acc": null,
+       "note": "",
+       "subtopics": []
+      }
+     ]
+    },
+    {
+     "unit": 5,
+     "name": "International Economics",
+     "folder": "05-International",
+     "counts": {
+      "not_started": 10,
+      "learning": 0,
+      "understood": 0,
+      "practising": 0,
+      "mastered": 0
+     },
+     "total": 10,
+     "done": 0,
+     "acc": null,
+     "target": "2026-11-10",
+     "open_mistakes": 0,
+     "topics": [
+      {
+       "id": "5.1",
+       "name": "International trade: basic concepts and analytical tools",
+       "status": "not_started",
+       "acc": null,
+       "note": "",
+       "subtopics": []
+      },
+      {
+       "id": "5.2",
+       "name": "Theories of international trade",
+       "status": "not_started",
+       "acc": null,
+       "note": "",
+       "subtopics": []
+      },
+      {
+       "id": "5.3",
+       "name": "International trade under imperfect competition",
+       "status": "not_started",
+       "acc": null,
+       "note": "",
+       "subtopics": []
+      },
+      {
+       "id": "5.4",
+       "name": "Balance of Payments: composition, equilibrium, disequilibrium, adjustment mechanisms",
+       "status": "not_started",
+       "acc": null,
+       "note": "",
+       "subtopics": []
+      },
+      {
+       "id": "5.5",
+       "name": "Exchange rate: concepts and theories",
+       "status": "not_started",
+       "acc": null,
+       "note": "",
+       "subtopics": []
+      },
+      {
+       "id": "5.6",
+       "name": "Foreign exchange market and arbitrage",
+       "status": "not_started",
+       "acc": null,
+       "note": "",
+       "subtopics": []
+      },
+      {
+       "id": "5.7",
+       "name": "Gains from trade, terms of trade, trade multiplier",
+       "status": "not_started",
+       "acc": null,
+       "note": "",
+       "subtopics": []
+      },
+      {
+       "id": "5.8",
+       "name": "Tariff and non-tariff barriers; dumping",
+       "status": "not_started",
+       "acc": null,
+       "note": "",
+       "subtopics": []
+      },
+      {
+       "id": "5.9",
+       "name": "GATT, WTO and regional trade blocks; trade policy issues",
+       "status": "not_started",
+       "acc": null,
+       "note": "",
+       "subtopics": []
+      },
+      {
+       "id": "5.10",
+       "name": "IMF and World Bank",
+       "status": "not_started",
+       "acc": null,
+       "note": "",
+       "subtopics": []
+      }
+     ]
+    },
+    {
+     "unit": 6,
+     "name": "Public Economics",
+     "folder": "06-Public",
+     "counts": {
+      "not_started": 7,
+      "learning": 0,
+      "understood": 0,
+      "practising": 0,
+      "mastered": 0
+     },
+     "total": 7,
+     "done": 0,
+     "acc": null,
+     "target": "2026-11-17",
+     "open_mistakes": 0,
+     "topics": [
+      {
+       "id": "6.1",
+       "name": "Market failure and remedies: asymmetric information, public goods, externality",
+       "status": "not_started",
+       "acc": null,
+       "note": "",
+       "subtopics": []
+      },
+      {
+       "id": "6.2",
+       "name": "Regulation of markets: collusion and consumers' welfare",
+       "status": "not_started",
+       "acc": null,
+       "note": "",
+       "subtopics": []
+      },
+      {
+       "id": "6.3",
+       "name": "Public revenue: tax and non-tax, direct and indirect, progressive and non-progressive, incidence and effects of taxation",
+       "status": "not_started",
+       "acc": null,
+       "note": "",
+       "subtopics": []
+      },
+      {
+       "id": "6.4",
+       "name": "Public expenditure",
+       "status": "not_started",
+       "acc": null,
+       "note": "",
+       "subtopics": []
+      },
+      {
+       "id": "6.5",
+       "name": "Public debt and its management",
+       "status": "not_started",
+       "acc": null,
+       "note": "",
+       "subtopics": []
+      },
+      {
+       "id": "6.6",
+       "name": "Public budget and budget multiplier",
+       "status": "not_started",
+       "acc": null,
+       "note": "",
+       "subtopics": []
+      },
+      {
+       "id": "6.7",
+       "name": "Fiscal policy and its implications",
+       "status": "not_started",
+       "acc": null,
+       "note": "",
+       "subtopics": []
+      }
+     ]
+    },
+    {
+     "unit": 9,
+     "name": "Environmental Economics and Demography",
+     "folder": "09-Environment-Demography",
+     "counts": {
+      "not_started": 10,
+      "learning": 0,
+      "understood": 0,
+      "practising": 0,
+      "mastered": 0
+     },
+     "total": 10,
+     "done": 0,
+     "acc": null,
+     "target": "2026-11-24",
+     "open_mistakes": 0,
+     "topics": [
+      {
+       "id": "9.1",
+       "name": "Environment as a public good",
+       "status": "not_started",
+       "acc": null,
+       "note": "",
+       "subtopics": []
+      },
+      {
+       "id": "9.2",
+       "name": "Market failure",
+       "status": "not_started",
+       "acc": null,
+       "note": "",
+       "subtopics": []
+      },
+      {
+       "id": "9.3",
+       "name": "Coase Theorem",
+       "status": "not_started",
+       "acc": null,
+       "note": "",
+       "subtopics": []
+      },
+      {
+       "id": "9.4",
+       "name": "Cost-benefit analysis and compensation criteria",
+       "status": "not_started",
+       "acc": null,
+       "note": "",
+       "subtopics": []
+      },
+      {
+       "id": "9.5",
+       "name": "Valuation of environmental goods",
+       "status": "not_started",
+       "acc": null,
+       "note": "",
+       "subtopics": []
+      },
+      {
+       "id": "9.6",
+       "name": "Theories of population",
+       "status": "not_started",
+       "acc": null,
+       "note": "",
+       "subtopics": []
+      },
+      {
+       "id": "9.7",
+       "name": "Concepts and measures: fertility, morbidity, mortality",
+       "status": "not_started",
+       "acc": null,
+       "note": "",
+       "subtopics": []
+      },
+      {
+       "id": "9.8",
+       "name": "Age structure, demographic dividend",
+       "status": "not_started",
+       "acc": null,
+       "note": "",
+       "subtopics": []
+      },
+      {
+       "id": "9.9",
+       "name": "Life table",
+       "status": "not_started",
+       "acc": null,
+       "note": "",
+       "subtopics": []
+      },
+      {
+       "id": "9.10",
+       "name": "Migration",
+       "status": "not_started",
+       "acc": null,
+       "note": "",
+       "subtopics": []
+      }
+     ]
+    },
+    {
+     "unit": 8,
+     "name": "Growth and Development Economics",
+     "folder": "08-Growth-Development",
+     "counts": {
+      "not_started": 7,
+      "learning": 0,
+      "understood": 0,
+      "practising": 0,
+      "mastered": 0
+     },
+     "total": 7,
+     "done": 0,
+     "acc": null,
+     "target": "2026-11-17",
+     "open_mistakes": 0,
+     "topics": [
+      {
+       "id": "8.1",
+       "name": "Economic growth and economic development",
+       "status": "not_started",
+       "acc": null,
+       "note": "",
+       "subtopics": []
+      },
+      {
+       "id": "8.2",
+       "name": "Theories of development: Smith, Ricardo, Marx, Schumpeter, Rostow, balanced and unbalanced growth, Big Push",
+       "status": "not_started",
+       "acc": null,
+       "note": "",
+       "subtopics": []
+      },
+      {
+       "id": "8.3",
+       "name": "Growth models: Harrod-Domar, Solow, Robinson, Kaldor",
+       "status": "not_started",
+       "acc": null,
+       "note": "",
+       "subtopics": []
+      },
+      {
+       "id": "8.4",
+       "name": "Technical progress: disembodied and embodied; endogenous growth",
+       "status": "not_started",
+       "acc": null,
+       "note": "",
+       "subtopics": []
+      },
+      {
+       "id": "8.5",
+       "name": "Indicators of development: PQLI, HDI, SDGs",
+       "status": "not_started",
+       "acc": null,
+       "note": "",
+       "subtopics": []
+      },
+      {
+       "id": "8.6",
+       "name": "Poverty and inequality: concepts and measurement",
+       "status": "not_started",
+       "acc": null,
+       "note": "",
+       "subtopics": []
+      },
+      {
+       "id": "8.7",
+       "name": "Social sector development: health, education, gender",
+       "status": "not_started",
+       "acc": null,
+       "note": "",
+       "subtopics": []
+      }
+     ]
+    },
+    {
+     "unit": 4,
+     "name": "Mathematical Economics",
+     "folder": "04-Math-Econ",
+     "counts": {
+      "not_started": 6,
+      "learning": 0,
+      "understood": 0,
+      "practising": 0,
+      "mastered": 0
+     },
+     "total": 6,
+     "done": 0,
+     "acc": null,
+     "target": "2026-11-10",
+     "open_mistakes": 0,
+     "topics": [
+      {
+       "id": "4.1",
+       "name": "Sets, functions and continuity, sequence, series",
+       "status": "not_started",
+       "acc": null,
+       "note": "",
+       "subtopics": []
+      },
+      {
+       "id": "4.2",
+       "name": "Differential calculus and its applications",
+       "status": "not_started",
+       "acc": null,
+       "note": "",
+       "subtopics": []
+      },
+      {
+       "id": "4.3",
+       "name": "Linear algebra: matrices, vector spaces",
+       "status": "not_started",
+       "acc": null,
+       "note": "",
+       "subtopics": []
+      },
+      {
+       "id": "4.4",
+       "name": "Static optimisation problems and their applications",
+       "status": "not_started",
+       "acc": null,
+       "note": "",
+       "subtopics": []
+      },
+      {
+       "id": "4.5",
+       "name": "Input-Output model, Linear Programming",
+       "status": "not_started",
+       "acc": null,
+       "note": "",
+       "subtopics": []
+      },
+      {
+       "id": "4.6",
+       "name": "Difference and differential equations with applications",
+       "status": "not_started",
+       "acc": null,
+       "note": "",
+       "subtopics": []
+      }
+     ]
+    },
+    {
+     "unit": 3,
+     "name": "Statistics and Econometrics",
+     "folder": "03-Stats-Econometrics",
+     "counts": {
+      "not_started": 9,
+      "learning": 0,
+      "understood": 0,
+      "practising": 0,
+      "mastered": 0
+     },
+     "total": 9,
+     "done": 0,
+     "acc": null,
+     "target": "2026-11-03",
+     "open_mistakes": 0,
+     "topics": [
+      {
+       "id": "3.1",
+       "name": "Probability theory: concepts, distributions, moments, Central Limit Theorem",
+       "status": "not_started",
+       "acc": null,
+       "note": "",
+       "subtopics": []
+      },
+      {
+       "id": "3.2",
+       "name": "Descriptive statistics: central tendency, dispersion, correlation, index numbers",
+       "status": "not_started",
+       "acc": null,
+       "note": "",
+       "subtopics": []
+      },
+      {
+       "id": "3.3",
+       "name": "Sampling methods and sampling distributions",
+       "status": "not_started",
+       "acc": null,
+       "note": "",
+       "subtopics": []
+      },
+      {
+       "id": "3.4",
+       "name": "Statistical inference and hypothesis testing",
+       "status": "not_started",
+       "acc": null,
+       "note": "",
+       "subtopics": []
+      },
+      {
+       "id": "3.5",
+       "name": "Linear regression models and their properties: BLUE",
+       "status": "not_started",
+       "acc": null,
+       "note": "",
+       "subtopics": []
+      },
+      {
+       "id": "3.6",
+       "name": "Identification problem",
+       "status": "not_started",
+       "acc": null,
+       "note": "",
+       "subtopics": []
+      },
+      {
+       "id": "3.7",
+       "name": "Simultaneous equation models: recursive and non-recursive",
+       "status": "not_started",
+       "acc": null,
+       "note": "",
+       "subtopics": []
+      },
+      {
+       "id": "3.8",
+       "name": "Discrete choice models",
+       "status": "not_started",
+       "acc": null,
+       "note": "",
+       "subtopics": []
+      },
+      {
+       "id": "3.9",
+       "name": "Time series analysis",
+       "status": "not_started",
+       "acc": null,
+       "note": "",
+       "subtopics": []
+      }
+     ]
+    },
+    {
+     "unit": 10,
+     "name": "Indian Economy",
+     "folder": "10-Indian-Economy",
+     "counts": {
+      "not_started": 11,
+      "learning": 0,
+      "understood": 0,
+      "practising": 0,
+      "mastered": 0
+     },
+     "total": 11,
+     "done": 0,
+     "acc": null,
+     "target": "2026-12-01",
+     "open_mistakes": 0,
+     "topics": [
+      {
+       "id": "10.1",
+       "name": "Economic growth in India: pattern and structure",
+       "status": "not_started",
+       "acc": null,
+       "note": "",
+       "subtopics": []
+      },
+      {
+       "id": "10.2",
+       "name": "Agriculture: growth pattern, challenges, policy responses",
+       "status": "not_started",
+       "acc": null,
+       "note": "",
+       "subtopics": []
+      },
+      {
+       "id": "10.3",
+       "name": "Industry: growth pattern, challenges, policy responses",
+       "status": "not_started",
+       "acc": null,
+       "note": "",
+       "subtopics": []
+      },
+      {
+       "id": "10.4",
+       "name": "Services: growth pattern, challenges, policy responses",
+       "status": "not_started",
+       "acc": null,
+       "note": "",
+       "subtopics": []
+      },
+      {
+       "id": "10.5",
+       "name": "Rural development: issues, challenges, policy responses",
+       "status": "not_started",
+       "acc": null,
+       "note": "",
+       "subtopics": []
+      },
+      {
+       "id": "10.6",
+       "name": "Urban development: issues, challenges, policy responses",
+       "status": "not_started",
+       "acc": null,
+       "note": "",
+       "subtopics": []
+      },
+      {
+       "id": "10.7",
+       "name": "Foreign trade: structure and direction, BOP, foreign capital flows, trade policies",
+       "status": "not_started",
+       "acc": null,
+       "note": "",
+       "subtopics": []
+      },
+      {
+       "id": "10.8",
+       "name": "Infrastructure development: physical and social; public-private partnerships",
+       "status": "not_started",
+       "acc": null,
+       "note": "",
+       "subtopics": []
+      },
+      {
+       "id": "10.9",
+       "name": "Reforms in land, labour and capital markets",
+       "status": "not_started",
+       "acc": null,
+       "note": "",
+       "subtopics": []
+      },
+      {
+       "id": "10.10",
+       "name": "Centre-State financial relations, Finance Commissions, FRBM",
+       "status": "not_started",
+       "acc": null,
+       "note": "",
+       "subtopics": []
+      },
+      {
+       "id": "10.11",
+       "name": "Poverty, inequality and unemployment",
+       "status": "not_started",
+       "acc": null,
+       "note": "",
+       "subtopics": []
+      }
+     ]
+    }
+   ],
+   "total": 88,
+   "counts": {
+    "not_started": 87,
+    "learning": 1,
+    "understood": 0,
+    "practising": 0,
+    "mastered": 0
+   },
+   "done": 0
+  },
+  {
+   "key": "P1",
+   "name": "Paper I — Teaching & Research Aptitude",
+   "marks": 100,
+   "units": [
+    {
+     "unit": 1,
+     "name": "Teaching Aptitude",
+     "folder": null,
+     "counts": {
+      "not_started": 6,
+      "learning": 0,
+      "understood": 0,
+      "practising": 0,
+      "mastered": 0
+     },
+     "total": 6,
+     "done": 0,
+     "acc": null,
+     "target": "2026-12-01",
+     "open_mistakes": 0,
+     "topics": [
+      {
+       "id": "I-1.1",
+       "name": "Teaching: concept, objectives, levels (memory, understanding, reflective), characteristics",
+       "status": "not_started",
+       "acc": null,
+       "note": "",
+       "subtopics": []
+      },
+      {
+       "id": "I-1.2",
+       "name": "Learner's characteristics (adolescent and adult learners), individual differences",
+       "status": "not_started",
+       "acc": null,
+       "note": "",
+       "subtopics": []
+      },
+      {
+       "id": "I-1.3",
+       "name": "Factors affecting teaching (teacher, learner, support material, facilities, environment, institution)",
+       "status": "not_started",
+       "acc": null,
+       "note": "",
+       "subtopics": []
+      },
+      {
+       "id": "I-1.4",
+       "name": "Methods of teaching: teacher- vs learner-centred, offline vs online (SWAYAM, SWAYAM Prabha, MOOCs)",
+       "status": "not_started",
+       "acc": null,
+       "note": "",
+       "subtopics": []
+      },
+      {
+       "id": "I-1.5",
+       "name": "Teaching support system: traditional, modern, ICT-based",
+       "status": "not_started",
+       "acc": null,
+       "note": "",
+       "subtopics": []
+      },
+      {
+       "id": "I-1.6",
+       "name": "Evaluation systems: elements, types, CBCS, computer-based testing, innovations",
+       "status": "not_started",
+       "acc": null,
+       "note": "",
+       "subtopics": []
+      }
+     ]
+    },
+    {
+     "unit": 2,
+     "name": "Research Aptitude",
+     "folder": null,
+     "counts": {
+      "not_started": 6,
+      "learning": 0,
+      "understood": 0,
+      "practising": 0,
+      "mastered": 0
+     },
+     "total": 6,
+     "done": 0,
+     "acc": null,
+     "target": "2026-12-01",
+     "open_mistakes": 0,
+     "topics": [
+      {
+       "id": "I-2.1",
+       "name": "Research: meaning, types, characteristics; positivism and post-positivism",
+       "status": "not_started",
+       "acc": null,
+       "note": "",
+       "subtopics": []
+      },
+      {
+       "id": "I-2.2",
+       "name": "Methods of research: experimental, descriptive, historical, qualitative, quantitative",
+       "status": "not_started",
+       "acc": null,
+       "note": "",
+       "subtopics": []
+      },
+      {
+       "id": "I-2.3",
+       "name": "Steps of research",
+       "status": "not_started",
+       "acc": null,
+       "note": "",
+       "subtopics": []
+      },
+      {
+       "id": "I-2.4",
+       "name": "Thesis and article writing: format and referencing styles",
+       "status": "not_started",
+       "acc": null,
+       "note": "",
+       "subtopics": []
+      },
+      {
+       "id": "I-2.5",
+       "name": "Application of ICT in research",
+       "status": "not_started",
+       "acc": null,
+       "note": "",
+       "subtopics": []
+      },
+      {
+       "id": "I-2.6",
+       "name": "Research ethics",
+       "status": "not_started",
+       "acc": null,
+       "note": "",
+       "subtopics": []
+      }
+     ]
+    },
+    {
+     "unit": 7,
+     "name": "Data Interpretation",
+     "folder": null,
+     "counts": {
+      "not_started": 5,
+      "learning": 0,
+      "understood": 0,
+      "practising": 0,
+      "mastered": 0
+     },
+     "total": 5,
+     "done": 0,
+     "acc": null,
+     "target": "2026-12-01",
+     "open_mistakes": 0,
+     "topics": [
+      {
+       "id": "I-7.1",
+       "name": "Sources, acquisition and classification of data",
+       "status": "not_started",
+       "acc": null,
+       "note": "",
+       "subtopics": []
+      },
+      {
+       "id": "I-7.2",
+       "name": "Quantitative and qualitative data",
+       "status": "not_started",
+       "acc": null,
+       "note": "",
+       "subtopics": []
+      },
+      {
+       "id": "I-7.3",
+       "name": "Graphical representation and mapping of data",
+       "status": "not_started",
+       "acc": null,
+       "note": "",
+       "subtopics": []
+      },
+      {
+       "id": "I-7.4",
+       "name": "Data interpretation",
+       "status": "not_started",
+       "acc": null,
+       "note": "",
+       "subtopics": []
+      },
+      {
+       "id": "I-7.5",
+       "name": "Data and governance",
+       "status": "not_started",
+       "acc": null,
+       "note": "",
+       "subtopics": []
+      }
+     ]
+    },
+    {
+     "unit": 5,
+     "name": "Mathematical Reasoning and Aptitude",
+     "folder": null,
+     "counts": {
+      "not_started": 3,
+      "learning": 0,
+      "understood": 0,
+      "practising": 0,
+      "mastered": 0
+     },
+     "total": 3,
+     "done": 0,
+     "acc": null,
+     "target": "2026-12-01",
+     "open_mistakes": 0,
+     "topics": [
+      {
+       "id": "I-5.1",
+       "name": "Types of reasoning",
+       "status": "not_started",
+       "acc": null,
+       "note": "",
+       "subtopics": []
+      },
+      {
+       "id": "I-5.2",
+       "name": "Number series, letter series, codes and relationships",
+       "status": "not_started",
+       "acc": null,
+       "note": "",
+       "subtopics": []
+      },
+      {
+       "id": "I-5.3",
+       "name": "Mathematical aptitude: fractions, time and distance, ratio, proportion, percentage, profit and loss, interest and discounting, averages",
+       "status": "not_started",
+       "acc": null,
+       "note": "",
+       "subtopics": []
+      }
+     ]
+    },
+    {
+     "unit": 6,
+     "name": "Logical Reasoning",
+     "folder": null,
+     "counts": {
+      "not_started": 6,
+      "learning": 0,
+      "understood": 0,
+      "practising": 0,
+      "mastered": 0
+     },
+     "total": 6,
+     "done": 0,
+     "acc": null,
+     "target": "2026-12-01",
+     "open_mistakes": 0,
+     "topics": [
+      {
+       "id": "I-6.1",
+       "name": "Structure of arguments: forms, categorical propositions, mood and figure, fallacies, uses of language, connotation/denotation, square of opposition",
+       "status": "not_started",
+       "acc": null,
+       "note": "",
+       "subtopics": []
+      },
+      {
+       "id": "I-6.2",
+       "name": "Deductive vs inductive reasoning",
+       "status": "not_started",
+       "acc": null,
+       "note": "",
+       "subtopics": []
+      },
+      {
+       "id": "I-6.3",
+       "name": "Analogies",
+       "status": "not_started",
+       "acc": null,
+       "note": "",
+       "subtopics": []
+      },
+      {
+       "id": "I-6.4",
+       "name": "Venn diagrams for validity of arguments",
+       "status": "not_started",
+       "acc": null,
+       "note": "",
+       "subtopics": []
+      },
+      {
+       "id": "I-6.5",
+       "name": "Indian logic: means of knowledge; Pramanas",
+       "status": "not_started",
+       "acc": null,
+       "note": "",
+       "subtopics": []
+      },
+      {
+       "id": "I-6.6",
+       "name": "Anumana (inference): structure and kinds, Vyapti, Hetvabhasas",
+       "status": "not_started",
+       "acc": null,
+       "note": "",
+       "subtopics": []
+      }
+     ]
+    },
+    {
+     "unit": 4,
+     "name": "Communication",
+     "folder": null,
+     "counts": {
+      "not_started": 4,
+      "learning": 0,
+      "understood": 0,
+      "practising": 0,
+      "mastered": 0
+     },
+     "total": 4,
+     "done": 0,
+     "acc": null,
+     "target": "2026-12-01",
+     "open_mistakes": 0,
+     "topics": [
+      {
+       "id": "I-4.1",
+       "name": "Communication: meaning, types, characteristics",
+       "status": "not_started",
+       "acc": null,
+       "note": "",
+       "subtopics": []
+      },
+      {
+       "id": "I-4.2",
+       "name": "Effective communication: verbal, non-verbal, inter-cultural, group, classroom",
+       "status": "not_started",
+       "acc": null,
+       "note": "",
+       "subtopics": []
+      },
+      {
+       "id": "I-4.3",
+       "name": "Barriers to effective communication",
+       "status": "not_started",
+       "acc": null,
+       "note": "",
+       "subtopics": []
+      },
+      {
+       "id": "I-4.4",
+       "name": "Mass media and society",
+       "status": "not_started",
+       "acc": null,
+       "note": "",
+       "subtopics": []
+      }
+     ]
+    },
+    {
+     "unit": 8,
+     "name": "Information and Communication Technology (ICT)",
+     "folder": null,
+     "counts": {
+      "not_started": 4,
+      "learning": 0,
+      "understood": 0,
+      "practising": 0,
+      "mastered": 0
+     },
+     "total": 4,
+     "done": 0,
+     "acc": null,
+     "target": "2026-12-01",
+     "open_mistakes": 0,
+     "topics": [
+      {
+       "id": "I-8.1",
+       "name": "ICT abbreviations and terminology",
+       "status": "not_started",
+       "acc": null,
+       "note": "",
+       "subtopics": []
+      },
+      {
+       "id": "I-8.2",
+       "name": "Internet, intranet, e-mail, audio and video conferencing",
+       "status": "not_started",
+       "acc": null,
+       "note": "",
+       "subtopics": []
+      },
+      {
+       "id": "I-8.3",
+       "name": "Digital initiatives in higher education",
+       "status": "not_started",
+       "acc": null,
+       "note": "",
+       "subtopics": []
+      },
+      {
+       "id": "I-8.4",
+       "name": "ICT and governance",
+       "status": "not_started",
+       "acc": null,
+       "note": "",
+       "subtopics": []
+      }
+     ]
+    },
+    {
+     "unit": 9,
+     "name": "People, Development and Environment",
+     "folder": null,
+     "counts": {
+      "not_started": 7,
+      "learning": 0,
+      "understood": 0,
+      "practising": 0,
+      "mastered": 0
+     },
+     "total": 7,
+     "done": 0,
+     "acc": null,
+     "target": "2026-12-01",
+     "open_mistakes": 0,
+     "topics": [
+      {
+       "id": "I-9.1",
+       "name": "Development and environment: MDGs and SDGs",
+       "status": "not_started",
+       "acc": null,
+       "note": "",
+       "subtopics": []
+      },
+      {
+       "id": "I-9.2",
+       "name": "Human-environment interaction: anthropogenic activities and impacts",
+       "status": "not_started",
+       "acc": null,
+       "note": "",
+       "subtopics": []
+      },
+      {
+       "id": "I-9.3",
+       "name": "Environmental issues: pollution types, waste, climate change",
+       "status": "not_started",
+       "acc": null,
+       "note": "",
+       "subtopics": []
+      },
+      {
+       "id": "I-9.4",
+       "name": "Impacts of pollutants on human health",
+       "status": "not_started",
+       "acc": null,
+       "note": "",
+       "subtopics": []
+      },
+      {
+       "id": "I-9.5",
+       "name": "Natural and energy resources",
+       "status": "not_started",
+       "acc": null,
+       "note": "",
+       "subtopics": []
+      },
+      {
+       "id": "I-9.6",
+       "name": "Natural hazards and disasters: mitigation",
+       "status": "not_started",
+       "acc": null,
+       "note": "",
+       "subtopics": []
+      },
+      {
+       "id": "I-9.7",
+       "name": "EPA 1986, NAPCC, international agreements (Montreal, Rio, CBD, Kyoto, Paris, ISA)",
+       "status": "not_started",
+       "acc": null,
+       "note": "",
+       "subtopics": []
+      }
+     ]
+    },
+    {
+     "unit": 10,
+     "name": "Higher Education System",
+     "folder": null,
+     "counts": {
+      "not_started": 6,
+      "learning": 0,
+      "understood": 0,
+      "practising": 0,
+      "mastered": 0
+     },
+     "total": 6,
+     "done": 0,
+     "acc": null,
+     "target": "2026-12-01",
+     "open_mistakes": 0,
+     "topics": [
+      {
+       "id": "I-10.1",
+       "name": "Higher learning in ancient India",
+       "status": "not_started",
+       "acc": null,
+       "note": "",
+       "subtopics": []
+      },
+      {
+       "id": "I-10.2",
+       "name": "Evolution of higher learning and research after Independence",
+       "status": "not_started",
+       "acc": null,
+       "note": "",
+       "subtopics": []
+      },
+      {
+       "id": "I-10.3",
+       "name": "Oriental, conventional and non-conventional programmes",
+       "status": "not_started",
+       "acc": null,
+       "note": "",
+       "subtopics": []
+      },
+      {
+       "id": "I-10.4",
+       "name": "Professional, technical and skill-based education",
+       "status": "not_started",
+       "acc": null,
+       "note": "",
+       "subtopics": []
+      },
+      {
+       "id": "I-10.5",
+       "name": "Value education and environmental education",
+       "status": "not_started",
+       "acc": null,
+       "note": "",
+       "subtopics": []
+      },
+      {
+       "id": "I-10.6",
+       "name": "Policies, governance and administration",
+       "status": "not_started",
+       "acc": null,
+       "note": "",
+       "subtopics": []
+      }
+     ]
+    },
+    {
+     "unit": 3,
+     "name": "Comprehension",
+     "folder": null,
+     "counts": {
+      "not_started": 1,
+      "learning": 0,
+      "understood": 0,
+      "practising": 0,
+      "mastered": 0
+     },
+     "total": 1,
+     "done": 0,
+     "acc": null,
+     "target": "2026-12-01",
+     "open_mistakes": 0,
+     "topics": [
+      {
+       "id": "I-3.1",
+       "name": "Reading a passage and answering questions",
+       "status": "not_started",
+       "acc": null,
+       "note": "",
+       "subtopics": []
+      }
+     ]
+    }
+   ],
+   "total": 48,
+   "counts": {
+    "not_started": 48,
+    "learning": 0,
+    "understood": 0,
+    "practising": 0,
+    "mastered": 0
+   },
+   "done": 0
+  }
+ ],
+ "overall": {
+  "right": 39,
+  "n": 88,
+  "pct": 44.3
+ },
+ "by_paper": {
+  "P2": {
+   "right": 39,
+   "n": 88,
+   "pct": 44.3,
+   "last": "2026-10-20"
+  }
+ },
+ "by_format": {
+  "Numerical": {
+   "right": 3,
+   "n": 14,
+   "pct": 21.4,
+   "last": "2026-10-20"
+  },
+  "Diagram": {
+   "right": 4,
+   "n": 11,
+   "pct": 36.4,
+   "last": "2026-10-20"
+  },
+  "Explain": {
+   "right": 13,
+   "n": 33,
+   "pct": 39.4,
+   "last": "2026-10-20"
+  },
+  "Derivation": {
+   "right": 1,
+   "n": 6,
+   "pct": 16.7,
+   "last": "2026-10-13"
+  },
+  "Objective": {
+   "right": 17,
+   "n": 22,
+   "pct": 77.3,
+   "last": "2026-10-20"
+  },
+  "Application": {
+   "right": 0,
+   "n": 1,
+   "pct": 0.0,
+   "last": "2026-10-11"
+  },
+  "Direct": {
+   "right": 1,
+   "n": 1,
+   "pct": 100.0,
+   "last": "2026-10-07"
+  }
+ },
+ "by_source": {
+  "Teacher test": {
+   "right": 21,
+   "n": 66,
+   "pct": 31.8,
+   "last": "2026-10-20"
+  },
+  "Past paper": {
+   "right": 17,
+   "n": 21,
+   "pct": 81.0,
+   "last": "2026-10-20"
+  },
+  "Popup": {
+   "right": 1,
+   "n": 1,
+   "pct": 100.0,
+   "last": "2026-10-07"
+  }
+ },
+ "causes": {
+  "Concept gap": 41,
+  "Recall": 7,
+  "Careless": 1
+ },
+ "untagged": 0,
+ "trend": [
+  {
+   "date": "2026-09-21",
+   "n": 0,
+   "pct": null,
+   "roll_n": 0,
+   "roll_pct": null
+  },
+  {
+   "date": "2026-09-22",
+   "n": 0,
+   "pct": null,
+   "roll_n": 0,
+   "roll_pct": null
+  },
+  {
+   "date": "2026-09-23",
+   "n": 0,
+   "pct": null,
+   "roll_n": 0,
+   "roll_pct": null
+  },
+  {
+   "date": "2026-09-24",
+   "n": 0,
+   "pct": null,
+   "roll_n": 0,
+   "roll_pct": null
+  },
+  {
+   "date": "2026-09-25",
+   "n": 0,
+   "pct": null,
+   "roll_n": 0,
+   "roll_pct": null
+  },
+  {
+   "date": "2026-09-26",
+   "n": 0,
+   "pct": null,
+   "roll_n": 0,
+   "roll_pct": null
+  },
+  {
+   "date": "2026-09-27",
+   "n": 0,
+   "pct": null,
+   "roll_n": 0,
+   "roll_pct": null
+  },
+  {
+   "date": "2026-09-28",
+   "n": 0,
+   "pct": null,
+   "roll_n": 0,
+   "roll_pct": null
+  },
+  {
+   "date": "2026-09-29",
+   "n": 0,
+   "pct": null,
+   "roll_n": 0,
+   "roll_pct": null
+  },
+  {
+   "date": "2026-09-30",
+   "n": 0,
+   "pct": null,
+   "roll_n": 0,
+   "roll_pct": null
+  },
+  {
+   "date": "2026-10-01",
+   "n": 0,
+   "pct": null,
+   "roll_n": 0,
+   "roll_pct": null
+  },
+  {
+   "date": "2026-10-02",
+   "n": 0,
+   "pct": null,
+   "roll_n": 0,
+   "roll_pct": null
+  },
+  {
+   "date": "2026-10-03",
+   "n": 0,
+   "pct": null,
+   "roll_n": 0,
+   "roll_pct": null
+  },
+  {
+   "date": "2026-10-04",
+   "n": 0,
+   "pct": null,
+   "roll_n": 0,
+   "roll_pct": null
+  },
+  {
+   "date": "2026-10-05",
+   "n": 0,
+   "pct": null,
+   "roll_n": 0,
+   "roll_pct": null
+  },
+  {
+   "date": "2026-10-06",
+   "n": 0,
+   "pct": null,
+   "roll_n": 0,
+   "roll_pct": null
+  },
+  {
+   "date": "2026-10-07",
+   "n": 1,
+   "pct": 100.0,
+   "roll_n": 1,
+   "roll_pct": 100.0
+  },
+  {
+   "date": "2026-10-08",
+   "n": 0,
+   "pct": null,
+   "roll_n": 1,
+   "roll_pct": 100.0
+  },
+  {
+   "date": "2026-10-09",
+   "n": 0,
+   "pct": null,
+   "roll_n": 1,
+   "roll_pct": 100.0
+  },
+  {
+   "date": "2026-10-10",
+   "n": 17,
+   "pct": 52.9,
+   "roll_n": 18,
+   "roll_pct": 55.6
+  },
+  {
+   "date": "2026-10-11",
+   "n": 11,
+   "pct": 36.4,
+   "roll_n": 29,
+   "roll_pct": 48.3
+  },
+  {
+   "date": "2026-10-12",
+   "n": 9,
+   "pct": 22.2,
+   "roll_n": 38,
+   "roll_pct": 42.1
+  },
+  {
+   "date": "2026-10-13",
+   "n": 3,
+   "pct": 33.3,
+   "roll_n": 41,
+   "roll_pct": 41.5
+  },
+  {
+   "date": "2026-10-14",
+   "n": 5,
+   "pct": 20.0,
+   "roll_n": 45,
+   "roll_pct": 37.8
+  },
+  {
+   "date": "2026-10-15",
+   "n": 0,
+   "pct": null,
+   "roll_n": 45,
+   "roll_pct": 37.8
+  },
+  {
+   "date": "2026-10-16",
+   "n": 0,
+   "pct": null,
+   "roll_n": 45,
+   "roll_pct": 37.8
+  },
+  {
+   "date": "2026-10-17",
+   "n": 0,
+   "pct": null,
+   "roll_n": 28,
+   "roll_pct": 28.6
+  },
+  {
+   "date": "2026-10-18",
+   "n": 3,
+   "pct": 33.3,
+   "roll_n": 20,
+   "roll_pct": 25.0
+  },
+  {
+   "date": "2026-10-19",
+   "n": 10,
+   "pct": 50.0,
+   "roll_n": 21,
+   "roll_pct": 38.1
+  },
+  {
+   "date": "2026-10-20",
+   "n": 29,
+   "pct": 51.7,
+   "roll_n": 47,
+   "roll_pct": 46.8
+  }
+ ],
+ "calendar": [
+  {
+   "date": "2026-07-27",
+   "q": 0,
+   "sit": 0,
+   "min": 0
+  },
+  {
+   "date": "2026-07-28",
+   "q": 0,
+   "sit": 0,
+   "min": 0
+  },
+  {
+   "date": "2026-07-29",
+   "q": 0,
+   "sit": 0,
+   "min": 0
+  },
+  {
+   "date": "2026-07-30",
+   "q": 0,
+   "sit": 0,
+   "min": 0
+  },
+  {
+   "date": "2026-07-31",
+   "q": 0,
+   "sit": 0,
+   "min": 0
+  },
+  {
+   "date": "2026-08-01",
+   "q": 0,
+   "sit": 0,
+   "min": 0
+  },
+  {
+   "date": "2026-08-02",
+   "q": 0,
+   "sit": 0,
+   "min": 0
+  },
+  {
+   "date": "2026-08-03",
+   "q": 0,
+   "sit": 0,
+   "min": 0
+  },
+  {
+   "date": "2026-08-04",
+   "q": 0,
+   "sit": 0,
+   "min": 0
+  },
+  {
+   "date": "2026-08-05",
+   "q": 0,
+   "sit": 0,
+   "min": 0
+  },
+  {
+   "date": "2026-08-06",
+   "q": 0,
+   "sit": 0,
+   "min": 0
+  },
+  {
+   "date": "2026-08-07",
+   "q": 0,
+   "sit": 0,
+   "min": 0
+  },
+  {
+   "date": "2026-08-08",
+   "q": 0,
+   "sit": 0,
+   "min": 0
+  },
+  {
+   "date": "2026-08-09",
+   "q": 0,
+   "sit": 0,
+   "min": 0
+  },
+  {
+   "date": "2026-08-10",
+   "q": 0,
+   "sit": 0,
+   "min": 0
+  },
+  {
+   "date": "2026-08-11",
+   "q": 0,
+   "sit": 0,
+   "min": 0
+  },
+  {
+   "date": "2026-08-12",
+   "q": 0,
+   "sit": 0,
+   "min": 0
+  },
+  {
+   "date": "2026-08-13",
+   "q": 0,
+   "sit": 0,
+   "min": 0
+  },
+  {
+   "date": "2026-08-14",
+   "q": 0,
+   "sit": 0,
+   "min": 0
+  },
+  {
+   "date": "2026-08-15",
+   "q": 0,
+   "sit": 0,
+   "min": 0
+  },
+  {
+   "date": "2026-08-16",
+   "q": 0,
+   "sit": 0,
+   "min": 0
+  },
+  {
+   "date": "2026-08-17",
+   "q": 0,
+   "sit": 0,
+   "min": 0
+  },
+  {
+   "date": "2026-08-18",
+   "q": 0,
+   "sit": 0,
+   "min": 0
+  },
+  {
+   "date": "2026-08-19",
+   "q": 0,
+   "sit": 0,
+   "min": 0
+  },
+  {
+   "date": "2026-08-20",
+   "q": 0,
+   "sit": 0,
+   "min": 0
+  },
+  {
+   "date": "2026-08-21",
+   "q": 0,
+   "sit": 0,
+   "min": 0
+  },
+  {
+   "date": "2026-08-22",
+   "q": 0,
+   "sit": 0,
+   "min": 0
+  },
+  {
+   "date": "2026-08-23",
+   "q": 0,
+   "sit": 0,
+   "min": 0
+  },
+  {
+   "date": "2026-08-24",
+   "q": 0,
+   "sit": 0,
+   "min": 0
+  },
+  {
+   "date": "2026-08-25",
+   "q": 0,
+   "sit": 0,
+   "min": 0
+  },
+  {
+   "date": "2026-08-26",
+   "q": 0,
+   "sit": 0,
+   "min": 0
+  },
+  {
+   "date": "2026-08-27",
+   "q": 0,
+   "sit": 0,
+   "min": 0
+  },
+  {
+   "date": "2026-08-28",
+   "q": 0,
+   "sit": 0,
+   "min": 0
+  },
+  {
+   "date": "2026-08-29",
+   "q": 0,
+   "sit": 0,
+   "min": 0
+  },
+  {
+   "date": "2026-08-30",
+   "q": 0,
+   "sit": 0,
+   "min": 0
+  },
+  {
+   "date": "2026-08-31",
+   "q": 0,
+   "sit": 0,
+   "min": 0
+  },
+  {
+   "date": "2026-09-01",
+   "q": 0,
+   "sit": 0,
+   "min": 0
+  },
+  {
+   "date": "2026-09-02",
+   "q": 0,
+   "sit": 0,
+   "min": 0
+  },
+  {
+   "date": "2026-09-03",
+   "q": 0,
+   "sit": 0,
+   "min": 0
+  },
+  {
+   "date": "2026-09-04",
+   "q": 0,
+   "sit": 0,
+   "min": 0
+  },
+  {
+   "date": "2026-09-05",
+   "q": 0,
+   "sit": 0,
+   "min": 0
+  },
+  {
+   "date": "2026-09-06",
+   "q": 0,
+   "sit": 0,
+   "min": 0
+  },
+  {
+   "date": "2026-09-07",
+   "q": 0,
+   "sit": 0,
+   "min": 0
+  },
+  {
+   "date": "2026-09-08",
+   "q": 0,
+   "sit": 0,
+   "min": 0
+  },
+  {
+   "date": "2026-09-09",
+   "q": 0,
+   "sit": 0,
+   "min": 0
+  },
+  {
+   "date": "2026-09-10",
+   "q": 0,
+   "sit": 0,
+   "min": 0
+  },
+  {
+   "date": "2026-09-11",
+   "q": 0,
+   "sit": 0,
+   "min": 0
+  },
+  {
+   "date": "2026-09-12",
+   "q": 0,
+   "sit": 0,
+   "min": 0
+  },
+  {
+   "date": "2026-09-13",
+   "q": 0,
+   "sit": 0,
+   "min": 0
+  },
+  {
+   "date": "2026-09-14",
+   "q": 0,
+   "sit": 0,
+   "min": 0
+  },
+  {
+   "date": "2026-09-15",
+   "q": 0,
+   "sit": 0,
+   "min": 0
+  },
+  {
+   "date": "2026-09-16",
+   "q": 0,
+   "sit": 0,
+   "min": 0
+  },
+  {
+   "date": "2026-09-17",
+   "q": 0,
+   "sit": 0,
+   "min": 0
+  },
+  {
+   "date": "2026-09-18",
+   "q": 0,
+   "sit": 0,
+   "min": 0
+  },
+  {
+   "date": "2026-09-19",
+   "q": 0,
+   "sit": 0,
+   "min": 0
+  },
+  {
+   "date": "2026-09-20",
+   "q": 0,
+   "sit": 0,
+   "min": 0
+  },
+  {
+   "date": "2026-09-21",
+   "q": 0,
+   "sit": 0,
+   "min": 0
+  },
+  {
+   "date": "2026-09-22",
+   "q": 0,
+   "sit": 0,
+   "min": 0
+  },
+  {
+   "date": "2026-09-23",
+   "q": 0,
+   "sit": 0,
+   "min": 0
+  },
+  {
+   "date": "2026-09-24",
+   "q": 0,
+   "sit": 0,
+   "min": 0
+  },
+  {
+   "date": "2026-09-25",
+   "q": 0,
+   "sit": 0,
+   "min": 0
+  },
+  {
+   "date": "2026-09-26",
+   "q": 0,
+   "sit": 0,
+   "min": 0
+  },
+  {
+   "date": "2026-09-27",
+   "q": 0,
+   "sit": 0,
+   "min": 0
+  },
+  {
+   "date": "2026-09-28",
+   "q": 0,
+   "sit": 0,
+   "min": 0
+  },
+  {
+   "date": "2026-09-29",
+   "q": 0,
+   "sit": 0,
+   "min": 0
+  },
+  {
+   "date": "2026-09-30",
+   "q": 0,
+   "sit": 0,
+   "min": 0
+  },
+  {
+   "date": "2026-10-01",
+   "q": 0,
+   "sit": 0,
+   "min": 0
+  },
+  {
+   "date": "2026-10-02",
+   "q": 0,
+   "sit": 0,
+   "min": 0
+  },
+  {
+   "date": "2026-10-03",
+   "q": 0,
+   "sit": 0,
+   "min": 0
+  },
+  {
+   "date": "2026-10-04",
+   "q": 0,
+   "sit": 0,
+   "min": 0
+  },
+  {
+   "date": "2026-10-05",
+   "q": 0,
+   "sit": 0,
+   "min": 0
+  },
+  {
+   "date": "2026-10-06",
+   "q": 0,
+   "sit": 0,
+   "min": 0
+  },
+  {
+   "date": "2026-10-07",
+   "q": 1,
+   "sit": 1,
+   "min": 0
+  },
+  {
+   "date": "2026-10-08",
+   "q": 0,
+   "sit": 0,
+   "min": 0
+  },
+  {
+   "date": "2026-10-09",
+   "q": 0,
+   "sit": 0,
+   "min": 0
+  },
+  {
+   "date": "2026-10-10",
+   "q": 17,
+   "sit": 1,
+   "min": 0
+  },
+  {
+   "date": "2026-10-11",
+   "q": 11,
+   "sit": 1,
+   "min": 0
+  },
+  {
+   "date": "2026-10-12",
+   "q": 9,
+   "sit": 1,
+   "min": 0
+  },
+  {
+   "date": "2026-10-13",
+   "q": 3,
+   "sit": 1,
+   "min": 0
+  },
+  {
+   "date": "2026-10-14",
+   "q": 5,
+   "sit": 2,
+   "min": 0
+  },
+  {
+   "date": "2026-10-15",
+   "q": 0,
+   "sit": 0,
+   "min": 0
+  },
+  {
+   "date": "2026-10-16",
+   "q": 0,
+   "sit": 0,
+   "min": 0
+  },
+  {
+   "date": "2026-10-17",
+   "q": 0,
+   "sit": 0,
+   "min": 0
+  },
+  {
+   "date": "2026-10-18",
+   "q": 3,
+   "sit": 1,
+   "min": 0
+  },
+  {
+   "date": "2026-10-19",
+   "q": 10,
+   "sit": 1,
+   "min": 0
+  },
+  {
+   "date": "2026-10-20",
+   "q": 29,
+   "sit": 1,
+   "min": 0
+  }
+ ],
+ "streak": 3,
+ "last_active": "2026-10-20",
+ "active_days_30": 9,
+ "strengths": {
+  "units": [],
+  "topics": [],
+  "formats": []
+ },
+ "weaknesses": {
+  "units": [
+   {
+    "key": "P2:1",
+    "label": "Paper II · Unit 1 Micro Economics",
+    "right": 38,
+    "n": 87,
+    "pct": 43.7,
+    "last": "2026-10-20"
+   }
+  ],
+  "topics": [
+   {
+    "key": "P2:1.1",
+    "label": "1.1 Theory of Consumer Behaviour",
+    "right": 38,
+    "n": 87,
+    "pct": 43.7,
+    "last": "2026-10-20"
+   }
+  ],
+  "formats": [
+   {
+    "key": "Derivation",
+    "label": "Derivation",
+    "right": 1,
+    "n": 6,
+    "pct": 16.7,
+    "last": "2026-10-13"
+   },
+   {
+    "key": "Numerical",
+    "label": "Numerical",
+    "right": 3,
+    "n": 14,
+    "pct": 21.4,
+    "last": "2026-10-20"
+   },
+   {
+    "key": "Diagram",
+    "label": "Diagram",
+    "right": 4,
+    "n": 11,
+    "pct": 36.4,
+    "last": "2026-10-20"
+   },
+   {
+    "key": "Explain",
+    "label": "Explain",
+    "right": 13,
+    "n": 33,
+    "pct": 39.4,
+    "last": "2026-10-20"
+   }
+  ]
+ },
+ "revision_due": [
+  {
+   "unit": 1,
+   "folder": "01-Micro",
+   "date": "2026-10-10",
+   "topic": "1.1 Budget line",
+   "question": "Varian 2 RQ1: p1x2, p2x8, mx4 — new line?",
+   "cause": "Concept gap",
+   "next": "2026-10-11",
+   "status": "Open"
+  },
+  {
+   "unit": 1,
+   "folder": "01-Micro",
+   "date": "2026-10-10",
+   "topic": "1.1 Numeraire",
+   "question": "Varian 2 RQ4: define numeraire good",
+   "cause": "Recall",
+   "next": "2026-10-11",
+   "status": "Open"
+  },
+  {
+   "unit": 1,
+   "folder": "01-Micro",
+   "date": "2026-10-10",
+   "topic": "1.1 Budget line slope",
+   "question": "Own Q8: electricity Rs3 up to 100 units, Rs6 after, m=1200, x2 composite",
+   "cause": "Concept gap",
+   "next": "2026-10-11",
+   "status": "Open"
+  },
+  {
+   "unit": 1,
+   "folder": "01-Micro",
+   "date": "2026-10-10",
+   "topic": "1.1 In-kind transfer",
+   "question": "Own Q9: Rs1000 cash vs 1000 units free unsellable grain, m=3000",
+   "cause": "Concept gap",
+   "next": "2026-10-11",
+   "status": "Open"
+  },
+  {
+   "unit": 1,
+   "folder": "01-Micro",
+   "date": "2026-10-10",
+   "topic": "1.1 Ad valorem tax",
+   "question": "NET 26J-93: tax as % of price is called?",
+   "cause": "Recall",
+   "next": "2026-10-11",
+   "status": "Open"
+  },
+  {
+   "unit": 1,
+   "folder": "01-Micro",
+   "date": "2026-10-10",
+   "topic": "1.1 Strict vs weak preference",
+   "question": "Varian 3 RQ1: one observed choice of X when Y available — X ≻ Y?",
+   "cause": "Concept gap",
+   "next": "2026-10-11",
+   "status": "Open"
+  },
+  {
+   "unit": 1,
+   "folder": "01-Micro",
+   "date": "2026-10-10",
+   "topic": "1.1 Reflexivity",
+   "question": "Varian 3 RQ3: is \"strictly taller than\" reflexive?",
+   "cause": "Recall",
+   "next": "2026-10-11",
+   "status": "Open"
+  },
+  {
+   "unit": 1,
+   "folder": "01-Micro",
+   "date": "2026-10-10",
+   "topic": "1.1 Completeness",
+   "question": "Varian 3 RQ4: \"bigger and faster\" rule: transitive? complete?",
+   "cause": "Concept gap",
+   "next": "2026-10-11",
+   "status": "Open"
+  },
+  {
+   "unit": 1,
+   "folder": "01-Micro",
+   "date": "2026-10-11",
+   "topic": "1.1 IC crossing",
+   "question": "Varian 3 RQ5: can an IC cross itself?",
+   "cause": "Concept gap",
+   "next": "2026-10-12",
+   "status": "Open"
+  },
+  {
+   "unit": 1,
+   "folder": "01-Micro",
+   "date": "2026-10-11",
+   "topic": "1.1 Convexity",
+   "question": "Varian 3 RQ8: why convex = averages preferred to extremes",
+   "cause": "Recall",
+   "next": "2026-10-12",
+   "status": "Open"
+  },
+  {
+   "unit": 1,
+   "folder": "01-Micro",
+   "date": "2026-10-11",
+   "topic": "1.1 MRS sign/axis",
+   "question": "Varian 3 RQ9: MRS of Rs 1 for Rs 5 coins",
+   "cause": "Recall",
+   "next": "2026-10-12",
+   "status": "Open"
+  },
+  {
+   "unit": 1,
+   "folder": "01-Micro",
+   "date": "2026-10-11",
+   "topic": "1.1 MRS from a table",
+   "question": "Ahuja ch. 8 Q6: Sonia IC (2,16)(3,11)(4,7)(5,4)(6,2)(7,1): MRS?",
+   "cause": "Concept gap",
+   "next": "2026-10-12",
+   "status": "Open"
+  },
+  {
+   "unit": 1,
+   "folder": "01-Micro",
+   "date": "2026-10-11",
+   "topic": "1.1 Group transitivity",
+   "question": "Own Q12: Condorcet 3 voters, 3 options: who wins each pair?",
+   "cause": "Concept gap",
+   "next": "2026-10-12",
+   "status": "Open"
+  },
+  {
+   "unit": 1,
+   "folder": "01-Micro",
+   "date": "2026-10-11",
+   "topic": "1.1 Strict convexity",
+   "question": "Own Q13: perfect substitutes x1+x2=k: convex? strictly? choice at E=1?",
+   "cause": "Concept gap",
+   "next": "2026-10-12",
+   "status": "Open"
+  },
+  {
+   "unit": 1,
+   "folder": "01-Micro",
+   "date": "2026-10-11",
+   "topic": "1.1 IC properties",
+   "question": "NET 13D3-8: which IC properties true (a slope down L→R, b down R→L, c convex, d never intersect)",
+   "cause": "Recall",
+   "next": "2026-10-12",
+   "status": "Open"
+  },
+  {
+   "unit": 1,
+   "folder": "01-Micro",
+   "date": "2026-10-12",
+   "topic": "1.1 Monotonic transformation",
+   "question": "Varian 4 RQ1: is f(u) = u² monotonic?",
+   "cause": "Recall",
+   "next": "2026-10-13",
+   "status": "Open"
+  },
+  {
+   "unit": 1,
+   "folder": "01-Micro",
+   "date": "2026-10-12",
+   "topic": "1.1 Monotonic transformation",
+   "question": "Varian 4 RQ2(8): is u = v² for v < 0 monotonic?",
+   "cause": "Concept gap",
+   "next": "2026-10-13",
+   "status": "Open"
+  },
+  {
+   "unit": 1,
+   "folder": "01-Micro",
+   "date": "2026-10-12",
+   "topic": "1.1 Monotonic transformation",
+   "question": "Varian 4 RQ2(5): is u = −e^(−v) monotonic?",
+   "cause": "Concept gap",
+   "next": "2026-10-13",
+   "status": "Open"
+  },
+  {
+   "unit": 1,
+   "folder": "01-Micro",
+   "date": "2026-10-12",
+   "topic": "1.1 Constructing utility",
+   "question": "Varian 4 RQ3: prove the diagonal cuts each IC exactly once under monotonicity",
+   "cause": "Concept gap",
+   "next": "2026-10-13",
+   "status": "Open"
+  },
+  {
+   "unit": 1,
+   "folder": "01-Micro",
+   "date": "2026-10-12",
+   "topic": "1.1 Monotonic transformation",
+   "question": "Varian 4 RQ6: is v = x1²x2 a monotonic transformation of u = √(x1x2)?",
+   "cause": "Concept gap",
+   "next": "2026-10-13",
+   "status": "Open"
+  },
+  {
+   "unit": 1,
+   "folder": "01-Micro",
+   "date": "2026-10-12",
+   "topic": "1.1 MU vs MRS",
+   "question": "Varian 4 RQ7: why doesn't a monotonic transformation change the MRS?",
+   "cause": "Concept gap",
+   "next": "2026-10-13",
+   "status": "Open"
+  },
+  {
+   "unit": 1,
+   "folder": "01-Micro",
+   "date": "2026-10-12",
+   "topic": "1.1 Constructing utility",
+   "question": "O&R ch. 1 Problem 7(a): 8 best, otherwise higher better; build u",
+   "cause": "Concept gap",
+   "next": "2026-10-13",
+   "status": "Open"
+  },
+  {
+   "unit": 1,
+   "folder": "01-Micro",
+   "date": "2026-10-13",
+   "topic": "1.1 Preference relation",
+   "question": "O&R ch. 1 Problem 9(a): are the three apartment preferences consistent?",
+   "cause": "Concept gap",
+   "next": "2026-10-14",
+   "status": "Open"
+  },
+  {
+   "unit": 1,
+   "folder": "01-Micro",
+   "date": "2026-10-13",
+   "topic": "1.1 Additive utility",
+   "question": "O&R ch. 1 Problem 9(b): show no u = f(rooms) + g(floor) fits the three preferences",
+   "cause": "Concept gap",
+   "next": "2026-10-14",
+   "status": "Open"
+  },
+  {
+   "unit": 1,
+   "folder": "01-Micro",
+   "date": "2026-10-13",
+   "topic": "1.1 MRS numerical (units)",
+   "question": "Own Q10 (Varian commuting): value of 1 hour of walking time; 15-min WTP; value of trip time",
+   "cause": "Careless",
+   "next": "2026-10-14",
+   "status": "Open"
+  },
+  {
+   "unit": 1,
+   "folder": "01-Micro",
+   "date": "2026-10-13",
+   "topic": "1.1 Diminishing MU (cardinal vs ordinal)",
+   "question": "Own Q11: u = xy, √(xy), (xy)²: MU behaviour, MRS, what it says about the law of DMU",
+   "cause": "Concept gap",
+   "next": "2026-10-14",
+   "status": "Open"
+  },
+  {
+   "unit": 1,
+   "folder": "01-Micro",
+   "date": "2026-10-14",
+   "topic": "1.1 Convexity vs MU",
+   "question": "Own Q12: U = x² + y²: convex or concave ICs?",
+   "cause": "Concept gap",
+   "next": "2026-10-15",
+   "status": "Open"
+  },
+  {
+   "unit": 1,
+   "folder": "01-Micro",
+   "date": "2026-10-14",
+   "topic": "1.1 Interpersonal comparison",
+   "question": "Own Q13: sum of utilities, then relabel A as 3·uA",
+   "cause": "Concept gap",
+   "next": "2026-10-15",
+   "status": "Open"
+  },
+  {
+   "unit": 1,
+   "folder": "01-Micro",
+   "date": "2026-10-14",
+   "topic": "1.1 Cardinal utility: one-commodity critique",
+   "question": "Ahuja ch. 7 RQ8: Marshall's demand theorem valid only in a one-commodity model",
+   "cause": "Concept gap",
+   "next": "2026-10-15",
+   "status": "Open"
+  },
+  {
+   "unit": 1,
+   "folder": "01-Micro",
+   "date": "2026-10-14",
+   "topic": "1.1 Hicks's \"empty box\"",
+   "question": "Ahuja ch. 7 RQ9: income vs substitution effect left as an empty box",
+   "cause": "Concept gap",
+   "next": "2026-10-15",
+   "status": "Open"
+  },
+  {
+   "unit": 1,
+   "folder": "01-Micro",
+   "date": "2026-10-14",
+   "topic": "1.1 Cardinal utility: DMU → law of demand",
+   "question": "Ahuja ch. 7 RQ1: state DMU and derive the law of demand",
+   "cause": "Concept gap",
+   "next": "2026-10-15",
+   "status": "Open"
+  },
+  {
+   "unit": 1,
+   "folder": "01-Micro",
+   "date": "2026-10-14",
+   "topic": "1.1 Giffen paradox",
+   "question": "Ahuja ch. 7 RQ11: Giffen paradox; why Marshall failed",
+   "cause": "Concept gap",
+   "next": "2026-10-15",
+   "status": "Open"
+  }
+ ],
+ "revision_upcoming": 0,
+ "pace": {
+  "remaining": 88,
+  "needed_per_week": 11.2,
+  "rate_per_week": 2.0,
+  "recent_done_14d": 4,
+  "projected_finish": "2027-08-24",
+  "unit_flags": [
+   {
+    "paper": "P2",
+    "unit": 1,
+    "name": "Micro Economics",
+    "flag": "at risk",
+    "target": "2026-10-20",
+    "done": 0,
+    "total": 10
+   }
+  ]
+ },
+ "next_up": {
+  "paper": "P2",
+  "unit": 1,
+  "unit_name": "Micro Economics",
+  "id": "1.1",
+  "name": "Theory of Consumer Behaviour",
+  "status": "learning",
+  "acc": {
+   "right": 38,
+   "n": 87,
+   "pct": 43.7,
+   "last": "2026-10-20"
+  },
+  "note": "A1-A5 done (Budget, Preferences, Utility, Choice, Demand) = 1.1a-1.1d; next A6 Revealed Preference; 1.1e onward pending",
+  "subtopics": [
+   {
+    "id": "1.1a",
+    "name": "Preferences: completeness, transitivity, continuity, monotonicity, convexity; existence of a utility function; ordinal utility and monotonic transformations",
+    "scope": "In scope",
+    "sources": "DU, JMI, VB; V ch3-4; OR ch1, ch4 · also K, A, JR, NS (6 of 7)",
+    "status": "understood"
+   },
+   {
+    "id": "1.1b",
+    "name": "Cardinal utility (Marshall): diminishing marginal utility, equi-marginal principle, Marshall's derivation of demand",
+    "scope": "In scope",
+    "sources": "CUK; K ch2; V ch4 · also A (3 of 7)",
+    "status": "understood"
+   },
+   {
+    "id": "1.1c",
+    "name": "Budget set, indifference curves and MRS, utility maximisation (Lagrange method, corner solutions, perfect substitutes and complements, quasilinear utility)",
+    "scope": "In scope",
+    "sources": "VB, CUK, DU; V ch2, 3, 5; K ch2; OR ch5 · also A, JR, NS, G (7 of 7)",
+    "status": "understood"
+   },
+   {
+    "id": "1.1d",
+    "name": "Demand functions and their properties (homogeneity of degree zero, budget exhaustion); income changes (income-consumption curve, Engel curves, normal / inferior / luxury goods); price changes (price-consumption curve); substitutes and complements",
+    "scope": "In scope",
+    "sources": "VB, CUK; V ch6; K ch2; OR ch5 · also A, JR, NS (6 of 7)",
+    "status": "understood"
+   },
+   {
+    "id": "1.1e",
+    "name": "Income and substitution effects: Slutsky and Hicks decompositions, the Slutsky equation, Giffen goods, the law of demand",
+    "scope": "In scope",
+    "sources": "DU, VB, CUK; V ch8; K ch2 · also OR, A, JR, NS (6 of 7)",
+    "status": "not_started"
+   },
+   {
+    "id": "1.1f",
+    "name": "Duality: indirect utility function and Roy's identity; expenditure minimisation, Hicksian demand, expenditure function and Shephard's lemma",
+    "scope": "In scope",
+    "sources": "DU, VB, CUK, JMI; V ch8 (Hicksian demand) · also A, JR, NS (4 of 7)",
+    "status": "not_started"
+   },
+   {
+    "id": "1.1g",
+    "name": "Revealed preference: weak and strong axioms, testable implications, deriving demand and indifference curves",
+    "scope": "In scope",
+    "sources": "DU, JMI, VB, CUK; V ch7 · also K, OR, A, JR, NS (6 of 7)",
+    "status": "not_started"
+   },
+   {
+    "id": "1.1h",
+    "name": "Consumer surplus and welfare change: Marshallian surplus, compensating and equivalent variation, the quasilinear case",
+    "scope": "In scope",
+    "sources": "VB, CUK, JMI, DU; V ch14 · also K, A, JR, NS (5 of 7)",
+    "status": "not_started"
+   },
+   {
+    "id": "1.1i",
+    "name": "Elasticities of demand (price, income, cross) and their applications; elasticity and revenue",
+    "scope": "In scope",
+    "sources": "CUK; V ch15; K ch2 · also A, JR, NS (5 of 7)",
+    "status": "not_started"
+   },
+   {
+    "id": "1.1j",
+    "name": "Market (aggregate) demand from individual demands",
+    "scope": "In scope",
+    "sources": "JMI; V ch15 · also K, A, JR, NS (5 of 7)",
+    "status": "not_started"
+   },
+   {
+    "id": "1.1k",
+    "name": "Later developments in demand theory: Hicks's logical-ordering (\"pragmatic\") approach; Stone's linear expenditure system",
+    "scope": "In scope",
+    "sources": "CUK; K ch2 · also A, NS (3 of 7)",
+    "status": "not_started"
+   },
+   {
+    "id": "1.1l",
+    "name": "Choice with endowments (buying and selling) and intertemporal choice",
+    "scope": "Supplementary",
+    "sources": "V ch9-10 · also K, A, JR, NS (5 of 7)",
+    "status": "not_started"
+   },
+   {
+    "id": "1.1m",
+    "name": "Bandwagon, snob and Veblen effects",
+    "scope": "Supplementary",
+    "sources": "K ch2 · also A (2 of 7)",
+    "status": "not_started"
+   },
+   {
+    "id": "1.1n",
+    "name": "Lancaster's characteristics (attribute) approach to consumer demand",
+    "scope": "Supplementary",
+    "sources": "A, NS (2 of 7)",
+    "status": "not_started"
+   }
+  ]
+ },
+ "nudges": [
+  {
+   "level": "high",
+   "title": "32 revision questions due",
+   "why": "Mistakes come back after 1, 3 and 7 days; these have reached their review date.",
+   "action": "Say \"revise my mistakes\" to the economics teacher."
+  },
+  {
+   "level": "high",
+   "title": "Paper II pace is behind the exam date",
+   "why": "4 topics understood in the last 14 days (2.0/week). 88 topics left; at this pace you finish around 2027-08-24, after the exam (2026-12-14, OFFICIAL WINDOW 14-21 Dec). Needed: 11.2 topics/week.",
+   "action": "Decide: more hours, faster passes on familiar topics, or a later exam cycle."
+  },
+  {
+   "level": "high",
+   "title": "Weak area: Paper II · Unit 1 Micro Economics",
+   "why": "43.7% correct over 87 questions (weak below 60%).",
+   "action": "Revise this unit before adding new material."
+  },
+  {
+   "level": "medium",
+   "title": "Weak topic: 1.1 Theory of Consumer Behaviour",
+   "why": "43.7% over 87 questions.",
+   "action": "Ask the teacher to re-teach it."
+  },
+  {
+   "level": "medium",
+   "title": "Most mistakes are 'Concept gap'",
+   "why": "41 of 49 classified mistakes (84%).",
+   "action": "Understanding gaps: go back to the lesson before more questions."
+  },
+  {
+   "level": "medium",
+   "title": "Paper I has been quiet",
+   "why": "No Paper I questions or study in the last 7 days. Paper I is 100 of the 300 marks.",
+   "action": "The plan has 30 minutes a day for Paper I."
+  },
+  {
+   "level": "medium",
+   "title": "You skipped 100% of NET popups this week",
+   "why": "16 of 16 NET popup questions were skipped.",
+   "action": "Each answered popup sharpens this tracker's picture of your weak spots."
+  }
+ ],
+ "tests": [
+  {
+   "date": "2026-10-20",
+   "source": "Teacher test",
+   "paper": "P2",
+   "topic": "1.1",
+   "topic_name": "Theory of Consumer Behaviour",
+   "right": 8,
+   "n": 21,
+   "pct": 38.1
+  },
+  {
+   "date": "2026-10-20",
+   "source": "Past paper",
+   "paper": "P2",
+   "topic": "1.1",
+   "topic_name": "Theory of Consumer Behaviour",
+   "right": 7,
+   "n": 8,
+   "pct": 87.5
+  },
+  {
+   "date": "2026-10-19",
+   "source": "Teacher test",
+   "paper": "P2",
+   "topic": "1.1",
+   "topic_name": "Theory of Consumer Behaviour",
+   "right": 0,
+   "n": 4,
+   "pct": 0.0
+  },
+  {
+   "date": "2026-10-19",
+   "source": "Past paper",
+   "paper": "P2",
+   "topic": "1.1",
+   "topic_name": "Theory of Consumer Behaviour",
+   "right": 5,
+   "n": 6,
+   "pct": 83.3
+  },
+  {
+   "date": "2026-10-18",
+   "source": "Teacher test",
+   "paper": "P2",
+   "topic": "1.1",
+   "topic_name": "Theory of Consumer Behaviour",
+   "right": 0,
+   "n": 2,
+   "pct": 0.0
+  },
+  {
+   "date": "2026-10-18",
+   "source": "Past paper",
+   "paper": "P2",
+   "topic": "1.1",
+   "topic_name": "Theory of Consumer Behaviour",
+   "right": 1,
+   "n": 1,
+   "pct": 100.0
+  },
+  {
+   "date": "2026-10-14",
+   "source": "Teacher test",
+   "paper": "P2",
+   "topic": "1.1",
+   "topic_name": "Theory of Consumer Behaviour",
+   "right": 1,
+   "n": 5,
+   "pct": 20.0
+  },
+  {
+   "date": "2026-10-13",
+   "source": "Teacher test",
+   "paper": "P2",
+   "topic": "1.1",
+   "topic_name": "Theory of Consumer Behaviour",
+   "right": 0,
+   "n": 2,
+   "pct": 0.0
+  },
+  {
+   "date": "2026-10-13",
+   "source": "Past paper",
+   "paper": "P2",
+   "topic": "1.1",
+   "topic_name": "Theory of Consumer Behaviour",
+   "right": 1,
+   "n": 1,
+   "pct": 100.0
+  },
+  {
+   "date": "2026-10-12",
+   "source": "Teacher test",
+   "paper": "P2",
+   "topic": "1.1",
+   "topic_name": "Theory of Consumer Behaviour",
+   "right": 2,
+   "n": 9,
+   "pct": 22.2
+  },
+  {
+   "date": "2026-10-11",
+   "source": "Teacher test",
+   "paper": "P2",
+   "topic": "1.1",
+   "topic_name": "Theory of Consumer Behaviour",
+   "right": 3,
+   "n": 9,
+   "pct": 33.3
+  },
+  {
+   "date": "2026-10-11",
+   "source": "Past paper",
+   "paper": "P2",
+   "topic": "1.1",
+   "topic_name": "Theory of Consumer Behaviour",
+   "right": 1,
+   "n": 2,
+   "pct": 50.0
+  },
+  {
+   "date": "2026-10-10",
+   "source": "Teacher test",
+   "paper": "P2",
+   "topic": "1.1",
+   "topic_name": "Theory of Consumer Behaviour",
+   "right": 7,
+   "n": 14,
+   "pct": 50.0
+  },
+  {
+   "date": "2026-10-10",
+   "source": "Past paper",
+   "paper": "P2",
+   "topic": "1.1",
+   "topic_name": "Theory of Consumer Behaviour",
+   "right": 2,
+   "n": 3,
+   "pct": 66.7
+  }
+ ],
+ "mocks": [],
+ "thresholds": {
+  "strong_pct": 80,
+  "weak_pct": 60,
+  "min_n_unit": 8,
+  "min_n_topic": 5,
+  "min_n_format": 5,
+  "cold_days": 14,
+  "inactive_days": 2,
+  "paper1_quiet_days": 7
+ },
+ "inputs": {
+  "answers": 88,
+  "popups_seen": 68,
+  "study_rows": 10,
+  "mocks": 0
+ }
+}
