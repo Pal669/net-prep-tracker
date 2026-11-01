@@ -1,11 +1,11 @@
 {
- "generated": "2026-10-30T12:20",
- "today": "2026-10-30",
+ "generated": "2026-11-01T12:15",
+ "today": "2026-11-01",
  "exam": {
   "date": "2026-12-14",
   "label": "OFFICIAL WINDOW 14-21 Dec",
   "basis": "NTA UGC-NET Dec 2026 Information Bulletin (dated 2026-10-16): exam 14-18 Dec and 21 Dec 2026. Economics (code 01) subject-wise date not yet out; earliest day used. Saved: Govt Job/Government Teacher/notifications/2026-10-16_NTA-UGC-NET-Dec-2026-Information-Bulletin.pdf",
-  "days_left": 45
+  "days_left": 43
  },
  "status_labels": {
   "not_started": "Not started",
@@ -34,10 +34,10 @@
      "total": 10,
      "done": 0,
      "acc": {
-      "right": 50,
-      "n": 104,
-      "pct": 48.1,
-      "last": "2026-10-30"
+      "right": 61,
+      "n": 137,
+      "pct": 44.5,
+      "last": "2026-11-01"
      },
      "target": "2026-10-20",
      "open_mistakes": 33,
@@ -47,10 +47,10 @@
        "name": "Theory of Consumer Behaviour",
        "status": "learning",
        "acc": {
-        "right": 50,
-        "n": 104,
-        "pct": 48.1,
-        "last": "2026-10-30"
+        "right": 61,
+        "n": 137,
+        "pct": 44.5,
+        "last": "2026-11-01"
        },
        "note": "A1-A5 done (Budget, Preferences, Utility, Choice, Demand) = 1.1a-1.1d; next A6 Revealed Preference; 1.1e onward pending",
        "subtopics": [
@@ -2065,24 +2065,24 @@
   }
  ],
  "overall": {
-  "right": 52,
-  "n": 106,
-  "pct": 49.1
+  "right": 63,
+  "n": 139,
+  "pct": 45.3
  },
  "by_paper": {
   "P2": {
-   "right": 52,
-   "n": 106,
-   "pct": 49.1,
-   "last": "2026-10-30"
+   "right": 63,
+   "n": 139,
+   "pct": 45.3,
+   "last": "2026-11-01"
   }
  },
  "by_format": {
   "Numerical": {
-   "right": 3,
-   "n": 14,
-   "pct": 21.4,
-   "last": "2026-10-20"
+   "right": 4,
+   "n": 17,
+   "pct": 23.5,
+   "last": "2026-10-31"
   },
   "Diagram": {
    "right": 4,
@@ -2091,10 +2091,10 @@
    "last": "2026-10-30"
   },
   "Explain": {
-   "right": 14,
-   "n": 34,
-   "pct": 41.2,
-   "last": "2026-10-29"
+   "right": 22,
+   "n": 54,
+   "pct": 40.7,
+   "last": "2026-10-31"
   },
   "Derivation": {
    "right": 1,
@@ -2103,10 +2103,10 @@
    "last": "2026-10-13"
   },
   "Objective": {
-   "right": 28,
-   "n": 37,
-   "pct": 75.7,
-   "last": "2026-10-30"
+   "right": 30,
+   "n": 47,
+   "pct": 63.8,
+   "last": "2026-11-01"
   },
   "Application": {
    "right": 0,
@@ -2123,10 +2123,10 @@
  },
  "by_source": {
   "Teacher test": {
-   "right": 22,
-   "n": 67,
-   "pct": 32.8,
-   "last": "2026-10-29"
+   "right": 33,
+   "n": 100,
+   "pct": 33.0,
+   "last": "2026-11-01"
   },
   "Past paper": {
    "right": 28,
@@ -2142,26 +2142,12 @@
   }
  },
  "causes": {
-  "Concept gap": 45,
+  "Concept gap": 67,
   "Recall": 7,
   "Careless": 2
  },
  "untagged": 0,
  "trend": [
-  {
-   "date": "2026-10-01",
-   "n": 0,
-   "pct": null,
-   "roll_n": 0,
-   "roll_pct": null
-  },
-  {
-   "date": "2026-10-02",
-   "n": 0,
-   "pct": null,
-   "roll_n": 0,
-   "roll_pct": null
-  },
   {
    "date": "2026-10-03",
    "n": 0,
@@ -2353,55 +2339,27 @@
   },
   {
    "date": "2026-10-30",
-   "n": 16,
-   "pct": 68.8,
-   "roll_n": 17,
-   "roll_pct": 70.6
+   "n": 28,
+   "pct": 60.7,
+   "roll_n": 29,
+   "roll_pct": 62.1
+  },
+  {
+   "date": "2026-10-31",
+   "n": 14,
+   "pct": 28.6,
+   "roll_n": 43,
+   "roll_pct": 51.2
+  },
+  {
+   "date": "2026-11-01",
+   "n": 7,
+   "pct": 14.3,
+   "roll_n": 50,
+   "roll_pct": 46.0
   }
  ],
  "calendar": [
-  {
-   "date": "2026-08-03",
-   "q": 0,
-   "sit": 0,
-   "min": 0
-  },
-  {
-   "date": "2026-08-04",
-   "q": 0,
-   "sit": 0,
-   "min": 0
-  },
-  {
-   "date": "2026-08-05",
-   "q": 0,
-   "sit": 0,
-   "min": 0
-  },
-  {
-   "date": "2026-08-06",
-   "q": 0,
-   "sit": 0,
-   "min": 0
-  },
-  {
-   "date": "2026-08-07",
-   "q": 0,
-   "sit": 0,
-   "min": 0
-  },
-  {
-   "date": "2026-08-08",
-   "q": 0,
-   "sit": 0,
-   "min": 0
-  },
-  {
-   "date": "2026-08-09",
-   "q": 0,
-   "sit": 0,
-   "min": 0
-  },
   {
    "date": "2026-08-10",
    "q": 0,
@@ -2890,14 +2848,26 @@
   },
   {
    "date": "2026-10-30",
-   "q": 16,
+   "q": 28,
+   "sit": 1,
+   "min": 0
+  },
+  {
+   "date": "2026-10-31",
+   "q": 14,
+   "sit": 0,
+   "min": 0
+  },
+  {
+   "date": "2026-11-01",
+   "q": 7,
    "sit": 1,
    "min": 0
   }
  ],
- "streak": 2,
- "last_active": "2026-10-30",
- "active_days_30": 11,
+ "streak": 4,
+ "last_active": "2026-11-01",
+ "active_days_30": 13,
  "strengths": {
   "units": [],
   "topics": [],
@@ -2908,20 +2878,20 @@
    {
     "key": "P2:1",
     "label": "Paper II · Unit 1 Micro Economics",
-    "right": 50,
-    "n": 104,
-    "pct": 48.1,
-    "last": "2026-10-30"
+    "right": 61,
+    "n": 137,
+    "pct": 44.5,
+    "last": "2026-11-01"
    }
   ],
   "topics": [
    {
     "key": "P2:1.1",
     "label": "1.1 Theory of Consumer Behaviour",
-    "right": 50,
-    "n": 104,
-    "pct": 48.1,
-    "last": "2026-10-30"
+    "right": 61,
+    "n": 137,
+    "pct": 44.5,
+    "last": "2026-11-01"
    }
   ],
   "formats": [
@@ -2936,10 +2906,10 @@
    {
     "key": "Numerical",
     "label": "Numerical",
-    "right": 3,
-    "n": 14,
-    "pct": 21.4,
-    "last": "2026-10-20"
+    "right": 4,
+    "n": 17,
+    "pct": 23.5,
+    "last": "2026-10-31"
    },
    {
     "key": "Diagram",
@@ -2952,10 +2922,10 @@
    {
     "key": "Explain",
     "label": "Explain",
-    "right": 14,
-    "n": 34,
-    "pct": 41.2,
-    "last": "2026-10-29"
+    "right": 22,
+    "n": 54,
+    "pct": 40.7,
+    "last": "2026-10-31"
    }
   ]
  },
@@ -3284,10 +3254,10 @@
  "revision_upcoming": 0,
  "pace": {
   "remaining": 88,
-  "needed_per_week": 13.7,
-  "rate_per_week": 1.0,
-  "recent_done_14d": 2,
-  "projected_finish": "2028-07-07",
+  "needed_per_week": 14.3,
+  "rate_per_week": 0.5,
+  "recent_done_14d": 1,
+  "projected_finish": "2030-03-17",
   "unit_flags": [
    {
     "paper": "P2",
@@ -3315,6 +3285,15 @@
     "target": "2026-10-27",
     "done": 0,
     "total": 6
+   },
+   {
+    "paper": "P2",
+    "unit": 3,
+    "name": "Statistics and Econometrics",
+    "flag": "at risk",
+    "target": "2026-11-03",
+    "done": 0,
+    "total": 9
    }
   ]
  },
@@ -3326,10 +3305,10 @@
   "name": "Theory of Consumer Behaviour",
   "status": "learning",
   "acc": {
-   "right": 50,
-   "n": 104,
-   "pct": 48.1,
-   "last": "2026-10-30"
+   "right": 61,
+   "n": 137,
+   "pct": 44.5,
+   "last": "2026-11-01"
   },
   "note": "A1-A5 done (Budget, Preferences, Utility, Choice, Demand) = 1.1a-1.1d; next A6 Revealed Preference; 1.1e onward pending",
   "subtopics": [
@@ -3443,13 +3422,13 @@
   {
    "level": "high",
    "title": "Paper II pace is behind the exam date",
-   "why": "2 topics understood in the last 14 days (1.0/week). 88 topics left; at this pace you finish around 2028-07-07, after the exam (2026-12-14, OFFICIAL WINDOW 14-21 Dec). Needed: 13.7 topics/week.",
+   "why": "1 topics understood in the last 14 days (0.5/week). 88 topics left; at this pace you finish around 2030-03-17, after the exam (2026-12-14, OFFICIAL WINDOW 14-21 Dec). Needed: 14.3 topics/week.",
    "action": "Decide: more hours, faster passes on familiar topics, or a later exam cycle."
   },
   {
    "level": "high",
    "title": "Weak area: Paper II · Unit 1 Micro Economics",
-   "why": "48.1% correct over 104 questions (weak below 60%).",
+   "why": "44.5% correct over 137 questions (weak below 60%).",
    "action": "Revise this unit before adding new material."
   },
   {
@@ -3473,13 +3452,13 @@
   {
    "level": "medium",
    "title": "Weak topic: 1.1 Theory of Consumer Behaviour",
-   "why": "48.1% over 104 questions.",
+   "why": "44.5% over 137 questions.",
    "action": "Ask the teacher to re-teach it."
   },
   {
    "level": "medium",
    "title": "Most mistakes are 'Concept gap'",
-   "why": "45 of 54 classified mistakes (83%).",
+   "why": "67 of 76 classified mistakes (88%).",
    "action": "Understanding gaps: go back to the lesson before more questions."
   },
   {
@@ -3487,15 +3466,39 @@
    "title": "Paper I has been quiet",
    "why": "No Paper I questions or study in the last 7 days. Paper I is 100 of the 300 marks.",
    "action": "The plan has 30 minutes a day for Paper I."
-  },
-  {
-   "level": "good",
-   "title": "Accuracy is rising",
-   "why": "70.6% this week vs 50.0% the week before.",
-   "action": ""
   }
  ],
  "tests": [
+  {
+   "date": "2026-11-01",
+   "source": "Teacher test",
+   "paper": "P2",
+   "topic": "1.1",
+   "topic_name": "Theory of Consumer Behaviour",
+   "right": 1,
+   "n": 7,
+   "pct": 14.3
+  },
+  {
+   "date": "2026-10-31",
+   "source": "Teacher test",
+   "paper": "P2",
+   "topic": "1.1",
+   "topic_name": "Theory of Consumer Behaviour",
+   "right": 4,
+   "n": 14,
+   "pct": 28.6
+  },
+  {
+   "date": "2026-10-30",
+   "source": "Teacher test",
+   "paper": "P2",
+   "topic": "1.1",
+   "topic_name": "Theory of Consumer Behaviour",
+   "right": 6,
+   "n": 12,
+   "pct": 50.0
+  },
   {
    "date": "2026-10-30",
    "source": "Past paper",
@@ -3669,9 +3672,9 @@
   "paper1_quiet_days": 7
  },
  "inputs": {
-  "answers": 106,
+  "answers": 139,
   "popups_seen": 146,
-  "study_rows": 11,
+  "study_rows": 12,
   "mocks": 0,
   "v2_synced": 0
  }
