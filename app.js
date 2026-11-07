@@ -137,8 +137,9 @@
               return '<li><span class="small">' + esc(sb.id) + "</span><span>" + esc(sb.name) + (sb.scope === "Supplementary" ? ' <span class="tag">SUPPLEMENTARY</span>' : "") +
                 '<br><span class="small">Sources: ' + esc(sb.sources) + "</span></span>" + chip(sb.status) + "</li>";
             }).join("") + "</ul>" : "";
+            var after = t.after && t.after !== "—" ? '<br><span class="small">Learn after: ' + esc(t.after) + "</span>" : (t.after === "—" ? '<br><span class="small">Start here</span>' : "");
             return "<li><span class=small>" + esc(t.id) + "</span><span>" + esc(t.name) + (t.acc ? ' <span class="small">· ' + t.acc.pct + "% (n=" + t.acc.n + ")</span>" : "") +
-              (t.subtopics && t.subtopics.length ? ' <span class="small">· ' + t.subtopics.length + " subtopics</span>" : "") + subs + "</span>" + chip(t.status) + "</li>";
+              (t.subtopics && t.subtopics.length ? ' <span class="small">· ' + t.subtopics.length + " subtopics</span>" : "") + after + subs + "</span>" + chip(t.status) + "</li>";
           }).join("") + "</ul></details></div>";
       }).join("") + "</div>";
       return html;

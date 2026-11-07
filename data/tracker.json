@@ -1,11 +1,11 @@
 {
- "generated": "2026-11-01T12:15",
- "today": "2026-11-01",
+ "generated": "2026-11-07T17:55",
+ "today": "2026-11-07",
  "exam": {
   "date": "2026-12-14",
   "label": "OFFICIAL WINDOW 14-21 Dec",
   "basis": "NTA UGC-NET Dec 2026 Information Bulletin (dated 2026-10-16): exam 14-18 Dec and 21 Dec 2026. Economics (code 01) subject-wise date not yet out; earliest day used. Saved: Govt Job/Government Teacher/notifications/2026-10-16_NTA-UGC-NET-Dec-2026-Information-Bulletin.pdf",
-  "days_left": 43
+  "days_left": 37
  },
  "status_labels": {
   "not_started": "Not started",
@@ -34,10 +34,10 @@
      "total": 10,
      "done": 0,
      "acc": {
-      "right": 61,
-      "n": 137,
-      "pct": 44.5,
-      "last": "2026-11-01"
+      "right": 68,
+      "n": 150,
+      "pct": 45.3,
+      "last": "2026-11-07"
      },
      "target": "2026-10-20",
      "open_mistakes": 33,
@@ -47,12 +47,12 @@
        "name": "Theory of Consumer Behaviour",
        "status": "learning",
        "acc": {
-        "right": 61,
-        "n": 137,
-        "pct": 44.5,
-        "last": "2026-11-01"
+        "right": 68,
+        "n": 150,
+        "pct": 45.3,
+        "last": "2026-11-07"
        },
-       "note": "A1-A5 done (Budget, Preferences, Utility, Choice, Demand) = 1.1a-1.1d; next A6 Revealed Preference; 1.1e onward pending",
+       "note": "A1-A5, A7, A8 done (1.1a-1.1e, 1.1l); A6 Revealed Preference in progress (NET done, 31 book Qs paused); next: finish A6, then blind Unit 1 end test",
        "subtopics": [
         {
          "id": "1.1a",
@@ -87,7 +87,7 @@
          "name": "Income and substitution effects: Slutsky and Hicks decompositions, the Slutsky equation, Giffen goods, the law of demand",
          "scope": "In scope",
          "sources": "DU, VB, CUK; V ch8; K ch2 · also OR, A, JR, NS (6 of 7)",
-         "status": "not_started"
+         "status": "understood"
         },
         {
          "id": "1.1f",
@@ -101,7 +101,7 @@
          "name": "Revealed preference: weak and strong axioms, testable implications, deriving demand and indifference curves",
          "scope": "In scope",
          "sources": "DU, JMI, VB, CUK; V ch7 · also K, OR, A, JR, NS (6 of 7)",
-         "status": "not_started"
+         "status": "learning"
         },
         {
          "id": "1.1h",
@@ -136,7 +136,7 @@
          "name": "Choice with endowments (buying and selling) and intertemporal choice",
          "scope": "Supplementary",
          "sources": "V ch9-10 · also K, A, JR, NS (5 of 7)",
-         "status": "not_started"
+         "status": "understood"
         },
         {
          "id": "1.1m",
@@ -152,7 +152,8 @@
          "sources": "A, NS (2 of 7)",
          "status": "not_started"
         }
-       ]
+       ],
+       "after": ""
       },
       {
        "id": "1.2",
@@ -217,7 +218,8 @@
          "sources": "CUK; K ch4 · also A, NS (3 of 7)",
          "status": "not_started"
         }
-       ]
+       ],
+       "after": ""
       },
       {
        "id": "1.3",
@@ -268,72 +270,8 @@
          "sources": "V ch30 · also A, NS (3 of 7)",
          "status": "not_started"
         }
-       ]
-      },
-      {
-       "id": "1.4",
-       "name": "Game Theory: non-cooperative games",
-       "status": "not_started",
-       "acc": null,
-       "note": "",
-       "subtopics": [
-        {
-         "id": "1.4a",
-         "name": "Strategic-form games; dominant and dominated strategies; iterated elimination; rationalisability",
-         "scope": "In scope",
-         "sources": "DU, VB, JMI (elective); V ch28; OR ch15 · also A, JR, NS, G (6 of 7)",
-         "status": "not_started"
-        },
-        {
-         "id": "1.4b",
-         "name": "Nash equilibrium in pure and mixed strategies; coordination games; existence",
-         "scope": "In scope",
-         "sources": "DU, VB, CUK; V ch28; OR ch15 · also K, A, JR, NS, G (7 of 7)",
-         "status": "not_started"
-        },
-        {
-         "id": "1.4c",
-         "name": "Two-person zero-sum games: maximin and minimax, saddle point, value of the game",
-         "scope": "In scope",
-         "sources": "CUK; K ch19 · also V, A, JR (4 of 7)",
-         "status": "not_started"
-        },
-        {
-         "id": "1.4d",
-         "name": "Extensive-form games: strategies, subgame-perfect equilibrium, backward induction, the one-deviation property",
-         "scope": "In scope",
-         "sources": "DU, VB, JMI (elective); V ch28; OR ch16 · also JR, NS, G (5 of 7)",
-         "status": "not_started"
-        },
-        {
-         "id": "1.4e",
-         "name": "Repeated games (finite and infinite; how cooperation is sustained); bargaining (alternating offers, finite and infinite horizon)",
-         "scope": "In scope",
-         "sources": "DU, VB; V ch28-29 · also K, OR, A, NS, G (6 of 7)",
-         "status": "not_started"
-        },
-        {
-         "id": "1.4f",
-         "name": "Static games of incomplete information: Bayesian Nash equilibrium, Harsanyi transformation; auctions",
-         "scope": "In scope",
-         "sources": "DU, VB, JMI (elective); V ch17 (auctions) · also OR, JR, NS, G (5 of 7)",
-         "status": "not_started"
-        },
-        {
-         "id": "1.4g",
-         "name": "Dynamic games of incomplete information: perfect Bayesian equilibrium, signalling games, the intuitive criterion, reputation",
-         "scope": "In scope",
-         "sources": "DU, JMI (elective); JR, NS, G (3 of 7)",
-         "status": "not_started"
-        },
-        {
-         "id": "1.4h",
-         "name": "Trembling-hand perfection",
-         "scope": "Supplementary",
-         "sources": "JMI (elective); — (0 of 7)",
-         "status": "not_started"
-        }
-       ]
+       ],
+       "after": ""
       },
       {
        "id": "1.5",
@@ -447,7 +385,74 @@
          "sources": "VB; A, NS (2 of 7)",
          "status": "not_started"
         }
-       ]
+       ],
+       "after": ""
+      },
+      {
+       "id": "1.4",
+       "name": "Game Theory: non-cooperative games",
+       "status": "not_started",
+       "acc": null,
+       "note": "",
+       "subtopics": [
+        {
+         "id": "1.4a",
+         "name": "Strategic-form games; dominant and dominated strategies; iterated elimination; rationalisability",
+         "scope": "In scope",
+         "sources": "DU, VB, JMI (elective); V ch28; OR ch15 · also A, JR, NS, G (6 of 7)",
+         "status": "not_started"
+        },
+        {
+         "id": "1.4b",
+         "name": "Nash equilibrium in pure and mixed strategies; coordination games; existence",
+         "scope": "In scope",
+         "sources": "DU, VB, CUK; V ch28; OR ch15 · also K, A, JR, NS, G (7 of 7)",
+         "status": "not_started"
+        },
+        {
+         "id": "1.4c",
+         "name": "Two-person zero-sum games: maximin and minimax, saddle point, value of the game",
+         "scope": "In scope",
+         "sources": "CUK; K ch19 · also V, A, JR (4 of 7)",
+         "status": "not_started"
+        },
+        {
+         "id": "1.4d",
+         "name": "Extensive-form games: strategies, subgame-perfect equilibrium, backward induction, the one-deviation property",
+         "scope": "In scope",
+         "sources": "DU, VB, JMI (elective); V ch28; OR ch16 · also JR, NS, G (5 of 7)",
+         "status": "not_started"
+        },
+        {
+         "id": "1.4e",
+         "name": "Repeated games (finite and infinite; how cooperation is sustained); bargaining (alternating offers, finite and infinite horizon)",
+         "scope": "In scope",
+         "sources": "DU, VB; V ch28-29 · also K, OR, A, NS, G (6 of 7)",
+         "status": "not_started"
+        },
+        {
+         "id": "1.4f",
+         "name": "Static games of incomplete information: Bayesian Nash equilibrium, Harsanyi transformation; auctions",
+         "scope": "In scope",
+         "sources": "DU, VB, JMI (elective); V ch17 (auctions) · also OR, JR, NS, G (5 of 7)",
+         "status": "not_started"
+        },
+        {
+         "id": "1.4g",
+         "name": "Dynamic games of incomplete information: perfect Bayesian equilibrium, signalling games, the intuitive criterion, reputation",
+         "scope": "In scope",
+         "sources": "DU, JMI (elective); JR, NS, G (3 of 7)",
+         "status": "not_started"
+        },
+        {
+         "id": "1.4h",
+         "name": "Trembling-hand perfection",
+         "scope": "Supplementary",
+         "sources": "JMI (elective); — (0 of 7)",
+         "status": "not_started"
+        }
+       ],
+       "after": ""
       },
       {
        "id": "1.6",
@@ -484,7 +489,8 @@
          "sources": "CUK; K ch21 · also V, A, NS (4 of 7)",
          "status": "not_started"
         }
-       ]
+       ],
+       "after": ""
       },
       {
        "id": "1.7",
@@ -528,7 +534,8 @@
          "sources": "DU; — (0 of 7)",
          "status": "not_started"
         }
-       ]
+       ],
+       "after": ""
       },
       {
        "id": "1.8",
@@ -572,7 +579,8 @@
          "sources": "NS (1 of 7)",
          "status": "not_started"
         }
-       ]
+       ],
+       "after": ""
       },
       {
        "id": "1.9",
@@ -616,7 +624,8 @@
          "sources": "JMI, CUK; V ch33 · also A, JR, NS (4 of 7)",
          "status": "not_started"
         }
-       ]
+       ],
+       "after": ""
       },
       {
        "id": "1.10",
@@ -653,7 +662,8 @@
          "sources": "JMI; V ch37 · also OR, A, JR, NS, G (6 of 7)",
          "status": "not_started"
         }
-       ]
+       ],
+       "after": ""
       }
      ]
     },
@@ -662,8 +672,8 @@
      "name": "Macro Economics",
      "folder": "02-Macro",
      "counts": {
-      "not_started": 12,
-      "learning": 0,
+      "not_started": 11,
+      "learning": 1,
       "understood": 0,
       "practising": 0,
       "mastered": 0
@@ -671,8 +681,8 @@
      "total": 12,
      "done": 0,
      "acc": {
-      "right": 2,
-      "n": 2,
+      "right": 1,
+      "n": 1,
       "pct": 100.0,
       "last": "2026-10-07"
      },
@@ -685,20 +695,101 @@
        "status": "not_started",
        "acc": null,
        "note": "",
-       "subtopics": []
+       "subtopics": [
+        {
+         "id": "2.1a",
+         "name": "Circular flow of income: two-, three- and four-sector models; leakages and injections",
+         "scope": "In scope",
+         "sources": "CUK; A ch2",
+         "status": "not_started"
+        },
+        {
+         "id": "2.1b",
+         "name": "National income aggregates: GDP, GNP, NDP, NNP at market prices and factor cost; personal and disposable income; nominal vs real",
+         "scope": "In scope",
+         "sources": "CUK; A ch2",
+         "status": "not_started"
+        },
+        {
+         "id": "2.1c",
+         "name": "Measurement: value-added (product), income and expenditure methods; double counting; transfer payments, imputed rent, own-account output",
+         "scope": "In scope",
+         "sources": "CUK; A ch2",
+         "status": "not_started"
+        },
+        {
+         "id": "2.1d",
+         "name": "Price indices and the GDP deflator; real GDP and base-year issues",
+         "scope": "In scope",
+         "sources": "CUK; A ch26 appendix",
+         "status": "not_started"
+        },
+        {
+         "id": "2.1e",
+         "name": "Limits of GDP as a welfare measure; green GDP; India's national accounts (GVA, base 2011-12)",
+         "scope": "In scope",
+         "sources": "CUK; A ch2",
+         "status": "not_started"
+        }
+       ],
+       "after": "—"
       },
       {
        "id": "2.2",
        "name": "Determination of output and employment: Classical and Keynesian approach",
        "status": "not_started",
        "acc": {
-        "right": 2,
-        "n": 2,
+        "right": 1,
+        "n": 1,
         "pct": 100.0,
         "last": "2026-10-07"
        },
        "note": "",
-       "subtopics": []
+       "subtopics": [
+        {
+         "id": "2.2a",
+         "name": "Classical model: Say's law, labour market with flexible money wages, full-employment output, classical dichotomy, saving = investment through the interest rate",
+         "scope": "In scope",
+         "sources": "DU, JMI, CUK; A ch3",
+         "status": "not_started"
+        },
+        {
+         "id": "2.2b",
+         "name": "Keynes's critique of the classics: wage rigidity, involuntary unemployment, principle of effective demand",
+         "scope": "In scope",
+         "sources": "DU, JMI, CUK; A ch4",
+         "status": "not_started"
+        },
+        {
+         "id": "2.2c",
+         "name": "Keynesian income determination, two-sector: AD = C + I, 45-degree line, saving-investment approach, paradox of thrift",
+         "scope": "In scope",
+         "sources": "CUK; A ch5, ch9",
+         "status": "not_started"
+        },
+        {
+         "id": "2.2d",
+         "name": "Three-sector model: government spending, taxes, transfers; tax and balanced-budget multipliers",
+         "scope": "In scope",
+         "sources": "CUK; A ch5A",
+         "status": "not_started"
+        },
+        {
+         "id": "2.2e",
+         "name": "AD-AS model with flexible prices: deriving AD, classical vertical AS vs Keynesian AS, demand and supply shocks",
+         "scope": "In scope",
+         "sources": "JMI; A ch10",
+         "status": "not_started"
+        },
+        {
+         "id": "2.2f",
+         "name": "Unemployment and the wage-employment relationship; do money-wage cuts cure unemployment (Keynes vs Pigou)",
+         "scope": "In scope",
+         "sources": "CUK; A ch11",
+         "status": "not_started"
+        }
+       ],
+       "after": "2.1"
       },
       {
        "id": "2.3",
@@ -706,7 +797,44 @@
        "status": "not_started",
        "acc": null,
        "note": "",
-       "subtopics": []
+       "subtopics": [
+        {
+         "id": "2.3a",
+         "name": "Keynes's psychological law; APC, MPC, APS, MPS; short-run vs long-run consumption function; Kuznets' puzzle",
+         "scope": "In scope",
+         "sources": "CUK; A ch6",
+         "status": "not_started"
+        },
+        {
+         "id": "2.3b",
+         "name": "Absolute income hypothesis and Duesenberry's relative income hypothesis (demonstration and ratchet effects)",
+         "scope": "In scope",
+         "sources": "CUK; A ch6-7",
+         "status": "not_started"
+        },
+        {
+         "id": "2.3c",
+         "name": "Life-cycle hypothesis (Ando-Modigliani)",
+         "scope": "In scope",
+         "sources": "CUK; A ch7",
+         "status": "not_started"
+        },
+        {
+         "id": "2.3d",
+         "name": "Permanent income hypothesis (Friedman); Hall's random walk of consumption",
+         "scope": "In scope",
+         "sources": "CUK; A ch7 · also DFS",
+         "status": "not_started"
+        },
+        {
+         "id": "2.3e",
+         "name": "Other determinants: wealth, interest rate, expectations; empirical evidence",
+         "scope": "In scope",
+         "sources": "CUK; A ch6",
+         "status": "not_started"
+        }
+       ],
+       "after": "2.2"
       },
       {
        "id": "2.4",
@@ -714,7 +842,37 @@
        "status": "not_started",
        "acc": null,
        "note": "",
-       "subtopics": []
+       "subtopics": [
+        {
+         "id": "2.4a",
+         "name": "Types of investment: autonomous vs induced, gross vs net, fixed, inventory, residential",
+         "scope": "In scope",
+         "sources": "CUK; A ch8",
+         "status": "not_started"
+        },
+        {
+         "id": "2.4b",
+         "name": "Marginal efficiency of capital and of investment; present-value criterion; investment demand and the interest rate",
+         "scope": "In scope",
+         "sources": "CUK; A ch8",
+         "status": "not_started"
+        },
+        {
+         "id": "2.4c",
+         "name": "Accelerator theory: simple accelerator and flexible accelerator (capital-stock adjustment)",
+         "scope": "In scope",
+         "sources": "CUK; A ch8",
+         "status": "not_started"
+        },
+        {
+         "id": "2.4d",
+         "name": "Neoclassical investment theory (Jorgenson, user cost of capital) and Tobin's q",
+         "scope": "In scope",
+         "sources": "CUK; A ch8 · also DFS, J",
+         "status": "not_started"
+        }
+       ],
+       "after": "2.2"
       },
       {
        "id": "2.5",
@@ -722,7 +880,37 @@
        "status": "not_started",
        "acc": null,
        "note": "",
-       "subtopics": []
+       "subtopics": [
+        {
+         "id": "2.5a",
+         "name": "Investment multiplier: k = 1/(1 - MPC) = 1/MPS; static vs dynamic (period) multiplier; leakages",
+         "scope": "In scope",
+         "sources": "CUK; A ch9",
+         "status": "not_started"
+        },
+        {
+         "id": "2.5b",
+         "name": "Multipliers in the three- and four-sector economy: tax, transfer, balanced-budget, foreign-trade multiplier",
+         "scope": "In scope",
+         "sources": "CUK; A ch5A, ch36",
+         "status": "not_started"
+        },
+        {
+         "id": "2.5c",
+         "name": "Employment multiplier (Kahn); the multiplier in developing countries (V.K.R.V. Rao)",
+         "scope": "In scope",
+         "sources": "A ch9, ch44",
+         "status": "not_started"
+        },
+        {
+         "id": "2.5d",
+         "name": "Accelerator principle and its interaction with the multiplier; super-multiplier",
+         "scope": "In scope",
+         "sources": "CUK; A ch8, ch9, ch27",
+         "status": "not_started"
+        }
+       ],
+       "after": "2.3, 2.4"
       },
       {
        "id": "2.6",
@@ -730,7 +918,51 @@
        "status": "not_started",
        "acc": null,
        "note": "",
-       "subtopics": []
+       "subtopics": [
+        {
+         "id": "2.6a",
+         "name": "Classical demand for money: Fisher's transactions approach and the Cambridge cash-balance approach",
+         "scope": "In scope",
+         "sources": "CUK; A ch21, ch23",
+         "status": "not_started"
+        },
+        {
+         "id": "2.6b",
+         "name": "Keynes's liquidity preference: transactions, precautionary and speculative motives; liquidity trap",
+         "scope": "In scope",
+         "sources": "CUK; A ch21",
+         "status": "not_started"
+        },
+        {
+         "id": "2.6c",
+         "name": "Baumol's inventory-theoretic (square-root) approach",
+         "scope": "In scope",
+         "sources": "CUK; A ch22",
+         "status": "not_started"
+        },
+        {
+         "id": "2.6d",
+         "name": "Tobin's portfolio (risk-aversion) approach",
+         "scope": "In scope",
+         "sources": "CUK; A ch22",
+         "status": "not_started"
+        },
+        {
+         "id": "2.6e",
+         "name": "Friedman's restatement of the quantity theory (modern quantity theory)",
+         "scope": "In scope",
+         "sources": "CUK; A ch25",
+         "status": "not_started"
+        },
+        {
+         "id": "2.6f",
+         "name": "Patinkin's real-balance effect and the integration of monetary and value theory",
+         "scope": "In scope",
+         "sources": "A ch11, ch21",
+         "status": "not_started"
+        }
+       ],
+       "after": "2.2"
       },
       {
        "id": "2.7",
@@ -738,15 +970,103 @@
        "status": "not_started",
        "acc": null,
        "note": "",
-       "subtopics": []
+       "subtopics": [
+        {
+         "id": "2.7a",
+         "name": "Measures of money supply: RBI's M0, M1, M2, M3, M4 and new monetary aggregates; reserve money",
+         "scope": "In scope",
+         "sources": "CUK; A ch17, ch20",
+         "status": "not_started"
+        },
+        {
+         "id": "2.7b",
+         "name": "Credit creation by commercial banks",
+         "scope": "In scope",
+         "sources": "A ch18",
+         "status": "not_started"
+        },
+        {
+         "id": "2.7c",
+         "name": "High-powered money and the money multiplier (H theory): currency-deposit and reserve ratios",
+         "scope": "In scope",
+         "sources": "CUK; A ch20",
+         "status": "not_started"
+        },
+        {
+         "id": "2.7d",
+         "name": "Determinants of money supply; exogenous vs endogenous money supply",
+         "scope": "In scope",
+         "sources": "CUK; A ch20",
+         "status": "not_started"
+        },
+        {
+         "id": "2.7e",
+         "name": "Methods of monetary control (overlaps Unit 7.4)",
+         "scope": "Supplementary",
+         "sources": "CUK; A ch19A",
+         "status": "not_started"
+        }
+       ],
+       "after": "2.6"
       },
       {
        "id": "2.8",
        "name": "IS-LM Model Approach",
-       "status": "not_started",
+       "status": "learning",
        "acc": null,
-       "note": "",
-       "subtopics": []
+       "note": "Macro evergreen-first (#53); Lesson M1 IS-LM, Step 1 of 13 taught; resume Step 2",
+       "subtopics": [
+        {
+         "id": "2.8a",
+         "name": "IS curve: derivation, slope (investment interest-sensitivity, multiplier) and shifts",
+         "scope": "In scope",
+         "sources": "DU, JMI, CUK; A ch12",
+         "status": "learning"
+        },
+        {
+         "id": "2.8b",
+         "name": "LM curve: derivation, slope (k, h; liquidity-trap, intermediate, classical ranges) and shifts",
+         "scope": "In scope",
+         "sources": "DU, JMI, CUK; A ch12",
+         "status": "not_started"
+        },
+        {
+         "id": "2.8c",
+         "name": "Joint equilibrium of goods and money markets; points off the curves; algebraic solution",
+         "scope": "In scope",
+         "sources": "CUK; A ch12 + appendix",
+         "status": "not_started"
+        },
+        {
+         "id": "2.8d",
+         "name": "Fiscal and monetary policy in IS-LM: crowding out, Keynesian vs monetarist effectiveness, policy mix",
+         "scope": "In scope",
+         "sources": "JMI, CUK; A ch12, ch25A",
+         "status": "not_started"
+        },
+        {
+         "id": "2.8e",
+         "name": "Deriving the aggregate demand curve from IS-LM",
+         "scope": "In scope",
+         "sources": "JMI; A ch12",
+         "status": "not_started"
+        },
+        {
+         "id": "2.8f",
+         "name": "Keynes effect, Pigou effect and real-balance effect in IS-LM",
+         "scope": "In scope",
+         "sources": "CUK; A ch11 · also SV, J",
+         "status": "not_started"
+        },
+        {
+         "id": "2.8g",
+         "name": "Open-economy IS-LM-BP and the Mundell-Fleming model (taught in full in Unit 5)",
+         "scope": "Supplementary",
+         "sources": "CUK; A ch38",
+         "status": "not_started"
+        }
+       ],
+       "after": "2.3, 2.4, 2.5, 2.6, 2.7"
       },
       {
        "id": "2.9",
@@ -754,23 +1074,58 @@
        "status": "not_started",
        "acc": null,
        "note": "",
-       "subtopics": []
-      },
-      {
-       "id": "2.10",
-       "name": "Business Cycles",
-       "status": "not_started",
-       "acc": null,
-       "note": "",
-       "subtopics": []
-      },
-      {
-       "id": "2.11",
-       "name": "Monetary and Fiscal Policy",
-       "status": "not_started",
-       "acc": null,
-       "note": "",
-       "subtopics": []
+       "subtopics": [
+        {
+         "id": "2.9a",
+         "name": "Inflation: meaning, measurement (WPI, CPI, GDP deflator), types, costs; hyperinflation",
+         "scope": "In scope",
+         "sources": "CUK; A ch26",
+         "status": "not_started"
+        },
+        {
+         "id": "2.9b",
+         "name": "Theories of inflation: demand-pull (inflationary gap), cost-push, structuralist, monetarist",
+         "scope": "In scope",
+         "sources": "CUK; A ch26",
+         "status": "not_started"
+        },
+        {
+         "id": "2.9c",
+         "name": "Original Phillips curve and Samuelson-Solow's inflation-unemployment trade-off",
+         "scope": "In scope",
+         "sources": "JMI, CUK; A ch13",
+         "status": "not_started"
+        },
+        {
+         "id": "2.9d",
+         "name": "Friedman-Phelps expectations-augmented Phillips curve: adaptive expectations, natural rate, short-run vs long-run curve, accelerationist hypothesis",
+         "scope": "In scope",
+         "sources": "JMI, CUK; A ch13 · also SV, J",
+         "status": "not_started"
+        },
+        {
+         "id": "2.9e",
+         "name": "NAIRU, natural rate of unemployment and hysteresis",
+         "scope": "In scope",
+         "sources": "JMI, CUK; DFS, SV",
+         "status": "not_started"
+        },
+        {
+         "id": "2.9f",
+         "name": "Stagflation and supply-side economics; Laffer curve",
+         "scope": "In scope",
+         "sources": "CUK; A ch14",
+         "status": "not_started"
+        },
+        {
+         "id": "2.9g",
+         "name": "Policies to control inflation; inflation targeting (India: 4% +/- 2%)",
+         "scope": "In scope",
+         "sources": "CUK; A ch26; DFS",
+         "status": "not_started"
+        }
+       ],
+       "after": "2.2, 2.8"
       },
       {
        "id": "2.12",
@@ -778,7 +1133,155 @@
        "status": "not_started",
        "acc": null,
        "note": "",
-       "subtopics": []
+       "subtopics": [
+        {
+         "id": "2.12a",
+         "name": "Adaptive vs rational expectations (Muth)",
+         "scope": "In scope",
+         "sources": "DU, JMI, CUK; A ch13, ch15",
+         "status": "not_started"
+        },
+        {
+         "id": "2.12b",
+         "name": "New classical model: market clearing and the Lucas surprise supply function",
+         "scope": "In scope",
+         "sources": "JMI, CUK; A ch15 · also SV",
+         "status": "not_started"
+        },
+        {
+         "id": "2.12c",
+         "name": "Policy ineffectiveness proposition (Sargent-Wallace)",
+         "scope": "In scope",
+         "sources": "CUK; A ch15 · also SV, J",
+         "status": "not_started"
+        },
+        {
+         "id": "2.12d",
+         "name": "Lucas critique",
+         "scope": "In scope",
+         "sources": "DU; A ch15 · also DFS, SV, J",
+         "status": "not_started"
+        },
+        {
+         "id": "2.12e",
+         "name": "Critique of rational expectations: information costs, learning, sticky prices; efficient market hypothesis",
+         "scope": "In scope",
+         "sources": "JMI; SV",
+         "status": "not_started"
+        },
+        {
+         "id": "2.12f",
+         "name": "New Keynesian reply: menu costs, staggered contracts (Taylor, Calvo), efficiency wages; Keynesian reappraisal (Clower, Leijonhufvud)",
+         "scope": "In scope",
+         "sources": "DU, JMI, CUK; A ch16 · also DFS, SV",
+         "status": "not_started"
+        }
+       ],
+       "after": "2.9"
+      },
+      {
+       "id": "2.10",
+       "name": "Business Cycles",
+       "status": "not_started",
+       "acc": null,
+       "note": "",
+       "subtopics": [
+        {
+         "id": "2.10a",
+         "name": "Business cycles: features, phases, co-movement of variables, leading and lagging indicators",
+         "scope": "In scope",
+         "sources": "CUK; A ch27",
+         "status": "not_started"
+        },
+        {
+         "id": "2.10b",
+         "name": "Samuelson's multiplier-accelerator interaction and Hicks's ceiling-floor theory",
+         "scope": "In scope",
+         "sources": "CUK; A ch27",
+         "status": "not_started"
+        },
+        {
+         "id": "2.10c",
+         "name": "Kaldor's and Goodwin's models",
+         "scope": "In scope",
+         "sources": "A ch27A",
+         "status": "not_started"
+        },
+        {
+         "id": "2.10d",
+         "name": "Hawtrey's monetary theory, over-investment and Schumpeter's innovation theory",
+         "scope": "In scope",
+         "sources": "A ch27 · also SV, J",
+         "status": "not_started"
+        },
+        {
+         "id": "2.10e",
+         "name": "Monetarist and new classical (Lucas) theories of the cycle",
+         "scope": "In scope",
+         "sources": "CUK; A ch27B",
+         "status": "not_started"
+        },
+        {
+         "id": "2.10f",
+         "name": "Real business cycle theory",
+         "scope": "In scope",
+         "sources": "DU, CUK; A ch27C · also DFS, SV",
+         "status": "not_started"
+        },
+        {
+         "id": "2.10g",
+         "name": "Political business cycle (Nordhaus) and the 2008 crisis explanations",
+         "scope": "Supplementary",
+         "sources": "CUK; DFS, SV",
+         "status": "not_started"
+        }
+       ],
+       "after": "2.5, 2.12"
+      },
+      {
+       "id": "2.11",
+       "name": "Monetary and Fiscal Policy",
+       "status": "not_started",
+       "acc": null,
+       "note": "",
+       "subtopics": [
+        {
+         "id": "2.11a",
+         "name": "Fiscal policy for stabilisation: discretionary policy, automatic stabilisers, functional finance",
+         "scope": "In scope",
+         "sources": "CUK; A ch28",
+         "status": "not_started"
+        },
+        {
+         "id": "2.11b",
+         "name": "Monetary policy: instruments, transmission channels, lags; India's framework (MPC, repo rate, inflation targeting)",
+         "scope": "In scope",
+         "sources": "CUK; A ch19A, ch29 · also DFS",
+         "status": "not_started"
+        },
+        {
+         "id": "2.11c",
+         "name": "Monetarist vs Keynesian debate on policy effectiveness; crowding out revisited",
+         "scope": "In scope",
+         "sources": "JMI, CUK; A ch25A",
+         "status": "not_started"
+        },
+        {
+         "id": "2.11d",
+         "name": "Rules vs discretion, time inconsistency (Kydland-Prescott) and the Taylor rule",
+         "scope": "In scope",
+         "sources": "DU, CUK; DFS, SV",
+         "status": "not_started"
+        },
+        {
+         "id": "2.11e",
+         "name": "Budget deficit and its financing; government budget constraint, seigniorage, Ricardian equivalence",
+         "scope": "In scope",
+         "sources": "CUK; A ch33, ch33A",
+         "status": "not_started"
+        }
+       ],
+       "after": "2.8, 2.9, 2.12"
       }
      ]
     },
@@ -805,7 +1308,8 @@
        "status": "not_started",
        "acc": null,
        "note": "",
-       "subtopics": []
+       "subtopics": [],
+       "after": ""
       },
       {
        "id": "7.2",
@@ -813,7 +1317,8 @@
        "status": "not_started",
        "acc": null,
        "note": "",
-       "subtopics": []
+       "subtopics": [],
+       "after": ""
       },
       {
        "id": "7.3",
@@ -821,7 +1326,8 @@
        "status": "not_started",
        "acc": null,
        "note": "",
-       "subtopics": []
+       "subtopics": [],
+       "after": ""
       },
       {
        "id": "7.4",
@@ -829,7 +1335,8 @@
        "status": "not_started",
        "acc": null,
        "note": "",
-       "subtopics": []
+       "subtopics": [],
+       "after": ""
       },
       {
        "id": "7.5",
@@ -837,7 +1344,8 @@
        "status": "not_started",
        "acc": null,
        "note": "",
-       "subtopics": []
+       "subtopics": [],
+       "after": ""
       },
       {
        "id": "7.6",
@@ -845,7 +1353,8 @@
        "status": "not_started",
        "acc": null,
        "note": "",
-       "subtopics": []
+       "subtopics": [],
+       "after": ""
       }
      ]
     },
@@ -872,7 +1381,8 @@
        "status": "not_started",
        "acc": null,
        "note": "",
-       "subtopics": []
+       "subtopics": [],
+       "after": ""
       },
       {
        "id": "5.2",
@@ -880,7 +1390,8 @@
        "status": "not_started",
        "acc": null,
        "note": "",
-       "subtopics": []
+       "subtopics": [],
+       "after": ""
       },
       {
        "id": "5.3",
@@ -888,7 +1399,8 @@
        "status": "not_started",
        "acc": null,
        "note": "",
-       "subtopics": []
+       "subtopics": [],
+       "after": ""
       },
       {
        "id": "5.4",
@@ -896,7 +1408,8 @@
        "status": "not_started",
        "acc": null,
        "note": "",
-       "subtopics": []
+       "subtopics": [],
+       "after": ""
       },
       {
        "id": "5.5",
@@ -904,7 +1417,8 @@
        "status": "not_started",
        "acc": null,
        "note": "",
-       "subtopics": []
+       "subtopics": [],
+       "after": ""
       },
       {
        "id": "5.6",
@@ -912,7 +1426,8 @@
        "status": "not_started",
        "acc": null,
        "note": "",
-       "subtopics": []
+       "subtopics": [],
+       "after": ""
       },
       {
        "id": "5.7",
@@ -920,7 +1435,8 @@
        "status": "not_started",
        "acc": null,
        "note": "",
-       "subtopics": []
+       "subtopics": [],
+       "after": ""
       },
       {
        "id": "5.8",
@@ -928,7 +1444,8 @@
        "status": "not_started",
        "acc": null,
        "note": "",
-       "subtopics": []
+       "subtopics": [],
+       "after": ""
       },
       {
        "id": "5.9",
@@ -936,7 +1453,8 @@
        "status": "not_started",
        "acc": null,
        "note": "",
-       "subtopics": []
+       "subtopics": [],
+       "after": ""
       },
       {
        "id": "5.10",
@@ -944,7 +1462,8 @@
        "status": "not_started",
        "acc": null,
        "note": "",
-       "subtopics": []
+       "subtopics": [],
+       "after": ""
       }
      ]
     },
@@ -971,7 +1490,8 @@
        "status": "not_started",
        "acc": null,
        "note": "",
-       "subtopics": []
+       "subtopics": [],
+       "after": ""
       },
       {
        "id": "6.2",
@@ -979,7 +1499,8 @@
        "status": "not_started",
        "acc": null,
        "note": "",
-       "subtopics": []
+       "subtopics": [],
+       "after": ""
       },
       {
        "id": "6.3",
@@ -987,7 +1508,8 @@
        "status": "not_started",
        "acc": null,
        "note": "",
-       "subtopics": []
+       "subtopics": [],
+       "after": ""
       },
       {
        "id": "6.4",
@@ -995,7 +1517,8 @@
        "status": "not_started",
        "acc": null,
        "note": "",
-       "subtopics": []
+       "subtopics": [],
+       "after": ""
       },
       {
        "id": "6.5",
@@ -1003,7 +1526,8 @@
        "status": "not_started",
        "acc": null,
        "note": "",
-       "subtopics": []
+       "subtopics": [],
+       "after": ""
       },
       {
        "id": "6.6",
@@ -1011,7 +1535,8 @@
        "status": "not_started",
        "acc": null,
        "note": "",
-       "subtopics": []
+       "subtopics": [],
+       "after": ""
       },
       {
        "id": "6.7",
@@ -1019,7 +1544,8 @@
        "status": "not_started",
        "acc": null,
        "note": "",
-       "subtopics": []
+       "subtopics": [],
+       "after": ""
       }
      ]
     },
@@ -1046,7 +1572,8 @@
        "status": "not_started",
        "acc": null,
        "note": "",
-       "subtopics": []
+       "subtopics": [],
+       "after": ""
       },
       {
        "id": "9.2",
@@ -1054,7 +1581,8 @@
        "status": "not_started",
        "acc": null,
        "note": "",
-       "subtopics": []
+       "subtopics": [],
+       "after": ""
       },
       {
        "id": "9.3",
@@ -1062,7 +1590,8 @@
        "status": "not_started",
        "acc": null,
        "note": "",
-       "subtopics": []
+       "subtopics": [],
+       "after": ""
       },
       {
        "id": "9.4",
@@ -1070,7 +1599,8 @@
        "status": "not_started",
        "acc": null,
        "note": "",
-       "subtopics": []
+       "subtopics": [],
+       "after": ""
       },
       {
        "id": "9.5",
@@ -1078,7 +1608,8 @@
        "status": "not_started",
        "acc": null,
        "note": "",
-       "subtopics": []
+       "subtopics": [],
+       "after": ""
       },
       {
        "id": "9.6",
@@ -1086,7 +1617,8 @@
        "status": "not_started",
        "acc": null,
        "note": "",
-       "subtopics": []
+       "subtopics": [],
+       "after": ""
       },
       {
        "id": "9.7",
@@ -1094,7 +1626,8 @@
        "status": "not_started",
        "acc": null,
        "note": "",
-       "subtopics": []
+       "subtopics": [],
+       "after": ""
       },
       {
        "id": "9.8",
@@ -1102,7 +1635,8 @@
        "status": "not_started",
        "acc": null,
        "note": "",
-       "subtopics": []
+       "subtopics": [],
+       "after": ""
       },
       {
        "id": "9.9",
@@ -1110,7 +1644,8 @@
        "status": "not_started",
        "acc": null,
        "note": "",
-       "subtopics": []
+       "subtopics": [],
+       "after": ""
       },
       {
        "id": "9.10",
@@ -1118,7 +1653,8 @@
        "status": "not_started",
        "acc": null,
        "note": "",
-       "subtopics": []
+       "subtopics": [],
+       "after": ""
       }
      ]
     },
@@ -1145,7 +1681,8 @@
        "status": "not_started",
        "acc": null,
        "note": "",
-       "subtopics": []
+       "subtopics": [],
+       "after": ""
       },
       {
        "id": "8.2",
@@ -1153,7 +1690,8 @@
        "status": "not_started",
        "acc": null,
        "note": "",
-       "subtopics": []
+       "subtopics": [],
+       "after": ""
       },
       {
        "id": "8.3",
@@ -1161,7 +1699,8 @@
        "status": "not_started",
        "acc": null,
        "note": "",
-       "subtopics": []
+       "subtopics": [],
+       "after": ""
       },
       {
        "id": "8.4",
@@ -1169,7 +1708,8 @@
        "status": "not_started",
        "acc": null,
        "note": "",
-       "subtopics": []
+       "subtopics": [],
+       "after": ""
       },
       {
        "id": "8.5",
@@ -1177,7 +1717,8 @@
        "status": "not_started",
        "acc": null,
        "note": "",
-       "subtopics": []
+       "subtopics": [],
+       "after": ""
       },
       {
        "id": "8.6",
@@ -1185,7 +1726,8 @@
        "status": "not_started",
        "acc": null,
        "note": "",
-       "subtopics": []
+       "subtopics": [],
+       "after": ""
       },
       {
        "id": "8.7",
@@ -1193,7 +1735,8 @@
        "status": "not_started",
        "acc": null,
        "note": "",
-       "subtopics": []
+       "subtopics": [],
+       "after": ""
       }
      ]
     },
@@ -1220,7 +1763,8 @@
        "status": "not_started",
        "acc": null,
        "note": "",
-       "subtopics": []
+       "subtopics": [],
+       "after": ""
       },
       {
        "id": "4.2",
@@ -1228,7 +1772,8 @@
        "status": "not_started",
        "acc": null,
        "note": "",
-       "subtopics": []
+       "subtopics": [],
+       "after": ""
       },
       {
        "id": "4.3",
@@ -1236,7 +1781,8 @@
        "status": "not_started",
        "acc": null,
        "note": "",
-       "subtopics": []
+       "subtopics": [],
+       "after": ""
       },
       {
        "id": "4.4",
@@ -1244,7 +1790,8 @@
        "status": "not_started",
        "acc": null,
        "note": "",
-       "subtopics": []
+       "subtopics": [],
+       "after": ""
       },
       {
        "id": "4.5",
@@ -1252,7 +1799,8 @@
        "status": "not_started",
        "acc": null,
        "note": "",
-       "subtopics": []
+       "subtopics": [],
+       "after": ""
       },
       {
        "id": "4.6",
@@ -1260,7 +1808,8 @@
        "status": "not_started",
        "acc": null,
        "note": "",
-       "subtopics": []
+       "subtopics": [],
+       "after": ""
       }
      ]
     },
@@ -1287,7 +1836,8 @@
        "status": "not_started",
        "acc": null,
        "note": "",
-       "subtopics": []
+       "subtopics": [],
+       "after": ""
       },
       {
        "id": "3.2",
@@ -1295,7 +1845,8 @@
        "status": "not_started",
        "acc": null,
        "note": "",
-       "subtopics": []
+       "subtopics": [],
+       "after": ""
       },
       {
        "id": "3.3",
@@ -1303,7 +1854,8 @@
        "status": "not_started",
        "acc": null,
        "note": "",
-       "subtopics": []
+       "subtopics": [],
+       "after": ""
       },
       {
        "id": "3.4",
@@ -1311,7 +1863,8 @@
        "status": "not_started",
        "acc": null,
        "note": "",
-       "subtopics": []
+       "subtopics": [],
+       "after": ""
       },
       {
        "id": "3.5",
@@ -1319,7 +1872,8 @@
        "status": "not_started",
        "acc": null,
        "note": "",
-       "subtopics": []
+       "subtopics": [],
+       "after": ""
       },
       {
        "id": "3.6",
@@ -1327,7 +1881,8 @@
        "status": "not_started",
        "acc": null,
        "note": "",
-       "subtopics": []
+       "subtopics": [],
+       "after": ""
       },
       {
        "id": "3.7",
@@ -1335,7 +1890,8 @@
        "status": "not_started",
        "acc": null,
        "note": "",
-       "subtopics": []
+       "subtopics": [],
+       "after": ""
       },
       {
        "id": "3.8",
@@ -1343,7 +1899,8 @@
        "status": "not_started",
        "acc": null,
        "note": "",
-       "subtopics": []
+       "subtopics": [],
+       "after": ""
       },
       {
        "id": "3.9",
@@ -1351,7 +1908,8 @@
        "status": "not_started",
        "acc": null,
        "note": "",
-       "subtopics": []
+       "subtopics": [],
+       "after": ""
       }
      ]
     },
@@ -1378,7 +1936,8 @@
        "status": "not_started",
        "acc": null,
        "note": "",
-       "subtopics": []
+       "subtopics": [],
+       "after": ""
       },
       {
        "id": "10.2",
@@ -1386,7 +1945,8 @@
        "status": "not_started",
        "acc": null,
        "note": "",
-       "subtopics": []
+       "subtopics": [],
+       "after": ""
       },
       {
        "id": "10.3",
@@ -1394,7 +1954,8 @@
        "status": "not_started",
        "acc": null,
        "note": "",
-       "subtopics": []
+       "subtopics": [],
+       "after": ""
       },
       {
        "id": "10.4",
@@ -1402,7 +1963,8 @@
        "status": "not_started",
        "acc": null,
        "note": "",
-       "subtopics": []
+       "subtopics": [],
+       "after": ""
       },
       {
        "id": "10.5",
@@ -1410,7 +1972,8 @@
        "status": "not_started",
        "acc": null,
        "note": "",
-       "subtopics": []
+       "subtopics": [],
+       "after": ""
       },
       {
        "id": "10.6",
@@ -1418,7 +1981,8 @@
        "status": "not_started",
        "acc": null,
        "note": "",
-       "subtopics": []
+       "subtopics": [],
+       "after": ""
       },
       {
        "id": "10.7",
@@ -1426,7 +1990,8 @@
        "status": "not_started",
        "acc": null,
        "note": "",
-       "subtopics": []
+       "subtopics": [],
+       "after": ""
       },
       {
        "id": "10.8",
@@ -1434,7 +1999,8 @@
        "status": "not_started",
        "acc": null,
        "note": "",
-       "subtopics": []
+       "subtopics": [],
+       "after": ""
       },
       {
        "id": "10.9",
@@ -1442,7 +2008,8 @@
        "status": "not_started",
        "acc": null,
        "note": "",
-       "subtopics": []
+       "subtopics": [],
+       "after": ""
       },
       {
        "id": "10.10",
@@ -1450,7 +2017,8 @@
        "status": "not_started",
        "acc": null,
        "note": "",
-       "subtopics": []
+       "subtopics": [],
+       "after": ""
       },
       {
        "id": "10.11",
@@ -1458,15 +2026,16 @@
        "status": "not_started",
        "acc": null,
        "note": "",
-       "subtopics": []
+       "subtopics": [],
+       "after": ""
       }
      ]
     }
    ],
    "total": 88,
    "counts": {
-    "not_started": 87,
-    "learning": 1,
+    "not_started": 86,
+    "learning": 2,
     "understood": 0,
     "practising": 0,
     "mastered": 0
@@ -1501,7 +2070,8 @@
        "status": "not_started",
        "acc": null,
        "note": "",
-       "subtopics": []
+       "subtopics": [],
+       "after": ""
       },
       {
        "id": "I-1.2",
@@ -1509,7 +2079,8 @@
        "status": "not_started",
        "acc": null,
        "note": "",
-       "subtopics": []
+       "subtopics": [],
+       "after": ""
       },
       {
        "id": "I-1.3",
@@ -1517,7 +2088,8 @@
        "status": "not_started",
        "acc": null,
        "note": "",
-       "subtopics": []
+       "subtopics": [],
+       "after": ""
       },
       {
        "id": "I-1.4",
@@ -1525,7 +2097,8 @@
        "status": "not_started",
        "acc": null,
        "note": "",
-       "subtopics": []
+       "subtopics": [],
+       "after": ""
       },
       {
        "id": "I-1.5",
@@ -1533,7 +2106,8 @@
        "status": "not_started",
        "acc": null,
        "note": "",
-       "subtopics": []
+       "subtopics": [],
+       "after": ""
       },
       {
        "id": "I-1.6",
@@ -1541,7 +2115,8 @@
        "status": "not_started",
        "acc": null,
        "note": "",
-       "subtopics": []
+       "subtopics": [],
+       "after": ""
       }
      ]
     },
@@ -1568,7 +2143,8 @@
        "status": "not_started",
        "acc": null,
        "note": "",
-       "subtopics": []
+       "subtopics": [],
+       "after": ""
       },
       {
        "id": "I-2.2",
@@ -1576,7 +2152,8 @@
        "status": "not_started",
        "acc": null,
        "note": "",
-       "subtopics": []
+       "subtopics": [],
+       "after": ""
       },
       {
        "id": "I-2.3",
@@ -1584,7 +2161,8 @@
        "status": "not_started",
        "acc": null,
        "note": "",
-       "subtopics": []
+       "subtopics": [],
+       "after": ""
       },
       {
        "id": "I-2.4",
@@ -1592,7 +2170,8 @@
        "status": "not_started",
        "acc": null,
        "note": "",
-       "subtopics": []
+       "subtopics": [],
+       "after": ""
       },
       {
        "id": "I-2.5",
@@ -1600,7 +2179,8 @@
        "status": "not_started",
        "acc": null,
        "note": "",
-       "subtopics": []
+       "subtopics": [],
+       "after": ""
       },
       {
        "id": "I-2.6",
@@ -1608,7 +2188,8 @@
        "status": "not_started",
        "acc": null,
        "note": "",
-       "subtopics": []
+       "subtopics": [],
+       "after": ""
       }
      ]
     },
@@ -1635,7 +2216,8 @@
        "status": "not_started",
        "acc": null,
        "note": "",
-       "subtopics": []
+       "subtopics": [],
+       "after": ""
       },
       {
        "id": "I-7.2",
@@ -1643,7 +2225,8 @@
        "status": "not_started",
        "acc": null,
        "note": "",
-       "subtopics": []
+       "subtopics": [],
+       "after": ""
       },
       {
        "id": "I-7.3",
@@ -1651,7 +2234,8 @@
        "status": "not_started",
        "acc": null,
        "note": "",
-       "subtopics": []
+       "subtopics": [],
+       "after": ""
       },
       {
        "id": "I-7.4",
@@ -1659,7 +2243,8 @@
        "status": "not_started",
        "acc": null,
        "note": "",
-       "subtopics": []
+       "subtopics": [],
+       "after": ""
       },
       {
        "id": "I-7.5",
@@ -1667,7 +2252,8 @@
        "status": "not_started",
        "acc": null,
        "note": "",
-       "subtopics": []
+       "subtopics": [],
+       "after": ""
       }
      ]
     },
@@ -1694,7 +2280,8 @@
        "status": "not_started",
        "acc": null,
        "note": "",
-       "subtopics": []
+       "subtopics": [],
+       "after": ""
       },
       {
        "id": "I-5.2",
@@ -1702,7 +2289,8 @@
        "status": "not_started",
        "acc": null,
        "note": "",
-       "subtopics": []
+       "subtopics": [],
+       "after": ""
       },
       {
        "id": "I-5.3",
@@ -1710,7 +2298,8 @@
        "status": "not_started",
        "acc": null,
        "note": "",
-       "subtopics": []
+       "subtopics": [],
+       "after": ""
       }
      ]
     },
@@ -1737,7 +2326,8 @@
        "status": "not_started",
        "acc": null,
        "note": "",
-       "subtopics": []
+       "subtopics": [],
+       "after": ""
       },
       {
        "id": "I-6.2",
@@ -1745,7 +2335,8 @@
        "status": "not_started",
        "acc": null,
        "note": "",
-       "subtopics": []
+       "subtopics": [],
+       "after": ""
       },
       {
        "id": "I-6.3",
@@ -1753,7 +2344,8 @@
        "status": "not_started",
        "acc": null,
        "note": "",
-       "subtopics": []
+       "subtopics": [],
+       "after": ""
       },
       {
        "id": "I-6.4",
@@ -1761,7 +2353,8 @@
        "status": "not_started",
        "acc": null,
        "note": "",
-       "subtopics": []
+       "subtopics": [],
+       "after": ""
       },
       {
        "id": "I-6.5",
@@ -1769,7 +2362,8 @@
        "status": "not_started",
        "acc": null,
        "note": "",
-       "subtopics": []
+       "subtopics": [],
+       "after": ""
       },
       {
        "id": "I-6.6",
@@ -1777,7 +2371,8 @@
        "status": "not_started",
        "acc": null,
        "note": "",
-       "subtopics": []
+       "subtopics": [],
+       "after": ""
       }
      ]
     },
@@ -1804,7 +2399,8 @@
        "status": "not_started",
        "acc": null,
        "note": "",
-       "subtopics": []
+       "subtopics": [],
+       "after": ""
       },
       {
        "id": "I-4.2",
@@ -1812,7 +2408,8 @@
        "status": "not_started",
        "acc": null,
        "note": "",
-       "subtopics": []
+       "subtopics": [],
+       "after": ""
       },
       {
        "id": "I-4.3",
@@ -1820,7 +2417,8 @@
        "status": "not_started",
        "acc": null,
        "note": "",
-       "subtopics": []
+       "subtopics": [],
+       "after": ""
       },
       {
        "id": "I-4.4",
@@ -1828,7 +2426,8 @@
        "status": "not_started",
        "acc": null,
        "note": "",
-       "subtopics": []
+       "subtopics": [],
+       "after": ""
       }
      ]
     },
@@ -1855,7 +2454,8 @@
        "status": "not_started",
        "acc": null,
        "note": "",
-       "subtopics": []
+       "subtopics": [],
+       "after": ""
       },
       {
        "id": "I-8.2",
@@ -1863,7 +2463,8 @@
        "status": "not_started",
        "acc": null,
        "note": "",
-       "subtopics": []
+       "subtopics": [],
+       "after": ""
       },
       {
        "id": "I-8.3",
@@ -1871,7 +2472,8 @@
        "status": "not_started",
        "acc": null,
        "note": "",
-       "subtopics": []
+       "subtopics": [],
+       "after": ""
       },
       {
        "id": "I-8.4",
@@ -1879,7 +2481,8 @@
        "status": "not_started",
        "acc": null,
        "note": "",
-       "subtopics": []
+       "subtopics": [],
+       "after": ""
       }
      ]
     },
@@ -1906,7 +2509,8 @@
        "status": "not_started",
        "acc": null,
        "note": "",
-       "subtopics": []
+       "subtopics": [],
+       "after": ""
       },
       {
        "id": "I-9.2",
@@ -1914,7 +2518,8 @@
        "status": "not_started",
        "acc": null,
        "note": "",
-       "subtopics": []
+       "subtopics": [],
+       "after": ""
       },
       {
        "id": "I-9.3",
@@ -1922,7 +2527,8 @@
        "status": "not_started",
        "acc": null,
        "note": "",
-       "subtopics": []
+       "subtopics": [],
+       "after": ""
       },
       {
        "id": "I-9.4",
@@ -1930,7 +2536,8 @@
        "status": "not_started",
        "acc": null,
        "note": "",
-       "subtopics": []
+       "subtopics": [],
+       "after": ""
       },
       {
        "id": "I-9.5",
@@ -1938,7 +2545,8 @@
        "status": "not_started",
        "acc": null,
        "note": "",
-       "subtopics": []
+       "subtopics": [],
+       "after": ""
       },
       {
        "id": "I-9.6",
@@ -1946,7 +2554,8 @@
        "status": "not_started",
        "acc": null,
        "note": "",
-       "subtopics": []
+       "subtopics": [],
+       "after": ""
       },
       {
        "id": "I-9.7",
@@ -1954,7 +2563,8 @@
        "status": "not_started",
        "acc": null,
        "note": "",
-       "subtopics": []
+       "subtopics": [],
+       "after": ""
       }
      ]
     },
@@ -1981,7 +2591,8 @@
        "status": "not_started",
        "acc": null,
        "note": "",
-       "subtopics": []
+       "subtopics": [],
+       "after": ""
       },
       {
        "id": "I-10.2",
@@ -1989,7 +2600,8 @@
        "status": "not_started",
        "acc": null,
        "note": "",
-       "subtopics": []
+       "subtopics": [],
+       "after": ""
       },
       {
        "id": "I-10.3",
@@ -1997,7 +2609,8 @@
        "status": "not_started",
        "acc": null,
        "note": "",
-       "subtopics": []
+       "subtopics": [],
+       "after": ""
       },
       {
        "id": "I-10.4",
@@ -2005,7 +2618,8 @@
        "status": "not_started",
        "acc": null,
        "note": "",
-       "subtopics": []
+       "subtopics": [],
+       "after": ""
       },
       {
        "id": "I-10.5",
@@ -2013,7 +2627,8 @@
        "status": "not_started",
        "acc": null,
        "note": "",
-       "subtopics": []
+       "subtopics": [],
+       "after": ""
       },
       {
        "id": "I-10.6",
@@ -2021,7 +2636,8 @@
        "status": "not_started",
        "acc": null,
        "note": "",
-       "subtopics": []
+       "subtopics": [],
+       "after": ""
       }
      ]
     },
@@ -2048,7 +2664,8 @@
        "status": "not_started",
        "acc": null,
        "note": "",
-       "subtopics": []
+       "subtopics": [],
+       "after": ""
       }
      ]
     }
@@ -2065,16 +2682,16 @@
   }
  ],
  "overall": {
-  "right": 63,
-  "n": 139,
-  "pct": 45.3
+  "right": 69,
+  "n": 151,
+  "pct": 45.7
  },
  "by_paper": {
   "P2": {
-   "right": 63,
-   "n": 139,
-   "pct": 45.3,
-   "last": "2026-11-01"
+   "right": 69,
+   "n": 151,
+   "pct": 45.7,
+   "last": "2026-11-07"
   }
  },
  "by_format": {
@@ -2103,10 +2720,10 @@
    "last": "2026-10-13"
   },
   "Objective": {
-   "right": 30,
-   "n": 47,
-   "pct": 63.8,
-   "last": "2026-11-01"
+   "right": 37,
+   "n": 60,
+   "pct": 61.7,
+   "last": "2026-11-07"
   },
   "Application": {
    "right": 0,
@@ -2115,18 +2732,18 @@
    "last": "2026-10-11"
   },
   "Direct": {
-   "right": 2,
-   "n": 2,
+   "right": 1,
+   "n": 1,
    "pct": 100.0,
    "last": "2026-10-07"
   }
  },
  "by_source": {
   "Teacher test": {
-   "right": 33,
-   "n": 100,
-   "pct": 33.0,
-   "last": "2026-11-01"
+   "right": 40,
+   "n": 113,
+   "pct": 35.4,
+   "last": "2026-11-07"
   },
   "Past paper": {
    "right": 28,
@@ -2135,95 +2752,53 @@
    "last": "2026-10-30"
   },
   "Popup": {
-   "right": 2,
-   "n": 2,
+   "right": 1,
+   "n": 1,
    "pct": 100.0,
    "last": "2026-10-07"
   }
  },
  "causes": {
-  "Concept gap": 67,
+  "Concept gap": 73,
   "Recall": 7,
   "Careless": 2
  },
  "untagged": 0,
  "trend": [
   {
-   "date": "2026-10-03",
-   "n": 0,
-   "pct": null,
-   "roll_n": 0,
-   "roll_pct": null
-  },
-  {
-   "date": "2026-10-04",
-   "n": 0,
-   "pct": null,
-   "roll_n": 0,
-   "roll_pct": null
-  },
-  {
-   "date": "2026-10-05",
-   "n": 0,
-   "pct": null,
-   "roll_n": 0,
-   "roll_pct": null
-  },
-  {
-   "date": "2026-10-06",
-   "n": 0,
-   "pct": null,
-   "roll_n": 0,
-   "roll_pct": null
-  },
-  {
-   "date": "2026-10-07",
-   "n": 2,
-   "pct": 100.0,
-   "roll_n": 2,
-   "roll_pct": 100.0
-  },
-  {
-   "date": "2026-10-08",
-   "n": 0,
-   "pct": null,
-   "roll_n": 2,
-   "roll_pct": 100.0
-  },
-  {
    "date": "2026-10-09",
    "n": 0,
    "pct": null,
-   "roll_n": 2,
+   "roll_n": 1,
    "roll_pct": 100.0
   },
   {
    "date": "2026-10-10",
    "n": 17,
    "pct": 52.9,
-   "roll_n": 19,
-   "roll_pct": 57.9
+   "roll_n": 18,
+   "roll_pct": 55.6
   },
   {
    "date": "2026-10-11",
    "n": 11,
    "pct": 36.4,
-   "roll_n": 30,
-   "roll_pct": 50.0
+   "roll_n": 29,
+   "roll_pct": 48.3
   },
   {
    "date": "2026-10-12",
    "n": 9,
    "pct": 22.2,
-   "roll_n": 39,
-   "roll_pct": 43.6
+   "roll_n": 38,
+   "roll_pct": 42.1
   },
   {
    "date": "2026-10-13",
    "n": 3,
    "pct": 33.3,
-   "roll_n": 42,
-   "roll_pct": 42.9
+   "roll_n": 41,
+   "roll_pct": 41.5
   },
   {
    "date": "2026-10-14",
@@ -2357,6 +2932,48 @@
    "pct": 14.3,
    "roll_n": 50,
    "roll_pct": 46.0
+  },
+  {
+   "date": "2026-11-02",
+   "n": 0,
+   "pct": null,
+   "roll_n": 50,
+   "roll_pct": 46.0
+  },
+  {
+   "date": "2026-11-03",
+   "n": 0,
+   "pct": null,
+   "roll_n": 50,
+   "roll_pct": 46.0
+  },
+  {
+   "date": "2026-11-04",
+   "n": 4,
+   "pct": 100.0,
+   "roll_n": 54,
+   "roll_pct": 50.0
+  },
+  {
+   "date": "2026-11-05",
+   "n": 3,
+   "pct": 33.3,
+   "roll_n": 56,
+   "roll_pct": 48.2
+  },
+  {
+   "date": "2026-11-06",
+   "n": 4,
+   "pct": 50.0,
+   "roll_n": 32,
+   "roll_pct": 37.5
+  },
+  {
+   "date": "2026-11-07",
+   "n": 2,
+   "pct": 0.0,
+   "roll_n": 20,
+   "roll_pct": 40.0
   }
  ],
  "calendar": [
@@ -2710,7 +3327,7 @@
   },
   {
    "date": "2026-10-07",
-   "q": 2,
+   "q": 1,
    "sit": 1,
    "min": 0
   },
@@ -2795,7 +3412,7 @@
   {
    "date": "2026-10-21",
    "q": 0,
-   "sit": 0,
+   "sit": 1,
    "min": 0
   },
   {
@@ -2843,7 +3460,7 @@
   {
    "date": "2026-10-29",
    "q": 1,
-   "sit": 0,
+   "sit": 1,
    "min": 0
   },
   {
@@ -2863,11 +3480,47 @@
    "q": 7,
    "sit": 1,
    "min": 0
+  },
+  {
+   "date": "2026-11-02",
+   "q": 0,
+   "sit": 0,
+   "min": 0
+  },
+  {
+   "date": "2026-11-03",
+   "q": 0,
+   "sit": 0,
+   "min": 0
+  },
+  {
+   "date": "2026-11-04",
+   "q": 4,
+   "sit": 0,
+   "min": 0
+  },
+  {
+   "date": "2026-11-05",
+   "q": 3,
+   "sit": 0,
+   "min": 0
+  },
+  {
+   "date": "2026-11-06",
+   "q": 4,
+   "sit": 0,
+   "min": 0
+  },
+  {
+   "date": "2026-11-07",
+   "q": 2,
+   "sit": 2,
+   "min": 0
   }
  ],
  "streak": 4,
- "last_active": "2026-11-01",
- "active_days_30": 13,
+ "last_active": "2026-11-07",
+ "active_days_30": 17,
  "strengths": {
   "units": [],
   "topics": [],
@@ -2878,20 +3531,20 @@
    {
     "key": "P2:1",
     "label": "Paper II · Unit 1 Micro Economics",
-    "right": 61,
-    "n": 137,
-    "pct": 44.5,
-    "last": "2026-11-01"
+    "right": 68,
+    "n": 150,
+    "pct": 45.3,
+    "last": "2026-11-07"
    }
   ],
   "topics": [
    {
     "key": "P2:1.1",
     "label": "1.1 Theory of Consumer Behaviour",
-    "right": 61,
-    "n": 137,
-    "pct": 44.5,
-    "last": "2026-11-01"
+    "right": 68,
+    "n": 150,
+    "pct": 45.3,
+    "last": "2026-11-07"
    }
   ],
   "formats": [
@@ -3254,10 +3907,10 @@
  "revision_upcoming": 0,
  "pace": {
   "remaining": 88,
-  "needed_per_week": 14.3,
-  "rate_per_week": 0.5,
-  "recent_done_14d": 1,
-  "projected_finish": "2030-03-17",
+  "needed_per_week": 16.6,
+  "rate_per_week": 1.0,
+  "recent_done_14d": 2,
+  "projected_finish": "2028-07-15",
   "unit_flags": [
    {
     "paper": "P2",
@@ -3288,9 +3941,27 @@
    },
    {
     "paper": "P2",
+    "unit": 5,
+    "name": "International Economics",
+    "flag": "at risk",
+    "target": "2026-11-10",
+    "done": 0,
+    "total": 10
+   },
+   {
+    "paper": "P2",
+    "unit": 4,
+    "name": "Mathematical Economics",
+    "flag": "at risk",
+    "target": "2026-11-10",
+    "done": 0,
+    "total": 6
+   },
+   {
+    "paper": "P2",
     "unit": 3,
     "name": "Statistics and Econometrics",
-    "flag": "at risk",
+    "flag": "overdue",
     "target": "2026-11-03",
     "done": 0,
     "total": 9
@@ -3305,12 +3976,12 @@
   "name": "Theory of Consumer Behaviour",
   "status": "learning",
   "acc": {
-   "right": 61,
-   "n": 137,
-   "pct": 44.5,
-   "last": "2026-11-01"
+   "right": 68,
+   "n": 150,
+   "pct": 45.3,
+   "last": "2026-11-07"
   },
-  "note": "A1-A5 done (Budget, Preferences, Utility, Choice, Demand) = 1.1a-1.1d; next A6 Revealed Preference; 1.1e onward pending",
+  "note": "A1-A5, A7, A8 done (1.1a-1.1e, 1.1l); A6 Revealed Preference in progress (NET done, 31 book Qs paused); next: finish A6, then blind Unit 1 end test",
   "subtopics": [
    {
     "id": "1.1a",
@@ -3345,7 +4016,7 @@
     "name": "Income and substitution effects: Slutsky and Hicks decompositions, the Slutsky equation, Giffen goods, the law of demand",
     "scope": "In scope",
     "sources": "DU, VB, CUK; V ch8; K ch2 · also OR, A, JR, NS (6 of 7)",
-    "status": "not_started"
+    "status": "understood"
    },
    {
     "id": "1.1f",
@@ -3359,7 +4030,7 @@
     "name": "Revealed preference: weak and strong axioms, testable implications, deriving demand and indifference curves",
     "scope": "In scope",
     "sources": "DU, JMI, VB, CUK; V ch7 · also K, OR, A, JR, NS (6 of 7)",
-    "status": "not_started"
+    "status": "learning"
    },
    {
     "id": "1.1h",
@@ -3394,7 +4065,7 @@
     "name": "Choice with endowments (buying and selling) and intertemporal choice",
     "scope": "Supplementary",
     "sources": "V ch9-10 · also K, A, JR, NS (5 of 7)",
-    "status": "not_started"
+    "status": "understood"
    },
    {
     "id": "1.1m",
@@ -3410,7 +4081,8 @@
     "sources": "A, NS (2 of 7)",
     "status": "not_started"
    }
-  ]
+  ],
+  "after": ""
  },
  "nudges": [
   {
@@ -3422,14 +4094,20 @@
   {
    "level": "high",
    "title": "Paper II pace is behind the exam date",
-   "why": "1 topics understood in the last 14 days (0.5/week). 88 topics left; at this pace you finish around 2030-03-17, after the exam (2026-12-14, OFFICIAL WINDOW 14-21 Dec). Needed: 14.3 topics/week.",
+   "why": "2 topics understood in the last 14 days (1.0/week). 88 topics left; at this pace you finish around 2028-07-15, after the exam (2026-12-14, OFFICIAL WINDOW 14-21 Dec). Needed: 16.6 topics/week.",
    "action": "Decide: more hours, faster passes on familiar topics, or a later exam cycle."
   },
   {
    "level": "high",
    "title": "Weak area: Paper II · Unit 1 Micro Economics",
-   "why": "44.5% correct over 137 questions (weak below 60%).",
+   "why": "45.3% correct over 150 questions (weak below 60%).",
    "action": "Revise this unit before adding new material."
+  },
+  {
+   "level": "high",
+   "title": "Accuracy is falling",
+   "why": "40.0% this week vs 51.2% the week before.",
+   "action": "Check the weak list below."
   },
   {
    "level": "medium",
@@ -3451,14 +4129,20 @@
   },
   {
    "level": "medium",
+   "title": "Unit 3 Statistics and Econometrics is past its plan date",
+   "why": "Planned to finish by 2026-11-03; 0/9 topics done.",
+   "action": "Re-plan or speed up this unit."
+  },
+  {
+   "level": "medium",
    "title": "Weak topic: 1.1 Theory of Consumer Behaviour",
-   "why": "44.5% over 137 questions.",
+   "why": "45.3% over 150 questions.",
    "action": "Ask the teacher to re-teach it."
   },
   {
    "level": "medium",
    "title": "Most mistakes are 'Concept gap'",
-   "why": "67 of 76 classified mistakes (88%).",
+   "why": "73 of 82 classified mistakes (89%).",
    "action": "Understanding gaps: go back to the lesson before more questions."
   },
   {
@@ -3469,6 +4153,46 @@
   }
  ],
  "tests": [
+  {
+   "date": "2026-11-07",
+   "source": "Teacher test",
+   "paper": "P2",
+   "topic": "1.1",
+   "topic_name": "Theory of Consumer Behaviour",
+   "right": 0,
+   "n": 2,
+   "pct": 0.0
+  },
+  {
+   "date": "2026-11-06",
+   "source": "Teacher test",
+   "paper": "P2",
+   "topic": "1.1",
+   "topic_name": "Theory of Consumer Behaviour",
+   "right": 2,
+   "n": 4,
+   "pct": 50.0
+  },
+  {
+   "date": "2026-11-05",
+   "source": "Teacher test",
+   "paper": "P2",
+   "topic": "1.1",
+   "topic_name": "Theory of Consumer Behaviour",
+   "right": 1,
+   "n": 3,
+   "pct": 33.3
+  },
+  {
+   "date": "2026-11-04",
+   "source": "Teacher test",
+   "paper": "P2",
+   "topic": "1.1",
+   "topic_name": "Theory of Consumer Behaviour",
+   "right": 4,
+   "n": 4,
+   "pct": 100.0
+  },
   {
    "date": "2026-11-01",
    "source": "Teacher test",
@@ -3672,9 +4396,9 @@
   "paper1_quiet_days": 7
  },
  "inputs": {
-  "answers": 139,
-  "popups_seen": 146,
-  "study_rows": 12,
+  "answers": 151,
+  "popups_seen": 86,
+  "study_rows": 16,
   "mocks": 0,
   "v2_synced": 0
  }
