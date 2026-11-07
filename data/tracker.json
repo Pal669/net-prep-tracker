@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-07T17:55",
+ "generated": "2026-11-07T22:34",
  "today": "2026-11-07",
  "exam": {
   "date": "2026-12-14",
@@ -1308,7 +1308,50 @@
        "status": "not_started",
        "acc": null,
        "note": "",
-       "subtopics": [],
+       "subtopics": [
+        {
+         "id": "7.1a",
+         "name": "Functions and forms of money: commodity, fiat, bank money, near money; digital money and CBDC (e-rupee)",
+         "scope": "In scope",
+         "sources": "NET; SG, MI",
+         "status": "not_started"
+        },
+        {
+         "id": "7.1b",
+         "name": "Measures of money supply in India: M1-M4 (old) and the RBI Working Group (1998) aggregates M0, NM1-NM3 and liquidity aggregates L1-L3",
+         "scope": "In scope",
+         "sources": "JMI, CUK, NET; SG, RBI",
+         "status": "not_started"
+        },
+        {
+         "id": "7.1c",
+         "name": "Reserve money (high-powered money): components and sources",
+         "scope": "In scope",
+         "sources": "JMI; SG, RBI",
+         "status": "not_started"
+        },
+        {
+         "id": "7.1d",
+         "name": "Money multiplier and its determinants (currency-deposit and reserve-deposit ratios)",
+         "scope": "In scope",
+         "sources": "JMI; SG, MI",
+         "status": "not_started"
+        },
+        {
+         "id": "7.1e",
+         "name": "Theories of money supply: H-theory, RBI's analytical approach, exogeneity vs endogeneity",
+         "scope": "In scope",
+         "sources": "JMI; SG, MI",
+         "status": "not_started"
+        },
+        {
+         "id": "7.1f",
+         "name": "Divisia monetary aggregates; trends in money supply in India",
+         "scope": "Supplementary",
+         "sources": "JMI; SG, RBI",
+         "status": "not_started"
+        }
+       ],
        "after": ""
       },
       {
@@ -1317,7 +1360,43 @@
        "status": "not_started",
        "acc": null,
        "note": "",
-       "subtopics": [],
+       "subtopics": [
+        {
+         "id": "7.2a",
+         "name": "Functions of a central bank: note issue, banker to government, bankers' bank, lender of last resort, custodian of reserves, controller of credit",
+         "scope": "In scope",
+         "sources": "CUK, NET; SG, BM",
+         "status": "not_started"
+        },
+        {
+         "id": "7.2b",
+         "name": "RBI: establishment (1935), nationalisation (1949), organisation, RBI Act 1934",
+         "scope": "In scope",
+         "sources": "CUK, VB; BM, RBI",
+         "status": "not_started"
+        },
+        {
+         "id": "7.2c",
+         "name": "Methods of note issue: proportional reserve and minimum reserve systems",
+         "scope": "In scope",
+         "sources": "NET; BM",
+         "status": "not_started"
+        },
+        {
+         "id": "7.2d",
+         "name": "Central bank independence; rules vs discretion; time inconsistency",
+         "scope": "In scope",
+         "sources": "DU, CUK; MI",
+         "status": "not_started"
+        },
+        {
+         "id": "7.2e",
+         "name": "RBI as regulator and supervisor (banks, NBFCs, payment systems) and its promotional role",
+         "scope": "In scope",
+         "sources": "CUK; BM, RBI",
+         "status": "not_started"
+        }
+       ],
        "after": ""
       },
       {
@@ -1326,7 +1405,57 @@
        "status": "not_started",
        "acc": null,
        "note": "",
-       "subtopics": [],
+       "subtopics": [
+        {
+         "id": "7.3a",
+         "name": "Functions of commercial banks; bank balance sheet; liquidity, safety and profitability principles",
+         "scope": "In scope",
+         "sources": "CUK, NET; BM, MI",
+         "status": "not_started"
+        },
+        {
+         "id": "7.3b",
+         "name": "Credit creation by banks and its limits",
+         "scope": "In scope",
+         "sources": "JMI; SG, MI",
+         "status": "not_started"
+        },
+        {
+         "id": "7.3c",
+         "name": "Structure of Indian banking: public, private, foreign, regional rural, cooperative, small finance and payments banks; nationalisation (1969, 1980)",
+         "scope": "In scope",
+         "sources": "CUK; BM, RBI",
+         "status": "not_started"
+        },
+        {
+         "id": "7.3d",
+         "name": "Banking-sector reforms: Narasimham Committees I and II and later reforms",
+         "scope": "In scope",
+         "sources": "JMI, VB, CUK; BM",
+         "status": "not_started"
+        },
+        {
+         "id": "7.3e",
+         "name": "Prudential regulation: capital adequacy and Basel I-III, NPAs and asset classification, prompt corrective action, IBC",
+         "scope": "In scope",
+         "sources": "CUK; BM, RBI",
+         "status": "not_started"
+        },
+        {
+         "id": "7.3f",
+         "name": "Information problems in banking: credit rationing (Stiglitz-Weiss), bank runs (Diamond-Dybvig), banking crises",
+         "scope": "Supplementary",
+         "sources": "DU; MI",
+         "status": "not_started"
+        },
+        {
+         "id": "7.3g",
+         "name": "Financial inclusion: priority-sector lending, lead bank scheme, PM Jan Dhan Yojana",
+         "scope": "In scope",
+         "sources": "CUK; ES, RBI",
+         "status": "not_started"
+        }
+       ],
        "after": ""
       },
       {
@@ -1335,7 +1464,57 @@
        "status": "not_started",
        "acc": null,
        "note": "",
-       "subtopics": [],
+       "subtopics": [
+        {
+         "id": "7.4a",
+         "name": "Objectives, targets and indicators of monetary policy; operating procedures",
+         "scope": "In scope",
+         "sources": "DU, JMI, CUK; SG, MI",
+         "status": "not_started"
+        },
+        {
+         "id": "7.4b",
+         "name": "Quantitative instruments: bank rate, open market operations, CRR, SLR, repo and reverse repo, LAF, MSF, SDF",
+         "scope": "In scope",
+         "sources": "VB, CUK, NET; BM, RBI",
+         "status": "not_started"
+        },
+        {
+         "id": "7.4c",
+         "name": "Qualitative (selective) instruments: margin requirements, credit rationing, moral suasion, direct action",
+         "scope": "In scope",
+         "sources": "NET; BM",
+         "status": "not_started"
+        },
+        {
+         "id": "7.4d",
+         "name": "Transmission channels: interest-rate, credit, exchange-rate and asset-price channels; lags",
+         "scope": "In scope",
+         "sources": "DU; MI, SG",
+         "status": "not_started"
+        },
+        {
+         "id": "7.4e",
+         "name": "Monetary policy frameworks in India: credit planning, monetary targeting (Chakravarty), multiple indicators, flexible inflation targeting and the MPC (2016)",
+         "scope": "In scope",
+         "sources": "JMI, VB; RBI, SG",
+         "status": "not_started"
+        },
+        {
+         "id": "7.4f",
+         "name": "Policy rules and unconventional policy: Taylor rule, inflation targeting, quantitative easing, forward guidance",
+         "scope": "In scope",
+         "sources": "DU, CUK; MI",
+         "status": "not_started"
+        },
+        {
+         "id": "7.4g",
+         "name": "Limits of monetary policy in a developing, open economy",
+         "scope": "In scope",
+         "sources": "JMI; SG, MI",
+         "status": "not_started"
+        }
+       ],
        "after": ""
       },
       {
@@ -1344,7 +1523,43 @@
        "status": "not_started",
        "acc": null,
        "note": "",
-       "subtopics": [],
+       "subtopics": [
+        {
+         "id": "7.5a",
+         "name": "Financial system and intermediation: banks vs non-bank financial institutions",
+         "scope": "In scope",
+         "sources": "CUK, NET; BM",
+         "status": "not_started"
+        },
+        {
+         "id": "7.5b",
+         "name": "NBFCs: types, RBI's scale-based regulation, housing finance companies, microfinance institutions",
+         "scope": "In scope",
+         "sources": "CUK, NET; BM, RBI",
+         "status": "not_started"
+        },
+        {
+         "id": "7.5c",
+         "name": "Development finance institutions: IFCI, IDBI, ICICI, SIDBI, NABARD, EXIM Bank, NHB, NaBFID",
+         "scope": "In scope",
+         "sources": "CUK, NET; BM",
+         "status": "not_started"
+        },
+        {
+         "id": "7.5d",
+         "name": "Insurance and pension institutions: LIC, GIC, IRDAI, PFRDA and NPS",
+         "scope": "In scope",
+         "sources": "NET; BM",
+         "status": "not_started"
+        },
+        {
+         "id": "7.5e",
+         "name": "Mutual funds (UTI) and shadow-banking risk (IL&FS 2018)",
+         "scope": "Supplementary",
+         "sources": "NET; BM",
+         "status": "not_started"
+        }
+       ],
        "after": ""
       },
       {
@@ -1353,7 +1568,50 @@
        "status": "not_started",
        "acc": null,
        "note": "",
-       "subtopics": [],
+       "subtopics": [
+        {
+         "id": "7.6a",
+         "name": "Money market vs capital market; money-market instruments (call money, treasury bills, commercial paper, certificates of deposit, repo)",
+         "scope": "In scope",
+         "sources": "DU, CUK; BM",
+         "status": "not_started"
+        },
+        {
+         "id": "7.6b",
+         "name": "Primary market (IPO, book building, FPO) and secondary market (stock exchanges, indices)",
+         "scope": "In scope",
+         "sources": "JMI, CUK, NET; BM",
+         "status": "not_started"
+        },
+        {
+         "id": "7.6c",
+         "name": "Capital-market instruments: equity, debt, bonds, derivatives (futures and options)",
+         "scope": "In scope",
+         "sources": "DU, JMI; BM, MI",
+         "status": "not_started"
+        },
+        {
+         "id": "7.6d",
+         "name": "SEBI: establishment (1988, statutory 1992), powers, regulation of intermediaries, investor protection",
+         "scope": "In scope",
+         "sources": "JMI, CUK, NET; BM",
+         "status": "not_started"
+        },
+        {
+         "id": "7.6e",
+         "name": "Capital-market reforms in India: depositories and dematerialisation, rolling settlement, debt market",
+         "scope": "In scope",
+         "sources": "CUK, NET; BM",
+         "status": "not_started"
+        },
+        {
+         "id": "7.6f",
+         "name": "Asset-pricing ideas: efficient market hypothesis, portfolio theory, CAPM",
+         "scope": "Supplementary",
+         "sources": "DU, JMI; MI",
+         "status": "not_started"
+        }
+       ],
        "after": ""
       }
      ]
@@ -1381,7 +1639,36 @@
        "status": "not_started",
        "acc": null,
        "note": "",
-       "subtopics": [],
+       "subtopics": [
+        {
+         "id": "5.1a",
+         "name": "Basis of international trade; inter-regional vs international trade; measures of trade openness",
+         "scope": "In scope",
+         "sources": "CUK; SV, KO",
+         "status": "not_started"
+        },
+        {
+         "id": "5.1b",
+         "name": "Production possibility frontier and community indifference curves; autarky and trade equilibrium; constant vs increasing opportunity costs",
+         "scope": "In scope",
+         "sources": "JMI, CUK; SV, KO",
+         "status": "not_started"
+        },
+        {
+         "id": "5.1c",
+         "name": "Offer curves (Marshall-Edgeworth) and reciprocal demand (J.S. Mill): derivation, elasticity, equilibrium terms of trade",
+         "scope": "In scope",
+         "sources": "VB, CUK; SV",
+         "status": "not_started"
+        },
+        {
+         "id": "5.1d",
+         "name": "Factor intensity and factor abundance (physical and price definitions); Edgeworth box and derivation of the PPF",
+         "scope": "In scope",
+         "sources": "JMI, CUK; SV, KO",
+         "status": "not_started"
+        }
+       ],
        "after": ""
       },
       {
@@ -1390,7 +1677,71 @@
        "status": "not_started",
        "acc": null,
        "note": "",
-       "subtopics": [],
+       "subtopics": [
+        {
+         "id": "5.2a",
+         "name": "Mercantilism and Adam Smith's absolute advantage",
+         "scope": "In scope",
+         "sources": "JMI, CUK; SV",
+         "status": "not_started"
+        },
+        {
+         "id": "5.2b",
+         "name": "Ricardo's comparative advantage: labour theory of value, pattern of specialisation, limits to the terms of trade, gains; many-good (continuum) extension",
+         "scope": "In scope",
+         "sources": "DU, JMI, VB, CUK; SV, KO",
+         "status": "not_started"
+        },
+        {
+         "id": "5.2c",
+         "name": "Haberler's opportunity-cost theory",
+         "scope": "In scope",
+         "sources": "JMI, CUK; SV",
+         "status": "not_started"
+        },
+        {
+         "id": "5.2d",
+         "name": "Specific-factors (Ricardo-Viner) model: income distribution, Dutch disease",
+         "scope": "In scope",
+         "sources": "DU, JMI, VB, CUK; SV, KO",
+         "status": "not_started"
+        },
+        {
+         "id": "5.2e",
+         "name": "Heckscher-Ohlin theorem: assumptions, factor-abundance definitions, pattern of trade",
+         "scope": "In scope",
+         "sources": "DU, JMI, VB, CUK; SV, KO",
+         "status": "not_started"
+        },
+        {
+         "id": "5.2f",
+         "name": "Factor price equalisation theorem; factor-intensity reversal",
+         "scope": "In scope",
+         "sources": "JMI, VB, CUK; SV, KO",
+         "status": "not_started"
+        },
+        {
+         "id": "5.2g",
+         "name": "Stolper-Samuelson and Rybczynski theorems",
+         "scope": "In scope",
+         "sources": "JMI, VB, CUK; SV, KO",
+         "status": "not_started"
+        },
+        {
+         "id": "5.2h",
+         "name": "Empirical tests: Leontief paradox and its explanations; Heckscher-Ohlin-Vanek",
+         "scope": "In scope",
+         "sources": "DU, JMI, CUK; SV, KO",
+         "status": "not_started"
+        },
+        {
+         "id": "5.2i",
+         "name": "Alternative explanations: Linder's overlapping demand, Kravis availability, sources of comparative advantage (natural vs acquired, static vs dynamic)",
+         "scope": "In scope",
+         "sources": "JMI; SV, KO",
+         "status": "not_started"
+        }
+       ],
        "after": ""
       },
       {
@@ -1399,7 +1750,57 @@
        "status": "not_started",
        "acc": null,
        "note": "",
-       "subtopics": [],
+       "subtopics": [
+        {
+         "id": "5.3a",
+         "name": "Economies of scale (internal and external) as a basis for trade",
+         "scope": "In scope",
+         "sources": "DU, VB, CUK; KO, SV",
+         "status": "not_started"
+        },
+        {
+         "id": "5.3b",
+         "name": "Monopolistic competition and intra-industry trade (Krugman model); measuring intra-industry trade (Grubel-Lloyd index)",
+         "scope": "In scope",
+         "sources": "DU, JMI, VB, CUK; KO, SV",
+         "status": "not_started"
+        },
+        {
+         "id": "5.3c",
+         "name": "Oligopoly and trade: reciprocal dumping (Brander-Krugman)",
+         "scope": "In scope",
+         "sources": "DU, VB; KO",
+         "status": "not_started"
+        },
+        {
+         "id": "5.3d",
+         "name": "Strategic trade policy: Brander-Spencer (Airbus-Boeing) profit shifting",
+         "scope": "In scope",
+         "sources": "DU, JMI, VB; KO, SV",
+         "status": "not_started"
+        },
+        {
+         "id": "5.3e",
+         "name": "Technology-gap (Posner) and product life-cycle (Vernon) theories",
+         "scope": "In scope",
+         "sources": "JMI, CUK; SV",
+         "status": "not_started"
+        },
+        {
+         "id": "5.3f",
+         "name": "Gravity model of trade",
+         "scope": "Supplementary",
+         "sources": "no MA syllabus; KO, SV",
+         "status": "not_started"
+        },
+        {
+         "id": "5.3g",
+         "name": "Firm heterogeneity and trade (Melitz); Porter's diamond",
+         "scope": "Supplementary",
+         "sources": "DU, VB, JMI; KO",
+         "status": "not_started"
+        }
+       ],
        "after": ""
       },
       {
@@ -1408,7 +1809,57 @@
        "status": "not_started",
        "acc": null,
        "note": "",
-       "subtopics": [],
+       "subtopics": [
+        {
+         "id": "5.4a",
+         "name": "Structure of the BOP: current account (goods, services, primary and secondary income), capital and financial accounts, errors and omissions, reserve changes (BPM6)",
+         "scope": "In scope",
+         "sources": "JMI, CUK, NET; SV, KO",
+         "status": "not_started"
+        },
+        {
+         "id": "5.4b",
+         "name": "Equilibrium and disequilibrium: autonomous vs accommodating transactions; types and causes of disequilibrium",
+         "scope": "In scope",
+         "sources": "CUK, NET; SV",
+         "status": "not_started"
+        },
+        {
+         "id": "5.4c",
+         "name": "Automatic adjustment: price-specie-flow mechanism, income adjustment, under fixed and flexible exchange rates",
+         "scope": "In scope",
+         "sources": "CUK, NET; SV",
+         "status": "not_started"
+        },
+        {
+         "id": "5.4d",
+         "name": "Elasticity approach to devaluation: Marshall-Lerner condition, J-curve",
+         "scope": "In scope",
+         "sources": "JMI, CUK; SV, KO",
+         "status": "not_started"
+        },
+        {
+         "id": "5.4e",
+         "name": "Absorption approach (Alexander)",
+         "scope": "In scope",
+         "sources": "CUK, NET; SV",
+         "status": "not_started"
+        },
+        {
+         "id": "5.4f",
+         "name": "Monetary approach to the balance of payments",
+         "scope": "In scope",
+         "sources": "JMI, CUK; SV, KO",
+         "status": "not_started"
+        },
+        {
+         "id": "5.4g",
+         "name": "Policy mix: expenditure-changing vs expenditure-switching; internal and external balance (Swan diagram, Mundell's assignment rule)",
+         "scope": "In scope",
+         "sources": "JMI; SV, KO",
+         "status": "not_started"
+        }
+       ],
        "after": ""
       },
       {
@@ -1417,7 +1868,57 @@
        "status": "not_started",
        "acc": null,
        "note": "",
-       "subtopics": [],
+       "subtopics": [
+        {
+         "id": "5.5a",
+         "name": "Exchange-rate concepts: nominal, real, nominal and real effective (NEER, REER), spot and forward; appreciation/depreciation vs revaluation/devaluation",
+         "scope": "In scope",
+         "sources": "JMI, CUK, NET; SV, KO",
+         "status": "not_started"
+        },
+        {
+         "id": "5.5b",
+         "name": "Exchange-rate regimes: fixed, floating, managed float, pegs, currency boards; the impossible trinity",
+         "scope": "In scope",
+         "sources": "JMI, CUK; SV, KO",
+         "status": "not_started"
+        },
+        {
+         "id": "5.5c",
+         "name": "Mint parity and purchasing power parity (absolute and relative); Balassa-Samuelson effect",
+         "scope": "In scope",
+         "sources": "JMI, CUK, NET; SV, KO",
+         "status": "not_started"
+        },
+        {
+         "id": "5.5d",
+         "name": "Asset-market theories: monetary approach and portfolio-balance approach to exchange rates",
+         "scope": "In scope",
+         "sources": "DU, JMI; SV, KO",
+         "status": "not_started"
+        },
+        {
+         "id": "5.5e",
+         "name": "Dornbusch overshooting model",
+         "scope": "In scope",
+         "sources": "DU; SV, KO",
+         "status": "not_started"
+        },
+        {
+         "id": "5.5f",
+         "name": "Open-economy IS-LM-BP and the Mundell-Fleming model: monetary and fiscal policy under fixed vs flexible rates and different capital mobility",
+         "scope": "In scope",
+         "sources": "JMI; SV, KO",
+         "status": "not_started"
+        },
+        {
+         "id": "5.5g",
+         "name": "Optimum currency areas and monetary unions (the euro)",
+         "scope": "In scope",
+         "sources": "JMI; SV, KO",
+         "status": "not_started"
+        }
+       ],
        "after": ""
       },
       {
@@ -1426,7 +1927,50 @@
        "status": "not_started",
        "acc": null,
        "note": "",
-       "subtopics": [],
+       "subtopics": [
+        {
+         "id": "5.6a",
+         "name": "Foreign exchange market: structure, functions, participants; spot, forward, futures, options and swaps",
+         "scope": "In scope",
+         "sources": "JMI, CUK, NET; SV, KO",
+         "status": "not_started"
+        },
+        {
+         "id": "5.6b",
+         "name": "Arbitrage: two-point and triangular; cross rates",
+         "scope": "In scope",
+         "sources": "CUK, NET; SV",
+         "status": "not_started"
+        },
+        {
+         "id": "5.6c",
+         "name": "Hedging and speculation; forward premium and discount",
+         "scope": "In scope",
+         "sources": "JMI, CUK; SV, KO",
+         "status": "not_started"
+        },
+        {
+         "id": "5.6d",
+         "name": "Interest parity: covered interest parity and covered interest arbitrage; uncovered interest parity",
+         "scope": "In scope",
+         "sources": "JMI, CUK; SV, KO",
+         "status": "not_started"
+        },
+        {
+         "id": "5.6e",
+         "name": "India's forex market: FEMA, RBI intervention and sterilisation",
+         "scope": "In scope",
+         "sources": "JMI, VB, CUK; RBI",
+         "status": "not_started"
+        },
+        {
+         "id": "5.6f",
+         "name": "Eurocurrency markets; efficiency of the forex market",
+         "scope": "Supplementary",
+         "sources": "JMI; SV",
+         "status": "not_started"
+        }
+       ],
        "after": ""
       },
       {
@@ -1435,7 +1979,50 @@
        "status": "not_started",
        "acc": null,
        "note": "",
-       "subtopics": [],
+       "subtopics": [
+        {
+         "id": "5.7a",
+         "name": "Gains from trade: gains from exchange and from specialisation; static vs dynamic gains",
+         "scope": "In scope",
+         "sources": "JMI, CUK, NET; SV, KO",
+         "status": "not_started"
+        },
+        {
+         "id": "5.7b",
+         "name": "Terms of trade concepts: net barter, gross barter, income, single and double factoral, real cost and utility terms of trade",
+         "scope": "In scope",
+         "sources": "CUK, NET; SV",
+         "status": "not_started"
+        },
+        {
+         "id": "5.7c",
+         "name": "Prebisch-Singer thesis and the secular deterioration of the terms of trade",
+         "scope": "In scope",
+         "sources": "NET; SV, TS",
+         "status": "not_started"
+        },
+        {
+         "id": "5.7d",
+         "name": "Growth and trade: types of growth, immiserising growth (Bhagwati)",
+         "scope": "In scope",
+         "sources": "DU, VB, CUK; SV, KO",
+         "status": "not_started"
+        },
+        {
+         "id": "5.7e",
+         "name": "Foreign trade multiplier: without and with foreign repercussions",
+         "scope": "In scope",
+         "sources": "NET; SV",
+         "status": "not_started"
+        },
+        {
+         "id": "5.7f",
+         "name": "Trade and development: trade as an engine of growth; export-led growth vs import substitution",
+         "scope": "In scope",
+         "sources": "VB, CUK; SV, TS",
+         "status": "not_started"
+        }
+       ],
        "after": ""
       },
       {
@@ -1444,7 +2031,57 @@
        "status": "not_started",
        "acc": null,
        "note": "",
-       "subtopics": [],
+       "subtopics": [
+        {
+         "id": "5.8a",
+         "name": "Tariffs: types (ad valorem, specific, compound) and partial-equilibrium effects in a small country (consumption, production, revenue, redistribution, deadweight loss)",
+         "scope": "In scope",
+         "sources": "JMI, CUK, NET; SV, KO",
+         "status": "not_started"
+        },
+        {
+         "id": "5.8b",
+         "name": "Large-country tariff: terms-of-trade effect, optimum tariff; general-equilibrium effects; Metzler paradox; Lerner symmetry theorem",
+         "scope": "In scope",
+         "sources": "JMI, CUK; SV, KO",
+         "status": "not_started"
+        },
+        {
+         "id": "5.8c",
+         "name": "Nominal vs effective rate of protection",
+         "scope": "In scope",
+         "sources": "JMI, CUK; SV, KO",
+         "status": "not_started"
+        },
+        {
+         "id": "5.8d",
+         "name": "Arguments for protection: infant industry, domestic distortions, revenue, strategic; free trade vs protection",
+         "scope": "In scope",
+         "sources": "JMI, CUK; SV, KO",
+         "status": "not_started"
+        },
+        {
+         "id": "5.8e",
+         "name": "Non-tariff barriers: import quotas (tariff-quota equivalence), voluntary export restraints, export subsidies, technical and administrative barriers",
+         "scope": "In scope",
+         "sources": "JMI, CUK, NET; SV, KO",
+         "status": "not_started"
+        },
+        {
+         "id": "5.8f",
+         "name": "Dumping: sporadic, predatory and persistent; dumping as international price discrimination; anti-dumping and countervailing duties",
+         "scope": "In scope",
+         "sources": "NET; SV, KO",
+         "status": "not_started"
+        },
+        {
+         "id": "5.8g",
+         "name": "Political economy of protection",
+         "scope": "Supplementary",
+         "sources": "DU; KO",
+         "status": "not_started"
+        }
+       ],
        "after": ""
       },
       {
@@ -1453,7 +2090,57 @@
        "status": "not_started",
        "acc": null,
        "note": "",
-       "subtopics": [],
+       "subtopics": [
+        {
+         "id": "5.9a",
+         "name": "GATT: principles (MFN, national treatment, reciprocity) and rounds up to Uruguay",
+         "scope": "In scope",
+         "sources": "JMI, CUK, NET; SV",
+         "status": "not_started"
+        },
+        {
+         "id": "5.9b",
+         "name": "WTO: structure, functions, dispute settlement; agreements on agriculture, TRIPS, TRIMS, GATS, SPS",
+         "scope": "In scope",
+         "sources": "JMI, CUK, NET; SV",
+         "status": "not_started"
+        },
+        {
+         "id": "5.9c",
+         "name": "WTO ministerial conferences and the Doha Development Agenda; developed vs developing country concerns; India and the WTO",
+         "scope": "In scope",
+         "sources": "JMI, CUK; SV",
+         "status": "not_started"
+        },
+        {
+         "id": "5.9d",
+         "name": "Forms of economic integration: preferential trade area, FTA, customs union, common market, economic and monetary union",
+         "scope": "In scope",
+         "sources": "CUK, NET; SV",
+         "status": "not_started"
+        },
+        {
+         "id": "5.9e",
+         "name": "Customs-union theory: trade creation and trade diversion (Viner); static and dynamic effects",
+         "scope": "In scope",
+         "sources": "CUK; SV, KO",
+         "status": "not_started"
+        },
+        {
+         "id": "5.9f",
+         "name": "Regional blocs: EU, ASEAN, USMCA (NAFTA), SAARC/SAFTA, RCEP, BRICS and mega-regional agreements",
+         "scope": "In scope",
+         "sources": "CUK, NET; SV",
+         "status": "not_started"
+        },
+        {
+         "id": "5.9g",
+         "name": "Trade-policy issues: trade and environment, labour standards, globalisation and poverty, India's FTAs",
+         "scope": "In scope",
+         "sources": "JMI, CUK, NET; SV",
+         "status": "not_started"
+        }
+       ],
        "after": ""
       },
       {
@@ -1462,7 +2149,43 @@
        "status": "not_started",
        "acc": null,
        "note": "",
-       "subtopics": [],
+       "subtopics": [
+        {
+         "id": "5.10a",
+         "name": "International monetary system: gold standard, Bretton Woods and its collapse, post-1973 arrangements",
+         "scope": "In scope",
+         "sources": "JMI, CUK; SV, KO",
+         "status": "not_started"
+        },
+        {
+         "id": "5.10b",
+         "name": "IMF: objectives, quotas, SDRs, lending facilities, conditionality, surveillance",
+         "scope": "In scope",
+         "sources": "JMI, NET; SV, KO",
+         "status": "not_started"
+        },
+        {
+         "id": "5.10c",
+         "name": "World Bank Group: IBRD, IDA, IFC, MIGA, ICSID; lending and governance",
+         "scope": "In scope",
+         "sources": "NET; SV",
+         "status": "not_started"
+        },
+        {
+         "id": "5.10d",
+         "name": "International financial architecture: currency crises, other bodies (BIS, AIIB, New Development Bank), G-20",
+         "scope": "In scope",
+         "sources": "JMI, CUK; SV",
+         "status": "not_started"
+        },
+        {
+         "id": "5.10e",
+         "name": "India and the Bretton Woods institutions: 1991 BOP crisis, programme lending, SDR allocations",
+         "scope": "Supplementary",
+         "sources": "CUK; RBI",
+         "status": "not_started"
+        }
+       ],
        "after": ""
       }
      ]
@@ -1490,7 +2213,57 @@
        "status": "not_started",
        "acc": null,
        "note": "",
-       "subtopics": [],
+       "subtopics": [
+        {
+         "id": "6.1a",
+         "name": "Role of government: allocation, distribution and stabilisation functions (Musgrave); sources of market failure",
+         "scope": "In scope",
+         "sources": "VB, CUK, JMI, NET; MM, RG",
+         "status": "not_started"
+        },
+        {
+         "id": "6.1b",
+         "name": "Public goods: non-rivalry and non-excludability; pure, impure, club, merit and quasi-public goods; common resources",
+         "scope": "In scope",
+         "sources": "DU, JMI, VB, CUK, NET; MM, RG",
+         "status": "not_started"
+        },
+        {
+         "id": "6.1c",
+         "name": "Efficient provision of public goods: Samuelson condition, Lindahl equilibrium, free-rider problem, preference revelation",
+         "scope": "In scope",
+         "sources": "DU, JMI, VB, CUK; MM, RG",
+         "status": "not_started"
+        },
+        {
+         "id": "6.1d",
+         "name": "Externalities: types; Pigouvian taxes and subsidies; Coase bargaining; tradable permits",
+         "scope": "In scope",
+         "sources": "DU, JMI, VB, CUK, NET; RG, MM",
+         "status": "not_started"
+        },
+        {
+         "id": "6.1e",
+         "name": "Asymmetric information as market failure: adverse selection, moral hazard and public responses (social insurance, mandates, regulation)",
+         "scope": "In scope",
+         "sources": "JMI, VB, CUK, NET; RG",
+         "status": "not_started"
+        },
+        {
+         "id": "6.1f",
+         "name": "Public choice: majority voting, median voter theorem, voting paradox, Arrow's impossibility theorem, rent seeking, government failure",
+         "scope": "In scope",
+         "sources": "DU, JMI, VB, CUK; RG, MM",
+         "status": "not_started"
+        },
+        {
+         "id": "6.1g",
+         "name": "Local public goods: Tiebout model, Oates' decentralisation theorem",
+         "scope": "In scope",
+         "sources": "JMI; RG, MM",
+         "status": "not_started"
+        }
+       ],
        "after": ""
       },
       {
@@ -1499,7 +2272,50 @@
        "status": "not_started",
        "acc": null,
        "note": "",
-       "subtopics": [],
+       "subtopics": [
+        {
+         "id": "6.2a",
+         "name": "Collusion and cartels: joint-profit maximisation, instability and enforcement, tacit collusion",
+         "scope": "In scope",
+         "sources": "NET; RG, KS",
+         "status": "not_started"
+        },
+        {
+         "id": "6.2b",
+         "name": "Welfare cost of monopoly and collusion: deadweight loss (Harberger triangle), rent seeking (Tullock)",
+         "scope": "In scope",
+         "sources": "NET; RG, KS",
+         "status": "not_started"
+        },
+        {
+         "id": "6.2c",
+         "name": "Competition policy: anti-trust principles (per se rule vs rule of reason), mergers; India's MRTP Act 1969 and Competition Act 2002, CCI",
+         "scope": "In scope",
+         "sources": "NET; KS, ES",
+         "status": "not_started"
+        },
+        {
+         "id": "6.2d",
+         "name": "Regulating natural monopolies: marginal-cost vs average-cost pricing, rate-of-return regulation (Averch-Johnson effect), price caps",
+         "scope": "In scope",
+         "sources": "NET; RG, KS",
+         "status": "not_started"
+        },
+        {
+         "id": "6.2e",
+         "name": "Theories of regulation: public-interest vs capture theory (Stigler)",
+         "scope": "Supplementary",
+         "sources": "NET; RG",
+         "status": "not_started"
+        },
+        {
+         "id": "6.2f",
+         "name": "Consumer welfare and protection: consumer surplus as the welfare test; Consumer Protection Act 2019",
+         "scope": "Supplementary",
+         "sources": "NET; ES",
+         "status": "not_started"
+        }
+       ],
        "after": ""
       },
       {
@@ -1508,7 +2324,71 @@
        "status": "not_started",
        "acc": null,
        "note": "",
-       "subtopics": [],
+       "subtopics": [
+        {
+         "id": "6.3a",
+         "name": "Sources of public revenue: tax and non-tax revenue (fees, fines, dividends, user charges); direct vs indirect taxes; specific vs ad valorem",
+         "scope": "In scope",
+         "sources": "JMI, CUK, NET; MM, HB",
+         "status": "not_started"
+        },
+        {
+         "id": "6.3b",
+         "name": "Canons of taxation (Adam Smith and later) and features of a good tax system",
+         "scope": "In scope",
+         "sources": "CUK; MM, HB",
+         "status": "not_started"
+        },
+        {
+         "id": "6.3c",
+         "name": "Progressive, proportional and regressive taxation; average and marginal tax rates",
+         "scope": "In scope",
+         "sources": "NET; MM, HB",
+         "status": "not_started"
+        },
+        {
+         "id": "6.3d",
+         "name": "Distribution of the tax burden: benefit approach (Lindahl, Wicksell) and ability-to-pay (equal, proportional and minimum sacrifice); horizontal and vertical equity",
+         "scope": "In scope",
+         "sources": "JMI, CUK; MM, HB",
+         "status": "not_started"
+        },
+        {
+         "id": "6.3e",
+         "name": "Incidence of taxation: impact, shifting and incidence; role of elasticities; incidence under monopoly; general-equilibrium incidence (Harberger)",
+         "scope": "In scope",
+         "sources": "CUK, NET; MM, RG",
+         "status": "not_started"
+        },
+        {
+         "id": "6.3f",
+         "name": "Effects of taxation: excess burden and deadweight loss; effects on work, saving and investment; Laffer curve",
+         "scope": "In scope",
+         "sources": "JMI, CUK, NET; RG, MM",
+         "status": "not_started"
+        },
+        {
+         "id": "6.3g",
+         "name": "Optimal taxation: Ramsey inverse-elasticity rule, optimal income taxation",
+         "scope": "In scope",
+         "sources": "DU, VB, CUK; RG",
+         "status": "not_started"
+        },
+        {
+         "id": "6.3h",
+         "name": "Tax elasticity and buoyancy; tax evasion vs avoidance; black economy",
+         "scope": "In scope",
+         "sources": "DU, VB; HB",
+         "status": "not_started"
+        },
+        {
+         "id": "6.3i",
+         "name": "Value-added tax and GST design: destination principle, input tax credit, cascading",
+         "scope": "In scope",
+         "sources": "DU, CUK; HB, ES",
+         "status": "not_started"
+        }
+       ],
        "after": ""
       },
       {
@@ -1517,7 +2397,57 @@
        "status": "not_started",
        "acc": null,
        "note": "",
-       "subtopics": [],
+       "subtopics": [
+        {
+         "id": "6.4a",
+         "name": "Principles of public expenditure: maximum social advantage (Dalton, Musgrave); Samuelson's pure theory",
+         "scope": "In scope",
+         "sources": "CUK; MM, HB",
+         "status": "not_started"
+        },
+        {
+         "id": "6.4b",
+         "name": "Growth of public expenditure: Wagner's law, Peacock-Wiseman displacement effect",
+         "scope": "In scope",
+         "sources": "JMI, CUK; MM, HB",
+         "status": "not_started"
+        },
+        {
+         "id": "6.4c",
+         "name": "Classification of public expenditure: revenue vs capital, development vs non-development, committed expenditure",
+         "scope": "In scope",
+         "sources": "CUK; HB, ES",
+         "status": "not_started"
+        },
+        {
+         "id": "6.4d",
+         "name": "Effects of public expenditure on production, distribution and growth",
+         "scope": "In scope",
+         "sources": "CUK; HB, MM",
+         "status": "not_started"
+        },
+        {
+         "id": "6.4e",
+         "name": "Evaluating public spending: cost-benefit analysis, shadow prices, social discount rate",
+         "scope": "In scope",
+         "sources": "JMI, VB; RG, MM",
+         "status": "not_started"
+        },
+        {
+         "id": "6.4f",
+         "name": "Subsidies: rationale, targeting, leakages, direct benefit transfer",
+         "scope": "In scope",
+         "sources": "CUK; ES, HB",
+         "status": "not_started"
+        },
+        {
+         "id": "6.4g",
+         "name": "Structure and growth of public expenditure in India",
+         "scope": "In scope",
+         "sources": "JMI, CUK; ES",
+         "status": "not_started"
+        }
+       ],
        "after": ""
       },
       {
@@ -1526,7 +2456,50 @@
        "status": "not_started",
        "acc": null,
        "note": "",
-       "subtopics": [],
+       "subtopics": [
+        {
+         "id": "6.5a",
+         "name": "Classification of public debt: internal and external, productive and unproductive, short and long term, marketable and non-marketable",
+         "scope": "In scope",
+         "sources": "CUK; HB, MM",
+         "status": "not_started"
+        },
+        {
+         "id": "6.5b",
+         "name": "Burden of public debt: classical view, Keynesian/Lerner view, Buchanan, Modigliani; intergenerational burden",
+         "scope": "In scope",
+         "sources": "CUK, NET; MM, HB",
+         "status": "not_started"
+        },
+        {
+         "id": "6.5c",
+         "name": "Ricardian equivalence (Barro)",
+         "scope": "In scope",
+         "sources": "CUK; RG, DO",
+         "status": "not_started"
+        },
+        {
+         "id": "6.5d",
+         "name": "Debt sustainability: debt dynamics, interest-growth differential, primary balance",
+         "scope": "In scope",
+         "sources": "NET; HB, ES",
+         "status": "not_started"
+        },
+        {
+         "id": "6.5e",
+         "name": "Redemption of public debt: sinking fund, conversion, refunding, capital levy",
+         "scope": "In scope",
+         "sources": "NET; HB",
+         "status": "not_started"
+        },
+        {
+         "id": "6.5f",
+         "name": "Debt management and public debt in India: sources, structure, role of the RBI, trends",
+         "scope": "In scope",
+         "sources": "CUK, NET; ES, RBI",
+         "status": "not_started"
+        }
+       ],
        "after": ""
       },
       {
@@ -1535,7 +2508,43 @@
        "status": "not_started",
        "acc": null,
        "note": "",
-       "subtopics": [],
+       "subtopics": [
+        {
+         "id": "6.6a",
+         "name": "Budget concepts: revenue and capital budget; revenue, effective revenue, fiscal, primary and monetised deficits",
+         "scope": "In scope",
+         "sources": "CUK, NET; HB, ES",
+         "status": "not_started"
+        },
+        {
+         "id": "6.6b",
+         "name": "Types of budgeting: performance, programme, zero-based, outcome and gender budgeting",
+         "scope": "In scope",
+         "sources": "JMI, CUK; HB",
+         "status": "not_started"
+        },
+        {
+         "id": "6.6c",
+         "name": "Budget multipliers: government-spending, tax and transfer multipliers; balanced-budget multiplier (Haavelmo)",
+         "scope": "In scope",
+         "sources": "NET; HB, DO",
+         "status": "not_started"
+        },
+        {
+         "id": "6.6d",
+         "name": "Functional finance (Lerner) vs sound finance",
+         "scope": "Supplementary",
+         "sources": "no MA syllabus; HB",
+         "status": "not_started"
+        },
+        {
+         "id": "6.6e",
+         "name": "Budget process and documents in India: Article 112, Annual Financial Statement, appropriation and finance bills",
+         "scope": "In scope",
+         "sources": "CUK; HB, ES",
+         "status": "not_started"
+        }
+       ],
        "after": ""
       },
       {
@@ -1544,7 +2553,43 @@
        "status": "not_started",
        "acc": null,
        "note": "",
-       "subtopics": [],
+       "subtopics": [
+        {
+         "id": "6.7a",
+         "name": "Objectives and instruments of fiscal policy; automatic stabilisers vs discretionary policy",
+         "scope": "In scope",
+         "sources": "CUK, NET; HB, DO",
+         "status": "not_started"
+        },
+        {
+         "id": "6.7b",
+         "name": "Effectiveness of fiscal policy in IS-LM: crowding out and its extent",
+         "scope": "In scope",
+         "sources": "VB, CUK; DO",
+         "status": "not_started"
+        },
+        {
+         "id": "6.7c",
+         "name": "Compensatory fiscal policy; deficit financing and inflation; seigniorage",
+         "scope": "In scope",
+         "sources": "CUK; HB, DO",
+         "status": "not_started"
+        },
+        {
+         "id": "6.7d",
+         "name": "Fiscal rules and consolidation: FRBM Act and fiscal targets",
+         "scope": "In scope",
+         "sources": "VB, CUK; ES",
+         "status": "not_started"
+        },
+        {
+         "id": "6.7e",
+         "name": "Fiscal federalism: assignment of functions and taxes, vertical and horizontal imbalance, intergovernmental grants",
+         "scope": "In scope",
+         "sources": "JMI, VB, CUK; MM, HB",
+         "status": "not_started"
+        }
+       ],
        "after": ""
       }
      ]
@@ -1572,7 +2617,50 @@
        "status": "not_started",
        "acc": null,
        "note": "",
-       "subtopics": [],
+       "subtopics": [
+        {
+         "id": "9.1a",
+         "name": "Economy-environment linkages: materials balance model, functions of the environment",
+         "scope": "In scope",
+         "sources": "JMI, CUK; PE",
+         "status": "not_started"
+        },
+        {
+         "id": "9.1b",
+         "name": "Environmental quality as a public good; global commons; free riding in climate policy",
+         "scope": "In scope",
+         "sources": "DU, CUK, NET; PE, KN",
+         "status": "not_started"
+        },
+        {
+         "id": "9.1c",
+         "name": "Sustainable development: Brundtland definition, weak vs strong sustainability, Hartwick rule, safe minimum standard",
+         "scope": "In scope",
+         "sources": "JMI, CUK; PE",
+         "status": "not_started"
+        },
+        {
+         "id": "9.1d",
+         "name": "Climate-change economics and agreements: UNFCCC, Kyoto, Paris, COPs, carbon markets, India's NDCs",
+         "scope": "In scope",
+         "sources": "DU, CUK; PE, ES",
+         "status": "not_started"
+        },
+        {
+         "id": "9.1e",
+         "name": "Environmental laws and institutions in India (Environment Protection Act, NGT, CPCB)",
+         "scope": "Supplementary",
+         "sources": "JMI; ES",
+         "status": "not_started"
+        },
+        {
+         "id": "9.1f",
+         "name": "Energy and renewables: transition, India's targets",
+         "scope": "Supplementary",
+         "sources": "DU; ES",
+         "status": "not_started"
+        }
+       ],
        "after": ""
       },
       {
@@ -1581,7 +2669,50 @@
        "status": "not_started",
        "acc": null,
        "note": "",
-       "subtopics": [],
+       "subtopics": [
+        {
+         "id": "9.2a",
+         "name": "Environmental damage as an externality: private vs social cost, efficient level of pollution (marginal abatement cost = marginal damage)",
+         "scope": "In scope",
+         "sources": "DU, JMI, CUK, NET; PE, KN",
+         "status": "not_started"
+        },
+        {
+         "id": "9.2b",
+         "name": "Property rights, open access and common-property resources: tragedy of the commons, Ostrom's principles",
+         "scope": "In scope",
+         "sources": "JMI, CUK; PE",
+         "status": "not_started"
+        },
+        {
+         "id": "9.2c",
+         "name": "Pollution-control instruments: standards (command and control), Pigouvian taxes, subsidies, tradable permits; prices vs quantities",
+         "scope": "In scope",
+         "sources": "DU, CUK; PE, KN",
+         "status": "not_started"
+        },
+        {
+         "id": "9.2d",
+         "name": "Asymmetric information and government failure in environmental policy",
+         "scope": "In scope",
+         "sources": "DU, CUK; PE, KN",
+         "status": "not_started"
+        },
+        {
+         "id": "9.2e",
+         "name": "Natural resources: exhaustible resources and the Hotelling rule; renewable resources (fisheries, maximum sustainable yield, forests)",
+         "scope": "In scope",
+         "sources": "JMI, CUK; PE",
+         "status": "not_started"
+        },
+        {
+         "id": "9.2f",
+         "name": "Growth and environment: Environmental Kuznets curve, Limits to Growth (Club of Rome)",
+         "scope": "In scope",
+         "sources": "CUK; PE, TS",
+         "status": "not_started"
+        }
+       ],
        "after": ""
       },
       {
@@ -1590,7 +2721,29 @@
        "status": "not_started",
        "acc": null,
        "note": "",
-       "subtopics": [],
+       "subtopics": [
+        {
+         "id": "9.3a",
+         "name": "Coase theorem: clear property rights and zero transaction costs give an efficient outcome whatever the assignment",
+         "scope": "In scope",
+         "sources": "CUK, NET; PE, RG",
+         "status": "not_started"
+        },
+        {
+         "id": "9.3b",
+         "name": "Limits of Coasean bargaining: transaction costs, many parties, wealth effects, hold-outs and free riding",
+         "scope": "In scope",
+         "sources": "CUK; PE, RG",
+         "status": "not_started"
+        },
+        {
+         "id": "9.3c",
+         "name": "Coase vs Pigou; liability rules; worked bargaining examples",
+         "scope": "In scope",
+         "sources": "CUK; PE, RG",
+         "status": "not_started"
+        }
+       ],
        "after": ""
       },
       {
@@ -1599,7 +2752,43 @@
        "status": "not_started",
        "acc": null,
        "note": "",
-       "subtopics": [],
+       "subtopics": [
+        {
+         "id": "9.4a",
+         "name": "Steps of cost-benefit analysis; NPV, IRR and benefit-cost ratio; choosing between criteria",
+         "scope": "In scope",
+         "sources": "DU, JMI, VB, NET; PE",
+         "status": "not_started"
+        },
+        {
+         "id": "9.4b",
+         "name": "Discounting: social discount rate, intergenerational equity",
+         "scope": "In scope",
+         "sources": "DU, JMI; PE",
+         "status": "not_started"
+        },
+        {
+         "id": "9.4c",
+         "name": "Shadow pricing: Little-Mirrlees and UNIDO approaches",
+         "scope": "Supplementary",
+         "sources": "JMI; PE",
+         "status": "not_started"
+        },
+        {
+         "id": "9.4d",
+         "name": "Compensation criteria: Kaldor, Hicks, Scitovsky and Little; potential Pareto improvement",
+         "scope": "In scope",
+         "sources": "NET; PE, K",
+         "status": "not_started"
+        },
+        {
+         "id": "9.4e",
+         "name": "Risk and uncertainty in CBA; sensitivity analysis",
+         "scope": "Supplementary",
+         "sources": "DU; PE",
+         "status": "not_started"
+        }
+       ],
        "after": ""
       },
       {
@@ -1608,7 +2797,43 @@
        "status": "not_started",
        "acc": null,
        "note": "",
-       "subtopics": [],
+       "subtopics": [
+        {
+         "id": "9.5a",
+         "name": "Total economic value: use values (direct, indirect, option) and non-use values (existence, bequest)",
+         "scope": "In scope",
+         "sources": "CUK, NET; PE",
+         "status": "not_started"
+        },
+        {
+         "id": "9.5b",
+         "name": "Willingness to pay vs willingness to accept",
+         "scope": "In scope",
+         "sources": "NET; PE",
+         "status": "not_started"
+        },
+        {
+         "id": "9.5c",
+         "name": "Revealed-preference methods: hedonic pricing, travel cost, averting/defensive expenditure",
+         "scope": "In scope",
+         "sources": "DU, JMI, CUK, NET; PE",
+         "status": "not_started"
+        },
+        {
+         "id": "9.5d",
+         "name": "Stated-preference methods: contingent valuation, choice experiments; their biases",
+         "scope": "In scope",
+         "sources": "DU, JMI, CUK, NET; PE",
+         "status": "not_started"
+        },
+        {
+         "id": "9.5e",
+         "name": "Market-based methods: productivity change, replacement cost, damage cost avoided, net price method, benefit transfer",
+         "scope": "In scope",
+         "sources": "JMI, NET; PE",
+         "status": "not_started"
+        }
+       ],
        "after": ""
       },
       {
@@ -1617,7 +2842,43 @@
        "status": "not_started",
        "acc": null,
        "note": "",
-       "subtopics": [],
+       "subtopics": [
+        {
+         "id": "9.6a",
+         "name": "Malthusian theory of population and its critique",
+         "scope": "In scope",
+         "sources": "JMI, NET; BK",
+         "status": "not_started"
+        },
+        {
+         "id": "9.6b",
+         "name": "Optimum population theory",
+         "scope": "In scope",
+         "sources": "JMI, NET; BK",
+         "status": "not_started"
+        },
+        {
+         "id": "9.6c",
+         "name": "Theory of demographic transition: stages",
+         "scope": "In scope",
+         "sources": "JMI, NET; BK, TS",
+         "status": "not_started"
+        },
+        {
+         "id": "9.6d",
+         "name": "Marxian view of population; population and development (Coale-Hoover, Simon)",
+         "scope": "In scope",
+         "sources": "JMI; BK, TS",
+         "status": "not_started"
+        },
+        {
+         "id": "9.6e",
+         "name": "Biological and logistic theories (Pearl-Reed logistic curve; Sadler, Doubleday)",
+         "scope": "Supplementary",
+         "sources": "NET; BK",
+         "status": "not_started"
+        }
+       ],
        "after": ""
       },
       {
@@ -1626,7 +2887,50 @@
        "status": "not_started",
        "acc": null,
        "note": "",
-       "subtopics": [],
+       "subtopics": [
+        {
+         "id": "9.7a",
+         "name": "Sources of demographic data: Census, Sample Registration System, civil registration, NFHS, NSS",
+         "scope": "In scope",
+         "sources": "JMI, CUK; BK",
+         "status": "not_started"
+        },
+        {
+         "id": "9.7b",
+         "name": "Fertility measures: CBR, GFR, ASFR, TFR, GRR, NRR",
+         "scope": "In scope",
+         "sources": "JMI, CUK, NET; BK",
+         "status": "not_started"
+        },
+        {
+         "id": "9.7c",
+         "name": "Determinants of fertility and economic theories of fertility (Becker, Easterlin, Leibenstein)",
+         "scope": "In scope",
+         "sources": "JMI, CUK; BK, TS",
+         "status": "not_started"
+        },
+        {
+         "id": "9.7d",
+         "name": "Mortality measures: CDR, age-specific rates, IMR, neonatal, under-5 and maternal mortality; direct and indirect standardisation",
+         "scope": "In scope",
+         "sources": "JMI, CUK, NET; BK",
+         "status": "not_started"
+        },
+        {
+         "id": "9.7e",
+         "name": "Morbidity: incidence and prevalence; epidemiological transition; DALYs",
+         "scope": "In scope",
+         "sources": "NET; BK",
+         "status": "not_started"
+        },
+        {
+         "id": "9.7f",
+         "name": "Census concepts for India: sex ratio, child sex ratio, density, literacy, decadal growth",
+         "scope": "In scope",
+         "sources": "JMI, CUK; BK",
+         "status": "not_started"
+        }
+       ],
        "after": ""
       },
       {
@@ -1635,7 +2939,36 @@
        "status": "not_started",
        "acc": null,
        "note": "",
-       "subtopics": [],
+       "subtopics": [
+        {
+         "id": "9.8a",
+         "name": "Age-sex structure and population pyramids; determinants",
+         "scope": "In scope",
+         "sources": "JMI, CUK, NET; BK",
+         "status": "not_started"
+        },
+        {
+         "id": "9.8b",
+         "name": "Dependency ratios (young, old, total), median age, population ageing",
+         "scope": "In scope",
+         "sources": "JMI, CUK; BK",
+         "status": "not_started"
+        },
+        {
+         "id": "9.8c",
+         "name": "Demographic dividend: window of opportunity, conditions to realise it, India's case",
+         "scope": "In scope",
+         "sources": "NET; BK, ES",
+         "status": "not_started"
+        },
+        {
+         "id": "9.8d",
+         "name": "Population momentum; stable and stationary populations",
+         "scope": "Supplementary",
+         "sources": "CUK; BK",
+         "status": "not_started"
+        }
+       ],
        "after": ""
       },
       {
@@ -1644,7 +2977,29 @@
        "status": "not_started",
        "acc": null,
        "note": "",
-       "subtopics": [],
+       "subtopics": [
+        {
+         "id": "9.9a",
+         "name": "Life-table columns and construction: lx, dx, qx, px, Lx, Tx, ex",
+         "scope": "In scope",
+         "sources": "JMI, CUK, NET; BK",
+         "status": "not_started"
+        },
+        {
+         "id": "9.9b",
+         "name": "Types of life table: complete vs abridged, current vs cohort; uses",
+         "scope": "In scope",
+         "sources": "CUK, NET; BK",
+         "status": "not_started"
+        },
+        {
+         "id": "9.9c",
+         "name": "Life expectancy and its interpretation",
+         "scope": "In scope",
+         "sources": "JMI, NET; BK",
+         "status": "not_started"
+        }
+       ],
        "after": ""
       },
       {
@@ -1653,7 +3008,36 @@
        "status": "not_started",
        "acc": null,
        "note": "",
-       "subtopics": [],
+       "subtopics": [
+        {
+         "id": "9.10a",
+         "name": "Concepts and types of migration: internal and international, lifetime vs period; push-pull factors (Lee); Ravenstein's laws",
+         "scope": "In scope",
+         "sources": "JMI, CUK, NET; BK",
+         "status": "not_started"
+        },
+        {
+         "id": "9.10b",
+         "name": "Measuring migration: migration rates, net migration; Census and NSS data",
+         "scope": "In scope",
+         "sources": "JMI, NET; BK",
+         "status": "not_started"
+        },
+        {
+         "id": "9.10c",
+         "name": "Harris-Todaro model of rural-urban migration",
+         "scope": "In scope",
+         "sources": "JMI, CUK; TS",
+         "status": "not_started"
+        },
+        {
+         "id": "9.10d",
+         "name": "Consequences of migration: remittances, brain drain, urbanisation; new economics of labour migration",
+         "scope": "In scope",
+         "sources": "CUK, NET; TS",
+         "status": "not_started"
+        }
+       ],
        "after": ""
       }
      ]
@@ -1681,7 +3065,43 @@
        "status": "not_started",
        "acc": null,
        "note": "",
-       "subtopics": [],
+       "subtopics": [
+        {
+         "id": "8.1a",
+         "name": "Growth vs development; measuring growth (GDP, per capita income, PPP)",
+         "scope": "In scope",
+         "sources": "JMI, CUK, NET; TS, TH",
+         "status": "not_started"
+        },
+        {
+         "id": "8.1b",
+         "name": "Characteristics of underdevelopment; development gap; vicious circle of poverty (Nurkse)",
+         "scope": "In scope",
+         "sources": "JMI, CUK; TS, J",
+         "status": "not_started"
+        },
+        {
+         "id": "8.1c",
+         "name": "Approaches to development: basic needs, human development, capability approach (Sen), sustainable development",
+         "scope": "In scope",
+         "sources": "JMI, CUK; TS, TH",
+         "status": "not_started"
+        },
+        {
+         "id": "8.1d",
+         "name": "Institutions, governance, state vs market in development",
+         "scope": "In scope",
+         "sources": "DU, JMI, CUK; TS, R",
+         "status": "not_started"
+        },
+        {
+         "id": "8.1e",
+         "name": "Structural change and industrialisation: Kuznets' modern economic growth, Kaldor's growth laws, Chenery patterns",
+         "scope": "In scope",
+         "sources": "JMI; TH, TS",
+         "status": "not_started"
+        }
+       ],
        "after": ""
       },
       {
@@ -1690,7 +3110,85 @@
        "status": "not_started",
        "acc": null,
        "note": "",
-       "subtopics": [],
+       "subtopics": [
+        {
+         "id": "8.2a",
+         "name": "Adam Smith: division of labour, extent of the market, capital accumulation",
+         "scope": "In scope",
+         "sources": "JMI, CUK, NET; J, TH",
+         "status": "not_started"
+        },
+        {
+         "id": "8.2b",
+         "name": "Ricardo: diminishing returns, distribution, stationary state",
+         "scope": "In scope",
+         "sources": "JMI, NET; J, TH",
+         "status": "not_started"
+        },
+        {
+         "id": "8.2c",
+         "name": "Malthus and J.S. Mill on development",
+         "scope": "Supplementary",
+         "sources": "JMI; J",
+         "status": "not_started"
+        },
+        {
+         "id": "8.2d",
+         "name": "Marx: surplus value, capital accumulation, falling rate of profit, crises",
+         "scope": "In scope",
+         "sources": "JMI, NET; J",
+         "status": "not_started"
+        },
+        {
+         "id": "8.2e",
+         "name": "Schumpeter: innovation, entrepreneur, circular flow, creative destruction",
+         "scope": "In scope",
+         "sources": "JMI, CUK, NET; J, TS",
+         "status": "not_started"
+        },
+        {
+         "id": "8.2f",
+         "name": "Rostow's stages of economic growth",
+         "scope": "In scope",
+         "sources": "JMI, CUK, NET; TS, J",
+         "status": "not_started"
+        },
+        {
+         "id": "8.2g",
+         "name": "Big push (Rosenstein-Rodan), balanced growth (Nurkse), critical minimum effort (Leibenstein), low-level equilibrium trap (Nelson)",
+         "scope": "In scope",
+         "sources": "JMI, CUK, NET; TS, J",
+         "status": "not_started"
+        },
+        {
+         "id": "8.2h",
+         "name": "Unbalanced growth (Hirschman): linkages, social overhead capital vs directly productive activities",
+         "scope": "In scope",
+         "sources": "JMI, CUK, NET; J, TS",
+         "status": "not_started"
+        },
+        {
+         "id": "8.2i",
+         "name": "Dual-economy models: Lewis surplus-labour model and Fei-Ranis",
+         "scope": "In scope",
+         "sources": "JMI, CUK; TS, J",
+         "status": "not_started"
+        },
+        {
+         "id": "8.2j",
+         "name": "Dependency, structuralist and dualism theories: Prebisch-Singer, Frank, Myrdal (backwash and spread effects), Boeke and Higgins",
+         "scope": "In scope",
+         "sources": "JMI, CUK; TS, J",
+         "status": "not_started"
+        },
+        {
+         "id": "8.2k",
+         "name": "Coordination failure and multiple equilibria; Kremer's O-ring theory",
+         "scope": "Supplementary",
+         "sources": "DU, CUK; TS, R",
+         "status": "not_started"
+        }
+       ],
        "after": ""
       },
       {
@@ -1699,7 +3197,57 @@
        "status": "not_started",
        "acc": null,
        "note": "",
-       "subtopics": [],
+       "subtopics": [
+        {
+         "id": "8.3a",
+         "name": "Harrod-Domar model: actual, warranted and natural growth rates; knife-edge instability",
+         "scope": "In scope",
+         "sources": "JMI, CUK, NET; TH, J",
+         "status": "not_started"
+        },
+        {
+         "id": "8.3b",
+         "name": "Solow-Swan model: steady state, fundamental equation, golden rule, transitional dynamics",
+         "scope": "In scope",
+         "sources": "JMI, CUK, NET; TH, J",
+         "status": "not_started"
+        },
+        {
+         "id": "8.3c",
+         "name": "Solow with population growth and technical progress; growth accounting and the Solow residual",
+         "scope": "In scope",
+         "sources": "JMI, CUK; TH",
+         "status": "not_started"
+        },
+        {
+         "id": "8.3d",
+         "name": "Convergence: absolute vs conditional, beta and sigma convergence",
+         "scope": "In scope",
+         "sources": "JMI, CUK; TH, R",
+         "status": "not_started"
+        },
+        {
+         "id": "8.3e",
+         "name": "Joan Robinson's model: golden age and other ages",
+         "scope": "In scope",
+         "sources": "JMI, CUK, NET; J",
+         "status": "not_started"
+        },
+        {
+         "id": "8.3f",
+         "name": "Kaldor's distribution model and technical progress function; Pasinetti",
+         "scope": "In scope",
+         "sources": "JMI, NET; J, TH",
+         "status": "not_started"
+        },
+        {
+         "id": "8.3g",
+         "name": "Meade's neoclassical model; Mahalanobis model; wage-goods model",
+         "scope": "Supplementary",
+         "sources": "CUK; J",
+         "status": "not_started"
+        }
+       ],
        "after": ""
       },
       {
@@ -1708,7 +3256,50 @@
        "status": "not_started",
        "acc": null,
        "note": "",
-       "subtopics": [],
+       "subtopics": [
+        {
+         "id": "8.4a",
+         "name": "Embodied vs disembodied technical progress; vintage models",
+         "scope": "In scope",
+         "sources": "NET; J, TH",
+         "status": "not_started"
+        },
+        {
+         "id": "8.4b",
+         "name": "Neutral technical progress: Hicks, Harrod and Solow neutrality",
+         "scope": "In scope",
+         "sources": "NET; J, TH",
+         "status": "not_started"
+        },
+        {
+         "id": "8.4c",
+         "name": "Learning by doing (Arrow)",
+         "scope": "In scope",
+         "sources": "JMI; TH, J",
+         "status": "not_started"
+        },
+        {
+         "id": "8.4d",
+         "name": "Endogenous growth: AK model, Romer (R&D and ideas), Lucas (human capital); AK vs Solow",
+         "scope": "In scope",
+         "sources": "JMI, CUK, NET; TH, R",
+         "status": "not_started"
+        },
+        {
+         "id": "8.4e",
+         "name": "Schumpeterian growth models (Aghion-Howitt)",
+         "scope": "Supplementary",
+         "sources": "JMI; TH",
+         "status": "not_started"
+        },
+        {
+         "id": "8.4f",
+         "name": "Choice of techniques: Sen, Dobb-Galenson, capital-intensity criteria",
+         "scope": "Supplementary",
+         "sources": "JMI; J",
+         "status": "not_started"
+        }
+       ],
        "after": ""
       },
       {
@@ -1717,7 +3308,43 @@
        "status": "not_started",
        "acc": null,
        "note": "",
-       "subtopics": [],
+       "subtopics": [
+        {
+         "id": "8.5a",
+         "name": "Per capita income as an indicator and its limits; PPP comparisons",
+         "scope": "In scope",
+         "sources": "JMI, NET; TS",
+         "status": "not_started"
+        },
+        {
+         "id": "8.5b",
+         "name": "Physical Quality of Life Index (Morris D. Morris): components and method",
+         "scope": "In scope",
+         "sources": "NET; TS, J",
+         "status": "not_started"
+        },
+        {
+         "id": "8.5c",
+         "name": "Human Development Index: components, the 2010 change of method; IHDI, GDI, GII, MPI",
+         "scope": "In scope",
+         "sources": "VB, CUK, NET; TS",
+         "status": "not_started"
+        },
+        {
+         "id": "8.5d",
+         "name": "MDGs and SDGs: the 17 goals, targets, NITI Aayog's SDG India Index",
+         "scope": "In scope",
+         "sources": "JMI, CUK, NET; TS",
+         "status": "not_started"
+        },
+        {
+         "id": "8.5e",
+         "name": "Other indices and green accounting: Global Hunger Index, happiness indices, green GDP, SEEA",
+         "scope": "Supplementary",
+         "sources": "CUK; TS",
+         "status": "not_started"
+        }
+       ],
        "after": ""
       },
       {
@@ -1726,7 +3353,50 @@
        "status": "not_started",
        "acc": null,
        "note": "",
-       "subtopics": [],
+       "subtopics": [
+        {
+         "id": "8.6a",
+         "name": "Concepts of poverty: absolute vs relative, poverty line, chronic vs transient",
+         "scope": "In scope",
+         "sources": "DU, JMI, VB, CUK, NET; TS, R",
+         "status": "not_started"
+        },
+        {
+         "id": "8.6b",
+         "name": "Poverty measures: head-count ratio, poverty-gap ratio, squared poverty gap, Sen index, Foster-Greer-Thorbecke class; axioms",
+         "scope": "In scope",
+         "sources": "CUK, NET; TS, R",
+         "status": "not_started"
+        },
+        {
+         "id": "8.6c",
+         "name": "Multidimensional poverty: Alkire-Foster method and MPI",
+         "scope": "In scope",
+         "sources": "NET; TS",
+         "status": "not_started"
+        },
+        {
+         "id": "8.6d",
+         "name": "Inequality measures: Lorenz curve, Gini coefficient, Theil, Atkinson, Palma ratio, coefficient of variation; Pigou-Dalton transfer principle",
+         "scope": "In scope",
+         "sources": "JMI, CUK, NET; TS, R",
+         "status": "not_started"
+        },
+        {
+         "id": "8.6e",
+         "name": "Kuznets inverted-U hypothesis; growth, inequality and poverty links",
+         "scope": "In scope",
+         "sources": "JMI, CUK; TS, R",
+         "status": "not_started"
+        },
+        {
+         "id": "8.6f",
+         "name": "Functional vs personal (size) distribution of income",
+         "scope": "In scope",
+         "sources": "JMI; TS, R",
+         "status": "not_started"
+        }
+       ],
        "after": ""
       },
       {
@@ -1735,7 +3405,43 @@
        "status": "not_started",
        "acc": null,
        "note": "",
-       "subtopics": [],
+       "subtopics": [
+        {
+         "id": "8.7a",
+         "name": "Human capital: education and health as investment; returns to education",
+         "scope": "In scope",
+         "sources": "CUK, NET; TS",
+         "status": "not_started"
+        },
+        {
+         "id": "8.7b",
+         "name": "Education and development; public spending on education; NEP 2020",
+         "scope": "In scope",
+         "sources": "JMI, NET; TS, ES",
+         "status": "not_started"
+        },
+        {
+         "id": "8.7c",
+         "name": "Health and development: nutrition, health indicators, public health spending",
+         "scope": "In scope",
+         "sources": "CUK, NET; TS, ES",
+         "status": "not_started"
+        },
+        {
+         "id": "8.7d",
+         "name": "Gender and development: gender gaps, women's work, missing women, GDI and GII",
+         "scope": "In scope",
+         "sources": "VB, NET; TS",
+         "status": "not_started"
+        },
+        {
+         "id": "8.7e",
+         "name": "Social sector schemes in India: health (NHM, Ayushman Bharat), education (Samagra Shiksha), gender (Beti Bachao Beti Padhao)",
+         "scope": "In scope",
+         "sources": "CUK, NET; ES",
+         "status": "not_started"
+        }
+       ],
        "after": ""
       }
      ]
@@ -1763,7 +3469,50 @@
        "status": "not_started",
        "acc": null,
        "note": "",
-       "subtopics": [],
+       "subtopics": [
+        {
+         "id": "4.1a",
+         "name": "Sets: notation, operations, Venn diagrams, Cartesian product; relations and functions (domain, range, types)",
+         "scope": "In scope",
+         "sources": "DU, CUK, NET; CW, SH",
+         "status": "not_started"
+        },
+        {
+         "id": "4.1b",
+         "name": "Functions used in economics: linear, quadratic, polynomial, exponential and logarithmic, with their graphs",
+         "scope": "In scope",
+         "sources": "JMI, CUK; CW, SH",
+         "status": "not_started"
+        },
+        {
+         "id": "4.1c",
+         "name": "Limits and continuity",
+         "scope": "In scope",
+         "sources": "DU, CUK, NET; CW, SH",
+         "status": "not_started"
+        },
+        {
+         "id": "4.1d",
+         "name": "Convex sets; concave, convex and quasi-concave functions",
+         "scope": "In scope",
+         "sources": "DU, JMI, CUK; CW, SH",
+         "status": "not_started"
+        },
+        {
+         "id": "4.1e",
+         "name": "Sequences and series: arithmetic and geometric progressions, convergence, sum of an infinite geometric series (multiplier, present value)",
+         "scope": "In scope",
+         "sources": "NET; CW, SH",
+         "status": "not_started"
+        },
+        {
+         "id": "4.1f",
+         "name": "Exponential growth, compounding and discounting; growth rates of continuous variables",
+         "scope": "In scope",
+         "sources": "JMI; CW, SH",
+         "status": "not_started"
+        }
+       ],
        "after": ""
       },
       {
@@ -1772,7 +3521,50 @@
        "status": "not_started",
        "acc": null,
        "note": "",
-       "subtopics": [],
+       "subtopics": [
+        {
+         "id": "4.2a",
+         "name": "Derivative and rules of differentiation (sum, product, quotient, chain, inverse function); higher-order derivatives",
+         "scope": "In scope",
+         "sources": "DU, JMI, CUK, NET; CW, SH",
+         "status": "not_started"
+        },
+        {
+         "id": "4.2b",
+         "name": "Economic applications: marginal functions, elasticity via derivatives, AR-MR-elasticity relation",
+         "scope": "In scope",
+         "sources": "JMI; CW, SH",
+         "status": "not_started"
+        },
+        {
+         "id": "4.2c",
+         "name": "Partial derivatives, total differential, implicit function theorem, comparative statics",
+         "scope": "In scope",
+         "sources": "DU, JMI, CUK; CW, SH",
+         "status": "not_started"
+        },
+        {
+         "id": "4.2d",
+         "name": "Homogeneous and homothetic functions; Euler's theorem; Cobb-Douglas and CES functions",
+         "scope": "In scope",
+         "sources": "JMI; CW, SH",
+         "status": "not_started"
+        },
+        {
+         "id": "4.2e",
+         "name": "Integration: indefinite and definite integrals; consumer's and producer's surplus; capital formation from investment flows",
+         "scope": "In scope",
+         "sources": "JMI, CUK; CW, SH",
+         "status": "not_started"
+        },
+        {
+         "id": "4.2f",
+         "name": "Taylor series and linear approximation",
+         "scope": "In scope",
+         "sources": "JMI; CW, SH",
+         "status": "not_started"
+        }
+       ],
        "after": ""
       },
       {
@@ -1781,7 +3573,50 @@
        "status": "not_started",
        "acc": null,
        "note": "",
-       "subtopics": [],
+       "subtopics": [
+        {
+         "id": "4.3a",
+         "name": "Matrices: types, operations, transpose, rank",
+         "scope": "In scope",
+         "sources": "DU, JMI, CUK, NET; CW, SH",
+         "status": "not_started"
+        },
+        {
+         "id": "4.3b",
+         "name": "Determinants and their properties; inverse; solving linear systems by inverse, Cramer's rule and Gaussian elimination",
+         "scope": "In scope",
+         "sources": "JMI, CUK; CW, SH",
+         "status": "not_started"
+        },
+        {
+         "id": "4.3c",
+         "name": "Vectors and vector spaces: linear dependence and independence, basis, dimension, subspaces",
+         "scope": "In scope",
+         "sources": "DU, NET; CW, SH",
+         "status": "not_started"
+        },
+        {
+         "id": "4.3d",
+         "name": "Characteristic roots (eigenvalues) and eigenvectors; diagonalisation",
+         "scope": "In scope",
+         "sources": "DU, JMI, CUK; CW, SH",
+         "status": "not_started"
+        },
+        {
+         "id": "4.3e",
+         "name": "Quadratic forms and definiteness (positive and negative definite, semi-definite)",
+         "scope": "In scope",
+         "sources": "DU, JMI; CW, SH",
+         "status": "not_started"
+        },
+        {
+         "id": "4.3f",
+         "name": "Jacobian (functional dependence) and Hessian determinants",
+         "scope": "In scope",
+         "sources": "CUK; CW, SH",
+         "status": "not_started"
+        }
+       ],
        "after": ""
       },
       {
@@ -1790,7 +3625,50 @@
        "status": "not_started",
        "acc": null,
        "note": "",
-       "subtopics": [],
+       "subtopics": [
+        {
+         "id": "4.4a",
+         "name": "One variable: first- and second-order conditions, points of inflection; profit maximisation",
+         "scope": "In scope",
+         "sources": "DU, JMI, CUK; CW, SH",
+         "status": "not_started"
+        },
+        {
+         "id": "4.4b",
+         "name": "Several variables, unconstrained: first-order conditions, Hessian test, saddle points",
+         "scope": "In scope",
+         "sources": "DU, JMI, CUK; CW, SH",
+         "status": "not_started"
+        },
+        {
+         "id": "4.4c",
+         "name": "Equality constraints: Lagrange multiplier method, meaning of the multiplier, bordered Hessian",
+         "scope": "In scope",
+         "sources": "DU, JMI, CUK; CW, SH",
+         "status": "not_started"
+        },
+        {
+         "id": "4.4d",
+         "name": "Inequality constraints: Kuhn-Tucker conditions",
+         "scope": "In scope",
+         "sources": "DU; CW, SH",
+         "status": "not_started"
+        },
+        {
+         "id": "4.4e",
+         "name": "Envelope theorem and comparative statics of optima",
+         "scope": "In scope",
+         "sources": "DU, JMI; CW, SH",
+         "status": "not_started"
+        },
+        {
+         "id": "4.4f",
+         "name": "Applications: utility maximisation, cost minimisation, profit maximisation, price discrimination",
+         "scope": "In scope",
+         "sources": "JMI, CUK; CW, SH",
+         "status": "not_started"
+        }
+       ],
        "after": ""
       },
       {
@@ -1799,7 +3677,57 @@
        "status": "not_started",
        "acc": null,
        "note": "",
-       "subtopics": [],
+       "subtopics": [
+        {
+         "id": "4.5a",
+         "name": "Leontief open input-output model: technical coefficient matrix, Leontief inverse, final demand and output",
+         "scope": "In scope",
+         "sources": "JMI, VB, NET; CW",
+         "status": "not_started"
+        },
+        {
+         "id": "4.5b",
+         "name": "Hawkins-Simon conditions; closed Leontief model; non-substitution theorem",
+         "scope": "In scope",
+         "sources": "VB, NET; CW",
+         "status": "not_started"
+        },
+        {
+         "id": "4.5c",
+         "name": "Linear programming: formulation, feasible region, graphical solution, extreme-point theorem, slack and surplus variables",
+         "scope": "In scope",
+         "sources": "JMI, VB, CUK, NET; CW",
+         "status": "not_started"
+        },
+        {
+         "id": "4.5d",
+         "name": "Simplex method",
+         "scope": "In scope",
+         "sources": "JMI, VB, CUK; CW",
+         "status": "not_started"
+        },
+        {
+         "id": "4.5e",
+         "name": "Duality: the dual problem, duality theorems, shadow prices, complementary slackness",
+         "scope": "In scope",
+         "sources": "JMI, VB, CUK; CW",
+         "status": "not_started"
+        },
+        {
+         "id": "4.5f",
+         "name": "LP applications: diet, transportation, production planning",
+         "scope": "Supplementary",
+         "sources": "VB; CW",
+         "status": "not_started"
+        },
+        {
+         "id": "4.5g",
+         "name": "Two-person zero-sum games: pure and mixed strategies, saddle point, value of a game, link with LP",
+         "scope": "Supplementary",
+         "sources": "JMI; CW",
+         "status": "not_started"
+        }
+       ],
        "after": ""
       },
       {
@@ -1808,7 +3736,43 @@
        "status": "not_started",
        "acc": null,
        "note": "",
-       "subtopics": [],
+       "subtopics": [
+        {
+         "id": "4.6a",
+         "name": "First-order linear differential equations: solution, dynamic stability; market price adjustment",
+         "scope": "In scope",
+         "sources": "DU, VB, CUK, NET; CW, SH",
+         "status": "not_started"
+        },
+        {
+         "id": "4.6b",
+         "name": "Second-order linear differential equations; first-order nonlinear equations and phase diagrams",
+         "scope": "In scope",
+         "sources": "DU, VB; CW, SH",
+         "status": "not_started"
+        },
+        {
+         "id": "4.6c",
+         "name": "Applications of differential equations: Domar and Solow growth paths, inflation-unemployment dynamics",
+         "scope": "In scope",
+         "sources": "JMI, CUK; CW",
+         "status": "not_started"
+        },
+        {
+         "id": "4.6d",
+         "name": "First-order difference equations: solution, convergence and oscillation; cobweb model",
+         "scope": "In scope",
+         "sources": "JMI, CUK, NET; CW, SH",
+         "status": "not_started"
+        },
+        {
+         "id": "4.6e",
+         "name": "Second-order difference equations: Samuelson multiplier-accelerator model",
+         "scope": "In scope",
+         "sources": "JMI; CW, SH",
+         "status": "not_started"
+        }
+       ],
        "after": ""
       }
      ]
@@ -1836,7 +3800,57 @@
        "status": "not_started",
        "acc": null,
        "note": "",
-       "subtopics": [],
+       "subtopics": [
+        {
+         "id": "3.1a",
+         "name": "Sample space and events; classical, empirical (relative-frequency) and axiomatic definitions of probability; counting methods (permutations, combinations)",
+         "scope": "In scope",
+         "sources": "DU, JMI, CUK; GK, GP",
+         "status": "not_started"
+        },
+        {
+         "id": "3.1b",
+         "name": "Addition and multiplication rules, conditional probability, independence, Bayes' theorem",
+         "scope": "In scope",
+         "sources": "DU, JMI, CUK; GK, GP",
+         "status": "not_started"
+        },
+        {
+         "id": "3.1c",
+         "name": "Random variables (discrete and continuous): pmf, pdf, cdf; joint, marginal and conditional distributions; independence of random variables",
+         "scope": "In scope",
+         "sources": "DU, JMI, CUK; GK, GP",
+         "status": "not_started"
+        },
+        {
+         "id": "3.1d",
+         "name": "Mathematical expectation and its rules; variance and covariance; raw and central moments; moment generating function",
+         "scope": "In scope",
+         "sources": "DU, JMI, CUK, NET; GK, GP",
+         "status": "not_started"
+        },
+        {
+         "id": "3.1e",
+         "name": "Discrete distributions: Bernoulli, binomial, Poisson (and Poisson as a limit of binomial); geometric, hypergeometric in brief",
+         "scope": "In scope",
+         "sources": "JMI, CUK, NET; GK, GP",
+         "status": "not_started"
+        },
+        {
+         "id": "3.1f",
+         "name": "Continuous distributions: uniform, normal and standard normal (properties, use of Z tables), exponential, lognormal",
+         "scope": "In scope",
+         "sources": "JMI, CUK, NET; GK, GP",
+         "status": "not_started"
+        },
+        {
+         "id": "3.1g",
+         "name": "Chebyshev's inequality, law of large numbers and the Central Limit Theorem",
+         "scope": "In scope",
+         "sources": "DU, JMI, CUK, NET; GK, GP",
+         "status": "not_started"
+        }
+       ],
        "after": ""
       },
       {
@@ -1845,7 +3859,64 @@
        "status": "not_started",
        "acc": null,
        "note": "",
-       "subtopics": [],
+       "subtopics": [
+        {
+         "id": "3.2a",
+         "name": "Measures of central tendency: arithmetic, geometric and harmonic means (simple and weighted), median, mode, quartiles; their properties and the AM >= GM >= HM relation",
+         "scope": "In scope",
+         "sources": "NET; GK, SP",
+         "status": "not_started"
+        },
+        {
+         "id": "3.2b",
+         "name": "Measures of dispersion: range, quartile deviation, mean deviation, standard deviation and variance, coefficient of variation; absolute vs relative measures",
+         "scope": "In scope",
+         "sources": "NET; GK, SP",
+         "status": "not_started"
+        },
+        {
+         "id": "3.2c",
+         "name": "Moments, skewness (Karl Pearson, Bowley) and kurtosis",
+         "scope": "In scope",
+         "sources": "JMI, NET; GK, SP",
+         "status": "not_started"
+        },
+        {
+         "id": "3.2d",
+         "name": "Correlation: scatter diagram, Karl Pearson's coefficient and its properties, Spearman's rank correlation, probable error",
+         "scope": "In scope",
+         "sources": "JMI, NET; GK, GP",
+         "status": "not_started"
+        },
+        {
+         "id": "3.2e",
+         "name": "Partial and multiple correlation",
+         "scope": "In scope",
+         "sources": "JMI; GK, GP",
+         "status": "not_started"
+        },
+        {
+         "id": "3.2f",
+         "name": "The two regression lines in descriptive statistics: regression coefficients and their relation to r",
+         "scope": "In scope",
+         "sources": "JMI; GK, SP",
+         "status": "not_started"
+        },
+        {
+         "id": "3.2g",
+         "name": "Index numbers: construction, Laspeyres, Paasche, Fisher, Marshall-Edgeworth, Kelly and Dorbish-Bowley; tests of adequacy (time reversal, factor reversal, circular)",
+         "scope": "In scope",
+         "sources": "NET; GK, SP",
+         "status": "not_started"
+        },
+        {
+         "id": "3.2h",
+         "name": "Index numbers in practice: fixed vs chain base, base shifting, splicing, deflating; cost-of-living index; WPI, CPI and IIP in India",
+         "scope": "In scope",
+         "sources": "NET; GK, ES",
+         "status": "not_started"
+        }
+       ],
        "after": ""
       },
       {
@@ -1854,7 +3925,43 @@
        "status": "not_started",
        "acc": null,
        "note": "",
-       "subtopics": [],
+       "subtopics": [
+        {
+         "id": "3.3a",
+         "name": "Population vs sample, census vs sample survey; sampling and non-sampling errors",
+         "scope": "In scope",
+         "sources": "JMI, NET; GK",
+         "status": "not_started"
+        },
+        {
+         "id": "3.3b",
+         "name": "Random (probability) sampling: simple random with and without replacement, stratified, systematic, cluster, multistage",
+         "scope": "In scope",
+         "sources": "JMI, NET; GK",
+         "status": "not_started"
+        },
+        {
+         "id": "3.3c",
+         "name": "Non-random sampling: judgement (purposive), quota, convenience, snowball",
+         "scope": "In scope",
+         "sources": "JMI, NET; GK",
+         "status": "not_started"
+        },
+        {
+         "id": "3.3d",
+         "name": "Sampling distribution of the sample mean and of a proportion; standard error; finite population correction",
+         "scope": "In scope",
+         "sources": "DU, JMI, CUK, NET; GK, GP",
+         "status": "not_started"
+        },
+        {
+         "id": "3.3e",
+         "name": "Chi-square, t and F distributions as sampling distributions: properties and relationships",
+         "scope": "In scope",
+         "sources": "DU, JMI, CUK; GK, GP",
+         "status": "not_started"
+        }
+       ],
        "after": ""
       },
       {
@@ -1863,7 +3970,64 @@
        "status": "not_started",
        "acc": null,
        "note": "",
-       "subtopics": [],
+       "subtopics": [
+        {
+         "id": "3.4a",
+         "name": "Point estimation: properties of estimators (unbiasedness, efficiency, consistency, sufficiency); mean squared error; small and large sample properties",
+         "scope": "In scope",
+         "sources": "DU, JMI, CUK, NET; GK, GP",
+         "status": "not_started"
+        },
+        {
+         "id": "3.4b",
+         "name": "Methods of estimation: method of moments, maximum likelihood; Cramer-Rao lower bound",
+         "scope": "In scope",
+         "sources": "DU, JMI; GK, GP",
+         "status": "not_started"
+        },
+        {
+         "id": "3.4c",
+         "name": "Interval estimation: confidence intervals for a mean, a proportion and a variance",
+         "scope": "In scope",
+         "sources": "JMI, CUK; GK, GP",
+         "status": "not_started"
+        },
+        {
+         "id": "3.4d",
+         "name": "Hypothesis-testing framework: null and alternative, Type I and Type II errors, size, level of significance, power, p-value, one- and two-tailed tests",
+         "scope": "In scope",
+         "sources": "DU, JMI, CUK, NET; GK, GP",
+         "status": "not_started"
+        },
+        {
+         "id": "3.4e",
+         "name": "Neyman-Pearson lemma, likelihood-ratio tests, most powerful and uniformly most powerful tests",
+         "scope": "In scope",
+         "sources": "DU, JMI; GK",
+         "status": "not_started"
+        },
+        {
+         "id": "3.4f",
+         "name": "Tests for means and variances: Z and t tests (one sample, two samples, paired), tests for proportions, F test for two variances",
+         "scope": "In scope",
+         "sources": "JMI, CUK; GK, GP",
+         "status": "not_started"
+        },
+        {
+         "id": "3.4g",
+         "name": "Chi-square tests (goodness of fit, independence, homogeneity) and one-way ANOVA",
+         "scope": "In scope",
+         "sources": "JMI, CUK; GK, GP",
+         "status": "not_started"
+        },
+        {
+         "id": "3.4h",
+         "name": "Non-parametric tests: sign test, Mann-Whitney and Kruskal-Wallis rank tests, Kendall's coefficient of concordance",
+         "scope": "In scope",
+         "sources": "JMI, CUK; GK",
+         "status": "not_started"
+        }
+       ],
        "after": ""
       },
       {
@@ -1872,7 +4036,92 @@
        "status": "not_started",
        "acc": null,
        "note": "",
-       "subtopics": [],
+       "subtopics": [
+        {
+         "id": "3.5a",
+         "name": "Nature and methodology of econometrics; population vs sample regression function; the stochastic error term",
+         "scope": "In scope",
+         "sources": "VB, CUK; GP, W",
+         "status": "not_started"
+        },
+        {
+         "id": "3.5b",
+         "name": "Two-variable model: OLS estimation, algebraic properties of OLS, residuals",
+         "scope": "In scope",
+         "sources": "DU, JMI, VB, CUK; GP, W",
+         "status": "not_started"
+        },
+        {
+         "id": "3.5c",
+         "name": "CLRM assumptions and the Gauss-Markov theorem: OLS is BLUE (normality not needed for BLUE)",
+         "scope": "In scope",
+         "sources": "DU, VB, CUK, NET; GP, W",
+         "status": "not_started"
+        },
+        {
+         "id": "3.5d",
+         "name": "Normality assumption and maximum likelihood; sampling distributions of the estimators; t tests and confidence intervals for coefficients",
+         "scope": "In scope",
+         "sources": "DU, JMI, VB, CUK; GP, W",
+         "status": "not_started"
+        },
+        {
+         "id": "3.5e",
+         "name": "Goodness of fit: R-squared and adjusted R-squared, ANOVA table, overall F test and its link to R-squared",
+         "scope": "In scope",
+         "sources": "DU, VB, CUK; GP, W",
+         "status": "not_started"
+        },
+        {
+         "id": "3.5f",
+         "name": "Multiple regression: estimation, partial regression coefficients, interpretation; testing linear restrictions (restricted least squares, F test); Chow test",
+         "scope": "In scope",
+         "sources": "JMI, VB, CUK; GP, W",
+         "status": "not_started"
+        },
+        {
+         "id": "3.5g",
+         "name": "Functional forms: log-log, log-lin, lin-log, reciprocal models; elasticities and growth rates from coefficients; scaling of variables",
+         "scope": "In scope",
+         "sources": "VB; GP, W",
+         "status": "not_started"
+        },
+        {
+         "id": "3.5h",
+         "name": "Multicollinearity: nature, consequences, detection (VIF, tolerance, high R-squared with few significant t ratios), remedies",
+         "scope": "In scope",
+         "sources": "JMI, VB, CUK; GP, W",
+         "status": "not_started"
+        },
+        {
+         "id": "3.5i",
+         "name": "Heteroscedasticity: consequences, detection (graphs, Park, Glejser, Goldfeld-Quandt, Breusch-Pagan, White), remedies (GLS/WLS, robust standard errors)",
+         "scope": "In scope",
+         "sources": "JMI, VB, CUK; GP, W",
+         "status": "not_started"
+        },
+        {
+         "id": "3.5j",
+         "name": "Autocorrelation: AR(1) errors, consequences, detection (Durbin-Watson d, runs test, Breusch-Godfrey), remedies (GLS, Cochrane-Orcutt, first differences)",
+         "scope": "In scope",
+         "sources": "JMI, VB, CUK; GP, W",
+         "status": "not_started"
+        },
+        {
+         "id": "3.5k",
+         "name": "Specification errors: omitted and irrelevant variables, wrong functional form, Ramsey RESET; errors of measurement; outliers",
+         "scope": "In scope",
+         "sources": "VB, CUK; GP, W",
+         "status": "not_started"
+        },
+        {
+         "id": "3.5l",
+         "name": "Dummy explanatory variables: intercept and slope dummies, dummy-variable trap, interaction effects, seasonal analysis, piecewise linear regression, structural stability",
+         "scope": "In scope",
+         "sources": "JMI, VB, CUK; GP, W",
+         "status": "not_started"
+        }
+       ],
        "after": ""
       },
       {
@@ -1881,7 +4130,36 @@
        "status": "not_started",
        "acc": null,
        "note": "",
-       "subtopics": [],
+       "subtopics": [
+        {
+         "id": "3.6a",
+         "name": "Structural vs reduced-form equations; reduced-form coefficients",
+         "scope": "In scope",
+         "sources": "JMI, VB, CUK; GP",
+         "status": "not_started"
+        },
+        {
+         "id": "3.6b",
+         "name": "The identification problem: under-, exact and over-identification (demand-supply example)",
+         "scope": "In scope",
+         "sources": "JMI, VB, CUK, NET; GP",
+         "status": "not_started"
+        },
+        {
+         "id": "3.6c",
+         "name": "Rules of identification: order condition (necessary) and rank condition (necessary and sufficient)",
+         "scope": "In scope",
+         "sources": "JMI, VB, CUK; GP",
+         "status": "not_started"
+        },
+        {
+         "id": "3.6d",
+         "name": "Hausman specification test for simultaneity and exogeneity",
+         "scope": "In scope",
+         "sources": "CUK; GP, W",
+         "status": "not_started"
+        }
+       ],
        "after": ""
       },
       {
@@ -1890,7 +4168,43 @@
        "status": "not_started",
        "acc": null,
        "note": "",
-       "subtopics": [],
+       "subtopics": [
+        {
+         "id": "3.7a",
+         "name": "Nature of simultaneous-equation models; simultaneity bias and inconsistency of OLS",
+         "scope": "In scope",
+         "sources": "JMI, VB, CUK; GP",
+         "status": "not_started"
+        },
+        {
+         "id": "3.7b",
+         "name": "Recursive (triangular) models and why OLS is valid in them; non-recursive systems",
+         "scope": "In scope",
+         "sources": "VB, NET; GP",
+         "status": "not_started"
+        },
+        {
+         "id": "3.7c",
+         "name": "Indirect least squares for exactly identified equations",
+         "scope": "In scope",
+         "sources": "VB, CUK; GP",
+         "status": "not_started"
+        },
+        {
+         "id": "3.7d",
+         "name": "Instrumental variables and two-stage least squares (2SLS)",
+         "scope": "In scope",
+         "sources": "VB, CUK; GP, W",
+         "status": "not_started"
+        },
+        {
+         "id": "3.7e",
+         "name": "Other methods: limited-information ML (least variance ratio); system methods 3SLS and FIML",
+         "scope": "Supplementary",
+         "sources": "VB; GP",
+         "status": "not_started"
+        }
+       ],
        "after": ""
       },
       {
@@ -1899,7 +4213,43 @@
        "status": "not_started",
        "acc": null,
        "note": "",
-       "subtopics": [],
+       "subtopics": [
+        {
+         "id": "3.8a",
+         "name": "Qualitative response models: why OLS fails; the linear probability model and its problems",
+         "scope": "In scope",
+         "sources": "JMI, VB, CUK; GP, W",
+         "status": "not_started"
+        },
+        {
+         "id": "3.8b",
+         "name": "Logit model: logistic CDF, odds and log-odds, interpretation, ML estimation",
+         "scope": "In scope",
+         "sources": "JMI, VB, CUK; GP, W",
+         "status": "not_started"
+        },
+        {
+         "id": "3.8c",
+         "name": "Probit model: normal CDF; logit vs probit; marginal effects",
+         "scope": "In scope",
+         "sources": "JMI, VB, CUK; GP, W",
+         "status": "not_started"
+        },
+        {
+         "id": "3.8d",
+         "name": "Goodness of fit in binary models: pseudo R-squared, count R-squared, likelihood-ratio test",
+         "scope": "In scope",
+         "sources": "VB; GP, W",
+         "status": "not_started"
+        },
+        {
+         "id": "3.8e",
+         "name": "Tobit (censored) model; multinomial and ordered logit/probit",
+         "scope": "In scope",
+         "sources": "VB, CUK; GP, W",
+         "status": "not_started"
+        }
+       ],
        "after": ""
       },
       {
@@ -1908,7 +4258,71 @@
        "status": "not_started",
        "acc": null,
        "note": "",
-       "subtopics": [],
+       "subtopics": [
+        {
+         "id": "3.9a",
+         "name": "Classical time series: components (trend, seasonal, cyclical, irregular); trend by moving averages and least squares; seasonal indices",
+         "scope": "In scope",
+         "sources": "CUK; GK, SP",
+         "status": "not_started"
+        },
+        {
+         "id": "3.9b",
+         "name": "Stochastic processes: strict and weak stationarity, autocovariance and autocorrelation functions, white noise",
+         "scope": "In scope",
+         "sources": "JMI, CUK; GP, E",
+         "status": "not_started"
+        },
+        {
+         "id": "3.9c",
+         "name": "Non-stationarity: random walk with and without drift, trend-stationary vs difference-stationary, integrated series, spurious regression",
+         "scope": "In scope",
+         "sources": "JMI, CUK; GP, E",
+         "status": "not_started"
+        },
+        {
+         "id": "3.9d",
+         "name": "Unit-root tests: Dickey-Fuller and augmented Dickey-Fuller",
+         "scope": "In scope",
+         "sources": "JMI, CUK; GP, E",
+         "status": "not_started"
+        },
+        {
+         "id": "3.9e",
+         "name": "Box-Jenkins ARIMA: AR, MA, ARMA, ARIMA; identification with ACF/PACF; estimation and forecasting",
+         "scope": "In scope",
+         "sources": "JMI; GP, E",
+         "status": "not_started"
+        },
+        {
+         "id": "3.9f",
+         "name": "VAR models and Granger causality",
+         "scope": "In scope",
+         "sources": "JMI, VB; GP, E",
+         "status": "not_started"
+        },
+        {
+         "id": "3.9g",
+         "name": "Cointegration and error-correction models: Engle-Granger and Johansen methods",
+         "scope": "In scope",
+         "sources": "JMI, CUK; GP, E",
+         "status": "not_started"
+        },
+        {
+         "id": "3.9h",
+         "name": "Distributed-lag and autoregressive models: Koyck, adaptive expectations, partial adjustment, Almon; Durbin h test",
+         "scope": "In scope",
+         "sources": "JMI, VB, CUK; GP",
+         "status": "not_started"
+        },
+        {
+         "id": "3.9i",
+         "name": "Volatility models: ARCH and GARCH",
+         "scope": "Supplementary",
+         "sources": "JMI; GP, E",
+         "status": "not_started"
+        }
+       ],
        "after": ""
       }
      ]
@@ -1936,7 +4350,57 @@
        "status": "not_started",
        "acc": null,
        "note": "",
-       "subtopics": [],
+       "subtopics": [
+        {
+         "id": "10.1a",
+         "name": "The economy at independence and the colonial legacy",
+         "scope": "Supplementary",
+         "sources": "CUK; UK",
+         "status": "not_started"
+        },
+        {
+         "id": "10.1b",
+         "name": "Planning in India: objectives and record of the Five-Year Plans, Mahalanobis strategy, Planning Commission to NITI Aayog",
+         "scope": "In scope",
+         "sources": "JMI, CUK; UK",
+         "status": "not_started"
+        },
+        {
+         "id": "10.1c",
+         "name": "Phases of growth: 'Hindu rate of growth', the 1980s, post-1991 acceleration; growth debates",
+         "scope": "In scope",
+         "sources": "VB, CUK, NET; UK, ES",
+         "status": "not_started"
+        },
+        {
+         "id": "10.1d",
+         "name": "Structural change: sectoral shares of output and employment; services-led growth; regional variations",
+         "scope": "In scope",
+         "sources": "VB, CUK, NET; ES",
+         "status": "not_started"
+        },
+        {
+         "id": "10.1e",
+         "name": "National accounts in India: GDP vs GVA, base-year revisions, NSO; savings, investment and capital formation; WPI and CPI",
+         "scope": "In scope",
+         "sources": "VB, NET; ES",
+         "status": "not_started"
+        },
+        {
+         "id": "10.1f",
+         "name": "1991 reforms: liberalisation, privatisation, globalisation; stabilisation and structural adjustment",
+         "scope": "In scope",
+         "sources": "JMI, VB, CUK; UK",
+         "status": "not_started"
+        },
+        {
+         "id": "10.1g",
+         "name": "Inclusive growth and its policies",
+         "scope": "In scope",
+         "sources": "VB; ES, UK",
+         "status": "not_started"
+        }
+       ],
        "after": ""
       },
       {
@@ -1945,7 +4409,57 @@
        "status": "not_started",
        "acc": null,
        "note": "",
-       "subtopics": [],
+       "subtopics": [
+        {
+         "id": "10.2a",
+         "name": "Role, growth and structure of agriculture: share in GDP and employment, cropping pattern, productivity, agriculture-industry links",
+         "scope": "In scope",
+         "sources": "DU, CUK, NET; ES, UK",
+         "status": "not_started"
+        },
+        {
+         "id": "10.2b",
+         "name": "Land reforms, land holdings and tenancy",
+         "scope": "In scope",
+         "sources": "JMI, CUK; UK",
+         "status": "not_started"
+        },
+        {
+         "id": "10.2c",
+         "name": "Green Revolution, technology and inputs (seeds, fertiliser, irrigation, mechanisation)",
+         "scope": "In scope",
+         "sources": "CUK, NET; UK",
+         "status": "not_started"
+        },
+        {
+         "id": "10.2d",
+         "name": "Agricultural price policy: MSP, CACP, procurement; input subsidies",
+         "scope": "In scope",
+         "sources": "JMI, CUK, NET; ES",
+         "status": "not_started"
+        },
+        {
+         "id": "10.2e",
+         "name": "Agricultural credit: institutional (NABARD, cooperatives, RRBs, Kisan Credit Card) and non-institutional",
+         "scope": "In scope",
+         "sources": "CUK, NET; ES",
+         "status": "not_started"
+        },
+        {
+         "id": "10.2f",
+         "name": "Agricultural marketing: APMC, e-NAM, the 2020 farm laws and their repeal",
+         "scope": "In scope",
+         "sources": "CUK, NET; ES",
+         "status": "not_started"
+        },
+        {
+         "id": "10.2g",
+         "name": "Challenges and policy responses: crop insurance (PMFBY), PM-KISAN, farm incomes, climate risk",
+         "scope": "In scope",
+         "sources": "NET; ES",
+         "status": "not_started"
+        }
+       ],
        "after": ""
       },
       {
@@ -1954,7 +4468,50 @@
        "status": "not_started",
        "acc": null,
        "note": "",
-       "subtopics": [],
+       "subtopics": [
+        {
+         "id": "10.3a",
+         "name": "Industrial policy before 1991: Industrial Policy Resolutions 1948 and 1956, licensing, MRTP",
+         "scope": "In scope",
+         "sources": "JMI, CUK; UK",
+         "status": "not_started"
+        },
+        {
+         "id": "10.3b",
+         "name": "New Industrial Policy 1991: delicensing, dereservation, FDI",
+         "scope": "In scope",
+         "sources": "JMI, CUK, NET; UK",
+         "status": "not_started"
+        },
+        {
+         "id": "10.3c",
+         "name": "Public sector: role and performance; privatisation and disinvestment; Maharatna and Navratna",
+         "scope": "In scope",
+         "sources": "JMI, CUK; UK, ES",
+         "status": "not_started"
+        },
+        {
+         "id": "10.3d",
+         "name": "MSMEs: definition (revised 2020), problems, policy; startups",
+         "scope": "In scope",
+         "sources": "CUK, NET; ES",
+         "status": "not_started"
+        },
+        {
+         "id": "10.3e",
+         "name": "Pattern and structure of industrial growth: IIP, manufacturing's share, premature deindustrialisation, industrial sickness",
+         "scope": "In scope",
+         "sources": "DU, CUK, NET; ES",
+         "status": "not_started"
+        },
+        {
+         "id": "10.3f",
+         "name": "Recent policy: Make in India, Production-Linked Incentive schemes, ease of doing business",
+         "scope": "In scope",
+         "sources": "NET; ES",
+         "status": "not_started"
+        }
+       ],
        "after": ""
       },
       {
@@ -1963,7 +4520,36 @@
        "status": "not_started",
        "acc": null,
        "note": "",
-       "subtopics": [],
+       "subtopics": [
+        {
+         "id": "10.4a",
+         "name": "Growth and share of services in output and employment; the services-led growth puzzle",
+         "scope": "In scope",
+         "sources": "VB, CUK, NET; ES",
+         "status": "not_started"
+        },
+        {
+         "id": "10.4b",
+         "name": "IT and IT-enabled services; software and services exports",
+         "scope": "In scope",
+         "sources": "CUK, NET; ES",
+         "status": "not_started"
+        },
+        {
+         "id": "10.4c",
+         "name": "Key sub-sectors: financial services, tourism, telecom, logistics, digital economy",
+         "scope": "In scope",
+         "sources": "NET; ES",
+         "status": "not_started"
+        },
+        {
+         "id": "10.4d",
+         "name": "Challenges and policy responses: low employment elasticity, informality, skilling",
+         "scope": "In scope",
+         "sources": "NET; ES",
+         "status": "not_started"
+        }
+       ],
        "after": ""
       },
       {
@@ -1972,7 +4558,43 @@
        "status": "not_started",
        "acc": null,
        "note": "",
-       "subtopics": [],
+       "subtopics": [
+        {
+         "id": "10.5a",
+         "name": "Rural poverty, employment and the rural non-farm sector",
+         "scope": "In scope",
+         "sources": "CUK, NET; ES",
+         "status": "not_started"
+        },
+        {
+         "id": "10.5b",
+         "name": "Rural development programmes: IRDP to NRLM, MGNREGA, PMAY-G, PMGSY",
+         "scope": "In scope",
+         "sources": "CUK, NET; ES",
+         "status": "not_started"
+        },
+        {
+         "id": "10.5c",
+         "name": "Panchayati Raj Institutions and the 73rd Amendment",
+         "scope": "In scope",
+         "sources": "JMI, NET; UK",
+         "status": "not_started"
+        },
+        {
+         "id": "10.5d",
+         "name": "Food security: PDS and TPDS, National Food Security Act 2013, PMGKAY",
+         "scope": "In scope",
+         "sources": "DU, NET; ES",
+         "status": "not_started"
+        },
+        {
+         "id": "10.5e",
+         "name": "Rural credit and microfinance: self-help groups, MFIs",
+         "scope": "In scope",
+         "sources": "CUK, NET; ES",
+         "status": "not_started"
+        }
+       ],
        "after": ""
       },
       {
@@ -1981,7 +4603,36 @@
        "status": "not_started",
        "acc": null,
        "note": "",
-       "subtopics": [],
+       "subtopics": [
+        {
+         "id": "10.6a",
+         "name": "Urbanisation in India: trends, patterns, census towns",
+         "scope": "In scope",
+         "sources": "CUK, NET; ES",
+         "status": "not_started"
+        },
+        {
+         "id": "10.6b",
+         "name": "Urban issues: slums, housing, informal work, infrastructure, urban poverty",
+         "scope": "In scope",
+         "sources": "VB, CUK, NET; ES",
+         "status": "not_started"
+        },
+        {
+         "id": "10.6c",
+         "name": "Urban policy: 74th Amendment, JNNURM, AMRUT, Smart Cities, PMAY-Urban, Swachh Bharat",
+         "scope": "In scope",
+         "sources": "CUK, NET; ES",
+         "status": "not_started"
+        },
+        {
+         "id": "10.6d",
+         "name": "Municipal finance and urban governance",
+         "scope": "Supplementary",
+         "sources": "VB; ES",
+         "status": "not_started"
+        }
+       ],
        "after": ""
       },
       {
@@ -1990,7 +4641,50 @@
        "status": "not_started",
        "acc": null,
        "note": "",
-       "subtopics": [],
+       "subtopics": [
+        {
+         "id": "10.7a",
+         "name": "Structure (composition) and direction of India's foreign trade; trends",
+         "scope": "In scope",
+         "sources": "JMI, CUK, NET; ES",
+         "status": "not_started"
+        },
+        {
+         "id": "10.7b",
+         "name": "Trade policy: import substitution to liberalisation; EXIM / Foreign Trade Policy (latest FTP 2023), SEZs, export promotion",
+         "scope": "In scope",
+         "sources": "JMI, CUK, NET; ES",
+         "status": "not_started"
+        },
+        {
+         "id": "10.7c",
+         "name": "India's balance of payments: trends, 1991 crisis, current account deficit, invisibles and remittances",
+         "scope": "In scope",
+         "sources": "JMI, VB, CUK, NET; ES, RBI",
+         "status": "not_started"
+        },
+        {
+         "id": "10.7d",
+         "name": "Exchange-rate policy: LERMS, market-determined rate, current and capital account convertibility (Tarapore committees)",
+         "scope": "In scope",
+         "sources": "JMI, VB, CUK; RBI",
+         "status": "not_started"
+        },
+        {
+         "id": "10.7e",
+         "name": "Foreign capital: FDI vs FPI, routes and policy, trends; external debt; forex reserves",
+         "scope": "In scope",
+         "sources": "VB, CUK, NET; ES, RBI",
+         "status": "not_started"
+        },
+        {
+         "id": "10.7f",
+         "name": "India's trade agreements: WTO commitments, FTAs and CEPAs",
+         "scope": "In scope",
+         "sources": "JMI, CUK; ES",
+         "status": "not_started"
+        }
+       ],
        "after": ""
       },
       {
@@ -1999,7 +4693,43 @@
        "status": "not_started",
        "acc": null,
        "note": "",
-       "subtopics": [],
+       "subtopics": [
+        {
+         "id": "10.8a",
+         "name": "Physical infrastructure: energy, transport (roads, railways, ports, airports), telecom, irrigation",
+         "scope": "In scope",
+         "sources": "CUK, NET; ES",
+         "status": "not_started"
+        },
+        {
+         "id": "10.8b",
+         "name": "Social infrastructure: education, health, housing, sanitation",
+         "scope": "In scope",
+         "sources": "CUK, NET; ES",
+         "status": "not_started"
+        },
+        {
+         "id": "10.8c",
+         "name": "Financing infrastructure: National Infrastructure Pipeline, NaBFID, InvITs, National Monetisation Pipeline",
+         "scope": "In scope",
+         "sources": "JMI, NET; ES",
+         "status": "not_started"
+        },
+        {
+         "id": "10.8d",
+         "name": "Public-private partnerships: BOT, BOOT, annuity, hybrid annuity model, EPC; viability gap funding; Kelkar Committee (2015)",
+         "scope": "In scope",
+         "sources": "DU, NET; ES",
+         "status": "not_started"
+        },
+        {
+         "id": "10.8e",
+         "name": "Flagship schemes: PM Gati Shakti, Bharatmala, Sagarmala, UDAN, Digital India",
+         "scope": "In scope",
+         "sources": "NET; ES",
+         "status": "not_started"
+        }
+       ],
        "after": ""
       },
       {
@@ -2008,7 +4738,43 @@
        "status": "not_started",
        "acc": null,
        "note": "",
-       "subtopics": [],
+       "subtopics": [
+        {
+         "id": "10.9a",
+         "name": "Land reforms and land markets: abolition of intermediaries, ceilings, tenancy, land records digitisation, Land Acquisition Act 2013",
+         "scope": "In scope",
+         "sources": "DU, JMI, CUK, NET; UK",
+         "status": "not_started"
+        },
+        {
+         "id": "10.9b",
+         "name": "Labour-market reforms: labour laws, the four Labour Codes, informal sector, social security",
+         "scope": "In scope",
+         "sources": "CUK, NET; ES",
+         "status": "not_started"
+        },
+        {
+         "id": "10.9c",
+         "name": "Capital and financial-market reforms: banking reforms, NPA resolution (SARFAESI, IBC 2016), debt market, insurance",
+         "scope": "In scope",
+         "sources": "JMI, CUK, NET; RBI, ES",
+         "status": "not_started"
+        },
+        {
+         "id": "10.9d",
+         "name": "Financial inclusion: PMJDY, JAM trinity, UPI",
+         "scope": "In scope",
+         "sources": "CUK; ES, RBI",
+         "status": "not_started"
+        },
+        {
+         "id": "10.9e",
+         "name": "Chronology of key economic reforms, Acts and regulatory bodies",
+         "scope": "In scope",
+         "sources": "NET; ES",
+         "status": "not_started"
+        }
+       ],
        "after": ""
       },
       {
@@ -2017,7 +4783,57 @@
        "status": "not_started",
        "acc": null,
        "note": "",
-       "subtopics": [],
+       "subtopics": [
+        {
+         "id": "10.10a",
+         "name": "Constitutional provisions: Seventh Schedule, Articles 268-293, Article 280 (Finance Commission)",
+         "scope": "In scope",
+         "sources": "JMI, CUK, NET; ES",
+         "status": "not_started"
+        },
+        {
+         "id": "10.10b",
+         "name": "Finance Commissions of India: terms of reference, devolution criteria and shares, grants; recent Commissions",
+         "scope": "In scope",
+         "sources": "CUK, NET; ES",
+         "status": "not_started"
+        },
+        {
+         "id": "10.10c",
+         "name": "Vertical and horizontal imbalances; Gadgil formula and centrally sponsored schemes",
+         "scope": "In scope",
+         "sources": "VB, CUK; ES",
+         "status": "not_started"
+        },
+        {
+         "id": "10.10d",
+         "name": "GST: structure, GST Council, compensation, rate rationalisation",
+         "scope": "In scope",
+         "sources": "DU, VB, CUK; ES",
+         "status": "not_started"
+        },
+        {
+         "id": "10.10e",
+         "name": "FRBM Act 2003, amendments, N.K. Singh Committee and fiscal targets; state fiscal responsibility laws",
+         "scope": "In scope",
+         "sources": "VB, CUK, NET; ES",
+         "status": "not_started"
+        },
+        {
+         "id": "10.10f",
+         "name": "Tax reforms in India: direct taxes (new Income-tax Act), indirect taxes",
+         "scope": "In scope",
+         "sources": "DU, VB, CUK; ES",
+         "status": "not_started"
+        },
+        {
+         "id": "10.10g",
+         "name": "Union and state finances: budget trends, deficits and debt",
+         "scope": "In scope",
+         "sources": "VB, NET; ES",
+         "status": "not_started"
+        }
+       ],
        "after": ""
       },
       {
@@ -2026,7 +4842,43 @@
        "status": "not_started",
        "acc": null,
        "note": "",
-       "subtopics": [],
+       "subtopics": [
+        {
+         "id": "10.11a",
+         "name": "Poverty estimation in India: Lakdawala, Tendulkar and Rangarajan methods; NITI Aayog MPI; the poverty debate",
+         "scope": "In scope",
+         "sources": "DU, VB, CUK, NET; ES",
+         "status": "not_started"
+        },
+        {
+         "id": "10.11b",
+         "name": "Inequality in India: consumption (HCES), income and wealth; regional inequality",
+         "scope": "In scope",
+         "sources": "DU, CUK, NET; ES",
+         "status": "not_started"
+        },
+        {
+         "id": "10.11c",
+         "name": "Poverty-alleviation programmes",
+         "scope": "In scope",
+         "sources": "CUK, NET; ES",
+         "status": "not_started"
+        },
+        {
+         "id": "10.11d",
+         "name": "Unemployment: types (open, disguised, seasonal, educated); measurement (usual status, CWS, CDS); NSSO and PLFS",
+         "scope": "In scope",
+         "sources": "CUK, NET; ES",
+         "status": "not_started"
+        },
+        {
+         "id": "10.11e",
+         "name": "Employment trends: jobless growth debate, informal sector, employment schemes",
+         "scope": "In scope",
+         "sources": "CUK, NET; ES",
+         "status": "not_started"
+        }
+       ],
        "after": ""
       }
      ]
@@ -4150,6 +7002,12 @@
    "title": "Paper I has been quiet",
    "why": "No Paper I questions or study in the last 7 days. Paper I is 100 of the 300 marks.",
    "action": "The plan has 30 minutes a day for Paper I."
+  },
+  {
+   "level": "medium",
+   "title": "You skipped 100% of NET popups this week",
+   "why": "10 of 10 NET popup questions were skipped.",
+   "action": "Each answered popup sharpens this tracker's picture of your weak spots."
   }
  ],
  "tests": [
@@ -4397,7 +7255,7 @@
  },
  "inputs": {
   "answers": 151,
-  "popups_seen": 86,
+  "popups_seen": 88,
   "study_rows": 16,
   "mocks": 0,
   "v2_synced": 0
