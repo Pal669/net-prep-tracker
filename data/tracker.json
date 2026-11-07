@@ -1,11 +1,11 @@
 {
- "generated": "2026-11-07T22:34",
- "today": "2026-11-07",
+ "generated": "2026-11-08T00:43",
+ "today": "2026-11-08",
  "exam": {
   "date": "2026-12-14",
   "label": "OFFICIAL WINDOW 14-21 Dec",
   "basis": "NTA UGC-NET Dec 2026 Information Bulletin (dated 2026-10-16): exam 14-18 Dec and 21 Dec 2026. Economics (code 01) subject-wise date not yet out; earliest day used. Saved: Govt Job/Government Teacher/notifications/2026-10-16_NTA-UGC-NET-Dec-2026-Information-Bulletin.pdf",
-  "days_left": 37
+  "days_left": 36
  },
  "status_labels": {
   "not_started": "Not started",
@@ -52,7 +52,7 @@
         "pct": 45.3,
         "last": "2026-11-07"
        },
-       "note": "A1-A5, A7, A8 done (1.1a-1.1e, 1.1l); A6 Revealed Preference in progress (NET done, 31 book Qs paused); next: finish A6, then blind Unit 1 end test",
+       "note": "A1-A8 done (1.1a-1.1e, 1.1g, 1.1l); next: blind Unit 1 end test",
        "subtopics": [
         {
          "id": "1.1a",
@@ -101,7 +101,7 @@
          "name": "Revealed preference: weak and strong axioms, testable implications, deriving demand and indifference curves",
          "scope": "In scope",
          "sources": "DU, JMI, VB, CUK; V ch7 · also K, OR, A, JR, NS (6 of 7)",
-         "status": "learning"
+         "status": "understood"
         },
         {
          "id": "1.1h",
@@ -5618,13 +5618,6 @@
  "untagged": 0,
  "trend": [
   {
-   "date": "2026-10-09",
-   "n": 0,
-   "pct": null,
-   "roll_n": 1,
-   "roll_pct": 100.0
-  },
-  {
    "date": "2026-10-10",
    "n": 17,
    "pct": 52.9,
@@ -5826,51 +5819,16 @@
    "pct": 0.0,
    "roll_n": 20,
    "roll_pct": 40.0
+  },
+  {
+   "date": "2026-11-08",
+   "n": 0,
+   "pct": null,
+   "roll_n": 13,
+   "roll_pct": 53.8
   }
  ],
  "calendar": [
-  {
-   "date": "2026-08-10",
-   "q": 0,
-   "sit": 0,
-   "min": 0
-  },
-  {
-   "date": "2026-08-11",
-   "q": 0,
-   "sit": 0,
-   "min": 0
-  },
-  {
-   "date": "2026-08-12",
-   "q": 0,
-   "sit": 0,
-   "min": 0
-  },
-  {
-   "date": "2026-08-13",
-   "q": 0,
-   "sit": 0,
-   "min": 0
-  },
-  {
-   "date": "2026-08-14",
-   "q": 0,
-   "sit": 0,
-   "min": 0
-  },
-  {
-   "date": "2026-08-15",
-   "q": 0,
-   "sit": 0,
-   "min": 0
-  },
-  {
-   "date": "2026-08-16",
-   "q": 0,
-   "sit": 0,
-   "min": 0
-  },
   {
    "date": "2026-08-17",
    "q": 0,
@@ -6368,6 +6326,12 @@
    "q": 2,
    "sit": 2,
    "min": 0
+  },
+  {
+   "date": "2026-11-08",
+   "q": 0,
+   "sit": 0,
+   "min": 0
   }
  ],
  "streak": 4,
@@ -6759,10 +6723,10 @@
  "revision_upcoming": 0,
  "pace": {
   "remaining": 88,
-  "needed_per_week": 16.6,
-  "rate_per_week": 1.0,
-  "recent_done_14d": 2,
-  "projected_finish": "2028-07-15",
+  "needed_per_week": 17.1,
+  "rate_per_week": 1.5,
+  "recent_done_14d": 3,
+  "projected_finish": "2027-12-23",
   "unit_flags": [
    {
     "paper": "P2",
@@ -6833,7 +6797,7 @@
    "pct": 45.3,
    "last": "2026-11-07"
   },
-  "note": "A1-A5, A7, A8 done (1.1a-1.1e, 1.1l); A6 Revealed Preference in progress (NET done, 31 book Qs paused); next: finish A6, then blind Unit 1 end test",
+  "note": "A1-A8 done (1.1a-1.1e, 1.1g, 1.1l); next: blind Unit 1 end test",
   "subtopics": [
    {
     "id": "1.1a",
@@ -6882,7 +6846,7 @@
     "name": "Revealed preference: weak and strong axioms, testable implications, deriving demand and indifference curves",
     "scope": "In scope",
     "sources": "DU, JMI, VB, CUK; V ch7 · also K, OR, A, JR, NS (6 of 7)",
-    "status": "learning"
+    "status": "understood"
    },
    {
     "id": "1.1h",
@@ -6946,7 +6910,7 @@
   {
    "level": "high",
    "title": "Paper II pace is behind the exam date",
-   "why": "2 topics understood in the last 14 days (1.0/week). 88 topics left; at this pace you finish around 2028-07-15, after the exam (2026-12-14, OFFICIAL WINDOW 14-21 Dec). Needed: 16.6 topics/week.",
+   "why": "3 topics understood in the last 14 days (1.5/week). 88 topics left; at this pace you finish around 2027-12-23, after the exam (2026-12-14, OFFICIAL WINDOW 14-21 Dec). Needed: 17.1 topics/week.",
    "action": "Decide: more hours, faster passes on familiar topics, or a later exam cycle."
   },
   {
@@ -6954,12 +6918,6 @@
    "title": "Weak area: Paper II · Unit 1 Micro Economics",
    "why": "45.3% correct over 150 questions (weak below 60%).",
    "action": "Revise this unit before adding new material."
-  },
-  {
-   "level": "high",
-   "title": "Accuracy is falling",
-   "why": "40.0% this week vs 51.2% the week before.",
-   "action": "Check the weak list below."
   },
   {
    "level": "medium",
