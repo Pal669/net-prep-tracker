@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-09T12:29",
+ "generated": "2026-11-09T15:53",
  "today": "2026-11-09",
  "exam": {
   "date": "2026-12-14",
@@ -681,8 +681,8 @@
      "total": 12,
      "done": 0,
      "acc": {
-      "right": 1,
-      "n": 1,
+      "right": 2,
+      "n": 2,
       "pct": 100.0,
       "last": "2026-10-07"
      },
@@ -739,8 +739,8 @@
        "name": "Determination of output and employment: Classical and Keynesian approach",
        "status": "not_started",
        "acc": {
-        "right": 1,
-        "n": 1,
+        "right": 2,
+        "n": 2,
         "pct": 100.0,
         "last": "2026-10-07"
        },
@@ -5534,15 +5534,15 @@
   }
  ],
  "overall": {
-  "right": 69,
-  "n": 151,
-  "pct": 45.7
+  "right": 70,
+  "n": 152,
+  "pct": 46.1
  },
  "by_paper": {
   "P2": {
-   "right": 69,
-   "n": 151,
-   "pct": 45.7,
+   "right": 70,
+   "n": 152,
+   "pct": 46.1,
    "last": "2026-11-07"
   }
  },
@@ -5584,8 +5584,8 @@
    "last": "2026-10-11"
   },
   "Direct": {
-   "right": 1,
-   "n": 1,
+   "right": 2,
+   "n": 2,
    "pct": 100.0,
    "last": "2026-10-07"
   }
@@ -5604,8 +5604,8 @@
    "last": "2026-10-30"
   },
   "Popup": {
-   "right": 1,
-   "n": 1,
+   "right": 2,
+   "n": 2,
    "pct": 100.0,
    "last": "2026-10-07"
   }
@@ -5621,22 +5621,22 @@
    "date": "2026-10-11",
    "n": 11,
    "pct": 36.4,
-   "roll_n": 29,
-   "roll_pct": 48.3
+   "roll_n": 30,
+   "roll_pct": 50.0
   },
   {
    "date": "2026-10-12",
    "n": 9,
    "pct": 22.2,
-   "roll_n": 38,
-   "roll_pct": 42.1
+   "roll_n": 39,
+   "roll_pct": 43.6
   },
   {
    "date": "2026-10-13",
    "n": 3,
    "pct": 33.3,
-   "roll_n": 41,
-   "roll_pct": 41.5
+   "roll_n": 42,
+   "roll_pct": 42.9
   },
   {
    "date": "2026-10-14",
@@ -6137,7 +6137,7 @@
   },
   {
    "date": "2026-10-07",
-   "q": 1,
+   "q": 2,
    "sit": 1,
    "min": 0
   },
@@ -6972,6 +6972,12 @@
    "title": "Paper I has been quiet",
    "why": "No Paper I questions or study in the last 7 days. Paper I is 100 of the 300 marks.",
    "action": "The plan has 30 minutes a day for Paper I."
+  },
+  {
+   "level": "medium",
+   "title": "You skipped 100% of NET popups this week",
+   "why": "19 of 19 NET popup questions were skipped.",
+   "action": "Each answered popup sharpens this tracker's picture of your weak spots."
   }
  ],
  "tests": [
@@ -7218,8 +7224,8 @@
   "paper1_quiet_days": 7
  },
  "inputs": {
-  "answers": 151,
-  "popups_seen": 88,
+  "answers": 152,
+  "popups_seen": 177,
   "study_rows": 16,
   "mocks": 0,
   "v2_synced": 0
