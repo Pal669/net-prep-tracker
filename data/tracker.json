@@ -1,11 +1,11 @@
 {
- "generated": "2026-11-09T15:53",
- "today": "2026-11-09",
+ "generated": "2026-11-10T10:36",
+ "today": "2026-11-10",
  "exam": {
   "date": "2026-12-14",
   "label": "OFFICIAL WINDOW 14-21 Dec",
   "basis": "NTA UGC-NET Dec 2026 Information Bulletin (dated 2026-10-16): exam 14-18 Dec and 21 Dec 2026. Economics (code 01) subject-wise date not yet out; earliest day used. Saved: Govt Job/Government Teacher/notifications/2026-10-16_NTA-UGC-NET-Dec-2026-Information-Bulletin.pdf",
-  "days_left": 35
+  "days_left": 34
  },
  "status_labels": {
   "not_started": "Not started",
@@ -5618,13 +5618,6 @@
  "untagged": 0,
  "trend": [
   {
-   "date": "2026-10-11",
-   "n": 11,
-   "pct": 36.4,
-   "roll_n": 30,
-   "roll_pct": 50.0
-  },
-  {
    "date": "2026-10-12",
    "n": 9,
    "pct": 22.2,
@@ -5822,6 +5815,13 @@
   },
   {
    "date": "2026-11-09",
+   "n": 0,
+   "pct": null,
+   "roll_n": 13,
+   "roll_pct": 53.8
+  },
+  {
+   "date": "2026-11-10",
    "n": 0,
    "pct": null,
    "roll_n": 13,
@@ -6338,11 +6338,17 @@
    "q": 0,
    "sit": 0,
    "min": 0
+  },
+  {
+   "date": "2026-11-10",
+   "q": 0,
+   "sit": 0,
+   "min": 0
   }
  ],
  "streak": 0,
  "last_active": "2026-11-07",
- "active_days_30": 16,
+ "active_days_30": 15,
  "strengths": {
   "units": [],
   "topics": [],
@@ -6729,10 +6735,10 @@
  "revision_upcoming": 0,
  "pace": {
   "remaining": 88,
-  "needed_per_week": 17.6,
+  "needed_per_week": 18.1,
   "rate_per_week": 1.5,
   "recent_done_14d": 3,
-  "projected_finish": "2027-12-24",
+  "projected_finish": "2027-12-25",
   "unit_flags": [
    {
     "paper": "P2",
@@ -6922,7 +6928,7 @@
   {
    "level": "high",
    "title": "Paper II pace is behind the exam date",
-   "why": "3 topics understood in the last 14 days (1.5/week). 88 topics left; at this pace you finish around 2027-12-24, after the exam (2026-12-14, OFFICIAL WINDOW 14-21 Dec). Needed: 17.6 topics/week.",
+   "why": "3 topics understood in the last 14 days (1.5/week). 88 topics left; at this pace you finish around 2027-12-25, after the exam (2026-12-14, OFFICIAL WINDOW 14-21 Dec). Needed: 18.1 topics/week.",
    "action": "Decide: more hours, faster passes on familiar topics, or a later exam cycle."
   },
   {
@@ -6976,7 +6982,7 @@
   {
    "level": "medium",
    "title": "You skipped 100% of NET popups this week",
-   "why": "19 of 19 NET popup questions were skipped.",
+   "why": "18 of 18 NET popup questions were skipped.",
    "action": "Each answered popup sharpens this tracker's picture of your weak spots."
   }
  ],
@@ -7225,7 +7231,7 @@
  },
  "inputs": {
   "answers": 152,
-  "popups_seen": 177,
+  "popups_seen": 178,
   "study_rows": 16,
   "mocks": 0,
   "v2_synced": 0
