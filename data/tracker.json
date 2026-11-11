@@ -1,11 +1,11 @@
 {
- "generated": "2026-11-10T10:36",
- "today": "2026-11-10",
+ "generated": "2026-11-11T10:19",
+ "today": "2026-11-11",
  "exam": {
   "date": "2026-12-14",
   "label": "OFFICIAL WINDOW 14-21 Dec",
   "basis": "NTA UGC-NET Dec 2026 Information Bulletin (dated 2026-10-16): exam 14-18 Dec and 21 Dec 2026. Economics (code 01) subject-wise date not yet out; earliest day used. Saved: Govt Job/Government Teacher/notifications/2026-10-16_NTA-UGC-NET-Dec-2026-Information-Bulletin.pdf",
-  "days_left": 34
+  "days_left": 33
  },
  "status_labels": {
   "not_started": "Not started",
@@ -5618,13 +5618,6 @@
  "untagged": 0,
  "trend": [
   {
-   "date": "2026-10-12",
-   "n": 9,
-   "pct": 22.2,
-   "roll_n": 39,
-   "roll_pct": 43.6
-  },
-  {
    "date": "2026-10-13",
    "n": 3,
    "pct": 33.3,
@@ -5826,6 +5819,13 @@
    "pct": null,
    "roll_n": 13,
    "roll_pct": 53.8
+  },
+  {
+   "date": "2026-11-11",
+   "n": 0,
+   "pct": null,
+   "roll_n": 9,
+   "roll_pct": 33.3
   }
  ],
  "calendar": [
@@ -6344,11 +6344,17 @@
    "q": 0,
    "sit": 0,
    "min": 0
+  },
+  {
+   "date": "2026-11-11",
+   "q": 0,
+   "sit": 0,
+   "min": 0
   }
  ],
  "streak": 0,
  "last_active": "2026-11-07",
- "active_days_30": 15,
+ "active_days_30": 14,
  "strengths": {
   "units": [],
   "topics": [],
@@ -6735,10 +6741,10 @@
  "revision_upcoming": 0,
  "pace": {
   "remaining": 88,
-  "needed_per_week": 18.1,
+  "needed_per_week": 18.7,
   "rate_per_week": 1.5,
   "recent_done_14d": 3,
-  "projected_finish": "2027-12-25",
+  "projected_finish": "2027-12-26",
   "unit_flags": [
    {
     "paper": "P2",
@@ -6771,7 +6777,7 @@
     "paper": "P2",
     "unit": 5,
     "name": "International Economics",
-    "flag": "at risk",
+    "flag": "overdue",
     "target": "2026-11-10",
     "done": 0,
     "total": 10
@@ -6780,7 +6786,7 @@
     "paper": "P2",
     "unit": 4,
     "name": "Mathematical Economics",
-    "flag": "at risk",
+    "flag": "overdue",
     "target": "2026-11-10",
     "done": 0,
     "total": 6
@@ -6928,7 +6934,7 @@
   {
    "level": "high",
    "title": "Paper II pace is behind the exam date",
-   "why": "3 topics understood in the last 14 days (1.5/week). 88 topics left; at this pace you finish around 2027-12-25, after the exam (2026-12-14, OFFICIAL WINDOW 14-21 Dec). Needed: 18.1 topics/week.",
+   "why": "3 topics understood in the last 14 days (1.5/week). 88 topics left; at this pace you finish around 2027-12-26, after the exam (2026-12-14, OFFICIAL WINDOW 14-21 Dec). Needed: 18.7 topics/week.",
    "action": "Decide: more hours, faster passes on familiar topics, or a later exam cycle."
   },
   {
@@ -6953,6 +6959,18 @@
    "level": "medium",
    "title": "Unit 7 Money and Banking is past its plan date",
    "why": "Planned to finish by 2026-10-27; 0/6 topics done.",
+   "action": "Re-plan or speed up this unit."
+  },
+  {
+   "level": "medium",
+   "title": "Unit 5 International Economics is past its plan date",
+   "why": "Planned to finish by 2026-11-10; 0/10 topics done.",
+   "action": "Re-plan or speed up this unit."
+  },
+  {
+   "level": "medium",
+   "title": "Unit 4 Mathematical Economics is past its plan date",
+   "why": "Planned to finish by 2026-11-10; 0/6 topics done.",
    "action": "Re-plan or speed up this unit."
   },
   {
@@ -6982,7 +7000,7 @@
   {
    "level": "medium",
    "title": "You skipped 100% of NET popups this week",
-   "why": "18 of 18 NET popup questions were skipped.",
+   "why": "30 of 30 NET popup questions were skipped.",
    "action": "Each answered popup sharpens this tracker's picture of your weak spots."
   }
  ],
@@ -7231,7 +7249,7 @@
  },
  "inputs": {
   "answers": 152,
-  "popups_seen": 178,
+  "popups_seen": 190,
   "study_rows": 16,
   "mocks": 0,
   "v2_synced": 0
