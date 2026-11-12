@@ -1,11 +1,11 @@
 {
- "generated": "2026-11-11T10:19",
- "today": "2026-11-11",
+ "generated": "2026-11-12T22:26",
+ "today": "2026-11-12",
  "exam": {
   "date": "2026-12-14",
   "label": "OFFICIAL WINDOW 14-21 Dec",
   "basis": "NTA UGC-NET Dec 2026 Information Bulletin (dated 2026-10-16): exam 14-18 Dec and 21 Dec 2026. Economics (code 01) subject-wise date not yet out; earliest day used. Saved: Govt Job/Government Teacher/notifications/2026-10-16_NTA-UGC-NET-Dec-2026-Information-Bulletin.pdf",
-  "days_left": 33
+  "days_left": 32
  },
  "status_labels": {
   "not_started": "Not started",
@@ -681,13 +681,13 @@
      "total": 12,
      "done": 0,
      "acc": {
-      "right": 2,
-      "n": 2,
-      "pct": 100.0,
-      "last": "2026-10-07"
+      "right": 10,
+      "n": 14,
+      "pct": 71.4,
+      "last": "2026-11-11"
      },
      "target": "2026-10-27",
-     "open_mistakes": 0,
+     "open_mistakes": 4,
      "topics": [
       {
        "id": "2.1",
@@ -1013,7 +1013,12 @@
        "id": "2.8",
        "name": "IS-LM Model Approach",
        "status": "learning",
-       "acc": null,
+       "acc": {
+        "right": 8,
+        "n": 12,
+        "pct": 66.7,
+        "last": "2026-11-11"
+       },
        "note": "Macro evergreen-first (#53); Lesson M1 IS-LM, Step 1 of 13 taught; resume Step 2",
        "subtopics": [
         {
@@ -5534,24 +5539,24 @@
   }
  ],
  "overall": {
-  "right": 70,
-  "n": 152,
-  "pct": 46.1
+  "right": 78,
+  "n": 164,
+  "pct": 47.6
  },
  "by_paper": {
   "P2": {
-   "right": 70,
-   "n": 152,
-   "pct": 46.1,
-   "last": "2026-11-07"
+   "right": 78,
+   "n": 164,
+   "pct": 47.6,
+   "last": "2026-11-11"
   }
  },
  "by_format": {
   "Numerical": {
-   "right": 4,
-   "n": 17,
-   "pct": 23.5,
-   "last": "2026-10-31"
+   "right": 6,
+   "n": 19,
+   "pct": 31.6,
+   "last": "2026-11-10"
   },
   "Diagram": {
    "right": 4,
@@ -5572,10 +5577,10 @@
    "last": "2026-10-13"
   },
   "Objective": {
-   "right": 37,
-   "n": 60,
-   "pct": 61.7,
-   "last": "2026-11-07"
+   "right": 43,
+   "n": 70,
+   "pct": 61.4,
+   "last": "2026-11-11"
   },
   "Application": {
    "right": 0,
@@ -5598,10 +5603,10 @@
    "last": "2026-11-07"
   },
   "Past paper": {
-   "right": 28,
-   "n": 37,
-   "pct": 75.7,
-   "last": "2026-10-30"
+   "right": 36,
+   "n": 49,
+   "pct": 73.5,
+   "last": "2026-11-11"
   },
   "Popup": {
    "right": 2,
@@ -5611,19 +5616,12 @@
   }
  },
  "causes": {
-  "Concept gap": 73,
+  "Concept gap": 77,
   "Recall": 7,
   "Careless": 2
  },
  "untagged": 0,
  "trend": [
-  {
-   "date": "2026-10-13",
-   "n": 3,
-   "pct": 33.3,
-   "roll_n": 42,
-   "roll_pct": 42.9
-  },
   {
    "date": "2026-10-14",
    "n": 5,
@@ -5815,17 +5813,24 @@
   },
   {
    "date": "2026-11-10",
-   "n": 0,
-   "pct": null,
-   "roll_n": 13,
-   "roll_pct": 53.8
+   "n": 7,
+   "pct": 71.4,
+   "roll_n": 20,
+   "roll_pct": 60.0
   },
   {
    "date": "2026-11-11",
+   "n": 5,
+   "pct": 60.0,
+   "roll_n": 21,
+   "roll_pct": 52.4
+  },
+  {
+   "date": "2026-11-12",
    "n": 0,
    "pct": null,
-   "roll_n": 9,
-   "roll_pct": 33.3
+   "roll_n": 18,
+   "roll_pct": 55.6
   }
  ],
  "calendar": [
@@ -6341,20 +6346,26 @@
   },
   {
    "date": "2026-11-10",
-   "q": 0,
+   "q": 7,
    "sit": 0,
    "min": 0
   },
   {
    "date": "2026-11-11",
+   "q": 5,
+   "sit": 0,
+   "min": 0
+  },
+  {
+   "date": "2026-11-12",
    "q": 0,
    "sit": 0,
    "min": 0
   }
  ],
- "streak": 0,
- "last_active": "2026-11-07",
- "active_days_30": 14,
+ "streak": 2,
+ "last_active": "2026-11-11",
+ "active_days_30": 15,
  "strengths": {
   "units": [],
   "topics": [],
@@ -6393,10 +6404,10 @@
    {
     "key": "Numerical",
     "label": "Numerical",
-    "right": 4,
-    "n": 17,
-    "pct": 23.5,
-    "last": "2026-10-31"
+    "right": 6,
+    "n": 19,
+    "pct": 31.6,
+    "last": "2026-11-10"
    },
    {
     "key": "Diagram",
@@ -6736,15 +6747,55 @@
    "cause": "Concept gap",
    "next": "2026-10-15",
    "status": "Open"
+  },
+  {
+   "unit": 2,
+   "folder": "02-Macro",
+   "date": "2026-11-10",
+   "topic": "2.8 IS-LM",
+   "question": "NET 18J2-40: nature of IS-LM equilibrium",
+   "cause": "Concept gap",
+   "next": "2026-11-11",
+   "status": "Open"
+  },
+  {
+   "unit": 2,
+   "folder": "02-Macro",
+   "date": "2026-11-10",
+   "topic": "2.8 IS-LM",
+   "question": "NET 22D2-140: smaller multiplier + less interest-sensitive I → IS steeper?",
+   "cause": "Concept gap",
+   "next": "2026-11-11",
+   "status": "Open"
+  },
+  {
+   "unit": 2,
+   "folder": "02-Macro",
+   "date": "2026-11-11",
+   "topic": "2.8 IS-LM",
+   "question": "NET 13D3-13: which slope statement is false",
+   "cause": "Concept gap",
+   "next": "2026-11-12",
+   "status": "Open"
+  },
+  {
+   "unit": 2,
+   "folder": "02-Macro",
+   "date": "2026-11-11",
+   "topic": "2.8 IS-LM",
+   "question": "NET 15J2-19: slope of LM depends on",
+   "cause": "Concept gap",
+   "next": "2026-11-12",
+   "status": "Open"
   }
  ],
  "revision_upcoming": 0,
  "pace": {
   "remaining": 88,
-  "needed_per_week": 18.7,
+  "needed_per_week": 19.2,
   "rate_per_week": 1.5,
   "recent_done_14d": 3,
-  "projected_finish": "2027-12-26",
+  "projected_finish": "2027-12-27",
   "unit_flags": [
    {
     "paper": "P2",
@@ -6921,20 +6972,14 @@
  "nudges": [
   {
    "level": "high",
-   "title": "32 revision questions due",
+   "title": "36 revision questions due",
    "why": "Mistakes come back after 1, 3 and 7 days; these have reached their review date.",
    "action": "Say \"revise my mistakes\" to the economics teacher."
   },
   {
    "level": "high",
-   "title": "No study logged recently",
-   "why": "Last activity: 2026-11-07.",
-   "action": "Even one section today keeps the thread."
-  },
-  {
-   "level": "high",
    "title": "Paper II pace is behind the exam date",
-   "why": "3 topics understood in the last 14 days (1.5/week). 88 topics left; at this pace you finish around 2027-12-26, after the exam (2026-12-14, OFFICIAL WINDOW 14-21 Dec). Needed: 18.7 topics/week.",
+   "why": "3 topics understood in the last 14 days (1.5/week). 88 topics left; at this pace you finish around 2027-12-27, after the exam (2026-12-14, OFFICIAL WINDOW 14-21 Dec). Needed: 19.2 topics/week.",
    "action": "Decide: more hours, faster passes on familiar topics, or a later exam cycle."
   },
   {
@@ -6988,7 +7033,7 @@
   {
    "level": "medium",
    "title": "Most mistakes are 'Concept gap'",
-   "why": "73 of 82 classified mistakes (89%).",
+   "why": "77 of 86 classified mistakes (90%).",
    "action": "Understanding gaps: go back to the lesson before more questions."
   },
   {
@@ -7000,11 +7045,31 @@
   {
    "level": "medium",
    "title": "You skipped 100% of NET popups this week",
-   "why": "30 of 30 NET popup questions were skipped.",
+   "why": "26 of 26 NET popup questions were skipped.",
    "action": "Each answered popup sharpens this tracker's picture of your weak spots."
   }
  ],
  "tests": [
+  {
+   "date": "2026-11-11",
+   "source": "Past paper",
+   "paper": "P2",
+   "topic": "2.8",
+   "topic_name": "IS-LM Model Approach",
+   "right": 3,
+   "n": 5,
+   "pct": 60.0
+  },
+  {
+   "date": "2026-11-10",
+   "source": "Past paper",
+   "paper": "P2",
+   "topic": "2.8",
+   "topic_name": "IS-LM Model Approach",
+   "right": 5,
+   "n": 7,
+   "pct": 71.4
+  },
   {
    "date": "2026-11-07",
    "source": "Teacher test",
@@ -7248,7 +7313,7 @@
   "paper1_quiet_days": 7
  },
  "inputs": {
-  "answers": 152,
+  "answers": 164,
   "popups_seen": 190,
   "study_rows": 16,
   "mocks": 0,
