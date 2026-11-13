@@ -1,11 +1,11 @@
 {
- "generated": "2026-11-13T10:45",
- "today": "2026-11-13",
+ "generated": "2026-11-14T01:26",
+ "today": "2026-11-14",
  "exam": {
   "date": "2026-12-14",
   "label": "OFFICIAL WINDOW 14-21 Dec",
   "basis": "NTA UGC-NET Dec 2026 Information Bulletin (dated 2026-10-16): exam 14-18 Dec and 21 Dec 2026. Economics (code 01) subject-wise date not yet out; earliest day used. Saved: Govt Job/Government Teacher/notifications/2026-10-16_NTA-UGC-NET-Dec-2026-Information-Bulletin.pdf",
-  "days_left": 31
+  "days_left": 30
  },
  "status_labels": {
   "not_started": "Not started",
@@ -5623,13 +5623,6 @@
  "untagged": 0,
  "trend": [
   {
-   "date": "2026-10-15",
-   "n": 0,
-   "pct": null,
-   "roll_n": 45,
-   "roll_pct": 37.8
-  },
-  {
    "date": "2026-10-16",
    "n": 0,
    "pct": null,
@@ -5831,6 +5824,13 @@
    "pct": null,
    "roll_n": 14,
    "roll_pct": 57.1
+  },
+  {
+   "date": "2026-11-14",
+   "n": 0,
+   "pct": null,
+   "roll_n": 12,
+   "roll_pct": 66.7
   }
  ],
  "calendar": [
@@ -6367,6 +6367,12 @@
    "q": 0,
    "sit": 0,
    "min": 0
+  },
+  {
+   "date": "2026-11-14",
+   "q": 0,
+   "sit": 0,
+   "min": 0
   }
  ],
  "streak": 0,
@@ -6798,10 +6804,10 @@
  "revision_upcoming": 0,
  "pace": {
   "remaining": 88,
-  "needed_per_week": 19.9,
+  "needed_per_week": 20.5,
   "rate_per_week": 1.5,
   "recent_done_14d": 3,
-  "projected_finish": "2027-12-28",
+  "projected_finish": "2027-12-29",
   "unit_flags": [
    {
     "paper": "P2",
@@ -6838,6 +6844,24 @@
     "target": "2026-11-10",
     "done": 0,
     "total": 10
+   },
+   {
+    "paper": "P2",
+    "unit": 6,
+    "name": "Public Economics",
+    "flag": "at risk",
+    "target": "2026-11-17",
+    "done": 0,
+    "total": 7
+   },
+   {
+    "paper": "P2",
+    "unit": 8,
+    "name": "Growth and Development Economics",
+    "flag": "at risk",
+    "target": "2026-11-17",
+    "done": 0,
+    "total": 7
    },
    {
     "paper": "P2",
@@ -6991,7 +7015,7 @@
   {
    "level": "high",
    "title": "Paper II pace is behind the exam date",
-   "why": "3 topics understood in the last 14 days (1.5/week). 88 topics left; at this pace you finish around 2027-12-28, after the exam (2026-12-14, OFFICIAL WINDOW 14-21 Dec). Needed: 19.9 topics/week.",
+   "why": "3 topics understood in the last 14 days (1.5/week). 88 topics left; at this pace you finish around 2027-12-29, after the exam (2026-12-14, OFFICIAL WINDOW 14-21 Dec). Needed: 20.5 topics/week.",
    "action": "Decide: more hours, faster passes on familiar topics, or a later exam cycle."
   },
   {
@@ -7057,13 +7081,13 @@
   {
    "level": "medium",
    "title": "You skipped 100% of NET popups this week",
-   "why": "24 of 24 NET popup questions were skipped.",
+   "why": "15 of 15 NET popup questions were skipped.",
    "action": "Each answered popup sharpens this tracker's picture of your weak spots."
   },
   {
    "level": "good",
    "title": "Accuracy is rising",
-   "why": "57.1% this week vs 37.5% the week before.",
+   "why": "66.7% this week vs 40.0% the week before.",
    "action": ""
   }
  ],
@@ -7332,7 +7356,7 @@
  },
  "inputs": {
   "answers": 164,
-  "popups_seen": 190,
+  "popups_seen": 191,
   "study_rows": 16,
   "mocks": 0,
   "v2_synced": 0
