@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-14T13:45",
+ "generated": "2026-11-14T23:53",
  "today": "2026-11-14",
  "exam": {
   "date": "2026-12-14",
@@ -7081,7 +7081,7 @@
   {
    "level": "medium",
    "title": "You skipped 100% of NET popups this week",
-   "why": "15 of 15 NET popup questions were skipped.",
+   "why": "16 of 16 NET popup questions were skipped.",
    "action": "Each answered popup sharpens this tracker's picture of your weak spots."
   },
   {
@@ -7356,7 +7356,7 @@
  },
  "inputs": {
   "answers": 164,
-  "popups_seen": 191,
+  "popups_seen": 192,
   "study_rows": 16,
   "mocks": 0,
   "v2_synced": 0
