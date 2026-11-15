@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-15T12:26",
+ "generated": "2026-11-15T21:45",
  "today": "2026-11-15",
  "exam": {
   "date": "2026-12-14",
@@ -681,13 +681,13 @@
      "total": 12,
      "done": 0,
      "acc": {
-      "right": 10,
-      "n": 14,
-      "pct": 71.4,
-      "last": "2026-11-11"
+      "right": 20,
+      "n": 30,
+      "pct": 66.7,
+      "last": "2026-11-15"
      },
      "target": "2026-10-27",
-     "open_mistakes": 4,
+     "open_mistakes": 9,
      "topics": [
       {
        "id": "2.1",
@@ -1014,10 +1014,10 @@
        "name": "IS-LM Model Approach",
        "status": "learning",
        "acc": {
-        "right": 8,
-        "n": 12,
-        "pct": 66.7,
-        "last": "2026-11-11"
+        "right": 18,
+        "n": 28,
+        "pct": 64.3,
+        "last": "2026-11-15"
        },
        "note": "Macro evergreen-first (#53); Lesson M1 IS-LM, Step 1 of 13 taught; resume Step 2",
        "subtopics": [
@@ -5539,24 +5539,24 @@
   }
  ],
  "overall": {
-  "right": 78,
-  "n": 164,
-  "pct": 47.6
+  "right": 88,
+  "n": 180,
+  "pct": 48.9
  },
  "by_paper": {
   "P2": {
-   "right": 78,
-   "n": 164,
-   "pct": 47.6,
-   "last": "2026-11-11"
+   "right": 88,
+   "n": 180,
+   "pct": 48.9,
+   "last": "2026-11-15"
   }
  },
  "by_format": {
   "Numerical": {
-   "right": 6,
-   "n": 19,
-   "pct": 31.6,
-   "last": "2026-11-10"
+   "right": 7,
+   "n": 20,
+   "pct": 35.0,
+   "last": "2026-11-15"
   },
   "Diagram": {
    "right": 4,
@@ -5577,10 +5577,10 @@
    "last": "2026-10-13"
   },
   "Objective": {
-   "right": 43,
-   "n": 70,
-   "pct": 61.4,
-   "last": "2026-11-11"
+   "right": 52,
+   "n": 85,
+   "pct": 61.2,
+   "last": "2026-11-15"
   },
   "Application": {
    "right": 0,
@@ -5603,10 +5603,16 @@
    "last": "2026-11-07"
   },
   "Past paper": {
-   "right": 36,
-   "n": 49,
-   "pct": 73.5,
-   "last": "2026-11-11"
+   "right": 43,
+   "n": 61,
+   "pct": 70.5,
+   "last": "2026-11-15"
+  },
+  "Revision": {
+   "right": 3,
+   "n": 4,
+   "pct": 75.0,
+   "last": "2026-11-14"
   },
   "Popup": {
    "right": 2,
@@ -5616,8 +5622,8 @@
   }
  },
  "causes": {
-  "Concept gap": 77,
-  "Recall": 7,
+  "Concept gap": 82,
+  "Recall": 8,
   "Careless": 2
  },
  "untagged": 0,
@@ -5820,17 +5826,17 @@
   },
   {
    "date": "2026-11-14",
-   "n": 0,
-   "pct": null,
-   "roll_n": 12,
+   "n": 12,
+   "pct": 66.7,
+   "roll_n": 24,
    "roll_pct": 66.7
   },
   {
    "date": "2026-11-15",
-   "n": 0,
-   "pct": null,
-   "roll_n": 12,
-   "roll_pct": 66.7
+   "n": 4,
+   "pct": 50.0,
+   "roll_n": 28,
+   "roll_pct": 64.3
   }
  ],
  "calendar": [
@@ -6328,7 +6334,13 @@
   },
   {
    "date": "2026-11-14",
-   "q": 0,
+   "q": 12,
+   "sit": 0,
+   "min": 0
+  },
+  {
+   "date": "2026-11-15",
+   "q": 4,
    "sit": 0,
    "min": 0
   },
@@ -6339,9 +6351,9 @@
    "min": 0
   }
  ],
- "streak": 0,
- "last_active": "2026-11-11",
- "active_days_30": 14,
+ "streak": 2,
+ "last_active": "2026-11-15",
+ "active_days_30": 16,
  "strengths": {
   "units": [],
   "topics": [],
@@ -6378,20 +6390,20 @@
     "last": "2026-10-13"
    },
    {
-    "key": "Numerical",
-    "label": "Numerical",
-    "right": 6,
-    "n": 19,
-    "pct": 31.6,
-    "last": "2026-11-10"
-   },
-   {
     "key": "Diagram",
     "label": "Diagram",
     "right": 4,
     "n": 12,
     "pct": 33.3,
     "last": "2026-10-30"
+   },
+   {
+    "key": "Numerical",
+    "label": "Numerical",
+    "right": 7,
+    "n": 20,
+    "pct": 35.0,
+    "last": "2026-11-15"
    },
    {
     "key": "Explain",
@@ -6731,7 +6743,7 @@
    "topic": "2.8 IS-LM",
    "question": "NET 18J2-40: nature of IS-LM equilibrium",
    "cause": "Concept gap",
-   "next": "2026-11-11",
+   "next": "2026-11-15",
    "status": "Open"
   },
   {
@@ -6741,8 +6753,8 @@
    "topic": "2.8 IS-LM",
    "question": "NET 22D2-140: smaller multiplier + less interest-sensitive I → IS steeper?",
    "cause": "Concept gap",
-   "next": "2026-11-11",
-   "status": "Open"
+   "next": "2026-11-15",
+   "status": "Open (1 right)"
   },
   {
    "unit": 2,
@@ -6751,8 +6763,8 @@
    "topic": "2.8 IS-LM",
    "question": "NET 13D3-13: which slope statement is false",
    "cause": "Concept gap",
-   "next": "2026-11-12",
-   "status": "Open"
+   "next": "2026-11-15",
+   "status": "Open (1 right)"
   },
   {
    "unit": 2,
@@ -6761,11 +6773,41 @@
    "topic": "2.8 IS-LM",
    "question": "NET 15J2-19: slope of LM depends on",
    "cause": "Concept gap",
-   "next": "2026-11-12",
+   "next": "2026-11-15",
+   "status": "Open (1 right)"
+  },
+  {
+   "unit": 2,
+   "folder": "02-Macro",
+   "date": "2026-11-14",
+   "topic": "2.8 IS-LM",
+   "question": "NET 10D2-14: liquidity trap = money demand is",
+   "cause": "Concept gap",
+   "next": "2026-11-15",
+   "status": "Open"
+  },
+  {
+   "unit": 2,
+   "folder": "02-Macro",
+   "date": "2026-11-14",
+   "topic": "2.8 IS-LM",
+   "question": "NET 12J3-12: liquidity trap = investors expect r to",
+   "cause": "Concept gap",
+   "next": "2026-11-15",
+   "status": "Open"
+  },
+  {
+   "unit": 2,
+   "folder": "02-Macro",
+   "date": "2026-11-14",
+   "topic": "2.8 IS-LM",
+   "question": "NET 22D1-78: money supply in IS-LM is",
+   "cause": "Recall",
+   "next": "2026-11-15",
    "status": "Open"
   }
  ],
- "revision_upcoming": 0,
+ "revision_upcoming": 2,
  "pace": {
   "remaining": 88,
   "needed_per_week": 21.2,
@@ -6966,15 +7008,9 @@
  "nudges": [
   {
    "level": "high",
-   "title": "36 revision questions due",
+   "title": "39 revision questions due",
    "why": "Mistakes come back after 1, 3 and 7 days; these have reached their review date.",
    "action": "Say \"revise my mistakes\" to the economics teacher."
-  },
-  {
-   "level": "high",
-   "title": "No study logged recently",
-   "why": "Last activity: 2026-11-11.",
-   "action": "Even one section today keeps the thread."
   },
   {
    "level": "high",
@@ -7033,7 +7069,7 @@
   {
    "level": "medium",
    "title": "Most mistakes are 'Concept gap'",
-   "why": "77 of 86 classified mistakes (90%).",
+   "why": "82 of 92 classified mistakes (89%).",
    "action": "Understanding gaps: go back to the lesson before more questions."
   },
   {
@@ -7051,11 +7087,41 @@
   {
    "level": "good",
    "title": "Accuracy is rising",
-   "why": "66.7% this week vs 53.8% the week before.",
+   "why": "64.3% this week vs 53.8% the week before.",
    "action": ""
   }
  ],
  "tests": [
+  {
+   "date": "2026-11-15",
+   "source": "Past paper",
+   "paper": "P2",
+   "topic": "2.8",
+   "topic_name": "IS-LM Model Approach",
+   "right": 2,
+   "n": 4,
+   "pct": 50.0
+  },
+  {
+   "date": "2026-11-14",
+   "source": "Revision",
+   "paper": "P2",
+   "topic": "2.8",
+   "topic_name": "IS-LM Model Approach",
+   "right": 3,
+   "n": 4,
+   "pct": 75.0
+  },
+  {
+   "date": "2026-11-14",
+   "source": "Past paper",
+   "paper": "P2",
+   "topic": "2.8",
+   "topic_name": "IS-LM Model Approach",
+   "right": 5,
+   "n": 8,
+   "pct": 62.5
+  },
   {
    "date": "2026-11-11",
    "source": "Past paper",
@@ -7319,7 +7385,7 @@
   "paper1_quiet_days": 7
  },
  "inputs": {
-  "answers": 164,
+  "answers": 180,
   "popups_seen": 192,
   "study_rows": 16,
   "mocks": 0,
