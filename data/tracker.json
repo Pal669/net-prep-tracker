@@ -1,11 +1,11 @@
 {
- "generated": "2026-11-15T21:45",
- "today": "2026-11-15",
+ "generated": "2026-11-16T12:43",
+ "today": "2026-11-16",
  "exam": {
   "date": "2026-12-14",
   "label": "OFFICIAL WINDOW 14-21 Dec",
   "basis": "NTA UGC-NET Dec 2026 Information Bulletin (dated 2026-10-16): exam 14-18 Dec and 21 Dec 2026. Economics (code 01) subject-wise date not yet out; earliest day used. Saved: Govt Job/Government Teacher/notifications/2026-10-16_NTA-UGC-NET-Dec-2026-Information-Bulletin.pdf",
-  "days_left": 29
+  "days_left": 28
  },
  "status_labels": {
   "not_started": "Not started",
@@ -681,13 +681,13 @@
      "total": 12,
      "done": 0,
      "acc": {
-      "right": 20,
-      "n": 30,
-      "pct": 66.7,
-      "last": "2026-11-15"
+      "right": 23,
+      "n": 35,
+      "pct": 65.7,
+      "last": "2026-11-16"
      },
      "target": "2026-10-27",
-     "open_mistakes": 9,
+     "open_mistakes": 12,
      "topics": [
       {
        "id": "2.1",
@@ -1014,10 +1014,10 @@
        "name": "IS-LM Model Approach",
        "status": "learning",
        "acc": {
-        "right": 18,
-        "n": 28,
-        "pct": 64.3,
-        "last": "2026-11-15"
+        "right": 21,
+        "n": 33,
+        "pct": 63.6,
+        "last": "2026-11-16"
        },
        "note": "Macro evergreen-first (#53); Lesson M1 IS-LM, Step 1 of 13 taught; resume Step 2",
        "subtopics": [
@@ -5539,16 +5539,16 @@
   }
  ],
  "overall": {
-  "right": 88,
-  "n": 180,
-  "pct": 48.9
+  "right": 91,
+  "n": 185,
+  "pct": 49.2
  },
  "by_paper": {
   "P2": {
-   "right": 88,
-   "n": 180,
-   "pct": 48.9,
-   "last": "2026-11-15"
+   "right": 91,
+   "n": 185,
+   "pct": 49.2,
+   "last": "2026-11-16"
   }
  },
  "by_format": {
@@ -5559,10 +5559,10 @@
    "last": "2026-11-15"
   },
   "Diagram": {
-   "right": 4,
-   "n": 12,
-   "pct": 33.3,
-   "last": "2026-10-30"
+   "right": 5,
+   "n": 13,
+   "pct": 38.5,
+   "last": "2026-11-16"
   },
   "Explain": {
    "right": 22,
@@ -5577,10 +5577,10 @@
    "last": "2026-10-13"
   },
   "Objective": {
-   "right": 52,
-   "n": 85,
-   "pct": 61.2,
-   "last": "2026-11-15"
+   "right": 54,
+   "n": 89,
+   "pct": 60.7,
+   "last": "2026-11-16"
   },
   "Application": {
    "right": 0,
@@ -5603,10 +5603,10 @@
    "last": "2026-11-07"
   },
   "Past paper": {
-   "right": 43,
-   "n": 61,
-   "pct": 70.5,
-   "last": "2026-11-15"
+   "right": 46,
+   "n": 66,
+   "pct": 69.7,
+   "last": "2026-11-16"
   },
   "Revision": {
    "right": 3,
@@ -5622,19 +5622,12 @@
   }
  },
  "causes": {
-  "Concept gap": 82,
+  "Concept gap": 84,
   "Recall": 8,
   "Careless": 2
  },
  "untagged": 0,
  "trend": [
-  {
-   "date": "2026-10-17",
-   "n": 0,
-   "pct": null,
-   "roll_n": 28,
-   "roll_pct": 28.6
-  },
   {
    "date": "2026-10-18",
    "n": 3,
@@ -5837,6 +5830,13 @@
    "pct": 50.0,
    "roll_n": 28,
    "roll_pct": 64.3
+  },
+  {
+   "date": "2026-11-16",
+   "n": 5,
+   "pct": 60.0,
+   "roll_n": 33,
+   "roll_pct": 63.6
   }
  ],
  "calendar": [
@@ -6345,15 +6345,15 @@
    "min": 0
   },
   {
-   "date": "2026-11-15",
-   "q": 0,
+   "date": "2026-11-16",
+   "q": 5,
    "sit": 0,
    "min": 0
   }
  ],
- "streak": 2,
- "last_active": "2026-11-15",
- "active_days_30": 16,
+ "streak": 3,
+ "last_active": "2026-11-16",
+ "active_days_30": 17,
  "strengths": {
   "units": [],
   "topics": [],
@@ -6390,20 +6390,20 @@
     "last": "2026-10-13"
    },
    {
-    "key": "Diagram",
-    "label": "Diagram",
-    "right": 4,
-    "n": 12,
-    "pct": 33.3,
-    "last": "2026-10-30"
-   },
-   {
     "key": "Numerical",
     "label": "Numerical",
     "right": 7,
     "n": 20,
     "pct": 35.0,
     "last": "2026-11-15"
+   },
+   {
+    "key": "Diagram",
+    "label": "Diagram",
+    "right": 5,
+    "n": 13,
+    "pct": 38.5,
+    "last": "2026-11-16"
    },
    {
     "key": "Explain",
@@ -6805,15 +6805,35 @@
    "cause": "Recall",
    "next": "2026-11-15",
    "status": "Open"
+  },
+  {
+   "unit": 2,
+   "folder": "02-Macro",
+   "date": "2026-11-15",
+   "topic": "2.8 IS-LM",
+   "question": "NET 23D-86: central bank fixes r, money endogenous → LM slope",
+   "cause": "Concept gap",
+   "next": "2026-11-16",
+   "status": "Open"
+  },
+  {
+   "unit": 2,
+   "folder": "02-Macro",
+   "date": "2026-11-15",
+   "topic": "2.8 IS-LM",
+   "question": "NET 15J3-21: regions off IS and LM",
+   "cause": "Concept gap",
+   "next": "2026-11-16",
+   "status": "Open"
   }
  ],
- "revision_upcoming": 2,
+ "revision_upcoming": 3,
  "pace": {
   "remaining": 88,
-  "needed_per_week": 21.2,
+  "needed_per_week": 22.0,
   "rate_per_week": 1.0,
   "recent_done_14d": 2,
-  "projected_finish": "2028-07-23",
+  "projected_finish": "2028-07-24",
   "unit_flags": [
    {
     "paper": "P2",
@@ -7008,14 +7028,14 @@
  "nudges": [
   {
    "level": "high",
-   "title": "39 revision questions due",
+   "title": "41 revision questions due",
    "why": "Mistakes come back after 1, 3 and 7 days; these have reached their review date.",
    "action": "Say \"revise my mistakes\" to the economics teacher."
   },
   {
    "level": "high",
    "title": "Paper II pace is behind the exam date",
-   "why": "2 topics understood in the last 14 days (1.0/week). 88 topics left; at this pace you finish around 2028-07-23, after the exam (2026-12-14, OFFICIAL WINDOW 14-21 Dec). Needed: 21.2 topics/week.",
+   "why": "2 topics understood in the last 14 days (1.0/week). 88 topics left; at this pace you finish around 2028-07-24, after the exam (2026-12-14, OFFICIAL WINDOW 14-21 Dec). Needed: 22.0 topics/week.",
    "action": "Decide: more hours, faster passes on familiar topics, or a later exam cycle."
   },
   {
@@ -7069,7 +7089,7 @@
   {
    "level": "medium",
    "title": "Most mistakes are 'Concept gap'",
-   "why": "82 of 92 classified mistakes (89%).",
+   "why": "84 of 94 classified mistakes (89%).",
    "action": "Understanding gaps: go back to the lesson before more questions."
   },
   {
@@ -7083,15 +7103,19 @@
    "title": "You skipped 100% of NET popups this week",
    "why": "15 of 15 NET popup questions were skipped.",
    "action": "Each answered popup sharpens this tracker's picture of your weak spots."
-  },
-  {
-   "level": "good",
-   "title": "Accuracy is rising",
-   "why": "64.3% this week vs 53.8% the week before.",
-   "action": ""
   }
  ],
  "tests": [
+  {
+   "date": "2026-11-16",
+   "source": "Past paper",
+   "paper": "P2",
+   "topic": "2.8",
+   "topic_name": "IS-LM Model Approach",
+   "right": 3,
+   "n": 5,
+   "pct": 60.0
+  },
   {
    "date": "2026-11-15",
    "source": "Past paper",
@@ -7385,8 +7409,8 @@
   "paper1_quiet_days": 7
  },
  "inputs": {
-  "answers": 180,
-  "popups_seen": 192,
+  "answers": 185,
+  "popups_seen": 193,
   "study_rows": 16,
   "mocks": 0,
   "v2_synced": 0
