@@ -1,11 +1,11 @@
 {
- "generated": "2026-11-16T12:43",
- "today": "2026-11-16",
+ "generated": "2026-11-17T14:49",
+ "today": "2026-11-17",
  "exam": {
   "date": "2026-12-14",
   "label": "OFFICIAL WINDOW 14-21 Dec",
   "basis": "NTA UGC-NET Dec 2026 Information Bulletin (dated 2026-10-16): exam 14-18 Dec and 21 Dec 2026. Economics (code 01) subject-wise date not yet out; earliest day used. Saved: Govt Job/Government Teacher/notifications/2026-10-16_NTA-UGC-NET-Dec-2026-Information-Bulletin.pdf",
-  "days_left": 28
+  "days_left": 27
  },
  "status_labels": {
   "not_started": "Not started",
@@ -681,13 +681,13 @@
      "total": 12,
      "done": 0,
      "acc": {
-      "right": 23,
-      "n": 35,
-      "pct": 65.7,
-      "last": "2026-11-16"
+      "right": 27,
+      "n": 46,
+      "pct": 58.7,
+      "last": "2026-11-17"
      },
      "target": "2026-10-27",
-     "open_mistakes": 12,
+     "open_mistakes": 20,
      "topics": [
       {
        "id": "2.1",
@@ -1014,10 +1014,10 @@
        "name": "IS-LM Model Approach",
        "status": "learning",
        "acc": {
-        "right": 21,
-        "n": 33,
-        "pct": 63.6,
-        "last": "2026-11-16"
+        "right": 25,
+        "n": 44,
+        "pct": 56.8,
+        "last": "2026-11-17"
        },
        "note": "Macro evergreen-first (#53); Lesson M1 IS-LM, Step 1 of 13 taught; resume Step 2",
        "subtopics": [
@@ -5539,16 +5539,16 @@
   }
  ],
  "overall": {
-  "right": 91,
-  "n": 185,
-  "pct": 49.2
+  "right": 95,
+  "n": 196,
+  "pct": 48.5
  },
  "by_paper": {
   "P2": {
-   "right": 91,
-   "n": 185,
-   "pct": 49.2,
-   "last": "2026-11-16"
+   "right": 95,
+   "n": 196,
+   "pct": 48.5,
+   "last": "2026-11-17"
   }
  },
  "by_format": {
@@ -5577,10 +5577,10 @@
    "last": "2026-10-13"
   },
   "Objective": {
-   "right": 54,
-   "n": 89,
-   "pct": 60.7,
-   "last": "2026-11-16"
+   "right": 58,
+   "n": 100,
+   "pct": 58.0,
+   "last": "2026-11-17"
   },
   "Application": {
    "right": 0,
@@ -5603,10 +5603,10 @@
    "last": "2026-11-07"
   },
   "Past paper": {
-   "right": 46,
-   "n": 66,
-   "pct": 69.7,
-   "last": "2026-11-16"
+   "right": 50,
+   "n": 77,
+   "pct": 64.9,
+   "last": "2026-11-17"
   },
   "Revision": {
    "right": 3,
@@ -5622,19 +5622,12 @@
   }
  },
  "causes": {
-  "Concept gap": 84,
+  "Concept gap": 89,
   "Recall": 8,
-  "Careless": 2
+  "Careless": 4
  },
  "untagged": 0,
  "trend": [
-  {
-   "date": "2026-10-18",
-   "n": 3,
-   "pct": 33.3,
-   "roll_n": 20,
-   "roll_pct": 25.0
-  },
   {
    "date": "2026-10-19",
    "n": 10,
@@ -5833,10 +5826,17 @@
   },
   {
    "date": "2026-11-16",
-   "n": 5,
-   "pct": 60.0,
-   "roll_n": 33,
-   "roll_pct": 63.6
+   "n": 9,
+   "pct": 44.4,
+   "roll_n": 37,
+   "roll_pct": 59.5
+  },
+  {
+   "date": "2026-11-17",
+   "n": 7,
+   "pct": 42.9,
+   "roll_n": 37,
+   "roll_pct": 54.1
   }
  ],
  "calendar": [
@@ -6346,13 +6346,19 @@
   },
   {
    "date": "2026-11-16",
-   "q": 5,
+   "q": 9,
+   "sit": 0,
+   "min": 0
+  },
+  {
+   "date": "2026-11-17",
+   "q": 7,
    "sit": 0,
    "min": 0
   }
  ],
- "streak": 3,
- "last_active": "2026-11-16",
+ "streak": 4,
+ "last_active": "2026-11-17",
  "active_days_30": 17,
  "strengths": {
   "units": [],
@@ -6368,6 +6374,14 @@
     "n": 150,
     "pct": 45.3,
     "last": "2026-11-07"
+   },
+   {
+    "key": "P2:2",
+    "label": "Paper II · Unit 2 Macro Economics",
+    "right": 27,
+    "n": 46,
+    "pct": 58.7,
+    "last": "2026-11-17"
    }
   ],
   "topics": [
@@ -6378,6 +6392,14 @@
     "n": 150,
     "pct": 45.3,
     "last": "2026-11-07"
+   },
+   {
+    "key": "P2:2.8",
+    "label": "2.8 IS-LM Model Approach",
+    "right": 25,
+    "n": 44,
+    "pct": 56.8,
+    "last": "2026-11-17"
    }
   ],
   "formats": [
@@ -6412,6 +6434,14 @@
     "n": 54,
     "pct": 40.7,
     "last": "2026-10-31"
+   },
+   {
+    "key": "Objective",
+    "label": "Objective",
+    "right": 58,
+    "n": 100,
+    "pct": 58.0,
+    "last": "2026-11-17"
    }
   ]
  },
@@ -6825,15 +6855,75 @@
    "cause": "Concept gap",
    "next": "2026-11-16",
    "status": "Open"
+  },
+  {
+   "unit": 2,
+   "folder": "02-Macro",
+   "date": "2026-11-16",
+   "topic": "2.8 IS-LM",
+   "question": "NET 09J2-10: G up under usual Keynesian assumptions",
+   "cause": "Concept gap",
+   "next": "2026-11-17",
+   "status": "Open"
+  },
+  {
+   "unit": 2,
+   "folder": "02-Macro",
+   "date": "2026-11-16",
+   "topic": "2.8 IS-LM",
+   "question": "NET 15J2-23: liquidity effect of a money-supply rise (guessed)",
+   "cause": "Concept gap",
+   "next": "2026-11-17",
+   "status": "Open"
+  },
+  {
+   "unit": 2,
+   "folder": "02-Macro",
+   "date": "2026-11-16",
+   "topic": "2.8 IS-LM",
+   "question": "NET 25J-110: effects of G rise (pick A-E)",
+   "cause": "Concept gap",
+   "next": "2026-11-17",
+   "status": "Open"
+  },
+  {
+   "unit": 2,
+   "folder": "02-Macro",
+   "date": "2026-11-16",
+   "topic": "2.8 IS-LM",
+   "question": "NET 15D3-31: crowding out emerges if",
+   "cause": "Careless",
+   "next": "2026-11-17",
+   "status": "Open"
+  },
+  {
+   "unit": 2,
+   "folder": "02-Macro",
+   "date": "2026-11-16",
+   "topic": "2.8 IS-LM",
+   "question": "NET 25D-115: A-R, govt borrowing raises bond prices and lowers r?",
+   "cause": "Concept gap",
+   "next": "2026-11-17",
+   "status": "Open"
+  },
+  {
+   "unit": 2,
+   "folder": "02-Macro",
+   "date": "2026-11-16",
+   "topic": "2.8 IS-LM",
+   "question": "NET 09J2-8: A-R, crowding out need not occur below full employment (accommodation)",
+   "cause": "Concept gap",
+   "next": "2026-11-17",
+   "status": "Open"
   }
  ],
- "revision_upcoming": 3,
+ "revision_upcoming": 5,
  "pace": {
   "remaining": 88,
-  "needed_per_week": 22.0,
+  "needed_per_week": 22.8,
   "rate_per_week": 1.0,
   "recent_done_14d": 2,
-  "projected_finish": "2028-07-24",
+  "projected_finish": "2028-07-25",
   "unit_flags": [
    {
     "paper": "P2",
@@ -7028,20 +7118,26 @@
  "nudges": [
   {
    "level": "high",
-   "title": "41 revision questions due",
+   "title": "47 revision questions due",
    "why": "Mistakes come back after 1, 3 and 7 days; these have reached their review date.",
    "action": "Say \"revise my mistakes\" to the economics teacher."
   },
   {
    "level": "high",
    "title": "Paper II pace is behind the exam date",
-   "why": "2 topics understood in the last 14 days (1.0/week). 88 topics left; at this pace you finish around 2028-07-24, after the exam (2026-12-14, OFFICIAL WINDOW 14-21 Dec). Needed: 22.0 topics/week.",
+   "why": "2 topics understood in the last 14 days (1.0/week). 88 topics left; at this pace you finish around 2028-07-25, after the exam (2026-12-14, OFFICIAL WINDOW 14-21 Dec). Needed: 22.8 topics/week.",
    "action": "Decide: more hours, faster passes on familiar topics, or a later exam cycle."
   },
   {
    "level": "high",
    "title": "Weak area: Paper II · Unit 1 Micro Economics",
    "why": "45.3% correct over 150 questions (weak below 60%).",
+   "action": "Revise this unit before adding new material."
+  },
+  {
+   "level": "high",
+   "title": "Weak area: Paper II · Unit 2 Macro Economics",
+   "why": "58.7% correct over 46 questions (weak below 60%).",
    "action": "Revise this unit before adding new material."
   },
   {
@@ -7088,8 +7184,14 @@
   },
   {
    "level": "medium",
+   "title": "Weak topic: 2.8 IS-LM Model Approach",
+   "why": "56.8% over 44 questions.",
+   "action": "Ask the teacher to re-teach it."
+  },
+  {
+   "level": "medium",
    "title": "Most mistakes are 'Concept gap'",
-   "why": "84 of 94 classified mistakes (89%).",
+   "why": "89 of 101 classified mistakes (88%).",
    "action": "Understanding gaps: go back to the lesson before more questions."
   },
   {
@@ -7097,24 +7199,28 @@
    "title": "Paper I has been quiet",
    "why": "No Paper I questions or study in the last 7 days. Paper I is 100 of the 300 marks.",
    "action": "The plan has 30 minutes a day for Paper I."
-  },
-  {
-   "level": "medium",
-   "title": "You skipped 100% of NET popups this week",
-   "why": "15 of 15 NET popup questions were skipped.",
-   "action": "Each answered popup sharpens this tracker's picture of your weak spots."
   }
  ],
  "tests": [
+  {
+   "date": "2026-11-17",
+   "source": "Past paper",
+   "paper": "P2",
+   "topic": "2.8",
+   "topic_name": "IS-LM Model Approach",
+   "right": 3,
+   "n": 7,
+   "pct": 42.9
+  },
   {
    "date": "2026-11-16",
    "source": "Past paper",
    "paper": "P2",
    "topic": "2.8",
    "topic_name": "IS-LM Model Approach",
-   "right": 3,
-   "n": 5,
-   "pct": 60.0
+   "right": 4,
+   "n": 9,
+   "pct": 44.4
   },
   {
    "date": "2026-11-15",
@@ -7409,7 +7515,7 @@
   "paper1_quiet_days": 7
  },
  "inputs": {
-  "answers": 185,
+  "answers": 196,
   "popups_seen": 193,
   "study_rows": 16,
   "mocks": 0,
