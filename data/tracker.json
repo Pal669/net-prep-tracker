@@ -1,11 +1,11 @@
 {
- "generated": "2026-11-18T15:43",
- "today": "2026-11-18",
+ "generated": "2026-11-19T22:57",
+ "today": "2026-11-19",
  "exam": {
   "date": "2026-12-14",
   "label": "OFFICIAL WINDOW 14-21 Dec",
   "basis": "NTA UGC-NET Dec 2026 Information Bulletin (dated 2026-10-16): exam 14-18 Dec and 21 Dec 2026. Economics (code 01) subject-wise date not yet out; earliest day used. Saved: Govt Job/Government Teacher/notifications/2026-10-16_NTA-UGC-NET-Dec-2026-Information-Bulletin.pdf",
-  "days_left": 26
+  "days_left": 25
  },
  "status_labels": {
   "not_started": "Not started",
@@ -681,10 +681,10 @@
      "total": 12,
      "done": 0,
      "acc": {
-      "right": 36,
-      "n": 61,
-      "pct": 59.0,
-      "last": "2026-11-18"
+      "right": 38,
+      "n": 64,
+      "pct": 59.4,
+      "last": "2026-11-19"
      },
      "target": "2026-10-27",
      "open_mistakes": 24,
@@ -1014,10 +1014,10 @@
        "name": "IS-LM Model Approach",
        "status": "learning",
        "acc": {
-        "right": 34,
-        "n": 59,
-        "pct": 57.6,
-        "last": "2026-11-18"
+        "right": 36,
+        "n": 62,
+        "pct": 58.1,
+        "last": "2026-11-19"
        },
        "note": "Macro evergreen-first (#53); Lesson M1 IS-LM, Step 1 of 13 taught; resume Step 2",
        "subtopics": [
@@ -5539,24 +5539,24 @@
   }
  ],
  "overall": {
-  "right": 104,
-  "n": 211,
-  "pct": 49.3
+  "right": 106,
+  "n": 214,
+  "pct": 49.5
  },
  "by_paper": {
   "P2": {
-   "right": 104,
-   "n": 211,
-   "pct": 49.3,
-   "last": "2026-11-18"
+   "right": 106,
+   "n": 214,
+   "pct": 49.5,
+   "last": "2026-11-19"
   }
  },
  "by_format": {
   "Numerical": {
-   "right": 7,
-   "n": 20,
-   "pct": 35.0,
-   "last": "2026-11-15"
+   "right": 8,
+   "n": 22,
+   "pct": 36.4,
+   "last": "2026-11-19"
   },
   "Diagram": {
    "right": 5,
@@ -5571,10 +5571,10 @@
    "last": "2026-10-31"
   },
   "Derivation": {
-   "right": 1,
-   "n": 6,
-   "pct": 16.7,
-   "last": "2026-10-13"
+   "right": 2,
+   "n": 7,
+   "pct": 28.6,
+   "last": "2026-11-19"
   },
   "Objective": {
    "right": 67,
@@ -5597,10 +5597,10 @@
  },
  "by_source": {
   "Teacher test": {
-   "right": 40,
-   "n": 113,
-   "pct": 35.4,
-   "last": "2026-11-07"
+   "right": 42,
+   "n": 116,
+   "pct": 36.2,
+   "last": "2026-11-19"
   },
   "Past paper": {
    "right": 57,
@@ -5622,19 +5622,12 @@
   }
  },
  "causes": {
-  "Concept gap": 92,
+  "Concept gap": 93,
   "Recall": 9,
   "Careless": 6
  },
  "untagged": 0,
  "trend": [
-  {
-   "date": "2026-10-20",
-   "n": 29,
-   "pct": 51.7,
-   "roll_n": 47,
-   "roll_pct": 46.8
-  },
   {
    "date": "2026-10-21",
    "n": 0,
@@ -5833,10 +5826,17 @@
   },
   {
    "date": "2026-11-18",
-   "n": 15,
-   "pct": 60.0,
-   "roll_n": 47,
-   "roll_pct": 55.3
+   "n": 16,
+   "pct": 56.2,
+   "roll_n": 48,
+   "roll_pct": 54.2
+  },
+  {
+   "date": "2026-11-19",
+   "n": 2,
+   "pct": 100.0,
+   "roll_n": 50,
+   "roll_pct": 56.0
   }
  ],
  "calendar": [
@@ -6358,13 +6358,19 @@
   },
   {
    "date": "2026-11-18",
-   "q": 15,
+   "q": 16,
+   "sit": 0,
+   "min": 0
+  },
+  {
+   "date": "2026-11-19",
+   "q": 2,
    "sit": 0,
    "min": 0
   }
  ],
- "streak": 5,
- "last_active": "2026-11-18",
+ "streak": 6,
+ "last_active": "2026-11-19",
  "active_days_30": 17,
  "strengths": {
   "units": [],
@@ -6384,10 +6390,10 @@
    {
     "key": "P2:2",
     "label": "Paper II · Unit 2 Macro Economics",
-    "right": 36,
-    "n": 61,
-    "pct": 59.0,
-    "last": "2026-11-18"
+    "right": 38,
+    "n": 64,
+    "pct": 59.4,
+    "last": "2026-11-19"
    }
   ],
   "topics": [
@@ -6402,28 +6408,28 @@
    {
     "key": "P2:2.8",
     "label": "2.8 IS-LM Model Approach",
-    "right": 34,
-    "n": 59,
-    "pct": 57.6,
-    "last": "2026-11-18"
+    "right": 36,
+    "n": 62,
+    "pct": 58.1,
+    "last": "2026-11-19"
    }
   ],
   "formats": [
    {
     "key": "Derivation",
     "label": "Derivation",
-    "right": 1,
-    "n": 6,
-    "pct": 16.7,
-    "last": "2026-10-13"
+    "right": 2,
+    "n": 7,
+    "pct": 28.6,
+    "last": "2026-11-19"
    },
    {
     "key": "Numerical",
     "label": "Numerical",
-    "right": 7,
-    "n": 20,
-    "pct": 35.0,
-    "last": "2026-11-15"
+    "right": 8,
+    "n": 22,
+    "pct": 36.4,
+    "last": "2026-11-19"
    },
    {
     "key": "Diagram",
@@ -6971,15 +6977,55 @@
    "cause": "Careless",
    "next": "2026-11-18",
    "status": "Open"
+  },
+  {
+   "unit": 2,
+   "folder": "02-Macro",
+   "date": "2026-11-18",
+   "topic": "2.8 IS-LM",
+   "question": "NET 15J2-18: monetary policy most effective when investment is ___ and money demand is ___",
+   "cause": "Partial understanding",
+   "next": "2026-11-19",
+   "status": "Open"
+  },
+  {
+   "unit": 2,
+   "folder": "02-Macro",
+   "date": "2026-11-18",
+   "topic": "2.8 IS-LM",
+   "question": "NET 13S2-13: which statements true (flatter IS/LM vs policy effectiveness, liquidity trap)",
+   "cause": "Careless",
+   "next": "2026-11-19",
+   "status": "Open"
+  },
+  {
+   "unit": 2,
+   "folder": "02-Macro",
+   "date": "2026-11-18",
+   "topic": "2.8 IS-LM",
+   "question": "NET 23D-102: which AD statements correct (D: price rise shifts AD left)",
+   "cause": "Concept gap",
+   "next": "2026-11-19",
+   "status": "Open"
+  },
+  {
+   "unit": 2,
+   "folder": "02-Macro",
+   "date": "2026-11-18",
+   "topic": "2.8 IS-LM",
+   "question": "NET 17N2-13: who called Keynes's unemployment equilibrium a special case of the GE model augmented with money",
+   "cause": "Recall",
+   "next": "2026-11-19",
+   "status": "Open"
   }
  ],
- "revision_upcoming": 4,
+ "revision_upcoming": 0,
  "pace": {
   "remaining": 88,
-  "needed_per_week": 23.7,
+  "needed_per_week": 24.6,
   "rate_per_week": 1.0,
   "recent_done_14d": 2,
-  "projected_finish": "2028-07-26",
+  "projected_finish": "2028-07-27",
   "unit_flags": [
    {
     "paper": "P2",
@@ -7174,14 +7220,14 @@
  "nudges": [
   {
    "level": "high",
-   "title": "52 revision questions due",
+   "title": "56 revision questions due",
    "why": "Mistakes come back after 1, 3 and 7 days; these have reached their review date.",
    "action": "Say \"revise my mistakes\" to the economics teacher."
   },
   {
    "level": "high",
    "title": "Paper II pace is behind the exam date",
-   "why": "2 topics understood in the last 14 days (1.0/week). 88 topics left; at this pace you finish around 2028-07-26, after the exam (2026-12-14, OFFICIAL WINDOW 14-21 Dec). Needed: 23.7 topics/week.",
+   "why": "2 topics understood in the last 14 days (1.0/week). 88 topics left; at this pace you finish around 2028-07-27, after the exam (2026-12-14, OFFICIAL WINDOW 14-21 Dec). Needed: 24.6 topics/week.",
    "action": "Decide: more hours, faster passes on familiar topics, or a later exam cycle."
   },
   {
@@ -7193,7 +7239,7 @@
   {
    "level": "high",
    "title": "Weak area: Paper II · Unit 2 Macro Economics",
-   "why": "59.0% correct over 61 questions (weak below 60%).",
+   "why": "59.4% correct over 64 questions (weak below 60%).",
    "action": "Revise this unit before adding new material."
   },
   {
@@ -7253,13 +7299,13 @@
   {
    "level": "medium",
    "title": "Weak topic: 2.8 IS-LM Model Approach",
-   "why": "57.6% over 59 questions.",
+   "why": "58.1% over 62 questions.",
    "action": "Ask the teacher to re-teach it."
   },
   {
    "level": "medium",
    "title": "Most mistakes are 'Concept gap'",
-   "why": "92 of 107 classified mistakes (86%).",
+   "why": "93 of 108 classified mistakes (86%).",
    "action": "Understanding gaps: go back to the lesson before more questions."
   },
   {
@@ -7270,6 +7316,26 @@
   }
  ],
  "tests": [
+  {
+   "date": "2026-11-19",
+   "source": "Teacher test",
+   "paper": "P2",
+   "topic": "2.8",
+   "topic_name": "IS-LM Model Approach",
+   "right": 2,
+   "n": 2,
+   "pct": 100.0
+  },
+  {
+   "date": "2026-11-18",
+   "source": "Teacher test",
+   "paper": "P2",
+   "topic": "2.8",
+   "topic_name": "IS-LM Model Approach",
+   "right": 0,
+   "n": 1,
+   "pct": 0.0
+  },
   {
    "date": "2026-11-18",
    "source": "Revision",
@@ -7549,26 +7615,6 @@
    "right": 2,
    "n": 9,
    "pct": 22.2
-  },
-  {
-   "date": "2026-10-11",
-   "source": "Teacher test",
-   "paper": "P2",
-   "topic": "1.1",
-   "topic_name": "Theory of Consumer Behaviour",
-   "right": 3,
-   "n": 9,
-   "pct": 33.3
-  },
-  {
-   "date": "2026-10-11",
-   "source": "Past paper",
-   "paper": "P2",
-   "topic": "1.1",
-   "topic_name": "Theory of Consumer Behaviour",
-   "right": 1,
-   "n": 2,
-   "pct": 50.0
   }
  ],
  "mocks": [],
@@ -7583,7 +7629,7 @@
   "paper1_quiet_days": 7
  },
  "inputs": {
-  "answers": 211,
+  "answers": 214,
   "popups_seen": 193,
   "study_rows": 16,
   "mocks": 0,
