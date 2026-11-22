@@ -1,11 +1,11 @@
 {
- "generated": "2026-11-21T11:58",
- "today": "2026-11-21",
+ "generated": "2026-11-22T14:04",
+ "today": "2026-11-22",
  "exam": {
   "date": "2026-12-14",
   "label": "OFFICIAL WINDOW 14-21 Dec",
   "basis": "NTA UGC-NET Dec 2026 Information Bulletin (dated 2026-10-16): exam 14-18 Dec and 21 Dec 2026. Economics (code 01) subject-wise date not yet out; earliest day used. Saved: Govt Job/Government Teacher/notifications/2026-10-16_NTA-UGC-NET-Dec-2026-Information-Bulletin.pdf",
-  "days_left": 23
+  "days_left": 22
  },
  "status_labels": {
   "not_started": "Not started",
@@ -687,7 +687,7 @@
       "last": "2026-11-19"
      },
      "target": "2026-10-27",
-     "open_mistakes": 30,
+     "open_mistakes": 40,
      "topics": [
       {
        "id": "2.1",
@@ -5629,13 +5629,6 @@
  "untagged": 0,
  "trend": [
   {
-   "date": "2026-10-23",
-   "n": 0,
-   "pct": null,
-   "roll_n": 42,
-   "roll_pct": 50.0
-  },
-  {
    "date": "2026-10-24",
    "n": 0,
    "pct": null,
@@ -5837,51 +5830,16 @@
    "pct": null,
    "roll_n": 38,
    "roll_pct": 52.6
+  },
+  {
+   "date": "2026-11-22",
+   "n": 0,
+   "pct": null,
+   "roll_n": 34,
+   "roll_pct": 52.9
   }
  ],
  "calendar": [
-  {
-   "date": "2026-08-24",
-   "q": 0,
-   "sit": 0,
-   "min": 0
-  },
-  {
-   "date": "2026-08-25",
-   "q": 0,
-   "sit": 0,
-   "min": 0
-  },
-  {
-   "date": "2026-08-26",
-   "q": 0,
-   "sit": 0,
-   "min": 0
-  },
-  {
-   "date": "2026-08-27",
-   "q": 0,
-   "sit": 0,
-   "min": 0
-  },
-  {
-   "date": "2026-08-28",
-   "q": 0,
-   "sit": 0,
-   "min": 0
-  },
-  {
-   "date": "2026-08-29",
-   "q": 0,
-   "sit": 0,
-   "min": 0
-  },
-  {
-   "date": "2026-08-30",
-   "q": 0,
-   "sit": 0,
-   "min": 0
-  },
   {
    "date": "2026-08-31",
    "q": 0,
@@ -6376,6 +6334,12 @@
   },
   {
    "date": "2026-11-21",
+   "q": 0,
+   "sit": 0,
+   "min": 0
+  },
+  {
+   "date": "2026-11-22",
    "q": 0,
    "sit": 0,
    "min": 0
@@ -7089,15 +7053,95 @@
    "cause": "Concept gap",
    "next": "2026-11-21",
    "status": "Open"
+  },
+  {
+   "unit": 2,
+   "folder": "02-Macro",
+   "date": "2026-11-21",
+   "topic": "2.5 Multiplier (B1)",
+   "question": "NET 23J-57: lower MPS → multiplier effect?",
+   "cause": "Concept gap",
+   "next": "2026-11-22",
+   "status": "Open"
+  },
+  {
+   "unit": 2,
+   "folder": "02-Macro",
+   "date": "2026-11-21",
+   "topic": "2.5 Multiplier (B1)",
+   "question": "NET 11D2-3: rise in MPM → multiplier?",
+   "cause": "Concept gap",
+   "next": "2026-11-22",
+   "status": "Open"
+  },
+  {
+   "unit": 2,
+   "folder": "02-Macro",
+   "date": "2026-11-21",
+   "topic": "2.5 Multiplier (B1)",
+   "question": "NET 26J-106: formula of the super multiplier",
+   "cause": "Recall",
+   "next": "2026-11-22",
+   "status": "Open"
+  },
+  {
+   "unit": 2,
+   "folder": "02-Macro",
+   "date": "2026-11-21",
+   "topic": "2.5 Multiplier (B1)",
+   "question": "NET 17J3-15: leakages in the multiplier",
+   "cause": "Partial understanding",
+   "next": "2026-11-22",
+   "status": "Open"
+  },
+  {
+   "unit": 2,
+   "folder": "02-Macro",
+   "date": "2026-11-21",
+   "topic": "2.5 Multiplier (B1)",
+   "question": "NET 16A2-10: dynamic multiplier relation",
+   "cause": "Concept gap",
+   "next": "2026-11-22",
+   "status": "Open"
+  },
+  {
+   "unit": 2,
+   "folder": "02-Macro",
+   "date": "2026-11-21",
+   "topic": "2.5 Multiplier (B1)",
+   "question": "NET 21N-55: super multiplier describes?",
+   "cause": "Concept gap",
+   "next": "2026-11-22",
+   "status": "Open"
+  },
+  {
+   "unit": 2,
+   "folder": "02-Macro",
+   "date": "2026-11-21",
+   "topic": "2.5 Multiplier (B1)",
+   "question": "NET 12D2-49: match monetarism / employment multiplier / balanced-budget multiplier / rational expectations with names",
+   "cause": "Recall",
+   "next": "2026-11-22",
+   "status": "Open"
+  },
+  {
+   "unit": 2,
+   "folder": "02-Macro",
+   "date": "2026-11-21",
+   "topic": "2.5 Multiplier (B1)",
+   "question": "NET 22D2-134: chronological order Smith / Fisher / Depression / Kahn / Keynes",
+   "cause": "Partial understanding",
+   "next": "2026-11-22",
+   "status": "Open"
   }
  ],
- "revision_upcoming": 0,
+ "revision_upcoming": 2,
  "pace": {
   "remaining": 88,
-  "needed_per_week": 26.8,
-  "rate_per_week": 0.5,
-  "recent_done_14d": 1,
-  "projected_finish": "2030-04-06",
+  "needed_per_week": 28.0,
+  "rate_per_week": 0.0,
+  "recent_done_14d": 0,
+  "projected_finish": null,
   "unit_flags": [
    {
     "paper": "P2",
@@ -7301,7 +7345,7 @@
  "nudges": [
   {
    "level": "high",
-   "title": "62 revision questions due",
+   "title": "70 revision questions due",
    "why": "Mistakes come back after 1, 3 and 7 days; these have reached their review date.",
    "action": "Say \"revise my mistakes\" to the economics teacher."
   },
@@ -7310,12 +7354,6 @@
    "title": "No study logged recently",
    "why": "Last activity: 2026-11-19.",
    "action": "Even one section today keeps the thread."
-  },
-  {
-   "level": "high",
-   "title": "Paper II pace is behind the exam date",
-   "why": "1 topics understood in the last 14 days (0.5/week). 88 topics left; at this pace you finish around 2030-04-06, after the exam (2026-12-14, OFFICIAL WINDOW 14-21 Dec). Needed: 26.8 topics/week.",
-   "action": "Decide: more hours, faster passes on familiar topics, or a later exam cycle."
   },
   {
    "level": "high",
@@ -7332,8 +7370,14 @@
   {
    "level": "high",
    "title": "Accuracy is falling",
-   "why": "52.6% this week vs 66.7% the week before.",
+   "why": "52.9% this week vs 64.3% the week before.",
    "action": "Check the weak list below."
+  },
+  {
+   "level": "medium",
+   "title": "No Paper II topic completed in the last 14 days",
+   "why": "88 of 88 topics left with 22 days to the exam (OFFICIAL WINDOW 14-21 Dec). Needed: 28.0 topics/week.",
+   "action": "A topic counts as done when you tell the teacher you understood it."
   },
   {
    "level": "medium",
@@ -7723,7 +7767,7 @@
  },
  "inputs": {
   "answers": 214,
-  "popups_seen": 193,
+  "popups_seen": 195,
   "study_rows": 16,
   "mocks": 0,
   "v2_synced": 0
