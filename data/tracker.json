@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-24T05:41",
+ "generated": "2026-11-24T12:36",
  "today": "2026-11-24",
  "exam": {
   "date": "2026-12-14",
@@ -687,7 +687,7 @@
       "last": "2026-11-19"
      },
      "target": "2026-10-27",
-     "open_mistakes": 48,
+     "open_mistakes": 42,
      "topics": [
       {
        "id": "2.1",
@@ -7185,75 +7185,15 @@
    "cause": "Method gap",
    "next": "2026-11-23",
    "status": "Open"
-  },
-  {
-   "unit": 2,
-   "folder": "02-Macro",
-   "date": "2026-11-23",
-   "topic": "2.8 IS slope and shifts (B1)",
-   "question": "B1 MCQ1: t ↑ to 0.30 + G ↑ to keep IS income intercept at 750",
-   "cause": "Partial understanding",
-   "next": "2026-11-24",
-   "status": "Open"
-  },
-  {
-   "unit": 2,
-   "folder": "02-Macro",
-   "date": "2026-11-23",
-   "topic": "2.11 Fiscal multipliers (B1)",
-   "question": "B1 MCQ3: balanced budget ex post with a 25% income tax",
-   "cause": "Partial understanding",
-   "next": "2026-11-24",
-   "status": "Open"
-  },
-  {
-   "unit": 2,
-   "folder": "02-Macro",
-   "date": "2026-11-23",
-   "topic": "2.5 Super multiplier (B1)",
-   "question": "B1 MCQ4: c = 0.85, I = Ī + vY, which v gives k = 20",
-   "cause": "Method gap",
-   "next": "2026-11-24",
-   "status": "Open"
-  },
-  {
-   "unit": 2,
-   "folder": "02-Macro",
-   "date": "2026-11-23",
-   "topic": "2.5 Paradox of thrift (B1)",
-   "question": "B1 MCQ5: S = −100 + 0.25Y, I = 40 + 0.05Y, saving up 20 at every income",
-   "cause": "Concept gap",
-   "next": "2026-11-24",
-   "status": "Open"
-  },
-  {
-   "unit": 2,
-   "folder": "02-Macro",
-   "date": "2026-11-23",
-   "topic": "2.8 IS shifts (B1)",
-   "question": "B1 MCQ6: match C̄ ↑, t ↑, b ↑, ΔG = ΔT to IS moves",
-   "cause": "Concept gap",
-   "next": "2026-11-24",
-   "status": "Open"
-  },
-  {
-   "unit": 2,
-   "folder": "02-Macro",
-   "date": "2026-11-23",
-   "topic": "2.11 Fiscal multipliers (B1)",
-   "question": "B1 MCQ8: rank deficit cost of G alone / tax cut alone / balanced budget for ΔY = 200, c = 0.75",
-   "cause": "Concept gap",
-   "next": "2026-11-24",
-   "status": "Open"
   }
  ],
  "revision_upcoming": 0,
  "pace": {
   "remaining": 88,
   "needed_per_week": 30.8,
-  "rate_per_week": 3.5,
-  "recent_done_14d": 7,
-  "projected_finish": "2027-05-19",
+  "rate_per_week": 0.0,
+  "recent_done_14d": 0,
+  "projected_finish": null,
   "unit_flags": [
    {
     "paper": "P2",
@@ -7457,7 +7397,7 @@
  "nudges": [
   {
    "level": "high",
-   "title": "80 revision questions due",
+   "title": "74 revision questions due",
    "why": "Mistakes come back after 1, 3 and 7 days; these have reached their review date.",
    "action": "Say \"revise my mistakes\" to the economics teacher."
   },
@@ -7484,6 +7424,12 @@
    "title": "Weak area: Paper II · Unit 2 Macro Economics",
    "why": "59.4% correct over 64 questions (weak below 60%).",
    "action": "Revise this unit before adding new material."
+  },
+  {
+   "level": "medium",
+   "title": "No Paper II topic completed in the last 14 days",
+   "why": "88 of 88 topics left with 20 days to the exam (OFFICIAL WINDOW 14-21 Dec). Needed: 30.8 topics/week.",
+   "action": "A topic counts as done when you tell the teacher you understood it."
   },
   {
    "level": "medium",
