@@ -1,11 +1,11 @@
 {
- "generated": "2026-11-24T15:43",
- "today": "2026-11-24",
+ "generated": "2026-11-25T04:10",
+ "today": "2026-11-25",
  "exam": {
   "date": "2026-12-14",
   "label": "OFFICIAL WINDOW 14-21 Dec",
   "basis": "NTA UGC-NET Dec 2026 Information Bulletin (dated 2026-10-16): exam 14-18 Dec and 21 Dec 2026. Economics (code 01) subject-wise date not yet out; earliest day used. Saved: Govt Job/Government Teacher/notifications/2026-10-16_NTA-UGC-NET-Dec-2026-Information-Bulletin.pdf",
-  "days_left": 20
+  "days_left": 19
  },
  "status_labels": {
   "not_started": "Not started",
@@ -5629,13 +5629,6 @@
  "untagged": 0,
  "trend": [
   {
-   "date": "2026-10-26",
-   "n": 0,
-   "pct": null,
-   "roll_n": 29,
-   "roll_pct": 51.7
-  },
-  {
    "date": "2026-10-27",
    "n": 0,
    "pct": null,
@@ -5837,6 +5830,13 @@
    "pct": null,
    "roll_n": 18,
    "roll_pct": 61.1
+  },
+  {
+   "date": "2026-11-25",
+   "n": 0,
+   "pct": null,
+   "roll_n": 2,
+   "roll_pct": 100.0
   }
  ],
  "calendar": [
@@ -6352,6 +6352,12 @@
   },
   {
    "date": "2026-11-24",
+   "q": 0,
+   "sit": 0,
+   "min": 0
+  },
+  {
+   "date": "2026-11-25",
    "q": 0,
    "sit": 0,
    "min": 0
@@ -7250,10 +7256,10 @@
  "revision_upcoming": 0,
  "pace": {
   "remaining": 88,
-  "needed_per_week": 30.8,
+  "needed_per_week": 32.4,
   "rate_per_week": 3.5,
   "recent_done_14d": 7,
-  "projected_finish": "2027-05-19",
+  "projected_finish": "2027-05-20",
   "unit_flags": [
    {
     "paper": "P2",
@@ -7304,7 +7310,7 @@
     "paper": "P2",
     "unit": 9,
     "name": "Environmental Economics and Demography",
-    "flag": "at risk",
+    "flag": "overdue",
     "target": "2026-11-24",
     "done": 0,
     "total": 10
@@ -7470,7 +7476,7 @@
   {
    "level": "high",
    "title": "Paper II pace is behind the exam date",
-   "why": "7 topics understood in the last 14 days (3.5/week). 88 topics left; at this pace you finish around 2027-05-19, after the exam (2026-12-14, OFFICIAL WINDOW 14-21 Dec). Needed: 30.8 topics/week.",
+   "why": "7 topics understood in the last 14 days (3.5/week). 88 topics left; at this pace you finish around 2027-05-20, after the exam (2026-12-14, OFFICIAL WINDOW 14-21 Dec). Needed: 32.4 topics/week.",
    "action": "Decide: more hours, faster passes on familiar topics, or a later exam cycle."
   },
   {
@@ -7513,6 +7519,12 @@
    "level": "medium",
    "title": "Unit 6 Public Economics is past its plan date",
    "why": "Planned to finish by 2026-11-17; 0/7 topics done.",
+   "action": "Re-plan or speed up this unit."
+  },
+  {
+   "level": "medium",
+   "title": "Unit 9 Environmental Economics and Demography is past its plan date",
+   "why": "Planned to finish by 2026-11-24; 0/10 topics done.",
    "action": "Re-plan or speed up this unit."
   },
   {
