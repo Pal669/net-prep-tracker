@@ -1,11 +1,11 @@
 {
- "generated": "2026-11-25T14:27",
- "today": "2026-11-25",
+ "generated": "2026-11-26T03:24",
+ "today": "2026-11-26",
  "exam": {
   "date": "2026-12-14",
   "label": "OFFICIAL WINDOW 14-21 Dec",
   "basis": "NTA UGC-NET Dec 2026 Information Bulletin (dated 2026-10-16): exam 14-18 Dec and 21 Dec 2026. Economics (code 01) subject-wise date not yet out; earliest day used. Saved: Govt Job/Government Teacher/notifications/2026-10-16_NTA-UGC-NET-Dec-2026-Information-Bulletin.pdf",
-  "days_left": 19
+  "days_left": 18
  },
  "status_labels": {
   "not_started": "Not started",
@@ -687,7 +687,7 @@
       "last": "2026-11-19"
      },
      "target": "2026-10-27",
-     "open_mistakes": 48,
+     "open_mistakes": 53,
      "topics": [
       {
        "id": "2.1",
@@ -5629,13 +5629,6 @@
  "untagged": 0,
  "trend": [
   {
-   "date": "2026-10-27",
-   "n": 0,
-   "pct": null,
-   "roll_n": 0,
-   "roll_pct": null
-  },
-  {
    "date": "2026-10-28",
    "n": 0,
    "pct": null,
@@ -5837,6 +5830,13 @@
    "pct": null,
    "roll_n": 2,
    "roll_pct": 100.0
+  },
+  {
+   "date": "2026-11-26",
+   "n": 0,
+   "pct": null,
+   "roll_n": 0,
+   "roll_pct": null
   }
  ],
  "calendar": [
@@ -6358,6 +6358,12 @@
   },
   {
    "date": "2026-11-25",
+   "q": 0,
+   "sit": 0,
+   "min": 0
+  },
+  {
+   "date": "2026-11-26",
    "q": 0,
    "sit": 0,
    "min": 0
@@ -7251,15 +7257,65 @@
    "cause": "Concept gap",
    "next": "2026-11-24",
    "status": "Open"
+  },
+  {
+   "unit": 2,
+   "folder": "02-Macro",
+   "date": "2026-11-24",
+   "topic": "B2 Topic 5 money demand",
+   "question": "NET 26J-56: which motive is new in Keynes",
+   "cause": "Recall",
+   "next": "2026-11-26",
+   "status": "Open"
+  },
+  {
+   "unit": 2,
+   "folder": "02-Macro",
+   "date": "2026-11-24",
+   "topic": "B2 Topic 5 speculative motive",
+   "question": "NET 13J3-14: A all cash or all bonds, R uncertainty",
+   "cause": "Concept gap",
+   "next": "2026-11-26",
+   "status": "Open"
+  },
+  {
+   "unit": 2,
+   "folder": "02-Macro",
+   "date": "2026-11-24",
+   "topic": "B2 Topic 3/5 money and wealth",
+   "question": "NET 15D3-30: money held in the form of",
+   "cause": "Careless",
+   "next": "2026-11-26",
+   "status": "Open"
+  },
+  {
+   "unit": 2,
+   "folder": "02-Macro",
+   "date": "2026-11-24",
+   "topic": "B2 Topic 5 critical rate",
+   "question": "NET 13S3-12: speculative demand zero when",
+   "cause": "Concept gap",
+   "next": "2026-11-26",
+   "status": "Open"
+  },
+  {
+   "unit": 2,
+   "folder": "02-Macro",
+   "date": "2026-11-24",
+   "topic": "B2 Topic 5 cost of money",
+   "question": "NET 20S-65: cost of holding money",
+   "cause": "Careless",
+   "next": "2026-11-26",
+   "status": "Open"
   }
  ],
  "revision_upcoming": 0,
  "pace": {
   "remaining": 88,
-  "needed_per_week": 32.4,
+  "needed_per_week": 34.2,
   "rate_per_week": 3.5,
   "recent_done_14d": 7,
-  "projected_finish": "2027-05-20",
+  "projected_finish": "2027-05-21",
   "unit_flags": [
    {
     "paper": "P2",
@@ -7463,7 +7519,7 @@
  "nudges": [
   {
    "level": "high",
-   "title": "80 revision questions due",
+   "title": "85 revision questions due",
    "why": "Mistakes come back after 1, 3 and 7 days; these have reached their review date.",
    "action": "Say \"revise my mistakes\" to the economics teacher."
   },
@@ -7476,7 +7532,7 @@
   {
    "level": "high",
    "title": "Paper II pace is behind the exam date",
-   "why": "7 topics understood in the last 14 days (3.5/week). 88 topics left; at this pace you finish around 2027-05-20, after the exam (2026-12-14, OFFICIAL WINDOW 14-21 Dec). Needed: 32.4 topics/week.",
+   "why": "7 topics understood in the last 14 days (3.5/week). 88 topics left; at this pace you finish around 2027-05-21, after the exam (2026-12-14, OFFICIAL WINDOW 14-21 Dec). Needed: 34.2 topics/week.",
    "action": "Decide: more hours, faster passes on familiar topics, or a later exam cycle."
   },
   {
