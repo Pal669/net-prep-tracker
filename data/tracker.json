@@ -1,11 +1,11 @@
 {
- "generated": "2026-11-27T14:24",
- "today": "2026-11-27",
+ "generated": "2026-11-28T03:01",
+ "today": "2026-11-28",
  "exam": {
   "date": "2026-12-14",
   "label": "OFFICIAL WINDOW 14-21 Dec",
   "basis": "NTA UGC-NET Dec 2026 Information Bulletin (dated 2026-10-16): exam 14-18 Dec and 21 Dec 2026. Economics (code 01) subject-wise date not yet out; earliest day used. Saved: Govt Job/Government Teacher/notifications/2026-10-16_NTA-UGC-NET-Dec-2026-Information-Bulletin.pdf",
-  "days_left": 17
+  "days_left": 16
  },
  "status_labels": {
   "not_started": "Not started",
@@ -5629,13 +5629,6 @@
  "untagged": 2,
  "trend": [
   {
-   "date": "2026-10-29",
-   "n": 1,
-   "pct": 100.0,
-   "roll_n": 1,
-   "roll_pct": 100.0
-  },
-  {
    "date": "2026-10-30",
    "n": 28,
    "pct": 60.7,
@@ -5833,6 +5826,13 @@
   },
   {
    "date": "2026-11-27",
+   "n": 0,
+   "pct": null,
+   "roll_n": 2,
+   "roll_pct": 100.0
+  },
+  {
+   "date": "2026-11-28",
    "n": 0,
    "pct": null,
    "roll_n": 2,
@@ -6373,11 +6373,17 @@
    "q": 0,
    "sit": 0,
    "min": 0
+  },
+  {
+   "date": "2026-11-28",
+   "q": 0,
+   "sit": 0,
+   "min": 0
   }
  ],
- "streak": 1,
+ "streak": 0,
  "last_active": "2026-11-26",
- "active_days_30": 18,
+ "active_days_30": 17,
  "strengths": {
   "units": [],
   "topics": [],
@@ -7343,15 +7349,45 @@
    "cause": "Concept gap (repeat of 2026-11-11)",
    "next": "2026-11-26",
    "status": "Open"
+  },
+  {
+   "unit": 2,
+   "folder": "02-Macro",
+   "date": "2026-11-26",
+   "topic": "B2 Topic 11 Fisher effect",
+   "question": "NET 24A-71: effect where nominal i is high when inflation is high",
+   "cause": "Concept gap",
+   "next": "2026-11-28",
+   "status": "Open"
+  },
+  {
+   "unit": 2,
+   "folder": "02-Macro",
+   "date": "2026-11-26",
+   "topic": "B2 Topic 5 critical rate",
+   "question": "MCQ2: normal rate 8%, below which rate all money",
+   "cause": "Concept gap (repeat of 13S3-12, 2026-11-24)",
+   "next": "2026-11-28",
+   "status": "Open"
+  },
+  {
+   "unit": 2,
+   "folder": "02-Macro",
+   "date": "2026-11-26",
+   "topic": "B2 Topic 5 regressive expectations",
+   "question": "MCQ9 A-R: fall in i raises speculative demand",
+   "cause": "Concept gap (direction)",
+   "next": "2026-11-28",
+   "status": "Open"
   }
  ],
- "revision_upcoming": 3,
+ "revision_upcoming": 0,
  "pace": {
   "remaining": 88,
-  "needed_per_week": 36.2,
+  "needed_per_week": 38.5,
   "rate_per_week": 4.5,
   "recent_done_14d": 9,
-  "projected_finish": "2027-04-12",
+  "projected_finish": "2027-04-13",
   "unit_flags": [
    {
     "paper": "P2",
@@ -7433,6 +7469,105 @@
     "target": "2026-11-03",
     "done": 0,
     "total": 9
+   },
+   {
+    "paper": "P2",
+    "unit": 10,
+    "name": "Indian Economy",
+    "flag": "at risk",
+    "target": "2026-12-01",
+    "done": 0,
+    "total": 11
+   },
+   {
+    "paper": "P1",
+    "unit": 1,
+    "name": "Teaching Aptitude",
+    "flag": "at risk",
+    "target": "2026-12-01",
+    "done": 0,
+    "total": 6
+   },
+   {
+    "paper": "P1",
+    "unit": 2,
+    "name": "Research Aptitude",
+    "flag": "at risk",
+    "target": "2026-12-01",
+    "done": 0,
+    "total": 6
+   },
+   {
+    "paper": "P1",
+    "unit": 7,
+    "name": "Data Interpretation",
+    "flag": "at risk",
+    "target": "2026-12-01",
+    "done": 0,
+    "total": 5
+   },
+   {
+    "paper": "P1",
+    "unit": 5,
+    "name": "Mathematical Reasoning and Aptitude",
+    "flag": "at risk",
+    "target": "2026-12-01",
+    "done": 0,
+    "total": 3
+   },
+   {
+    "paper": "P1",
+    "unit": 6,
+    "name": "Logical Reasoning",
+    "flag": "at risk",
+    "target": "2026-12-01",
+    "done": 0,
+    "total": 6
+   },
+   {
+    "paper": "P1",
+    "unit": 4,
+    "name": "Communication",
+    "flag": "at risk",
+    "target": "2026-12-01",
+    "done": 0,
+    "total": 4
+   },
+   {
+    "paper": "P1",
+    "unit": 8,
+    "name": "Information and Communication Technology (ICT)",
+    "flag": "at risk",
+    "target": "2026-12-01",
+    "done": 0,
+    "total": 4
+   },
+   {
+    "paper": "P1",
+    "unit": 9,
+    "name": "People, Development and Environment",
+    "flag": "at risk",
+    "target": "2026-12-01",
+    "done": 0,
+    "total": 7
+   },
+   {
+    "paper": "P1",
+    "unit": 10,
+    "name": "Higher Education System",
+    "flag": "at risk",
+    "target": "2026-12-01",
+    "done": 0,
+    "total": 6
+   },
+   {
+    "paper": "P1",
+    "unit": 3,
+    "name": "Comprehension",
+    "flag": "at risk",
+    "target": "2026-12-01",
+    "done": 0,
+    "total": 1
    }
   ]
  },
@@ -7555,14 +7690,20 @@
  "nudges": [
   {
    "level": "high",
-   "title": "88 revision questions due",
+   "title": "91 revision questions due",
    "why": "Mistakes come back after 1, 3 and 7 days; these have reached their review date.",
    "action": "Say \"revise my mistakes\" to the economics teacher."
   },
   {
    "level": "high",
+   "title": "No study logged recently",
+   "why": "Last activity: 2026-11-26.",
+   "action": "Even one section today keeps the thread."
+  },
+  {
+   "level": "high",
    "title": "Paper II pace is behind the exam date",
-   "why": "9 topics understood in the last 14 days (4.5/week). 88 topics left; at this pace you finish around 2027-04-12, after the exam (2026-12-14, OFFICIAL WINDOW 14-21 Dec). Needed: 36.2 topics/week.",
+   "why": "9 topics understood in the last 14 days (4.5/week). 88 topics left; at this pace you finish around 2027-04-13, after the exam (2026-12-14, OFFICIAL WINDOW 14-21 Dec). Needed: 38.5 topics/week.",
    "action": "Decide: more hours, faster passes on familiar topics, or a later exam cycle."
   },
   {
@@ -7654,12 +7795,6 @@
    "title": "Paper I has been quiet",
    "why": "No Paper I questions or study in the last 7 days. Paper I is 100 of the 300 marks.",
    "action": "The plan has 30 minutes a day for Paper I."
-  },
-  {
-   "level": "medium",
-   "title": "You skipped 80% of NET popups this week",
-   "why": "8 of 10 NET popup questions were skipped.",
-   "action": "Each answered popup sharpens this tracker's picture of your weak spots."
   }
  ],
  "tests": [
