@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-27T03:18",
+ "generated": "2026-11-27T14:24",
  "today": "2026-11-27",
  "exam": {
   "date": "2026-12-14",
@@ -7654,6 +7654,12 @@
    "title": "Paper I has been quiet",
    "why": "No Paper I questions or study in the last 7 days. Paper I is 100 of the 300 marks.",
    "action": "The plan has 30 minutes a day for Paper I."
+  },
+  {
+   "level": "medium",
+   "title": "You skipped 80% of NET popups this week",
+   "why": "8 of 10 NET popup questions were skipped.",
+   "action": "Each answered popup sharpens this tracker's picture of your weak spots."
   }
  ],
  "tests": [
@@ -7971,7 +7977,7 @@
  },
  "inputs": {
   "answers": 216,
-  "popups_seen": 201,
+  "popups_seen": 203,
   "study_rows": 16,
   "mocks": 0,
   "v2_synced": 1
