@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-28T03:01",
+ "generated": "2026-11-28T13:45",
  "today": "2026-11-28",
  "exam": {
   "date": "2026-12-14",
@@ -8112,7 +8112,7 @@
  },
  "inputs": {
   "answers": 216,
-  "popups_seen": 203,
+  "popups_seen": 204,
   "study_rows": 16,
   "mocks": 0,
   "v2_synced": 1
