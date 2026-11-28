@@ -1,11 +1,11 @@
 {
- "generated": "2026-11-28T13:45",
- "today": "2026-11-28",
+ "generated": "2026-11-29T01:57",
+ "today": "2026-11-29",
  "exam": {
   "date": "2026-12-14",
   "label": "OFFICIAL WINDOW 14-21 Dec",
   "basis": "NTA UGC-NET Dec 2026 Information Bulletin (dated 2026-10-16): exam 14-18 Dec and 21 Dec 2026. Economics (code 01) subject-wise date not yet out; earliest day used. Saved: Govt Job/Government Teacher/notifications/2026-10-16_NTA-UGC-NET-Dec-2026-Information-Bulletin.pdf",
-  "days_left": 16
+  "days_left": 15
  },
  "status_labels": {
   "not_started": "Not started",
@@ -1040,7 +1040,7 @@
          "name": "Joint equilibrium of goods and money markets; points off the curves; algebraic solution",
          "scope": "In scope",
          "sources": "CUK; A ch12 + appendix",
-         "status": "not_started"
+         "status": "understood"
         },
         {
          "id": "2.8d",
@@ -5629,13 +5629,6 @@
  "untagged": 2,
  "trend": [
   {
-   "date": "2026-10-30",
-   "n": 28,
-   "pct": 60.7,
-   "roll_n": 29,
-   "roll_pct": 62.1
-  },
-  {
    "date": "2026-10-31",
    "n": 14,
    "pct": 28.6,
@@ -5837,51 +5830,16 @@
    "pct": null,
    "roll_n": 2,
    "roll_pct": 100.0
+  },
+  {
+   "date": "2026-11-29",
+   "n": 0,
+   "pct": null,
+   "roll_n": 2,
+   "roll_pct": 100.0
   }
  ],
  "calendar": [
-  {
-   "date": "2026-08-31",
-   "q": 0,
-   "sit": 0,
-   "min": 0
-  },
-  {
-   "date": "2026-09-01",
-   "q": 0,
-   "sit": 0,
-   "min": 0
-  },
-  {
-   "date": "2026-09-02",
-   "q": 0,
-   "sit": 0,
-   "min": 0
-  },
-  {
-   "date": "2026-09-03",
-   "q": 0,
-   "sit": 0,
-   "min": 0
-  },
-  {
-   "date": "2026-09-04",
-   "q": 0,
-   "sit": 0,
-   "min": 0
-  },
-  {
-   "date": "2026-09-05",
-   "q": 0,
-   "sit": 0,
-   "min": 0
-  },
-  {
-   "date": "2026-09-06",
-   "q": 0,
-   "sit": 0,
-   "min": 0
-  },
   {
    "date": "2026-09-07",
    "q": 0,
@@ -6379,11 +6337,17 @@
    "q": 0,
    "sit": 0,
    "min": 0
+  },
+  {
+   "date": "2026-11-29",
+   "q": 0,
+   "sit": 0,
+   "min": 0
   }
  ],
  "streak": 0,
  "last_active": "2026-11-26",
- "active_days_30": 17,
+ "active_days_30": 16,
  "strengths": {
   "units": [],
   "topics": [],
@@ -7384,10 +7348,10 @@
  "revision_upcoming": 0,
  "pace": {
   "remaining": 88,
-  "needed_per_week": 38.5,
-  "rate_per_week": 4.5,
-  "recent_done_14d": 9,
-  "projected_finish": "2027-04-13",
+  "needed_per_week": 41.1,
+  "rate_per_week": 5.0,
+  "recent_done_14d": 10,
+  "projected_finish": "2027-04-01",
   "unit_flags": [
    {
     "paper": "P2",
@@ -7703,7 +7667,7 @@
   {
    "level": "high",
    "title": "Paper II pace is behind the exam date",
-   "why": "9 topics understood in the last 14 days (4.5/week). 88 topics left; at this pace you finish around 2027-04-13, after the exam (2026-12-14, OFFICIAL WINDOW 14-21 Dec). Needed: 38.5 topics/week.",
+   "why": "10 topics understood in the last 14 days (5.0/week). 88 topics left; at this pace you finish around 2027-04-01, after the exam (2026-12-14, OFFICIAL WINDOW 14-21 Dec). Needed: 41.1 topics/week.",
    "action": "Decide: more hours, faster passes on familiar topics, or a later exam cycle."
   },
   {
@@ -8112,7 +8076,7 @@
  },
  "inputs": {
   "answers": 216,
-  "popups_seen": 204,
+  "popups_seen": 205,
   "study_rows": 16,
   "mocks": 0,
   "v2_synced": 1
